@@ -12,7 +12,7 @@
 **TOM:** I have a question to start with, Anna. What would you do with your time if you no longer had to go to work every morning?
 **ANNA:** I think I would enjoy the first few weeks. But after that, I would probably miss my colleagues, and I would want something to do and people to see.
 **TOM:** Many people feel exactly that when retirement comes closer. And that brings us to today's topic: the Clubs Aktiv Plus, and their website.
-**ANNA:** The address is clubaktivplus dot l-u, written in one word. Club Aktiv Plus: active, and a little bit more.
+**ANNA:** The address is clubaktivplus dot l-u, written in one word.
 **TOM:** Let's begin with the basics. What exactly is a Club Aktiv Plus?
 **ANNA:** It is a meeting place in your region. People go there for leisure, for learning, to meet others, and also to get advice.
 **TOM:** And who are these clubs made for?

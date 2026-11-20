@@ -115554,7 +115554,7 @@ const EPISODES = [
   "title": "Club Aktiv Plus – Stay Active, Meet People",
   "description": "Retirement is coming closer, or has already begun, and you want to stay active and meet people? Discover the Clubs Aktiv Plus, the former senior clubs all over Luxembourg, and their website clubaktivplus.lu: activities, costs, registration, and how to find a club.",
   "audio": "podcast_clubaktivplus.mp3",
-  "duration": 576.24,
+  "duration": 571.69,
   "topics": [
    "What a Club Aktiv Plus is",
    "From senior clubs to a new name",
@@ -115632,684 +115632,679 @@ const EPISODES = [
     "t": 49.55
    },
    {
-    "speaker": "Anna",
-    "text": "Club Aktiv Plus: active, and a little bit more.",
-    "t": 54.27
-   },
-   {
     "speaker": "Tom",
     "text": "Let's begin with the basics.",
-    "t": 58.23
+    "t": 53.69
    },
    {
     "speaker": "Tom",
     "text": "What exactly is a Club Aktiv Plus?",
-    "t": 59.97
+    "t": 55.43
    },
    {
     "speaker": "Anna",
     "text": "It is a meeting place in your region.",
-    "t": 62.26
+    "t": 57.72
    },
    {
     "speaker": "Anna",
     "text": "People go there for leisure, for learning, to meet others, and also to get advice.",
-    "t": 64.37
+    "t": 59.83
    },
    {
     "speaker": "Tom",
     "text": "And who are these clubs made for?",
-    "t": 69.79
+    "t": 65.25
    },
    {
     "speaker": "Anna",
     "text": "They are for everyone who wants to stay active when retirement is coming closer, or when it has already begun.",
-    "t": 71.51
+    "t": 66.97
    },
    {
     "speaker": "Tom",
     "text": "Is there a minimum age to take part?",
-    "t": 77.86
+    "t": 73.32
    },
    {
     "speaker": "Anna",
     "text": "No, there is no age limit.",
-    "t": 80.08
+    "t": 75.54
    },
    {
     "speaker": "Anna",
     "text": "The clubs are mainly aimed at people around retirement age, but other age groups are welcome too.",
-    "t": 81.99
+    "t": 77.45
    },
    {
     "speaker": "Tom",
     "text": "The name sounds quite new to me.",
-    "t": 87.49
+    "t": 82.95
    },
    {
     "speaker": "Tom",
     "text": "Have these clubs existed for a long time?",
-    "t": 89.18
+    "t": 84.64
    },
    {
     "speaker": "Anna",
     "text": "The first ones were created in 1999.",
-    "t": 92.04
+    "t": 87.5
    },
    {
     "speaker": "Anna",
     "text": "For many years, people simply called them the senior clubs.",
-    "t": 95.08
+    "t": 90.54
    },
    {
     "speaker": "Tom",
     "text": "And why did the name change?",
-    "t": 98.55
+    "t": 94.01
    },
    {
     "speaker": "Anna",
     "text": "The new name arrived in 2024.",
-    "t": 100.12
+    "t": 95.58
    },
    {
     "speaker": "Anna",
     "text": "Many members are very active, and they did not really recognise themselves in the word \"senior\".",
-    "t": 102.58
+    "t": 98.04
    },
    {
     "speaker": "Anna",
     "text": "Club Aktiv Plus fits them much better.",
-    "t": 107.94
+    "t": 103.4
    },
    {
     "speaker": "Tom",
     "text": "Who is behind these clubs?",
-    "t": 110.64
+    "t": 106.1
    },
    {
     "speaker": "Anna",
     "text": "It is an initiative of the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees — the same ministry that organizes the Biergerpakt.",
-    "t": 112.08
+    "t": 107.54
    },
    {
     "speaker": "Tom",
     "text": "Does the ministry run every club itself?",
-    "t": 122.01
+    "t": 117.47
    },
    {
     "speaker": "Anna",
     "text": "No. It works as a partnership.",
-    "t": 124.22
+    "t": 119.68
    },
    {
     "speaker": "Anna",
     "text": "Communes join forces to create a club, and an organisation manages it.",
-    "t": 126.53
+    "t": 121.99
    },
    {
     "speaker": "Anna",
     "text": "The ministry approves the club and helps to pay for it, together with the communes.",
-    "t": 131.48
+    "t": 126.94
    },
    {
     "speaker": "Tom",
     "text": "And how many of these clubs are there in the country?",
-    "t": 136.37
+    "t": 131.83
    },
    {
     "speaker": "Anna",
     "text": "There are more than twenty clubs, from the north to the south of Luxembourg.",
-    "t": 139.13
+    "t": 134.59
    },
    {
     "speaker": "Anna",
     "text": "Together, they work with more than eighty partner communes.",
-    "t": 143.33
+    "t": 138.79
    },
    {
     "speaker": "Tom",
     "text": "What if my own commune is not a partner of any club?",
-    "t": 146.8
+    "t": 142.26
    },
    {
     "speaker": "Anna",
     "text": "That is not a problem at all.",
-    "t": 149.54
+    "t": 145
    },
    {
     "speaker": "Anna",
     "text": "Every club welcomes you, wherever you live.",
-    "t": 151.29
+    "t": 146.75
    },
    {
     "speaker": "Tom",
     "text": "So I could even go to two or three different clubs.",
-    "t": 154.19
+    "t": 149.65
    },
    {
     "speaker": "Anna",
     "text": "Yes, you can choose the clubs and the activities you like, as long as there are free places.",
-    "t": 156.93
+    "t": 152.39
    },
    {
     "speaker": "Tom",
     "text": "Do I have to become a member first, with a card and a yearly fee?",
-    "t": 162.8
+    "t": 158.26
    },
    {
     "speaker": "Anna",
     "text": "Some clubs have a membership card, but most of them don't.",
-    "t": 166.23
+    "t": 161.69
    },
    {
     "speaker": "Anna",
     "text": "And a card is never required to take part in an activity.",
-    "t": 169.52
+    "t": 164.98
    },
    {
     "speaker": "Tom",
     "text": "Now let's talk about the fun part.",
-    "t": 173.34
+    "t": 168.8
    },
    {
     "speaker": "Tom",
     "text": "What can people actually do in these clubs?",
-    "t": 175.15
+    "t": 170.61
    },
    {
     "speaker": "Anna",
     "text": "The website sorts the activities into four big families.",
-    "t": 178.27
+    "t": 173.73
    },
    {
     "speaker": "Anna",
     "text": "The first one is health and well-being.",
-    "t": 182.03
+    "t": 177.49
    },
    {
     "speaker": "Tom",
     "text": "I imagine that means sport and movement.",
-    "t": 184.44
+    "t": 179.9
    },
    {
     "speaker": "Anna",
     "text": "Yes: yoga, dance, cycling, Nordic walking, water gymnastics, and gentle exercises for the back.",
-    "t": 186.69
+    "t": 182.15
    },
    {
     "speaker": "Anna",
     "text": "But also memory training, relaxation, and cooking classes.",
-    "t": 195.01
+    "t": 190.47
    },
    {
     "speaker": "Tom",
     "text": "That is already a long list.",
-    "t": 199.21
+    "t": 194.67
    },
    {
     "speaker": "Tom",
     "text": "What is the second family?",
-    "t": 200.72
+    "t": 196.18
    },
    {
     "speaker": "Anna",
     "text": "The second one is about good company and getting involved.",
-    "t": 202.25
+    "t": 197.71
    },
    {
     "speaker": "Anna",
     "text": "Think of shared lunches, board games, a quiz afternoon, singing in a choir, or a game of skittles.",
-    "t": 205.23
+    "t": 200.69
    },
    {
     "speaker": "Tom",
     "text": "And what do we find in the third family?",
-    "t": 212.32
+    "t": 207.78
    },
    {
     "speaker": "Anna",
     "text": "The third one is discovery and culture: cinema, theatre, concerts, museums, hikes, and day trips in Luxembourg and abroad.",
-    "t": 214.19
+    "t": 209.65
    },
    {
     "speaker": "Tom",
     "text": "That leaves the fourth family of activities.",
-    "t": 223.04
+    "t": 218.5
    },
    {
     "speaker": "Anna",
     "text": "The fourth one is learning and staying informed.",
-    "t": 225.42
+    "t": 220.88
    },
    {
     "speaker": "Anna",
     "text": "There are language courses, computer and smartphone courses, and talks about current topics.",
-    "t": 228.07
+    "t": 223.53
    },
    {
     "speaker": "Tom",
     "text": "Computer courses are useful, because so many things happen online today.",
-    "t": 234.39
+    "t": 229.85
    },
    {
     "speaker": "Anna",
     "text": "Exactly, and some courses even explain online banking.",
-    "t": 238.95
+    "t": 234.41
    },
    {
     "speaker": "Anna",
     "text": "There are creative workshops too, such as photography, drawing, sewing, or arranging flowers.",
-    "t": 242.59
+    "t": 238.05
    },
    {
     "speaker": "Tom",
     "text": "So it is clearly more than an afternoon of card games.",
-    "t": 248.43
+    "t": 243.89
    },
    {
     "speaker": "Anna",
     "text": "Much more. The people who run the clubs describe them as lively places of exchange and lifelong learning.",
-    "t": 251.39
+    "t": 246.85
    },
    {
     "speaker": "Tom",
     "text": "Who leads all these activities?",
-    "t": 258.5
+    "t": 253.96
    },
    {
     "speaker": "Anna",
     "text": "It depends on the activity: the staff of the club, specialised trainers, or volunteers.",
-    "t": 260.29
+    "t": 255.75
    },
    {
     "speaker": "Tom",
     "text": "Let's make it practical.",
-    "t": 265.62
+    "t": 261.08
    },
    {
     "speaker": "Tom",
     "text": "Do I have to pay to take part?",
-    "t": 266.96
+    "t": 262.42
    },
    {
     "speaker": "Anna",
     "text": "Most activities have a price, because there are materials, transport, entrance tickets or a trainer to pay.",
-    "t": 268.76
+    "t": 264.22
    },
    {
     "speaker": "Anna",
     "text": "But every club also offers some activities that are free.",
-    "t": 275.34
+    "t": 270.8
    },
    {
     "speaker": "Tom",
     "text": "And do I need to sign up before I come?",
-    "t": 279.05
+    "t": 274.51
    },
    {
     "speaker": "Anna",
     "text": "Usually yes. Registration guarantees your place, and the club can tell you if something changes.",
-    "t": 280.99
+    "t": 276.45
    },
    {
     "speaker": "Anna",
     "text": "Only a few open activities need no registration.",
-    "t": 287.11
+    "t": 282.57
    },
    {
     "speaker": "Tom",
     "text": "How do I sign up for an activity?",
-    "t": 290.46
+    "t": 285.92
    },
    {
     "speaker": "Anna",
     "text": "You contact the club that organizes it: by phone, by email, or through its website.",
-    "t": 292.43
+    "t": 287.89
    },
    {
     "speaker": "Anna",
     "text": "It depends on the club.",
-    "t": 298.14
+    "t": 293.6
    },
    {
     "speaker": "Tom",
     "text": "Here is a question that matters for many of our listeners.",
-    "t": 299.71
+    "t": 295.17
    },
    {
     "speaker": "Tom",
     "text": "What if I don't speak Luxembourgish?",
-    "t": 302.22
+    "t": 297.68
    },
    {
     "speaker": "Anna",
     "text": "In general, that is not a problem.",
-    "t": 304.47
+    "t": 299.93
    },
    {
     "speaker": "Anna",
     "text": "Luxembourgish, French and German are the most common languages in the clubs, and it depends on the activity and on the trainer.",
-    "t": 306.46
+    "t": 301.92
    },
    {
     "speaker": "Tom",
     "text": "So the best idea is to ask the club when I register.",
-    "t": 313.87
+    "t": 309.33
    },
    {
     "speaker": "Anna",
     "text": "Yes, exactly. And an activity like a walk, a dance class or a shared lunch is also a friendly way to practise a language.",
-    "t": 316.88
+    "t": 312.34
    },
    {
     "speaker": "Tom",
     "text": "And when do the activities take place?",
-    "t": 324.8
+    "t": 320.26
    },
    {
     "speaker": "Tom",
     "text": "I imagine it is mostly during the day.",
-    "t": 326.98
+    "t": 322.44
    },
    {
     "speaker": "Anna",
     "text": "Many are during the day, but some take place in the evening, and sometimes at the weekend.",
-    "t": 329.17
+    "t": 324.63
    },
    {
     "speaker": "Anna",
     "text": "The programme of each club gives the details.",
-    "t": 334.08
+    "t": 329.54
    },
    {
     "speaker": "Tom",
     "text": "What about people who have difficulty walking, or who use a wheelchair?",
-    "t": 337.06
+    "t": 332.52
    },
    {
     "speaker": "Anna",
     "text": "The advice of the clubs is simple: contact the club before you register, and ask about access for the activity you have chosen.",
-    "t": 340.66
+    "t": 336.12
    },
    {
     "speaker": "Tom",
     "text": "You said earlier that the clubs also give advice.",
-    "t": 348.53
+    "t": 343.99
    },
    {
     "speaker": "Tom",
     "text": "What kind of advice is that?",
-    "t": 351.41
+    "t": 346.87
    },
    {
     "speaker": "Anna",
     "text": "Each club has a professional team.",
-    "t": 353.03
+    "t": 348.49
    },
    {
     "speaker": "Anna",
     "text": "They can talk with you, in confidence, about the move into retirement, about ageing in good health, or about housing and care services for older people.",
-    "t": 355.17
+    "t": 350.63
    },
    {
     "speaker": "Tom",
     "text": "And what if they don't have the answer themselves?",
-    "t": 364.25
+    "t": 359.71
    },
    {
     "speaker": "Anna",
     "text": "Then they point you to the right service.",
-    "t": 366.72
+    "t": 362.18
    },
    {
     "speaker": "Anna",
     "text": "It is a good first door to knock on.",
-    "t": 368.92
+    "t": 364.38
    },
    {
     "speaker": "Tom",
     "text": "Can people also give something back, and not only take part?",
-    "t": 371.16
+    "t": 366.62
    },
    {
     "speaker": "Anna",
     "text": "Yes, and the clubs encourage it.",
-    "t": 374.39
+    "t": 369.85
    },
    {
     "speaker": "Anna",
     "text": "You can become a volunteer, and you can even suggest a new activity that you would like to lead or to share.",
-    "t": 376.38
+    "t": 371.84
    },
    {
     "speaker": "Tom",
     "text": "So someone who knows how to bake, to paint or to repair a bicycle could share that skill.",
-    "t": 382.48
+    "t": 377.94
    },
    {
     "speaker": "Anna",
     "text": "Exactly. Passing on knowledge between generations and between cultures is part of the clubs' charter.",
-    "t": 387.74
+    "t": 383.2
    },
    {
     "speaker": "Tom",
     "text": "Now let's look at the website.",
-    "t": 394.07
+    "t": 389.53
    },
    {
     "speaker": "Tom",
     "text": "What do we find on clubaktivplus dot l-u?",
-    "t": 395.96
+    "t": 391.42
    },
    {
     "speaker": "Anna",
     "text": "The website exists in French and in German.",
-    "t": 399.08
+    "t": 394.54
    },
    {
     "speaker": "Anna",
     "text": "Its most useful page is the list of all the clubs.",
-    "t": 401.99
+    "t": 397.45
    },
    {
     "speaker": "Tom",
     "text": "And what does the page of a club show?",
-    "t": 405.66
+    "t": 401.12
    },
    {
     "speaker": "Anna",
     "text": "It shows the address, the phone number, the opening hours and the partner communes.",
-    "t": 407.58
+    "t": 403.04
    },
    {
     "speaker": "Anna",
     "text": "And you can download the current activity programme of that club.",
-    "t": 412.8
+    "t": 408.26
    },
    {
     "speaker": "Tom",
     "text": "Is there one big calendar with the activities of all the clubs together?",
-    "t": 416.89
+    "t": 412.35
    },
    {
     "speaker": "Anna",
     "text": "No, each club publishes its own programme, several times a year.",
-    "t": 420.73
+    "t": 416.19
    },
    {
     "speaker": "Anna",
     "text": "But there is a nice shortcut, and it is called the ClubPages.",
-    "t": 424.62
+    "t": 420.08
    },
    {
     "speaker": "Tom",
     "text": "And what exactly are these ClubPages?",
-    "t": 428.46
+    "t": 423.92
    },
    {
     "speaker": "Anna",
     "text": "It is a small brochure that comes out four times a year.",
-    "t": 430.58
+    "t": 426.04
    },
    {
     "speaker": "Anna",
     "text": "It presents a selection of activities from all the clubs, so you get a taste of everything.",
-    "t": 433.86
+    "t": 429.32
    },
    {
     "speaker": "Tom",
     "text": "And what else can we find on the website?",
-    "t": 438.97
+    "t": 434.43
    },
    {
     "speaker": "Anna",
     "text": "There is a page with frequently asked questions, which is very clear.",
-    "t": 440.78
+    "t": 436.24
    },
    {
     "speaker": "Anna",
     "text": "There are news and events, and also job offers for people who would like to work in a club.",
-    "t": 445.13
+    "t": 440.59
    },
    {
     "speaker": "Tom",
     "text": "And what if I still have a question after all that?",
-    "t": 450.08
+    "t": 445.54
    },
    {
     "speaker": "Anna",
     "text": "Then you can write to the national coordination of the clubs.",
-    "t": 452.66
+    "t": 448.12
    },
    {
     "speaker": "Anna",
     "text": "The address is contact at clubaktivplus dot l-u.",
-    "t": 455.98
+    "t": 451.44
    },
    {
     "speaker": "Tom",
     "text": "Let me ask one last question.",
-    "t": 460.05
+    "t": 455.51
    },
    {
     "speaker": "Tom",
     "text": "Why do these clubs matter so much?",
-    "t": 461.68
+    "t": 457.14
    },
    {
     "speaker": "Anna",
     "text": "Because being alone too much is not good for anyone.",
-    "t": 464.04
+    "t": 459.5
    },
    {
     "speaker": "Anna",
     "text": "The clubs want to prevent loneliness, and to help people stay active and stay part of society.",
-    "t": 467.01
+    "t": 462.47
    },
    {
     "speaker": "Tom",
     "text": "And for someone who is new in Luxembourg, it is also a simple way to meet people from the region.",
-    "t": 473.3
+    "t": 468.76
    },
    {
     "speaker": "Anna",
     "text": "Yes. You share an activity, you talk, and little by little, you know people.",
-    "t": 478.76
+    "t": 474.22
    },
    {
     "speaker": "Tom",
     "text": "Let's bring it together.",
-    "t": 483.81
+    "t": 479.27
    },
    {
     "speaker": "Tom",
     "text": "What should people remember?",
-    "t": 485
+    "t": 480.46
    },
    {
     "speaker": "Anna",
     "text": "First: the Clubs Aktiv Plus are meeting places for people who want to stay active around retirement age, with no age limit.",
-    "t": 486.79
+    "t": 482.25
    },
    {
     "speaker": "Tom",
     "text": "Second: there are more than twenty of them across the country, and you are welcome in every club, wherever you live.",
-    "t": 494.48
+    "t": 489.94
    },
    {
     "speaker": "Anna",
     "text": "Third: the choice is wide, from sport and day trips to language and computer courses.",
-    "t": 500.99
+    "t": 496.45
    },
    {
     "speaker": "Anna",
     "text": "Most activities have a price, and some are free.",
-    "t": 506.21
+    "t": 501.67
    },
    {
     "speaker": "Tom",
     "text": "And fourth: to take part, you look at the programme of a club and you contact that club directly.",
-    "t": 509.59
+    "t": 505.05
    },
    {
     "speaker": "Anna",
     "text": "You can find all the clubs and their programmes on clubaktivplus dot l-u.",
-    "t": 516.16
+    "t": 511.62
    },
    {
     "speaker": "Tom",
     "text": "Stay active, stay curious, and stay in good company.",
-    "t": 520.72
+    "t": 516.18
    },
    {
     "speaker": "Anna",
     "text": "And why not try one activity this month?",
-    "t": 524.11
+    "t": 519.57
    },
    {
     "speaker": "Anna",
     "text": "That was our episode about the Clubs Aktiv Plus.",
-    "t": 526.69
+    "t": 522.15
    },
    {
     "speaker": "Anna",
     "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
-    "t": 529.51
+    "t": 524.97
    },
    {
     "speaker": "Anna",
     "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
-    "t": 539.4
+    "t": 534.86
    },
    {
     "speaker": "Anna",
     "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
-    "t": 557.68
+    "t": 553.14
    },
    {
     "speaker": "Anna",
     "text": "And the activities are free of charge.",
-    "t": 564.43
+    "t": 559.89
    },
    {
     "speaker": "Anna",
     "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
-    "t": 566.63
+    "t": 562.09
    },
    {
     "speaker": "Tom",
     "text": "Thank you, everyone.",
-    "t": 571.32
+    "t": 566.78
    },
    {
     "speaker": "Tom",
     "text": "Take care, and see you next time!",
-    "t": 572.49
+    "t": 567.95
    },
    {
     "speaker": "Anna",
     "text": "Thank you so much for listening.",
-    "t": 574.63
+    "t": 570.09
    }
   ],
   "questions": [
@@ -118053,432 +118048,432 @@ const EPISODES = [
    {
     "speaker": "Tom",
     "text": "Fänke mer mat der Basis un. Wat genee ass e Club Aktiv Plus?",
-    "t": 58.23
+    "t": 53.69
    },
    {
     "speaker": "Anna",
     "text": "Dat ass eng Plaz an Ärer Regioun, wou d'Leit sech treffen. Et geet een dohinner fir d'Fräizäit, fir ze léieren, fir aner Leit ze begéinen, an och fir sech berooden ze loossen.",
-    "t": 62.26
+    "t": 57.72
    },
    {
     "speaker": "Tom",
     "text": "A fir wien sinn dës Clibb geduecht?",
-    "t": 69.79
+    "t": 65.25
    },
    {
     "speaker": "Anna",
     "text": "Si si fir all d'Leit geduecht, déi aktiv bleiwe wëllen, wann d'Pensioun méi no kënnt oder scho ugefaangen huet.",
-    "t": 71.51
+    "t": 66.97
    },
    {
     "speaker": "Tom",
     "text": "Gëtt et e Mindestalter fir matzemaachen?",
-    "t": 77.86
+    "t": 73.32
    },
    {
     "speaker": "Anna",
     "text": "Nee, et gëtt keng Altersgrenz. D'Clibb riichte sech virun allem u Leit ronderëm de Pensiounsalter, mee aner Altersgruppe sinn och wëllkomm.",
-    "t": 80.08
+    "t": 75.54
    },
    {
     "speaker": "Tom",
     "text": "Den Numm kléngt fir mech zimmlech nei. Ginn et dës Clibb scho laang?",
-    "t": 87.49
+    "t": 82.95
    },
    {
     "speaker": "Anna",
     "text": "Déi éischt goufen 1999 gegrënnt. Vill Jore laang huet een einfach vun de Club Senior geschwat.",
-    "t": 92.04
+    "t": 87.5
    },
    {
     "speaker": "Tom",
     "text": "A firwat huet den Numm geännert?",
-    "t": 98.55
+    "t": 94.01
    },
    {
     "speaker": "Anna",
     "text": "Den neien Numm koum 2024. Vill Membere si ganz aktiv, a si hu sech am Wuert „Senior\" net wierklech erëmfonnt. Club Aktiv Plus passt vill besser bei si.",
-    "t": 100.12
+    "t": 95.58
    },
    {
     "speaker": "Tom",
     "text": "Wie steet hannert dëse Clibb?",
-    "t": 110.64
+    "t": 106.1
    },
    {
     "speaker": "Anna",
     "text": "Et ass eng Initiativ vum Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen — deem selwechte Ministère, deen och de Biergerpakt organiséiert.",
-    "t": 112.08
+    "t": 107.54
    },
    {
     "speaker": "Tom",
     "text": "Féiert de Ministère all Club selwer?",
-    "t": 122.01
+    "t": 117.47
    },
    {
     "speaker": "Anna",
     "text": "Nee. Et ass e Partenariat. Gemenge schléisse sech zesummen, fir e Club ze grënnen, an eng Organisatioun geréiert en. De Ministère gëtt dem Club den Agrement a bedeelegt sech un der Finanzéierung, zesumme mat de Gemengen.",
-    "t": 124.22
+    "t": 119.68
    },
    {
     "speaker": "Tom",
     "text": "A wéi vill vun dëse Clibb ginn et am Land?",
-    "t": 136.37
+    "t": 131.83
    },
    {
     "speaker": "Anna",
     "text": "Et gi méi wéi zwanzeg Clibb, vum Norde bis an de Süde vu Lëtzebuerg. Zesumme schaffe si mat méi wéi achtzeg Partnergemengen.",
-    "t": 139.13
+    "t": 134.59
    },
    {
     "speaker": "Tom",
     "text": "A wa meng eege Gemeng bei kengem Club Partner ass?",
-    "t": 146.8
+    "t": 142.26
    },
    {
     "speaker": "Anna",
     "text": "Dat ass guer kee Problem. All Club heescht Iech wëllkomm, egal wou Dir wunnt.",
-    "t": 149.54
+    "t": 145
    },
    {
     "speaker": "Tom",
     "text": "Ech kéint also souguer an zwee oder dräi verschidde Clibb goen.",
-    "t": 154.19
+    "t": 149.65
    },
    {
     "speaker": "Anna",
     "text": "Jo, Dir kënnt d'Clibb an d'Aktivitéiten eraussichen, déi Iech gefalen, soulaang nach Plaze fräi sinn.",
-    "t": 156.93
+    "t": 152.39
    },
    {
     "speaker": "Tom",
     "text": "Muss ech fir d'éischt Member ginn, mat enger Kaart an engem Joresbäitrag?",
-    "t": 162.8
+    "t": 158.26
    },
    {
     "speaker": "Anna",
     "text": "E puer Clibb hunn eng Memberskaart, mee déi meescht net. An eng Kaart ass ni néideg, fir bei enger Aktivitéit matzemaachen.",
-    "t": 166.23
+    "t": 161.69
    },
    {
     "speaker": "Tom",
     "text": "Komme mer elo zum schéinen Deel. Wat kann een an dëse Clibb konkret maachen?",
-    "t": 173.34
+    "t": 168.8
    },
    {
     "speaker": "Anna",
     "text": "De Site deelt d'Aktivitéiten a véier grouss Beräicher an. Deen éischten ass Gesondheet a Wuelbefannen.",
-    "t": 178.27
+    "t": 173.73
    },
    {
     "speaker": "Tom",
     "text": "Ech huelen un, dat heescht Sport a Beweegung.",
-    "t": 184.44
+    "t": 179.9
    },
    {
     "speaker": "Anna",
     "text": "Jo: Yoga, Danzen, Vëlofueren, Nordic Walking, Waassergymnastik, a sanft Gymnastik fir de Réck. Mee och Gediechtnistraining, Entspanung, a Kachcoursen.",
-    "t": 186.69
+    "t": 182.15
    },
    {
     "speaker": "Tom",
     "text": "Dat ass schonn eng laang Lëscht. Wat ass den zweete Beräich?",
-    "t": 199.21
+    "t": 194.67
    },
    {
     "speaker": "Anna",
     "text": "Deen zweeten heescht Gesellegkeet an Engagement. Denkt u gemeinsam Mëttegiessen, Gesellschaftsspiller, e Quiznomëtteg, Sangen am Chouer, oder eng Partie Keelen.",
-    "t": 202.25
+    "t": 197.71
    },
    {
     "speaker": "Tom",
     "text": "A wat fanne mer am drëtte Beräich?",
-    "t": 212.32
+    "t": 207.78
    },
    {
     "speaker": "Anna",
     "text": "Deen drëtten heescht Entdecken a Kultur: Kino, Theater, Concerten, Muséeën, Wanderungen, an Ausflich zu Lëtzebuerg an am Ausland.",
-    "t": 214.19
+    "t": 209.65
    },
    {
     "speaker": "Tom",
     "text": "Da bleift nach de véierte Beräich vun den Aktivitéiten.",
-    "t": 223.04
+    "t": 218.5
    },
    {
     "speaker": "Anna",
     "text": "Dee véierten heescht Léieren a sech informéieren. Et gi Sproochecoursen, Computercoursen a Smartphone-Coursen, a Virträg iwwer aktuell Theemen.",
-    "t": 225.42
+    "t": 220.88
    },
    {
     "speaker": "Tom",
     "text": "Computercourse sinn nëtzlech, well haut esou vill online geschitt.",
-    "t": 234.39
+    "t": 229.85
    },
    {
     "speaker": "Anna",
     "text": "Genee, a verschidde Coursen erkläre souguer den Online-Banking. Et ginn och kreativ Atelieren, zum Beispill Fotografie, Zeechnen, Bitzen, oder Blummebannen.",
-    "t": 238.95
+    "t": 234.41
    },
    {
     "speaker": "Tom",
     "text": "Et ass also kloer méi wéi en Nomëtteg mat Kaartespiller.",
-    "t": 248.43
+    "t": 243.89
    },
    {
     "speaker": "Anna",
     "text": "Vill méi. Déi Responsabel vun de Clibb beschreiwe si als lieweg Plaze vum Austausch a vum liewenslaange Léieren.",
-    "t": 251.39
+    "t": 246.85
    },
    {
     "speaker": "Tom",
     "text": "Wie leet all dës Aktivitéiten?",
-    "t": 258.5
+    "t": 253.96
    },
    {
     "speaker": "Anna",
     "text": "Dat hänkt vun der Aktivitéit of: d'Personal vum Club, spezialiséiert Formateuren, oder Benevoller.",
-    "t": 260.29
+    "t": 255.75
    },
    {
     "speaker": "Tom",
     "text": "Gi mer praktesch. Muss ech bezuelen, fir matzemaachen?",
-    "t": 265.62
+    "t": 261.08
    },
    {
     "speaker": "Anna",
     "text": "Déi meescht Aktivitéite kaschten eppes, well Material, Transport, Entréesticketen oder e Formateur musse bezuelt ginn. Mee all Club bitt och e puer gratis Aktivitéiten un.",
-    "t": 268.76
+    "t": 264.22
    },
    {
     "speaker": "Tom",
     "text": "A muss ech mech umellen, ier ech kommen?",
-    "t": 279.05
+    "t": 274.51
    },
    {
     "speaker": "Anna",
     "text": "Normalerweis jo. D'Umeldung séchert Iech eng Plaz, an de Club kann Iech Bescheed soen, wann eppes ännert. Just fir e puer oppen Offere brauch ee keng Umeldung.",
-    "t": 280.99
+    "t": 276.45
    },
    {
     "speaker": "Tom",
     "text": "Wéi mellen ech mech fir eng Aktivitéit un?",
-    "t": 290.46
+    "t": 285.92
    },
    {
     "speaker": "Anna",
     "text": "Dir kontaktéiert de Club, deen se organiséiert: per Telefon, per E-Mail, oder iwwer säi Site. Dat hänkt vum Club of.",
-    "t": 292.43
+    "t": 287.89
    },
    {
     "speaker": "Tom",
     "text": "Elo kënnt eng Fro, déi fir vill vun eisen Nolauschterer wichteg ass. Wat ass, wann ech kee Lëtzebuergesch schwätzen?",
-    "t": 299.71
+    "t": 295.17
    },
    {
     "speaker": "Anna",
     "text": "Am Allgemengen ass dat kee Problem. Lëtzebuergesch, Franséisch an Däitsch sinn déi heefegst Sproochen an de Clibb, an et hänkt vun der Aktivitéit a vum Formateur of.",
-    "t": 304.47
+    "t": 299.93
    },
    {
     "speaker": "Tom",
     "text": "Am beschte froen ech also beim Club no, wann ech mech umellen.",
-    "t": 313.87
+    "t": 309.33
    },
    {
     "speaker": "Anna",
     "text": "Jo, genee. An eng Aktivitéit wéi e Spadséiergank, en Danzcours oder e gemeinsamt Mëttegiessen ass och eng flott Manéier, eng Sprooch ze üben.",
-    "t": 316.88
+    "t": 312.34
    },
    {
     "speaker": "Tom",
     "text": "A wéini sinn d'Aktivitéiten? Ech huelen un, virun allem am Dag.",
-    "t": 324.8
+    "t": 320.26
    },
    {
     "speaker": "Anna",
     "text": "Vill sinn am Dag, mee verschiddener och owes, a munchmol de Weekend. De Programm vun all Club gëtt d'Detailer.",
-    "t": 329.17
+    "t": 324.63
    },
    {
     "speaker": "Tom",
     "text": "A wat ass mat Leit, déi schlecht zu Fouss sinn, oder déi e Rollstull benotzen?",
-    "t": 337.06
+    "t": 332.52
    },
    {
     "speaker": "Anna",
     "text": "De Rot vun de Clibb ass einfach: Kontaktéiert de Club virun der Umeldung, a frot no dem Accès fir d'Aktivitéit, déi Dir erausgesicht hutt.",
-    "t": 340.66
+    "t": 336.12
    },
    {
     "speaker": "Tom",
     "text": "Dir hutt virdru gesot, datt d'Clibb och beroden. Ëm wat fir eng Berodung geet et do?",
-    "t": 348.53
+    "t": 343.99
    },
    {
     "speaker": "Anna",
     "text": "All Club huet eng professionell Equipe. Si ka mat Iech vertraulech iwwer den Iwwergang an d'Pensioun schwätzen, iwwer gesond Eelerginn, oder iwwer Wunnformen a Fleegedéngschter fir eeler Leit.",
-    "t": 353.03
+    "t": 348.49
    },
    {
     "speaker": "Tom",
     "text": "A wann d'Equipe selwer keng Äntwert huet?",
-    "t": 364.25
+    "t": 359.71
    },
    {
     "speaker": "Anna",
     "text": "Da schéckt si Iech bei déi richteg Plaz weider. Et ass eng gutt éischt Dier, un déi ee klappe kann.",
-    "t": 366.72
+    "t": 362.18
    },
    {
     "speaker": "Tom",
     "text": "Kann een och selwer eppes bäidroen, an net nëmme matmaachen?",
-    "t": 371.16
+    "t": 366.62
    },
    {
     "speaker": "Anna",
     "text": "Jo, an d'Clibb encouragéieren dat. Dir kënnt Benevole ginn, an Dir kënnt souguer eng nei Aktivitéit proposéieren, déi Dir gär géift leeden oder deelen.",
-    "t": 374.39
+    "t": 369.85
    },
    {
     "speaker": "Tom",
     "text": "Wien also ka baken, molen oder e Vëlo flécken, kéint dat Kënne weiderginn.",
-    "t": 382.48
+    "t": 377.94
    },
    {
     "speaker": "Anna",
     "text": "Genee. D'Weidergi vu Wëssen tëscht de Generatiounen an tëscht de Kulture gehéiert zur Charta vun de Clibb.",
-    "t": 387.74
+    "t": 383.2
    },
    {
     "speaker": "Tom",
     "text": "Kucke mer eis elo de Site un. Wat fanne mer op clubaktivplus Punkt l-u?",
-    "t": 394.07
+    "t": 389.53
    },
    {
     "speaker": "Anna",
     "text": "De Site gëtt et op Franséisch an op Däitsch. Seng nëtzlechst Säit ass d'Lëscht vun alle Clibb.",
-    "t": 399.08
+    "t": 394.54
    },
    {
     "speaker": "Tom",
     "text": "A wat weist d'Säit vun engem Club?",
-    "t": 405.66
+    "t": 401.12
    },
    {
     "speaker": "Anna",
     "text": "Si weist d'Adress, d'Telefonsnummer, d'Ëffnungszäiten an d'Partnergemengen. An Dir kënnt do den aktuellen Aktivitéitsprogramm vun deem Club eroflueden.",
-    "t": 407.58
+    "t": 403.04
    },
    {
     "speaker": "Tom",
     "text": "Gëtt et ee grousse Kalenner mat den Aktivitéite vun alle Clibb zesummen?",
-    "t": 416.89
+    "t": 412.35
    },
    {
     "speaker": "Anna",
     "text": "Nee, all Club publizéiert säin eegene Programm, e puer Mol am Joer. Mee et gëtt eng flott Ofkierzung, an déi heescht ClubPages.",
-    "t": 420.73
+    "t": 416.19
    },
    {
     "speaker": "Tom",
     "text": "A wat genee sinn dës ClubPages?",
-    "t": 428.46
+    "t": 423.92
    },
    {
     "speaker": "Anna",
     "text": "Dat ass eng kleng Broschür, déi véiermol am Joer erauskënnt. Si stellt eng Auswiel un Aktivitéiten aus alle Clibb vir, fir datt Dir vun allem en Androck kritt.",
-    "t": 430.58
+    "t": 426.04
    },
    {
     "speaker": "Tom",
     "text": "A wat kënne mer soss nach um Site fannen?",
-    "t": 438.97
+    "t": 434.43
    },
    {
     "speaker": "Anna",
     "text": "Et gëtt eng Säit mat heefeg gestallte Froen, déi ganz kloer ass. Et ginn Neiegkeeten an Evenementer, an och Aarbechtsoffere fir Leit, déi gär an engem Club géife schaffen.",
-    "t": 440.78
+    "t": 436.24
    },
    {
     "speaker": "Tom",
     "text": "A wann ech no all deem nach eng Fro hunn?",
-    "t": 450.08
+    "t": 445.54
    },
    {
     "speaker": "Anna",
     "text": "Da kënnt Dir un déi national Koordinatioun vun de Clibb schreiwen. D'Adress ass contact at clubaktivplus Punkt l-u.",
-    "t": 452.66
+    "t": 448.12
    },
    {
     "speaker": "Tom",
     "text": "Loosst mech eng lescht Fro stellen. Firwat sinn dës Clibb esou wichteg?",
-    "t": 460.05
+    "t": 455.51
    },
    {
     "speaker": "Anna",
     "text": "Well ze vill eleng sinn fir kee gutt ass. D'Clibb wëllen Einsamkeet virbeugen, an de Leit hëllefen, aktiv ze bleiwen an Deel vun der Gesellschaft ze bleiwen.",
-    "t": 464.04
+    "t": 459.5
    },
    {
     "speaker": "Tom",
     "text": "A fir een, deen nei zu Lëtzebuerg ass, ass et och en einfache Wee, Leit aus der Regioun kennenzeléieren.",
-    "t": 473.3
+    "t": 468.76
    },
    {
     "speaker": "Anna",
     "text": "Jo. Et deelt een eng Aktivitéit, et schwätzt ee mateneen, a lues a lues kennt ee Leit.",
-    "t": 478.76
+    "t": 474.22
    },
    {
     "speaker": "Tom",
     "text": "Faasse mer dat alles zesummen. Wat soll ee sech mierken?",
-    "t": 483.81
+    "t": 479.27
    },
    {
     "speaker": "Anna",
     "text": "Éischtens: D'Club Aktiv Plus si Plazen, wou sech Leit treffen, déi ronderëm de Pensiounsalter aktiv bleiwe wëllen, ouni Altersgrenz.",
-    "t": 486.79
+    "t": 482.25
    },
    {
     "speaker": "Tom",
     "text": "Zweetens: Et gi méi wéi zwanzeg dovun am ganze Land, an Dir sidd an all Club wëllkomm, egal wou Dir wunnt.",
-    "t": 494.48
+    "t": 489.94
    },
    {
     "speaker": "Anna",
     "text": "Drëttens: D'Auswiel ass grouss, vu Sport an Ausflich bis bei Sproochecoursen a Computercoursen. Déi meescht Aktivitéite kaschten eppes, an e puer si gratis.",
-    "t": 500.99
+    "t": 496.45
    },
    {
     "speaker": "Tom",
     "text": "A véiertens: Fir matzemaachen, kuckt Dir Iech de Programm vun engem Club un a kontaktéiert dee Club direkt.",
-    "t": 509.59
+    "t": 505.05
    },
    {
     "speaker": "Anna",
     "text": "All d'Clibb an hir Programmer fannt Dir op clubaktivplus Punkt l-u.",
-    "t": 516.16
+    "t": 511.62
    },
    {
     "speaker": "Tom",
     "text": "Bleift aktiv, bleift virwëtzeg, a bleift a gudder Gesellschaft.",
-    "t": 520.72
+    "t": 516.18
    },
    {
     "speaker": "Anna",
     "text": "A firwat net direkt dëse Mount eng Aktivitéit ausprobéieren? Dat war eis Episode iwwer d'Club Aktiv Plus. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir aner Aktivitéite vum Biergerpakt entdecke wëllt, wéi gefouert Visitten, Online-Informatiounsversammlungen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. En ass fir all Awunner op, Lëtzebuerger an Net-Lëtzebuerger, an och fir d'Grenzgänger. An d'Aktivitéite si gratis. Dir musst just gratis um Biergerpakt matmaachen, op biergerpakt.lu.",
-    "t": 524.11
+    "t": 519.57
    },
    {
     "speaker": "Tom",
     "text": "Merci, alleguer. Passt op Iech op, a bis d'nächst Kéier!",
-    "t": 571.32
+    "t": 566.78
    },
    {
     "speaker": "Anna",
     "text": "Villmools Merci fir d'Nolauschteren.",
-    "t": 574.63
+    "t": 570.09
    }
   ]
  },
