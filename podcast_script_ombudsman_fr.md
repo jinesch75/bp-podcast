@@ -9,8 +9,8 @@
 **ANNA:** Bonjour et bienvenue ! C'est vraiment un plaisir de vous avoir avec nous aujourd'hui.
 **TOM:** Bonjour à tous !
 **ANNA:** Ce podcast fait partie du Biergerpakt. C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil. L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.
-**TOM:** J'ai une question pour commencer, Anna. Avez-vous déjà reçu une lettre d'une administration en pensant que la décision ne pouvait pas être juste ?
-**ANNA:** Oui, cela m'est arrivé. Et le plus difficile, c'est que je ne savais pas qui pouvait m'aider.
+**TOM:** Imaginez qu'une lettre d'une administration arrive chez vous. Vous la lisez deux fois, et vous vous dites que la décision ne peut pas être juste.
+**ANNA:** Beaucoup de gens connaissent ce sentiment. Et le plus difficile, c'est souvent de ne pas savoir qui peut vous aider.
 **TOM:** C'est exactement notre sujet aujourd'hui. Nous allons présenter deux institutions indépendantes qui écoutent les gens et défendent leurs droits.
 **ANNA:** La première est l'Ombudsman, qui aide les personnes ayant un problème avec une administration publique.
 **TOM:** Et la deuxième est l'OKaJu, l'Ombudsman pour les enfants et les jeunes.
@@ -35,14 +35,12 @@
 **ANNA:** Oui. Il ne peut pas aider dans un conflit avec un voisin, un employeur, une banque, une entreprise ou une autre personne privée. Il s'occupe seulement des administrations publiques.
 **TOM:** L'Ombudsman n'est donc pas mon avocat, si je comprends bien.
 **ANNA:** Exactement : ce n'est pas un avocat, et ce n'est pas un juge. Il ne remplace pas les tribunaux. C'est une voie gratuite et simple pour chercher une solution à l'amiable.
-**TOM:** Avant d'écrire à l'Ombudsman, y a-t-il quelque chose que je dois faire d'abord ?
-**ANNA:** Oui, et on oublie souvent cette étape. Vous devez d'abord contacter vous-même l'administration, pour demander une explication ou pour contester la décision.
-**TOM:** Un appel téléphonique suffit-il pour cette première étape ?
-**ANNA:** Il vaut mieux le faire par écrit, de préférence par lettre recommandée, et garder une copie.
-**TOM:** Et à quel moment puis-je alors m'adresser à l'Ombudsman ?
-**ANNA:** Si vous n'avez pas de réponse après un mois, ou si la réponse ne vous satisfait pas, vous pouvez contacter l'Ombudsman.
-**TOM:** Comment puis-je envoyer ma réclamation à l'Ombudsman ?
-**ANNA:** Vous pouvez l'envoyer par e-mail ou par courrier, avec une copie de ce que vous avez écrit à l'administration. Et vous indiquez un numéro de téléphone ou une adresse e-mail, pour que l'équipe puisse vous joindre.
+**TOM:** Avant d'écrire à l'Ombudsman, il y a une étape que l'on oublie souvent. Vous devez d'abord contacter vous-même l'administration, pour demander une explication ou pour contester la décision.
+**ANNA:** Un appel téléphonique suffit-il pour cette première étape ?
+**TOM:** Il vaut mieux le faire par écrit, de préférence par lettre recommandée, et garder une copie.
+**ANNA:** Et à quel moment puis-je alors m'adresser à l'Ombudsman ?
+**TOM:** Si vous n'avez pas de réponse après un mois, ou si la réponse ne vous satisfait pas, vous pouvez contacter l'Ombudsman.
+**ANNA:** Vous envoyez alors votre réclamation à l'Ombudsman par e-mail ou par courrier, avec une copie de ce que vous avez écrit à l'administration. Et vous indiquez un numéro de téléphone ou une adresse e-mail, pour que l'équipe puisse vous joindre.
 **TOM:** Et si écrire une lettre est difficile pour moi ?
 **ANNA:** Alors vous pouvez appeler le secrétariat et demander un rendez-vous. Vous pouvez aussi expliquer votre problème sur place, de vive voix.
 **TOM:** J'ai entendu que certaines personnes utilisent l'intelligence artificielle pour écrire leurs lettres. Est-ce permis ici ?
@@ -55,14 +53,12 @@
 **ANNA:** Il est très important. Une réclamation auprès de l'Ombudsman n'arrête pas le délai pour aller devant un tribunal. Si vous voulez aussi faire un recours devant un tribunal, vous devez toujours le faire à temps.
 **TOM:** Les deux chemins sont donc séparés, et je dois garder un œil sur le calendrier.
 **ANNA:** Oui, c'est bien cela. Et l'Ombudsman a une deuxième mission, que moins de gens connaissent.
-**TOM:** En quoi consiste cette deuxième mission ?
-**ANNA:** C'est le contrôle externe des lieux où des personnes sont privées de liberté. Une équipe visite régulièrement les prisons, les services fermés de psychiatrie, le centre de rétention, les centres socio-éducatifs de l'État, et les cellules de la police.
-**TOM:** Et que vérifient-ils pendant ces visites ?
-**ANNA:** Ils parlent avec les personnes qui y sont retenues, et ils observent les conditions de vie. Le but est de s'assurer que personne n'est maltraité et que les droits sont respectés. Ensuite, l'équipe publie un rapport avec des recommandations.
-**TOM:** Où peut-on trouver toutes ces informations ?
-**ANNA:** Sur le site ombudsman point l-u, en français et en anglais. Il y a même une page en langage simple, qui explique tout très simplement.
-**TOM:** Passons maintenant à la deuxième institution. Cette fois, c'est moi qui explique, et vous posez les questions.
-**ANNA:** Avec plaisir. Que veut dire le nom OKaJu ?
+**TOM:** C'est le contrôle externe des lieux où des personnes sont privées de liberté. Une équipe visite régulièrement les prisons, les services fermés de psychiatrie, le centre de rétention, les centres socio-éducatifs de l'État, et les cellules de la police.
+**ANNA:** Et que vérifient-ils pendant ces visites ?
+**TOM:** Ils parlent avec les personnes qui y sont retenues, et ils observent les conditions de vie. Le but est de s'assurer que personne n'est maltraité et que les droits sont respectés. Ensuite, l'équipe publie un rapport avec des recommandations.
+**ANNA:** Où peut-on trouver toutes ces informations ?
+**TOM:** Sur le site ombudsman point l-u, en français et en anglais. Il y a même une page en langage simple, qui explique tout très simplement.
+**ANNA:** Passons maintenant à la deuxième institution, l'OKaJu. Que veut dire ce nom ?
 **TOM:** C'est l'abréviation du nom luxembourgeois : Ombudsman fir Kanner a Jugendlecher. En français, c'est l'Ombudsman pour les enfants et les jeunes, ou encore le défenseur des droits de l'enfant.
 **ANNA:** Et quelle est la mission de l'OKaJu ?
 **TOM:** Sa mission est de promouvoir, de sauvegarder et de protéger les droits de l'enfant. Ces droits sont écrits dans la Convention des Nations Unies relative aux droits de l'enfant.
@@ -72,18 +68,16 @@
 **TOM:** Oui. Il a été créé par une loi de 2020, il est rattaché à la Chambre des députés, et il ne reçoit d'instructions d'aucune autorité.
 **ANNA:** Il y a une idée qui revient tout le temps sur son site : l'intérêt supérieur de l'enfant.
 **TOM:** C'est le cœur de son travail. Quand une administration, une institution ou une entreprise prend une décision qui concerne un enfant, elle doit tenir compte de ce qui est le mieux pour cet enfant.
-**ANNA:** Qui peut contacter l'OKaJu ?
-**TOM:** Tout d'abord, chaque enfant et chaque jeune de moins de dix-huit ans. Un jeune qui pense que ses droits ne sont pas respectés peut contacter l'OKaJu lui-même.
-**ANNA:** Et les adultes peuvent-ils le contacter aussi ?
-**TOM:** Oui : les parents ou les tuteurs légaux, et toute personne qui a une relation personnelle avec l'enfant. Les associations et les institutions peuvent aussi poser des questions sur les droits de l'enfant.
-**ANNA:** Et les professionnels qui travaillent chaque jour avec des enfants ?
-**TOM:** Ils peuvent signaler une situation préoccupante sur une plateforme en ligne sécurisée. Leur signalement est traité de manière confidentielle.
-**ANNA:** Une famille doit-elle payer pour cette aide ?
-**TOM:** Non. Toutes les démarches auprès de l'OKaJu sont gratuites, et elles sont confidentielles.
-**ANNA:** Avec quel genre de questions les gens viennent-ils à l'OKaJu ?
-**TOM:** La plupart des réclamations individuelles viennent des parents. Une grande partie concerne des affaires familiales, comme une séparation, un divorce, ou le droit de visite.
-**ANNA:** Comment peut-on joindre l'OKaJu ?
-**TOM:** Vous pouvez appeler, écrire un e-mail, ou remplir le formulaire de contact sur le site. Dans le formulaire, vous pouvez même indiquer quand vous préférez être rappelé : le matin, l'après-midi ou le soir.
+**ANNA:** L'OKaJu est là, tout d'abord, pour chaque enfant et chaque jeune de moins de dix-huit ans. Un jeune qui pense que ses droits ne sont pas respectés peut contacter l'OKaJu lui-même.
+**TOM:** Et les adultes peuvent-ils le contacter aussi ?
+**ANNA:** Oui : les parents ou les tuteurs légaux, et toute personne qui a une relation personnelle avec l'enfant. Les associations et les institutions peuvent aussi poser des questions sur les droits de l'enfant.
+**TOM:** Et les professionnels qui travaillent chaque jour avec des enfants ?
+**ANNA:** Ils peuvent signaler une situation préoccupante sur une plateforme en ligne sécurisée. Leur signalement est traité de manière confidentielle.
+**TOM:** Une famille doit-elle payer pour cette aide ?
+**ANNA:** Non. Toutes les démarches auprès de l'OKaJu sont gratuites, et elles sont confidentielles.
+**TOM:** Avec quel genre de questions les gens viennent-ils à l'OKaJu ?
+**ANNA:** La plupart des réclamations individuelles viennent des parents. Une grande partie concerne des affaires familiales, comme une séparation, un divorce, ou le droit de visite.
+**TOM:** Pour joindre l'OKaJu, vous pouvez appeler, écrire un e-mail, ou remplir le formulaire de contact sur le site. Dans le formulaire, vous pouvez même indiquer quand vous préférez être rappelé : le matin, l'après-midi ou le soir.
 **ANNA:** Et que se passe-t-il après ce premier contact ?
 **TOM:** Chaque demande est examinée. Si la question n'est pas du ressort de l'OKaJu, l'équipe vous oriente vers le bon service.
 **ANNA:** Et si la demande concerne bien l'OKaJu ?

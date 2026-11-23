@@ -56,7 +56,7 @@ NAMES = {
            (r"(?i)\bdon ?du ?sang\b", "dawn dew sahn"),                     # dondusang ep: Jacques's A/B choice B (2026-11-20)
            (r"(?i)\bicanvote\b", "I can vote"),
            (r"(?i)\bclubaktivplus\b", "Club Aktiv Plus"),
-           (r"(?i)\bokaju\b", "Oh-kah-yoo")],   # ombudsman ep (2026-11-23): Luxembourgish "ju" = "you"; A/B file build/el_test/pron_okaju_en_AB.mp3 (option C), not yet chosen by Jacques
+           (r"(?i)\bokaju\b", "Oka-joo")],   # ombudsman ep: Jacques 2026-11-23 "OKA-JUU", J as in "juice" (was "Oh-kah-yoo")
     #jepeuxvoter ep (2026-11-20)                         # website said the French way, A/B choice A (2026-11-13)
     "fr": [(r"\bÄddi\b", "Addi"),                                             # no "Ä" in French
            (r"(?i)\bZukunftskeess\b", "Tsoukounftskéss"),                     # FR 1B
@@ -70,7 +70,7 @@ NAMES = {
            (r"(?i)\bdondusang\b", "don du sang"),                           # dondusang ep (2026-11-20)
            (r"(?i)\bjepeuxvoter\b", "je peux voter"),
            (r"(?i)\bclubaktivplus\b", "Club Aktiv Plus"),
-           (r"(?i)\bokaju\b", "Okayou")],   # ombudsman ep (2026-11-23), check by ear
+           (r"(?i)\bokaju\b", "Okadjou")],   # ombudsman ep: Jacques 2026-11-23 "OKA-JUU", J as in "juice" (was "Okayou")
     #jepeuxvoter ep (2026-11-20)
     "de": [(r"(?i)\bl[ëe]tz ?prepare\b", "Lets pripär"),                    # Lëtz prepare ep (2026-11-14), check by ear
            (r"\bLëtz\b", "Lets"),
@@ -78,7 +78,7 @@ NAMES = {
            (r"(?i)\bdon ?du ?sang\b", "Don dü Sang"),                       # dondusang ep (2026-11-20), check by ear
            (r"(?i)\bichkannwaehlen\b", "ich kann wählen"),
            (r"(?i)\bclubaktivplus\b", "Club Aktiv Plus"),
-           (r"\bOKaJu\b", "Okaju")],   # ombudsman ep (2026-11-23): mixed capitals must not be spelled out
+           (r"(?i)\bokaju\b", "Okadschuh")],   # ombudsman ep: Jacques 2026-11-23 "OKA-JUU", J as in "juice" (was "Okaju")
     #                # jepeuxvoter ep (2026-11-20)
 }
 # Phone numbers written as plain numbers in the scripts -> read digit by digit.

@@ -9,8 +9,8 @@
 **ANNA:** Hello, and welcome! It's really nice to have you with us today.
 **TOM:** Hello everyone!
 **ANNA:** This podcast is part of the Biergerpakt. That's a programme of living together in Luxembourg, organized by the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees. The idea is to help residents, and also cross-border workers, to discover Luxembourg — or maybe re-discover Luxembourg — and to meet new people.
-**TOM:** I have a question to start with, Anna. Have you ever received a letter from an administration and thought that the decision could not be right?
-**ANNA:** Yes, I have. And the hardest part was that I did not know who could help me.
+**TOM:** Imagine that a letter from an administration arrives at your home. You read it twice, and you are sure that the decision cannot be right.
+**ANNA:** Many people know that feeling. And the hardest part is often that you do not know who could help you.
 **TOM:** That is exactly our topic today. We are going to present two independent institutions that listen to people and defend their rights.
 **ANNA:** The first one is the Ombudsman, which helps people who have a problem with a public administration.
 **TOM:** And the second one is the OKaJu, the Ombudsman for children and young people.
@@ -35,14 +35,12 @@
 **ANNA:** Yes. It cannot help in a conflict with a neighbour, an employer, a bank, a company, or another private person. It only deals with public administrations.
 **TOM:** So the Ombudsman is not my lawyer, if I understand well.
 **ANNA:** Exactly: it is not a lawyer, and it is not a judge. It does not replace the courts. It is a free and simple way to look for a friendly solution.
-**TOM:** Before I write to the Ombudsman, is there something I must do first?
-**ANNA:** Yes, and people often forget this step. You must first contact the administration yourself, to ask for an explanation or to contest the decision.
-**TOM:** Is a phone call enough for that first step?
-**ANNA:** It is better to do it in writing, ideally by registered letter, and to keep a copy.
-**TOM:** And when can I then turn to the Ombudsman?
-**ANNA:** If you have no answer after one month, or if the answer does not satisfy you, you can contact the Ombudsman.
-**TOM:** How do I send my complaint to the Ombudsman?
-**ANNA:** You can send it by email or by post, with a copy of what you wrote to the administration. And you give a phone number or an email address, so that the team can reach you.
+**TOM:** Before you write to the Ombudsman, there is one step that people often forget. You must first contact the administration yourself, to ask for an explanation or to contest the decision.
+**ANNA:** Is a phone call enough for that first step?
+**TOM:** It is better to do it in writing, ideally by registered letter, and to keep a copy.
+**ANNA:** And when can I then turn to the Ombudsman?
+**TOM:** If you have no answer after one month, or if the answer does not satisfy you, you can contact the Ombudsman.
+**ANNA:** You then send your complaint to the Ombudsman by email or by post, with a copy of what you wrote to the administration. And you give a phone number or an email address, so that the team can reach you.
 **TOM:** What if writing a letter is difficult for me?
 **ANNA:** Then you can call the secretariat and ask for an appointment. You can also explain your problem in person at the office.
 **TOM:** I have heard that some people use artificial intelligence to write their letters. Is that allowed here?
@@ -55,15 +53,13 @@
 **ANNA:** It is very important. A complaint to the Ombudsman does not stop the deadline for going to court. If you also want to appeal before a court, you must still do it in time.
 **TOM:** So the two paths are separate, and I must keep an eye on the calendar.
 **ANNA:** Yes, that is right. And the Ombudsman has a second mission, which fewer people know.
-**TOM:** What is this second mission about?
-**ANNA:** It is the external control of places where people are deprived of their liberty. A team makes regular visits to prisons, closed psychiatric units, the detention centre, the socio-educational centres of the State, and police cells.
-**TOM:** And what do they check during these visits?
-**ANNA:** They talk with the people who are held there, and they look at the living conditions. The goal is to make sure that nobody is mistreated and that rights are respected. Then the team publishes a report with recommendations.
-**TOM:** Where can we find all this information?
-**ANNA:** On the website ombudsman dot l-u, in French and in English. There is even a page in plain language, which explains everything very simply.
-**TOM:** Now let's turn to the second institution. This time, I will explain, and you can ask the questions.
-**ANNA:** With pleasure. What does the name OKaJu mean?
-**TOM:** It is short for the Luxembourgish name: Ombudsman fir Kanner a Jugendlecher. In English, that is the Ombudsman for children and young people.
+**TOM:** It is the external control of places where people are deprived of their liberty. A team makes regular visits to prisons, closed psychiatric units, the detention centre, the socio-educational centres of the State, and police cells.
+**ANNA:** And what do they check during these visits?
+**TOM:** They talk with the people who are held there, and they look at the living conditions. The goal is to make sure that nobody is mistreated and that rights are respected. Then the team publishes a report with recommendations.
+**ANNA:** Where can we find all this information?
+**TOM:** On the website ombudsman dot l-u, in French and in English. There is even a page in plain language, which explains everything very simply.
+**ANNA:** Now let's turn to the second institution, the OKaJu. What does this name mean?
+**TOM:** It is short for a Luxembourgish name. In English, it means the Ombudsman for children and young people.
 **ANNA:** And what is the mission of the OKaJu?
 **TOM:** Its mission is to promote, to safeguard and to protect the rights of children. These rights are written in the United Nations Convention on the Rights of the Child.
 **ANNA:** Until what age is a person a child, in this sense?
@@ -72,18 +68,16 @@
 **TOM:** Yes. It was created by a law of 2020, it is attached to the Chamber of Deputies, and it takes instructions from no authority.
 **ANNA:** There is one idea that comes back all the time on its website: the best interests of the child.
 **TOM:** That is the heart of its work. When an administration, an institution or a company takes a decision that concerns a child, it must consider what is best for this child.
-**ANNA:** Who can contact the OKaJu?
-**TOM:** First of all, every child and every young person under eighteen. If you think that your rights are not respected, you can contact the OKaJu yourself.
-**ANNA:** And can adults contact it as well?
-**TOM:** Yes: parents or legal guardians, and any person who has a personal relationship with the child. Associations and institutions can also ask questions about children's rights.
-**ANNA:** What about the professionals who work with children every day?
-**TOM:** They can report a worrying situation through a secure online platform. Their report is handled in a confidential way.
-**ANNA:** Does a family have to pay for this help?
-**TOM:** No. Every step with the OKaJu is free of charge, and it is confidential.
-**ANNA:** With what kind of questions do people come to the OKaJu?
-**TOM:** Most individual complaints come from parents. A large part is about family matters, such as a separation, a divorce, or the right to visit a child.
-**ANNA:** How can somebody reach the OKaJu?
-**TOM:** You can call, write an email, or fill in the contact form on the website. In the form, you can even say when you prefer to be called back: in the morning, in the afternoon or in the evening.
+**ANNA:** The OKaJu is there, first of all, for every child and every young person under eighteen. If you think that your rights are not respected, you can contact the OKaJu yourself.
+**TOM:** And can adults contact it as well?
+**ANNA:** Yes: parents or legal guardians, and any person who has a personal relationship with the child. Associations and institutions can also ask questions about children's rights.
+**TOM:** What about the professionals who work with children every day?
+**ANNA:** They can report a worrying situation through a secure online platform. Their report is handled in a confidential way.
+**TOM:** Does a family have to pay for this help?
+**ANNA:** No. Every step with the OKaJu is free of charge, and it is confidential.
+**TOM:** With what kind of questions do people come to the OKaJu?
+**ANNA:** Most individual complaints come from parents. A large part is about family matters, such as a separation, a divorce, or the right to visit a child.
+**TOM:** To reach the OKaJu, you can call, write an email, or fill in the contact form on the website. In the form, you can even say when you prefer to be called back: in the morning, in the afternoon or in the evening.
 **ANNA:** And what happens after this first contact?
 **TOM:** Every request is examined. If the question is not for the OKaJu, the team directs you to the right service.
 **ANNA:** And what if the request is indeed for the OKaJu?

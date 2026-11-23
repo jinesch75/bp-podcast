@@ -9,8 +9,8 @@
 **ANNA:** Moien, a wëllkomm! Et ass wierklech schéin, Iech haut bei eis ze hunn.
 **TOM:** Moien alleguer!
 **ANNA:** Dëse Podcast ass Deel vum Biergerpakt. Dat ass e Programm vum Zesummeliewen zu Lëtzebuerg, organiséiert vum Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen. D'Iddi ass, den Awunner, an och de Grenzgänger, ze hëllefen, Lëtzebuerg z'entdecken — oder vläicht erëm z'entdecken — an nei Leit kennenzeléieren.
-**TOM:** Ech hunn eng Fro fir unzefänken, Anna. Hutt Dir schonn emol e Bréif vun enger Verwaltung kritt a geduecht, datt d'Decisioun net richteg ka sinn?
-**ANNA:** Jo, dat ass mir geschitt. An dat Schwéierst war, datt ech net wousst, wien mir hëllefe kann.
+**TOM:** Stellt Iech vir, e Bréif vun enger Verwaltung kënnt bei Iech doheem un. Dir liest en zweemol, an Dir sidd sécher, datt d'Decisioun net richteg ka sinn.
+**ANNA:** Dëst Gefill kenne vill Leit. An dat Schwéierst ass dacks, datt een net weess, wien engem hëllefe kann.
 **TOM:** Genau dat ass haut eist Thema. Mir stellen zwou onofhängeg Institutioune vir, déi de Leit nolauschteren an hir Rechter verdeedegen.
 **ANNA:** Déi éischt ass den Ombudsman. Hien hëlleft de Leit, déi e Problem mat enger ëffentlecher Verwaltung hunn.
 **TOM:** An déi zweet ass den OKaJu, den Ombudsman fir Kanner a Jugendlecher.
@@ -35,14 +35,12 @@
 **ANNA:** Jo. Hie kann net hëllefe bei engem Konflikt mat engem Noper, engem Patron, enger Bank, engem Betrib oder enger anerer Privatpersoun. Hie këmmert sech nëmmen ëm ëffentlech Verwaltungen.
 **TOM:** Den Ombudsman ass also net mäin Affekot, wann ech dat richteg verstinn.
 **ANNA:** Genau: Hien ass keen Affekot, an hien ass kee Riichter. Hien ersetzt d'Geriichter net. Hien ass e gratis an einfache Wee, fir eng Léisung am Gudden ze sichen.
-**TOM:** Muss ech eppes maachen, ier ech dem Ombudsman schreiwen?
-**ANNA:** Jo, an dee Schrëtt vergiesse vill Leit. Dir musst als éischt selwer d'Verwaltung kontaktéieren, fir eng Erklärung ze froen oder fir d'Decisioun unzefechten.
-**TOM:** Geet en Telefonsuruff duer fir dësen éischte Schrëtt?
-**ANNA:** Et ass besser, dat schrëftlech ze maachen, am beschte per Aschreiwebréif, an eng Kopie ze halen.
-**TOM:** A wéini kann ech mech dann un den Ombudsman wenden?
-**ANNA:** Wann Dir no engem Mount keng Äntwert hutt, oder wann d'Äntwert Iech net zefriddestellt, kënnt Dir den Ombudsman kontaktéieren.
-**TOM:** Wéi schécken ech meng Reklamatioun un den Ombudsman?
-**ANNA:** Dir kënnt se per E-Mail oder per Post schécken, mat enger Kopie vun deem, wat Dir der Verwaltung geschriwwen hutt. An Dir gitt eng Telefonsnummer oder eng E-Mail-Adress un, fir datt d'Equipe Iech erreeche kann.
+**TOM:** Ier Dir dem Ombudsman schreift, gëtt et e Schrëtt, dee vill Leit vergiessen. Dir musst als éischt selwer d'Verwaltung kontaktéieren, fir eng Erklärung ze froen oder fir d'Decisioun unzefechten.
+**ANNA:** Geet en Telefonsuruff duer fir dësen éischte Schrëtt?
+**TOM:** Et ass besser, dat schrëftlech ze maachen, am beschte per Aschreiwebréif, an eng Kopie ze halen.
+**ANNA:** A wéini kann ech mech dann un den Ombudsman wenden?
+**TOM:** Wann Dir no engem Mount keng Äntwert hutt, oder wann d'Äntwert Iech net zefriddestellt, kënnt Dir den Ombudsman kontaktéieren.
+**ANNA:** Dir schéckt Är Reklamatioun dann per E-Mail oder per Post un den Ombudsman, mat enger Kopie vun deem, wat Dir der Verwaltung geschriwwen hutt. An Dir gitt eng Telefonsnummer oder eng E-Mail-Adress un, fir datt d'Equipe Iech erreeche kann.
 **TOM:** A wann et mir schwéierfält, e Bréif ze schreiwen?
 **ANNA:** Da kënnt Dir de Sekretariat uruffen an e Rendez-vous froen. Dir kënnt Äre Problem och op der Plaz mëndlech erklären.
 **TOM:** Ech hu héieren, datt verschidde Leit kënschtlech Intelligenz benotzen, fir hir Bréiwer ze schreiwen. Ass dat hei erlaabt?
@@ -55,14 +53,12 @@
 **ANNA:** En ass ganz wichteg. Eng Reklamatioun beim Ombudsman stoppt d'Frist fir viru Geriicht ze goen net. Wann Dir och viru Geriicht wëllt goen, musst Dir dat trotzdeem an der Zäit maachen.
 **TOM:** Déi zwee Weeër sinn also getrennt, an ech muss de Kalenner am A behalen.
 **ANNA:** Jo, dat stëmmt. An den Ombudsman huet eng zweet Missioun, déi manner Leit kennen.
-**TOM:** Ëm wat geet et bei dëser zweeter Missioun?
-**ANNA:** Et ass déi extern Kontroll vun de Plazen, wou Mënschen d'Fräiheet entzunn ass. Eng Equipe besicht reegelméisseg d'Prisongen, déi zou psychiatresch Servicer, den Centre de rétention, déi sozio-edukativ Zentre vum Staat, an d'Zelle vun der Police.
-**TOM:** A wat kontrolléiert d'Equipe bei dëse Visitten?
-**ANNA:** Si schwätzt mat de Leit, déi do festgehale ginn, a si kuckt sech d'Liewensbedingungen un. D'Zil ass, sécherzestellen, datt keen mësshandelt gëtt an datt d'Rechter respektéiert ginn. Duerno publizéiert d'Equipe e Rapport mat Recommandatiounen.
-**TOM:** Wou fanne mir all dës Informatiounen?
-**ANNA:** Um Site ombudsman Punkt l-u, op Franséisch an op Englesch. Et gëtt souguer eng Säit an einfacher Sprooch, déi alles ganz einfach erkläert.
-**TOM:** Komme mir elo bei déi zweet Institutioun. Dës Kéier erklären ech, an Dir stellt d'Froen.
-**ANNA:** Ganz gär. Wat bedeit den Numm OKaJu?
+**TOM:** Et ass déi extern Kontroll vun de Plazen, wou Mënschen d'Fräiheet entzunn ass. Eng Equipe besicht reegelméisseg d'Prisongen, déi zou psychiatresch Servicer, den Centre de rétention, déi sozio-edukativ Zentre vum Staat, an d'Zelle vun der Police.
+**ANNA:** A wat kontrolléiert d'Equipe bei dëse Visitten?
+**TOM:** Si schwätzt mat de Leit, déi do festgehale ginn, a si kuckt sech d'Liewensbedingungen un. D'Zil ass, sécherzestellen, datt keen mësshandelt gëtt an datt d'Rechter respektéiert ginn. Duerno publizéiert d'Equipe e Rapport mat Recommandatiounen.
+**ANNA:** Wou fanne mir all dës Informatiounen?
+**TOM:** Um Site ombudsman Punkt l-u, op Franséisch an op Englesch. Et gëtt souguer eng Säit an einfacher Sprooch, déi alles ganz einfach erkläert.
+**ANNA:** Komme mir elo bei déi zweet Institutioun, den OKaJu. Wat bedeit dësen Numm?
 **TOM:** Dat ass d'Ofkierzung vum lëtzebuergeschen Numm: Ombudsman fir Kanner a Jugendlecher. Dat ass also den Ombudsman fir d'Kanner an déi Jonk.
 **ANNA:** A wat ass d'Missioun vum OKaJu?
 **TOM:** Seng Missioun ass, d'Rechter vun de Kanner ze förderen, ze wahren an ze schützen. Dës Rechter stinn an der Kannerrechtskonventioun vun de Vereenten Natiounen.
@@ -72,18 +68,16 @@
 **TOM:** Jo. Hie gouf duerch e Gesetz vun 2020 geschaaft, hien ass un d'Chamber ugebonnen, an hie kritt vu kenger Autoritéit Instruktiounen.
 **ANNA:** Eng Iddi kënnt op sengem Site ëmmer erëm: den ieweschten Intérêt vum Kand.
 **TOM:** Dat ass d'Häerz vu senger Aarbecht. Wann eng Verwaltung, eng Institutioun oder e Betrib eng Decisioun hëlt, déi e Kand betrëfft, muss berécksiichtegt ginn, wat fir dëst Kand am beschten ass.
-**ANNA:** Wien kann sech un den OKaJu wenden?
-**TOM:** Als éischt all Kand an all Jugendlechen ënner uechtzéng Joer. Wien mengt, datt seng Rechter net respektéiert ginn, kann sech selwer beim OKaJu mellen.
-**ANNA:** A kënnen sech och Erwuessener do mellen?
-**TOM:** Jo: d'Elteren oder déi gesetzlech Vertrieder, an all Persoun, déi eng perséinlech Bezéiung zum Kand huet. Och Veräiner an Institutioune kënne Froen zu de Kannerrechter stellen.
-**ANNA:** An d'Professioneller, déi all Dag mat Kanner schaffen?
-**TOM:** Si kënnen eng beonrouegend Situatioun iwwer eng geséchert Online-Plattform mellen. Hir Meldung gëtt vertraulech behandelt.
-**ANNA:** Muss eng Famill fir dës Hëllef bezuelen?
-**TOM:** Neen. All Demarche beim OKaJu ass gratis, a si ass vertraulech.
-**ANNA:** Mat wéi enge Froe kommen d'Leit bei den OKaJu?
-**TOM:** Déi meescht individuell Reklamatioune komme vun Elteren. E groussen Deel betrëfft Familljenugeleeënheeten, wéi eng Trennung, eng Scheedung oder d'Besuchsrecht.
-**ANNA:** Wéi kann een den OKaJu erreechen?
-**TOM:** Dir kënnt uruffen, eng E-Mail schreiwen oder de Kontaktformulaire um Site ausfëllen. Am Formulaire kënnt Dir souguer uginn, wéini Dir am léifsten zréckgeruff gitt: moies, nomëttes oder owes.
+**ANNA:** Den OKaJu ass als éischt fir all Kand an all Jugendlechen ënner uechtzéng Joer do. Wien mengt, datt seng Rechter net respektéiert ginn, kann sech selwer beim OKaJu mellen.
+**TOM:** A kënnen sech och Erwuessener do mellen?
+**ANNA:** Jo: d'Elteren oder déi gesetzlech Vertrieder, an all Persoun, déi eng perséinlech Bezéiung zum Kand huet. Och Veräiner an Institutioune kënne Froen zu de Kannerrechter stellen.
+**TOM:** An d'Professioneller, déi all Dag mat Kanner schaffen?
+**ANNA:** Si kënnen eng beonrouegend Situatioun iwwer eng geséchert Online-Plattform mellen. Hir Meldung gëtt vertraulech behandelt.
+**TOM:** Muss eng Famill fir dës Hëllef bezuelen?
+**ANNA:** Neen. All Demarche beim OKaJu ass gratis, a si ass vertraulech.
+**TOM:** Mat wéi enge Froe kommen d'Leit bei den OKaJu?
+**ANNA:** Déi meescht individuell Reklamatioune komme vun Elteren. E groussen Deel betrëfft Familljenugeleeënheeten, wéi eng Trennung, eng Scheedung oder d'Besuchsrecht.
+**TOM:** Fir den OKaJu z'erreechen, kënnt Dir uruffen, eng E-Mail schreiwen oder de Kontaktformulaire um Site ausfëllen. Am Formulaire kënnt Dir souguer uginn, wéini Dir am léifsten zréckgeruff gitt: moies, nomëttes oder owes.
 **ANNA:** A wat geschitt no dësem éischte Kontakt?
 **TOM:** All Ufro gëtt gepréift. Wann d'Fro net an de Beräich vum OKaJu fält, weist d'Equipe Iech un de richtege Service weider.
 **ANNA:** A wann d'Ufro wierklech fir den OKaJu ass?

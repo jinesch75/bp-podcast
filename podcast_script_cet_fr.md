@@ -9,8 +9,8 @@
 **ANNA:** Bonjour et bienvenue ! C'est vraiment un plaisir de vous avoir avec nous aujourd'hui.
 **TOM:** Bonjour à tous !
 **ANNA:** Ce podcast fait partie du Biergerpakt. C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil. L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.
-**TOM:** J'ai une question pour commencer, Anna. Avez-vous déjà eu le sentiment d'être traitée de façon injuste, seulement à cause de ce que vous êtes ?
-**ANNA:** Je pense que la plupart des gens ont ressenti cela au moins une fois. Et très souvent, on ne sait pas si la loi est de notre côté, ni à qui poser la question.
+**TOM:** Aujourd'hui, nous partons d'un principe qui paraît très simple : chaque personne a le droit d'être traitée de la même manière.
+**ANNA:** Dans la vie de tous les jours, ce n'est pas toujours aussi simple. Et quand on est traité de façon injuste, on ne sait souvent pas si la loi est de notre côté, ni à qui poser la question.
 **TOM:** C'est exactement pour cela que nous parlons aujourd'hui du CET, le Centre pour l'égalité de traitement.
 **ANNA:** Les trois lettres CET viennent de ce nom français. Son site internet est cet point l-u.
 **TOM:** Commençons par les bases. Qu'est-ce que le Centre pour l'égalité de traitement, exactement ?
@@ -25,26 +25,24 @@
 **ANNA:** Non, ce n'est pas permis. Un membre du collège ne peut pas être en même temps député, membre du Conseil d'État ou membre du gouvernement.
 **TOM:** Les membres travaillent donc vraiment de façon neutre et indépendante.
 **ANNA:** Oui, et chaque année, le CET envoie un rapport sur ses activités au Gouvernement et à la Chambre des Députés.
-**TOM:** Parlons maintenant de la discrimination elle-même. Dans quelles situations le CET peut-il intervenir ?
-**ANNA:** Le CET peut agir pour six motifs de discrimination. Le premier, c'est la race ou l'origine ethnique.
-**TOM:** Est-ce que cela compte seulement quand une personne appartient vraiment à un certain groupe ?
-**ANNA:** Non, cela compte aussi quand quelqu'un suppose seulement qu'une personne appartient à un groupe, même si ce n'est pas vrai.
-**TOM:** Et quels sont le deuxième et le troisième motif de la liste ?
-**ANNA:** Le deuxième motif est le sexe, et pour le CET, cela comprend l'identité de genre. Le troisième motif est l'orientation sexuelle.
-**TOM:** Il reste donc encore trois motifs sur la liste.
-**ANNA:** Le quatrième est la religion ou les convictions, le cinquième est le handicap, et le sixième est l'âge.
-**TOM:** Beaucoup de nos auditeurs viennent d'un autre pays. Qu'en est-il de la discrimination à cause de la nationalité ?
-**ANNA:** C'est un point important. La loi cite aussi la nationalité, mais le site dit clairement que le CET ne traite pas les plaintes fondées sur la nationalité.
-**TOM:** Et qu'en est-il des raisons qui ne sont pas du tout sur cette liste ?
-**ANNA:** D'autres lois au Luxembourg interdisent aussi la discrimination pour d'autres raisons. Mais le CET lui-même ne peut intervenir que pour ses six motifs.
-**TOM:** Dans quels domaines de la vie cette protection s'applique-t-elle ?
-**ANNA:** Le premier grand domaine est le travail : l'accès à un emploi, le recrutement, la promotion, les conditions de travail, le salaire et le licenciement.
-**TOM:** Est-ce que cela couvre aussi la formation et l'orientation professionnelle ?
-**ANNA:** Oui, l'orientation et la formation professionnelles en font partie. C'est aussi le cas de l'éducation et de la protection sociale, qui comprend la sécurité sociale et les soins de santé.
-**TOM:** Et qu'en est-il de la vie de tous les jours, en dehors du travail et de l'école ?
-**ANNA:** La loi couvre aussi l'accès aux biens et aux services qui sont proposés au public, et cela comprend le logement.
-**TOM:** On utilise beaucoup le mot discrimination. Que veut-il dire dans la loi ?
-**ANNA:** La loi décrit plusieurs formes. Il y a discrimination directe quand une personne est traitée moins bien qu'une autre personne dans une situation comparable, à cause d'un des motifs.
+**TOM:** Parlons maintenant de la discrimination elle-même. Le CET peut agir pour six motifs de discrimination. Le premier, c'est la race ou l'origine ethnique.
+**ANNA:** Est-ce que cela compte seulement quand une personne appartient vraiment à un certain groupe ?
+**TOM:** Non, cela compte aussi quand quelqu'un suppose seulement qu'une personne appartient à un groupe, même si ce n'est pas vrai.
+**ANNA:** Et quels sont le deuxième et le troisième motif de la liste ?
+**TOM:** Le deuxième motif est le sexe, et pour le CET, cela comprend l'identité de genre. Le troisième motif est l'orientation sexuelle.
+**ANNA:** Il reste donc encore trois motifs sur la liste.
+**TOM:** Le quatrième est la religion ou les convictions, le cinquième est le handicap, et le sixième est l'âge.
+**ANNA:** Beaucoup de nos auditeurs viennent d'un autre pays. Qu'en est-il de la discrimination à cause de la nationalité ?
+**TOM:** C'est un point important. La loi cite aussi la nationalité, mais le site dit clairement que le CET ne traite pas les plaintes fondées sur la nationalité.
+**ANNA:** Et qu'en est-il des raisons qui ne sont pas du tout sur cette liste ?
+**TOM:** D'autres lois au Luxembourg interdisent aussi la discrimination pour d'autres raisons. Mais le CET lui-même ne peut intervenir que pour ses six motifs.
+**ANNA:** Dans quels domaines de la vie cette protection s'applique-t-elle ?
+**TOM:** Le premier grand domaine est le travail : l'accès à un emploi, le recrutement, la promotion, les conditions de travail, le salaire et le licenciement.
+**ANNA:** Est-ce que cela couvre aussi la formation et l'orientation professionnelle ?
+**TOM:** Oui, l'orientation et la formation professionnelles en font partie. C'est aussi le cas de l'éducation et de la protection sociale, qui comprend la sécurité sociale et les soins de santé.
+**ANNA:** Et qu'en est-il de la vie de tous les jours, en dehors du travail et de l'école ?
+**TOM:** La loi couvre aussi l'accès aux biens et aux services qui sont proposés au public, et cela comprend le logement.
+**ANNA:** On utilise beaucoup le mot discrimination. La loi décrit plusieurs formes. Il y a discrimination directe quand une personne est traitée moins bien qu'une autre personne dans une situation comparable, à cause d'un des motifs.
 **TOM:** Je tente un exemple. Un propriétaire refuse de louer un appartement à quelqu'un, seulement à cause de sa couleur de peau.
 **ANNA:** C'est une bonne illustration de la discrimination directe. La deuxième forme s'appelle la discrimination indirecte.
 **TOM:** Comment une discrimination peut-elle être indirecte ?
@@ -55,20 +53,18 @@
 **ANNA:** Oui, le harcèlement est un comportement non désiré, lié à l'un des motifs, qui porte atteinte à la dignité d'une personne ou qui crée un environnement hostile, humiliant ou offensant.
 **TOM:** Et si un chef demande à un employé de discriminer certains clients ?
 **ANNA:** Alors la consigne elle-même compte comme une discrimination. Demander à quelqu'un d'autre de discriminer est interdit aussi.
-**TOM:** Passons au côté pratique. Que fait le CET concrètement pour une personne ?
-**ANNA:** Il a un service de conseil et d'orientation pour les personnes qui s'estiment victimes d'une discrimination.
-**TOM:** Quel genre d'informations peuvent-elles y obtenir ?
-**ANNA:** Le CET les informe sur leurs droits individuels, sur la législation et la jurisprudence, et sur les moyens de faire valoir leurs droits.
-**TOM:** Le CET travaille-t-il aussi pour la société dans son ensemble ?
-**ANNA:** Oui, le CET peut publier des rapports, émettre des avis et des recommandations, et mener des études sur toutes les questions liées aux discriminations.
-**TOM:** Il peut donc aussi donner son avis quand une nouvelle loi est en préparation.
-**ANNA:** C'est exact, et vous pouvez lire ces avis sur son site. Le CET produit aussi de l'information et de la documentation, et il mène des campagnes de sensibilisation.
-**TOM:** Le CET a-t-il un rôle particulier pour les personnes en situation de handicap ?
-**ANNA:** Oui, avec la Commission consultative des Droits de l'Homme, il est un mécanisme national indépendant pour la Convention des Nations Unies relative aux droits des personnes handicapées.
-**TOM:** Que fait un tel mécanisme ?
-**ANNA:** Il fait la promotion de la convention, et il suit la manière dont la convention est appliquée au Luxembourg.
-**TOM:** Y a-t-il quelque chose que le CET ne fait pas ?
-**ANNA:** Ses membres n'interviennent pas dans les procédures judiciaires en cours. Si vous voulez qu'un juge décide, vous portez votre affaire devant un tribunal civil ou administratif.
+**TOM:** Passons au côté pratique. Pour les personnes qui s'estiment victimes d'une discrimination, le CET a un service de conseil et d'orientation.
+**ANNA:** Quel genre d'informations peuvent-elles y obtenir ?
+**TOM:** Le CET les informe sur leurs droits individuels, sur la législation et la jurisprudence, et sur les moyens de faire valoir leurs droits.
+**ANNA:** Le CET travaille-t-il aussi pour la société dans son ensemble ?
+**TOM:** Oui, le CET peut publier des rapports, émettre des avis et des recommandations, et mener des études sur toutes les questions liées aux discriminations.
+**ANNA:** Il peut donc aussi donner son avis quand une nouvelle loi est en préparation.
+**TOM:** C'est exact, et vous pouvez lire ces avis sur son site. Le CET produit aussi de l'information et de la documentation, et il mène des campagnes de sensibilisation.
+**ANNA:** Le CET a-t-il un rôle particulier pour les personnes en situation de handicap ?
+**TOM:** Oui, avec la Commission consultative des Droits de l'Homme, il est un mécanisme national indépendant pour la Convention des Nations Unies relative aux droits des personnes handicapées.
+**ANNA:** Que fait un tel mécanisme ?
+**TOM:** Il fait la promotion de la convention, et il suit la manière dont la convention est appliquée au Luxembourg.
+**ANNA:** Il y a aussi quelque chose que le CET ne fait pas. Ses membres n'interviennent pas dans les procédures judiciaires en cours. Si vous voulez qu'un juge décide, vous portez votre affaire devant un tribunal civil ou administratif.
 **TOM:** Quelqu'un peut-il m'aider si je décide d'aller en justice ?
 **ANNA:** Oui, vous pouvez aller en justice vous-même, ou par l'intermédiaire d'une association agréée ou d'un syndicat, dans les conditions prévues par la loi.
 **TOM:** Beaucoup de gens ont peur de ce qui arrive après une plainte. Est-ce que je pourrais être puni parce que j'ai parlé ?
@@ -77,18 +73,16 @@
 **ANNA:** Là aussi, la loi aide. Devant un tribunal civil ou administratif, la personne présente des faits qui laissent supposer une discrimination. Ensuite, c'est à l'autre partie de prouver que l'égalité de traitement a été respectée.
 **TOM:** Cette règle s'applique-t-elle dans tous les types de procès ?
 **ANNA:** Non, il y a une exception : elle ne s'applique pas dans les procédures pénales.
-**TOM:** Imaginons maintenant que je veuille contacter le CET. Comment est-ce que je fais ?
-**ANNA:** Sur le site, il y a un bouton qui s'appelle « Signalez une discrimination ». Il ouvre un formulaire de contact où vous décrivez ce qui s'est passé.
-**TOM:** Est-ce que je peux écrire seulement si cela m'est arrivé personnellement ?
-**ANNA:** Non, vous pouvez écrire comme victime, et vous pouvez aussi écrire comme témoin, si vous avez vu cela arriver à quelqu'un d'autre.
-**TOM:** Dans quelles langues est-ce que je peux envoyer mon message ?
-**ANNA:** Vous pouvez écrire au CET en luxembourgeois, en allemand, en français ou en anglais.
-**TOM:** Y a-t-il d'autres moyens de joindre le CET ?
-**ANNA:** Oui, vous pouvez aussi téléphoner, envoyer une lettre, ou écrire un e-mail à info arobase cet point l-u. Une visite sur place est possible, mais seulement sur rendez-vous.
-**TOM:** Que deviennent mes informations personnelles ?
-**ANNA:** Le CET traite vos données personnelles de façon confidentielle, et les informations sur les cas individuels sont couvertes par le secret professionnel.
-**TOM:** Regardons le site d'un peu plus près. Que trouve-t-on d'autre sur cet point l-u ?
-**ANNA:** Le site existe en français, en allemand, en luxembourgeois, en anglais et en portugais. Il y a aussi une page en langage simple, et des vidéos en langue des signes allemande.
+**TOM:** Imaginons maintenant que vous vouliez contacter le CET. Sur le site, il y a un bouton qui s'appelle « Signalez une discrimination ». Il ouvre un formulaire de contact où vous décrivez ce qui s'est passé.
+**ANNA:** Est-ce que je peux écrire seulement si cela m'est arrivé personnellement ?
+**TOM:** Non, vous pouvez écrire comme victime, et vous pouvez aussi écrire comme témoin, si vous avez vu cela arriver à quelqu'un d'autre.
+**ANNA:** Dans quelles langues est-ce que je peux envoyer mon message ?
+**TOM:** Vous pouvez écrire au CET en luxembourgeois, en allemand, en français ou en anglais.
+**ANNA:** Y a-t-il d'autres moyens de joindre le CET ?
+**TOM:** Oui, vous pouvez aussi téléphoner, envoyer une lettre, ou écrire un e-mail à info arobase cet point l-u. Une visite sur place est possible, mais seulement sur rendez-vous.
+**ANNA:** Que deviennent mes informations personnelles ?
+**TOM:** Le CET traite vos données personnelles de façon confidentielle, et les informations sur les cas individuels sont couvertes par le secret professionnel.
+**ANNA:** Regardons le site d'un peu plus près. Le site existe en français, en allemand, en luxembourgeois, en anglais et en portugais. Il y a aussi une page en langage simple, et des vidéos en langue des signes allemande.
 **TOM:** Et quel genre de contenu propose-t-il ?
 **ANNA:** Vous y trouvez des explications sur la discrimination et sur vos droits, la législation nationale et européenne, les publications du CET, et une page de questions fréquentes.
 **TOM:** J'ai vu aussi les mots « lanceur d'alerte » dans le menu. De quoi s'agit-il ?
