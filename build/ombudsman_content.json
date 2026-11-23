@@ -1,0 +1,215 @@
+{
+ "en": {
+  "title": "The Ombudsman and the OKaJu – Someone to Turn To",
+  "description": "A decision from an administration that you do not understand, or a child whose rights are not respected? Discover two independent and free institutions in Luxembourg: the Ombudsman (médiateur), for problems with public administrations, and the OKaJu, the Ombudsman for children and young people.",
+  "topics": [
+   "What the Ombudsman does",
+   "Independent and free of charge",
+   "Who can complain, and when",
+   "First step: write to the administration",
+   "Limits and court deadlines",
+   "Visits to places of detention",
+   "The OKaJu and children's rights",
+   "How to contact the OKaJu"
+  ],
+  "questions": [
+   {
+    "text": "In which situation can the Ombudsman help you?",
+    "options": [
+     "You disagree with a decision taken by a public administration",
+     "You have a conflict with your employer about your salary",
+     "You have a dispute with a neighbour about a garden fence",
+     "You have a problem with your bank about a personal loan"
+    ],
+    "correct": 0,
+    "explanation": "The Ombudsman deals with complaints about the administrations of the State, the communes and the public establishments that depend on them. It cannot help in a conflict with a neighbour, an employer, a bank, a company or another private person."
+   },
+   {
+    "text": "What must you do before you send a complaint to the Ombudsman?",
+    "options": [
+     "Pay a registration fee at the office of your commune",
+     "Contact the administration yourself, ideally in writing",
+     "Ask a lawyer to open a case before the administrative court",
+     "Wait one full year after the decision of the administration"
+    ],
+    "correct": 1,
+    "explanation": "You must first contact the administration yourself to ask for an explanation or to contest the decision, ideally in writing and by registered letter. If you have no answer after one month, or if the answer does not satisfy you, you can contact the Ombudsman."
+   },
+   {
+    "text": "Does a complaint to the Ombudsman stop the deadline for going to court?",
+    "options": [
+     "Yes, all deadlines are stopped until the Ombudsman has answered",
+     "Yes, but only if the complaint was sent by registered letter",
+     "No, the deadlines for an appeal before a court keep running",
+     "No, because a court appeal is no longer possible afterwards"
+    ],
+    "correct": 2,
+    "explanation": "A complaint to the Ombudsman does not interrupt the deadlines for an appeal. If you also want to go before a court, you must still do it in time. The Ombudsman is not a judge and does not replace the courts."
+   },
+   {
+    "text": "Who can contact the OKaJu?",
+    "options": [
+     "Only parents who live in Luxembourg and are helped by a lawyer",
+     "Only teachers and educators, through the director of their school",
+     "Only young people over eighteen who have already finished school",
+     "Children and young people, parents and people close to the child"
+    ],
+    "correct": 3,
+    "explanation": "Every child and young person under eighteen can contact the OKaJu, and so can parents or legal guardians and any person who has a personal relationship with the child. Professionals can report a worrying situation through a secure platform. It is free of charge and confidential."
+   },
+   {
+    "text": "What can the OKaJu do when no friendly solution is found?",
+    "options": [
+     "It can make recommendations, but it cannot impose a decision",
+     "It can cancel the decision and order the service to take a new one",
+     "It can take the case to court in the place of the child's family",
+     "It can give a fine to the administration or institution concerned"
+    ],
+    "correct": 0,
+    "explanation": "The OKaJu looks for a solution that everyone can accept. If that does not work, it can make recommendations, with a deadline to put them into practice. It is not a judge, it cannot impose a decision, and it cannot intervene in a case that is already before a court."
+   }
+  ]
+ },
+ "fr": {
+  "title": "L'Ombudsman et l'OKaJu – Quelqu'un vers qui se tourner",
+  "description": "Une décision d'une administration que vous ne comprenez pas, ou un enfant dont les droits ne sont pas respectés ? Découvrez deux institutions indépendantes et gratuites au Luxembourg : l'Ombudsman (médiateur), pour les problèmes avec les administrations publiques, et l'OKaJu, l'Ombudsman pour les enfants et les jeunes.",
+  "topics": [
+   "Ce que fait l'Ombudsman",
+   "Indépendant et gratuit",
+   "Qui peut réclamer, et quand",
+   "Première étape : écrire à l'administration",
+   "Limites et délais de recours",
+   "Visites des lieux privatifs de liberté",
+   "L'OKaJu et les droits de l'enfant",
+   "Comment contacter l'OKaJu"
+  ],
+  "questions": [
+   {
+    "text": "Dans quelle situation l'Ombudsman peut-il vous aider ?",
+    "options": [
+     "Vous n'êtes pas d'accord avec une décision d'une administration publique",
+     "Vous avez un conflit avec votre employeur au sujet de votre salaire",
+     "Vous avez un litige avec un voisin au sujet d'une clôture de jardin",
+     "Vous avez un problème avec votre banque au sujet d'un prêt personnel"
+    ],
+    "correct": 0,
+    "explanation": "L'Ombudsman traite les réclamations qui concernent les administrations de l'État, les communes et les établissements publics qui en dépendent. Il ne peut pas aider dans un conflit avec un voisin, un employeur, une banque, une entreprise ou une autre personne privée."
+   },
+   {
+    "text": "Que devez-vous faire avant d'envoyer une réclamation à l'Ombudsman ?",
+    "options": [
+     "Payer des frais d'inscription au bureau de votre commune",
+     "Contacter vous-même l'administration, de préférence par écrit",
+     "Demander à un avocat de saisir le tribunal administratif",
+     "Attendre une année entière après la décision de l'administration"
+    ],
+    "correct": 1,
+    "explanation": "Vous devez d'abord contacter vous-même l'administration pour demander une explication ou contester la décision, de préférence par écrit et par lettre recommandée. Sans réponse après un mois, ou si la réponse ne vous satisfait pas, vous pouvez contacter l'Ombudsman."
+   },
+   {
+    "text": "Une réclamation auprès de l'Ombudsman arrête-t-elle le délai pour aller devant un tribunal ?",
+    "options": [
+     "Oui, tous les délais sont arrêtés jusqu'à la réponse de l'Ombudsman",
+     "Oui, mais seulement si la réclamation a été envoyée en recommandé",
+     "Non, les délais pour un recours devant un tribunal continuent de courir",
+     "Non, car un recours devant un tribunal n'est plus possible ensuite"
+    ],
+    "correct": 2,
+    "explanation": "Une réclamation auprès de l'Ombudsman n'interrompt pas les délais de recours. Si vous voulez aussi aller devant un tribunal, vous devez toujours le faire à temps. L'Ombudsman n'est pas un juge et ne remplace pas les tribunaux."
+   },
+   {
+    "text": "Qui peut contacter l'OKaJu ?",
+    "options": [
+     "Seulement les parents qui habitent au Luxembourg et ont un avocat",
+     "Seulement les enseignants et les éducateurs, par le directeur de l'école",
+     "Seulement les jeunes de plus de dix-huit ans qui ont fini l'école",
+     "Les enfants et les jeunes, les parents et les proches de l'enfant"
+    ],
+    "correct": 3,
+    "explanation": "Chaque enfant et chaque jeune de moins de dix-huit ans peut contacter l'OKaJu, tout comme les parents ou les tuteurs légaux et toute personne qui a une relation personnelle avec l'enfant. Les professionnels peuvent signaler une situation préoccupante sur une plateforme sécurisée. C'est gratuit et confidentiel."
+   },
+   {
+    "text": "Que peut faire l'OKaJu quand aucune solution à l'amiable n'est trouvée ?",
+    "options": [
+     "Il peut faire des recommandations, mais il ne peut pas imposer une décision",
+     "Il peut annuler la décision et ordonner au service d'en prendre une nouvelle",
+     "Il peut saisir le tribunal à la place de la famille de l'enfant",
+     "Il peut donner une amende à l'administration ou à l'institution concernée"
+    ],
+    "correct": 0,
+    "explanation": "L'OKaJu cherche une solution que tout le monde peut accepter. Si cela ne fonctionne pas, il peut faire des recommandations, avec un délai pour les mettre en pratique. Ce n'est pas un juge, il ne peut pas imposer une décision et il ne peut pas intervenir dans une affaire qui est déjà devant un tribunal."
+   }
+  ]
+ },
+ "de": {
+  "title": "Der Ombudsman und das OKaJu – Jemand, an den man sich wenden kann",
+  "description": "Eine Entscheidung einer Verwaltung, die Sie nicht verstehen, oder ein Kind, dessen Rechte nicht geachtet werden? Entdecken Sie zwei unabhängige und kostenlose Institutionen in Luxemburg: den Ombudsman (Médiateur), für Probleme mit öffentlichen Verwaltungen, und das OKaJu, den Ombudsman für Kinder und Jugendliche.",
+  "topics": [
+   "Was der Ombudsman macht",
+   "Unabhängig und kostenlos",
+   "Wer sich beschweren kann, und wann",
+   "Erster Schritt: an die Verwaltung schreiben",
+   "Grenzen und Fristen vor Gericht",
+   "Besuche an Orten des Freiheitsentzugs",
+   "Das OKaJu und die Kinderrechte",
+   "Wie man das OKaJu erreicht"
+  ],
+  "questions": [
+   {
+    "text": "In welcher Situation kann der Ombudsman Ihnen helfen?",
+    "options": [
+     "Sie sind mit einer Entscheidung einer Verwaltung nicht einverstanden",
+     "Sie haben einen Konflikt mit Ihrem Arbeitgeber wegen Ihres Gehalts",
+     "Sie haben einen Streit mit einem Nachbarn wegen eines Gartenzauns",
+     "Sie haben ein Problem mit Ihrer Bank wegen eines privaten Kredits"
+    ],
+    "correct": 0,
+    "explanation": "Der Ombudsman kümmert sich um Beschwerden über die Verwaltungen des Staates, die Gemeinden und die öffentlichen Einrichtungen, die von ihnen abhängen. Er kann nicht helfen bei einem Konflikt mit einem Nachbarn, einem Arbeitgeber, einer Bank, einem Unternehmen oder einer anderen Privatperson."
+   },
+   {
+    "text": "Was müssen Sie tun, bevor Sie eine Beschwerde an den Ombudsman schicken?",
+    "options": [
+     "Eine Anmeldegebühr im Büro Ihrer Gemeinde bezahlen",
+     "Selbst die Verwaltung kontaktieren, am besten schriftlich",
+     "Einen Anwalt bitten, vor dem Verwaltungsgericht zu klagen",
+     "Ein ganzes Jahr nach der Entscheidung der Verwaltung warten"
+    ],
+    "correct": 1,
+    "explanation": "Sie müssen zuerst selbst die Verwaltung kontaktieren, um eine Erklärung zu verlangen oder die Entscheidung anzufechten, am besten schriftlich und per Einschreiben. Wenn Sie nach einem Monat keine Antwort haben, oder wenn die Antwort Sie nicht zufriedenstellt, können Sie den Ombudsman kontaktieren."
+   },
+   {
+    "text": "Stoppt eine Beschwerde beim Ombudsman die Frist für den Weg vor Gericht?",
+    "options": [
+     "Ja, alle Fristen ruhen, bis der Ombudsman geantwortet hat",
+     "Ja, aber nur, wenn die Beschwerde per Einschreiben geschickt wurde",
+     "Nein, die Fristen für eine Klage vor Gericht laufen weiter",
+     "Nein, denn eine Klage vor Gericht ist danach nicht mehr möglich"
+    ],
+    "correct": 2,
+    "explanation": "Eine Beschwerde beim Ombudsman unterbricht die Rechtsmittelfristen nicht. Wenn Sie auch vor ein Gericht gehen möchten, müssen Sie das trotzdem rechtzeitig tun. Der Ombudsman ist kein Richter und ersetzt die Gerichte nicht."
+   },
+   {
+    "text": "Wer kann sich an das OKaJu wenden?",
+    "options": [
+     "Nur Eltern, die in Luxemburg wohnen und einen Anwalt genommen haben",
+     "Nur Lehrer und Erzieher, und zwar über den Direktor ihrer Schule",
+     "Nur Jugendliche über achtzehn Jahren, die die Schule beendet haben",
+     "Kinder und Jugendliche, Eltern und Menschen, die dem Kind nahestehen"
+    ],
+    "correct": 3,
+    "explanation": "Jedes Kind und jeder Jugendliche unter achtzehn Jahren kann sich an das OKaJu wenden, ebenso die Eltern oder gesetzlichen Vertreter und jede Person, die eine persönliche Beziehung zu dem Kind hat. Fachleute können eine besorgniserregende Situation über eine gesicherte Plattform melden. Das ist kostenlos und vertraulich."
+   },
+   {
+    "text": "Was kann das OKaJu tun, wenn keine gütliche Lösung gefunden wird?",
+    "options": [
+     "Es kann Empfehlungen geben, aber keine Entscheidung durchsetzen",
+     "Es kann die Entscheidung aufheben und eine neue Entscheidung anordnen",
+     "Es kann anstelle der Familie des Kindes vor Gericht klagen",
+     "Es kann der betroffenen Verwaltung oder Einrichtung eine Geldstrafe geben"
+    ],
+    "correct": 0,
+    "explanation": "Das OKaJu sucht eine Lösung, die alle annehmen können. Wenn das nicht gelingt, kann es Empfehlungen geben, mit einer Frist für die Umsetzung. Es ist kein Richter, es kann keine Entscheidung durchsetzen, und es kann nicht in einen Fall eingreifen, der schon vor einem Gericht liegt."
+   }
+  ]
+ }
+}

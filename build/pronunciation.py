@@ -17,7 +17,7 @@ OR = {"en": "or", "fr": "ou", "de": "oder", "lb": "oder"}
 EMERGENCY_112 = {"en": "one-one-two", "fr": "cent-douze", "de": "eins-eins-zwei"}
 
 # Acronyms said letter by letter -> written "C-N-S" so every voice spells them.
-LETTERS = ["CAE", "CCSS", "CNS", "FNS", "SNJ", "CNAP", "AAA", "DSP", "CGDIS", "CSU", "CIS", "CNIS", "INFS", "INFPC",
+LETTERS = ["CAE", "CCSS", "CET", "CNS", "FNS", "SNJ", "CNAP", "AAA", "DSP", "CGDIS", "CSU", "CIS", "CNIS", "INFS", "INFPC",
            "ASBL", "EBL", "ONE", "FNR", "LIH", "SES", "IMD", "FSE", "ESF", "GAP", "SIA", "ATVA", "OTP", "QR",
            "ID", "CV", "SMS", "GDP", "PIB", "BIP", "VAT", "TVA", "ATM", "AVC", "EU", "UE"]
 LETTERS_LANG = {"en": ["IT", "AI"], "fr": ["IA"], "de": ["IT", "KI"]}
@@ -55,7 +55,9 @@ NAMES = {
            (r"\b113\b", "one one three"),
            (r"(?i)\bdon ?du ?sang\b", "dawn dew sahn"),                     # dondusang ep: Jacques's A/B choice B (2026-11-20)
            (r"(?i)\bicanvote\b", "I can vote"),
-           (r"(?i)\bclubaktivplus\b", "Club Aktiv Plus")],                           # jepeuxvoter ep (2026-11-20)                         # website said the French way, A/B choice A (2026-11-13)
+           (r"(?i)\bclubaktivplus\b", "Club Aktiv Plus"),
+           (r"(?i)\bokaju\b", "Oh-kah-yoo")],   # ombudsman ep (2026-11-23): Luxembourgish "ju" = "you"; A/B file build/el_test/pron_okaju_en_AB.mp3 (option C), not yet chosen by Jacques
+    #jepeuxvoter ep (2026-11-20)                         # website said the French way, A/B choice A (2026-11-13)
     "fr": [(r"\bÄddi\b", "Addi"),                                             # no "Ä" in French
            (r"(?i)\bZukunftskeess\b", "Tsoukounftskéss"),                     # FR 1B
            (r"(?i)\bPensiounskeess\b", "Pènnsiounskéss"),                     # FR 2B
@@ -67,13 +69,17 @@ NAMES = {
            (r"\bBass du prett\b", "Bass dou prèt"),
            (r"(?i)\bdondusang\b", "don du sang"),                           # dondusang ep (2026-11-20)
            (r"(?i)\bjepeuxvoter\b", "je peux voter"),
-           (r"(?i)\bclubaktivplus\b", "Club Aktiv Plus")],                     # jepeuxvoter ep (2026-11-20)
+           (r"(?i)\bclubaktivplus\b", "Club Aktiv Plus"),
+           (r"(?i)\bokaju\b", "Okayou")],   # ombudsman ep (2026-11-23), check by ear
+    #jepeuxvoter ep (2026-11-20)
     "de": [(r"(?i)\bl[ëe]tz ?prepare\b", "Lets pripär"),                    # Lëtz prepare ep (2026-11-14), check by ear
            (r"\bLëtz\b", "Lets"),
            (r"\binfocrise\b", "Info-Kriis"),
            (r"(?i)\bdon ?du ?sang\b", "Don dü Sang"),                       # dondusang ep (2026-11-20), check by ear
            (r"(?i)\bichkannwaehlen\b", "ich kann wählen"),
-           (r"(?i)\bclubaktivplus\b", "Club Aktiv Plus")],                # jepeuxvoter ep (2026-11-20)
+           (r"(?i)\bclubaktivplus\b", "Club Aktiv Plus"),
+           (r"\bOKaJu\b", "Okaju")],   # ombudsman ep (2026-11-23): mixed capitals must not be spelled out
+    #                # jepeuxvoter ep (2026-11-20)
 }
 # Phone numbers written as plain numbers in the scripts -> read digit by digit.
 PHONE_NUMBERS = ["8002", "8181", "261210", "247-86000", "26 432 432"]  # 26 432 432: ala Alzheimer help line (fact-check 2026-11-09)
@@ -113,6 +119,8 @@ def rules(lang):
         (r"\bfns\b", "F-N-S"),
         # ccss.lu spelled out: "C-C-S-S dot L-U" (ccss ep, 2026-11-20)
         (r"\bccss\b", "C-C-S-S"),
+        # cet.lu (CET ep, 2026-11-23): "C-E-T dot L-U"; only before dot/point/Punkt, because "cet" is a French word
+        (r"\bcet(?= (?:dot|point|Punkt) )", "C-E-T"),
         # GouvID app (fact-check 2026-11-02): "Gouv I-D"
         (r"\bGouvID\b", "Gouv I-D"),
         # activitesseniors ep (2026-11-20): GERO departments read as two words; MEC asbl spelled out

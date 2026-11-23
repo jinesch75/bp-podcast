@@ -1,0 +1,215 @@
+{
+ "en": {
+  "title": "The CET – Equal Treatment for Everyone",
+  "description": "Have you been treated unfairly because of your origin, sex, sexual orientation, religion or beliefs, disability or age? Discover the CET, Luxembourg's independent Centre for Equal Treatment, and its website cet.lu: what discrimination means in the law, what the CET does, your rights, and how to report a case.",
+  "topics": [
+   "What the CET is",
+   "An independent college",
+   "Six grounds of discrimination",
+   "Where the protection applies",
+   "Forms of discrimination",
+   "Advice, opinions & studies",
+   "Your rights in court",
+   "Reporting on cet.lu"
+  ],
+  "questions": [
+   {
+    "text": "What is the CET, the Centre for Equal Treatment?",
+    "options": [
+     "An independent body that promotes equal treatment",
+     "A court that judges discrimination cases and sets the fines",
+     "A ministry office that gives residence permits to newcomers",
+     "A trade union that negotiates pay for workers in every sector"
+    ],
+    "correct": 0,
+    "explanation": "The CET was created by the law of 28 November 2006. It is an independent body whose task is to promote, analyse and monitor equal treatment between all persons, without discrimination. It is led by a college of five members."
+   },
+   {
+    "text": "For which of these reasons does the CET not handle complaints?",
+    "options": [
+     "Discrimination because of a person's age",
+     "Discrimination because of a person's nationality",
+     "Discrimination because of a person's disability",
+     "Discrimination because of a person's sexual orientation"
+    ],
+    "correct": 1,
+    "explanation": "The CET can act on six grounds: race or ethnic origin, sex, sexual orientation, religion or beliefs, disability, and age. The law also names nationality, but the CET's website says that it does not handle complaints based on nationality."
+   },
+   {
+    "text": "A rule is the same for everybody, but it puts certain people at a particular disadvantage, without an objective reason. What is this called?",
+    "options": [
+     "It is called direct discrimination",
+     "It is called professional secrecy",
+     "It is called indirect discrimination",
+     "It is called a national awareness campaign"
+    ],
+    "correct": 2,
+    "explanation": "Indirect discrimination means that a rule looks neutral but in reality puts certain people at a particular disadvantage. Such a rule can only be accepted if there is an objective reason for it and if it is appropriate and necessary to reach that aim."
+   },
+   {
+    "text": "Who can use the \"Report a discrimination\" form on cet.lu?",
+    "options": [
+     "Only people who have the Luxembourgish nationality",
+     "Only lawyers and associations acting for a client",
+     "Only employees with a written permission from their employer",
+     "Victims, and also people who witnessed a case"
+    ],
+    "correct": 3,
+    "explanation": "You can write to the CET as a victim, and also as a witness. Messages can be sent in Luxembourgish, German, French or English. You can also phone, send a letter or an email, and a visit in person is possible by appointment only."
+   },
+   {
+    "text": "Before a civil or administrative court, a person presents facts that suggest discrimination. What happens next?",
+    "options": [
+     "The other side must prove there was equal treatment",
+     "The CET takes the decision in the place of the judge",
+     "The person must pay a deposit before the case can go on",
+     "The case is automatically sent on to a criminal court"
+    ],
+    "correct": 0,
+    "explanation": "Before civil and administrative courts, the burden of proof is shared: once the person has presented facts that suggest discrimination, the other side must prove that equal treatment was respected. This rule does not apply in criminal proceedings."
+   }
+  ]
+ },
+ "fr": {
+  "title": "Le CET – L'égalité de traitement pour tous",
+  "description": "Avez-vous été traité de façon injuste à cause de votre origine, de votre sexe, de votre orientation sexuelle, de votre religion ou de vos convictions, d'un handicap ou de votre âge ? Découvrez le CET, le Centre pour l'égalité de traitement, organisme indépendant au Luxembourg, et son site cet.lu : ce que la loi entend par discrimination, ce que fait le CET, vos droits, et comment signaler un cas.",
+  "topics": [
+   "Ce qu'est le CET",
+   "Un collège indépendant",
+   "Six motifs de discrimination",
+   "Où la protection s'applique",
+   "Les formes de discrimination",
+   "Conseil, avis et études",
+   "Vos droits en justice",
+   "Signaler sur cet.lu"
+  ],
+  "questions": [
+   {
+    "text": "Qu'est-ce que le CET, le Centre pour l'égalité de traitement ?",
+    "options": [
+     "Un organisme indépendant qui promeut et surveille l'égalité de traitement",
+     "Un tribunal qui juge les cas de discrimination et fixe les amendes",
+     "Un bureau du ministère qui délivre les titres de séjour aux arrivants",
+     "Un syndicat qui négocie les salaires des travailleurs de tous les secteurs"
+    ],
+    "correct": 0,
+    "explanation": "Le CET a été créé par la loi du 28 novembre 2006. C'est un organisme indépendant dont la mission est de promouvoir, d'analyser et de surveiller l'égalité de traitement entre toutes les personnes, sans discrimination. Il est dirigé par un collège de cinq membres."
+   },
+   {
+    "text": "Pour lequel de ces motifs le CET ne traite-t-il pas les plaintes ?",
+    "options": [
+     "La discrimination à cause de l'âge d'une personne",
+     "La discrimination à cause de la nationalité d'une personne",
+     "La discrimination à cause du handicap d'une personne",
+     "La discrimination à cause de l'orientation sexuelle d'une personne"
+    ],
+    "correct": 1,
+    "explanation": "Le CET peut agir pour six motifs : la race ou l'origine ethnique, le sexe, l'orientation sexuelle, la religion ou les convictions, le handicap et l'âge. La loi cite aussi la nationalité, mais le site du CET précise qu'il ne traite pas les plaintes fondées sur la nationalité."
+   },
+   {
+    "text": "Une règle est la même pour tout le monde, mais elle désavantage particulièrement certaines personnes, sans raison objective. Comment cela s'appelle-t-il ?",
+    "options": [
+     "Cela s'appelle une discrimination directe",
+     "Cela s'appelle le secret professionnel",
+     "Cela s'appelle une discrimination indirecte",
+     "Cela s'appelle une campagne de sensibilisation"
+    ],
+    "correct": 2,
+    "explanation": "Il y a discrimination indirecte quand une règle a l'air neutre mais désavantage en réalité particulièrement certaines personnes. Une telle règle ne peut être acceptée que s'il existe une raison objective et si elle est appropriée et nécessaire pour atteindre ce but."
+   },
+   {
+    "text": "Qui peut utiliser le formulaire « Signalez une discrimination » sur cet.lu ?",
+    "options": [
+     "Seulement les personnes qui ont la nationalité luxembourgeoise",
+     "Seulement les avocats et les associations qui agissent pour un client",
+     "Seulement les salariés qui ont une autorisation écrite de leur employeur",
+     "Les victimes, et aussi les témoins d'une discrimination"
+    ],
+    "correct": 3,
+    "explanation": "Vous pouvez écrire au CET comme victime, et aussi comme témoin. Les messages peuvent être envoyés en luxembourgeois, en allemand, en français ou en anglais. Vous pouvez aussi téléphoner, envoyer une lettre ou un e-mail ; une visite sur place est possible uniquement sur rendez-vous."
+   },
+   {
+    "text": "Devant un tribunal civil ou administratif, une personne présente des faits qui laissent supposer une discrimination. Que se passe-t-il ensuite ?",
+    "options": [
+     "L'autre partie doit prouver qu'il y a eu égalité de traitement",
+     "Le CET prend la décision à la place du juge",
+     "La personne doit payer une caution pour que l'affaire continue",
+     "L'affaire est envoyée automatiquement devant un tribunal pénal"
+    ],
+    "correct": 0,
+    "explanation": "Devant les juridictions civiles et administratives, la charge de la preuve est partagée : une fois que la personne a présenté des faits qui laissent supposer une discrimination, c'est à l'autre partie de prouver que l'égalité de traitement a été respectée. Cette règle ne s'applique pas dans les procédures pénales."
+   }
+  ]
+ },
+ "de": {
+  "title": "Das CET – Gleichbehandlung für alle",
+  "description": "Wurden Sie wegen Ihrer Herkunft, Ihres Geschlechts, Ihrer sexuellen Orientierung, Ihrer Religion oder Ihres Glaubensbekenntnisses, einer Behinderung oder Ihres Alters ungerecht behandelt? Entdecken Sie das CET, das unabhängige Zentrum für Gleichbehandlung in Luxemburg, und seine Website cet.lu: was das Gesetz unter Diskriminierung versteht, was das CET tut, Ihre Rechte, und wie Sie einen Fall melden.",
+  "topics": [
+   "Was das CET ist",
+   "Ein unabhängiges Kollegium",
+   "Sechs Diskriminierungsmotive",
+   "Wo der Schutz gilt",
+   "Formen der Diskriminierung",
+   "Beratung, Stellungnahmen & Studien",
+   "Ihre Rechte vor Gericht",
+   "Melden auf cet.lu"
+  ],
+  "questions": [
+   {
+    "text": "Was ist das CET, das Zentrum für Gleichbehandlung?",
+    "options": [
+     "Eine unabhängige Einrichtung, die die Gleichbehandlung fördert",
+     "Ein Gericht, das über Diskriminierungsfälle urteilt und Geldstrafen festlegt",
+     "Ein Büro des Ministeriums, das Aufenthaltstitel für Neuankömmlinge ausstellt",
+     "Eine Gewerkschaft, die die Löhne der Arbeitnehmer aller Branchen aushandelt"
+    ],
+    "correct": 0,
+    "explanation": "Das CET wurde durch das Gesetz vom 28. November 2006 geschaffen. Es ist eine unabhängige Einrichtung mit der Aufgabe, die Gleichbehandlung aller Menschen zu fördern, zu analysieren und zu beobachten, ohne Diskriminierung. Es wird von einem Kollegium aus fünf Mitgliedern geleitet."
+   },
+   {
+    "text": "Für welchen dieser Gründe ist das CET bei Beschwerden nicht zuständig?",
+    "options": [
+     "Diskriminierung wegen des Alters einer Person",
+     "Diskriminierung wegen der Staatsangehörigkeit einer Person",
+     "Diskriminierung wegen der Behinderung einer Person",
+     "Diskriminierung wegen der sexuellen Orientierung einer Person"
+    ],
+    "correct": 1,
+    "explanation": "Das CET kann bei sechs Motiven tätig werden: Rasse oder ethnische Zugehörigkeit, Geschlecht, sexuelle Orientierung, Religion oder Glaubensbekenntnis, Behinderung und Alter. Das Gesetz nennt auch die Staatsangehörigkeit, aber laut der Website des CET ist es für Beschwerden wegen der Staatsangehörigkeit nicht zuständig."
+   },
+   {
+    "text": "Eine Regel ist für alle gleich, benachteiligt aber bestimmte Menschen besonders, ohne sachlichen Grund. Wie nennt man das?",
+    "options": [
+     "Das nennt man direkte Diskriminierung",
+     "Das nennt man das Berufsgeheimnis",
+     "Das nennt man indirekte Diskriminierung",
+     "Das nennt man eine Sensibilisierungskampagne"
+    ],
+    "correct": 2,
+    "explanation": "Indirekte Diskriminierung bedeutet, dass eine Regel neutral aussieht, aber in Wirklichkeit bestimmte Menschen besonders benachteiligt. Eine solche Regel kann nur erlaubt sein, wenn es einen sachlichen Grund dafür gibt und wenn sie angemessen und notwendig ist, um dieses Ziel zu erreichen."
+   },
+   {
+    "text": "Wer kann das Formular „Eine Diskriminierung melden“ auf cet.lu benutzen?",
+    "options": [
+     "Nur Personen, die die luxemburgische Staatsangehörigkeit haben",
+     "Nur Anwälte und Vereinigungen, die für einen Klienten handeln",
+     "Nur Angestellte mit einer schriftlichen Erlaubnis ihres Arbeitgebers",
+     "Opfer, und auch Zeugen, die es bei jemand anderem gesehen haben"
+    ],
+    "correct": 3,
+    "explanation": "Sie können dem CET als Opfer schreiben, und auch als Zeuge. Nachrichten können auf Luxemburgisch, Deutsch, Französisch oder Englisch geschickt werden. Sie können auch anrufen, einen Brief oder eine E-Mail schicken; ein persönlicher Besuch ist nur nach Vereinbarung möglich."
+   },
+   {
+    "text": "Vor einem Zivil- oder Verwaltungsgericht legt eine Person Tatsachen vor, die eine Diskriminierung vermuten lassen. Was passiert dann?",
+    "options": [
+     "Die andere Seite muss die Gleichbehandlung beweisen",
+     "Das CET trifft die Entscheidung an der Stelle des Richters",
+     "Die Person muss eine Kaution zahlen, damit das Verfahren weitergeht",
+     "Der Fall wird automatisch an ein Strafgericht weitergeleitet"
+    ],
+    "correct": 0,
+    "explanation": "Vor Zivil- und Verwaltungsgerichten ist die Beweislast geteilt: Sobald die Person Tatsachen vorgelegt hat, die eine Diskriminierung vermuten lassen, muss die andere Seite beweisen, dass die Gleichbehandlung eingehalten wurde. Diese Regel gilt nicht in Strafverfahren."
+   }
+  ]
+ }
+}
