@@ -1,0 +1,215 @@
+{
+ "en": {
+  "title": "The Health Mediator – Your Rights as a Patient",
+  "description": "A treatment nobody explained, a bill you do not understand, the feeling that a mistake was made: discover the Médiateur santé, Luxembourg's National Health Information and Mediation Service, and its website mediateursante.public.lu: your rights as a patient, how a health mediation works, and who helps with care across borders.",
+  "topics": [
+   "What the health mediator is",
+   "Rights and obligations of patients",
+   "Talking to your provider first",
+   "How a mediation works",
+   "The role of the mediator",
+   "When it is not the right address",
+   "Care across borders",
+   "The website mediateursante.public.lu"
+  ],
+  "questions": [
+   {
+    "text": "What is the health mediator (Médiateur santé)?",
+    "options": [
+     "An independent State service that informs and mediates in health matters",
+     "A private insurance company that pays back the costs of treatments",
+     "A court that judges the mistakes made by doctors and by hospitals",
+     "A hospital department that organises appointments with specialists"
+    ],
+    "correct": 0,
+    "explanation": "The National Health Information and Mediation Service is an independent service of the State, created by the law of 24 July 2014. It informs about rights in health care, mediates in conflicts between patients and providers, and is a contact point for cross-border care."
+   },
+   {
+    "text": "You have a problem with a treatment. What does the service advise you to do first?",
+    "options": [
+     "Send a written complaint to the Ministry of Health straight away",
+     "Talk directly with your provider, if possible in a separate appointment",
+     "Stop paying all the bills until the provider has apologised to you",
+     "Go to court with a lawyer before speaking with anybody else"
+    ],
+    "correct": 1,
+    "explanation": "A direct conversation very often solves a disagreement. The website suggests asking for a separate appointment for this subject. Hospitals and many other providers also have a person or service in charge of complaints."
+   },
+   {
+    "text": "Who decides on the solution in a health mediation?",
+    "options": [
+     "The mediator alone, after listening to the patient and the provider",
+     "A medical expert who is chosen and paid by the hospital concerned",
+     "The patient and the provider themselves, helped by the mediator",
+     "The National Health Fund, on the basis of the patient file"
+    ],
+    "correct": 2,
+    "explanation": "The mediator is not a judge and has no power to decide. The mediator listens to all sides equally and guides the dialogue. The agreement comes from the people themselves, and each of them is free to stop the mediation at any moment."
+   },
+   {
+    "text": "You disagree with a decision of the National Health Fund (CNS) about a reimbursement. Is the health mediator the right address?",
+    "options": [
+     "Yes, because the health mediator can change every decision of the CNS",
+     "Yes, but only if the treatment took place in a hospital in Luxembourg",
+     "No, because the health mediator only deals with questions from doctors",
+     "No, for such a decision you can turn to the Ombudsman or the social courts"
+    ],
+    "correct": 3,
+    "explanation": "The health mediation service is not the right contact for a disagreement with a decision of a social security body such as the CNS. For this, you can contact the Ombudsman, or go to the social courts."
+   },
+   {
+    "text": "Luxembourg has two national contact points for cross-border health care. Which ones?",
+    "options": [
+     "The Ministry of Foreign Affairs and the embassy of your country",
+     "The health mediation service and the National Health Fund (CNS)",
+     "The emergency service 112 and the pharmacy that is on duty",
+     "The communal administration and the hospital nearest to the border"
+    ],
+    "correct": 1,
+    "explanation": "The health mediation service informs patients, for example about the health system in Luxembourg, their rights and what to do in a disagreement. For reimbursement and prior authorisation of care abroad, the contact point is the CNS."
+   }
+  ]
+ },
+ "fr": {
+  "title": "Le Médiateur santé – Vos droits en tant que patient",
+  "description": "Un traitement que personne n'a expliqué, une facture que vous ne comprenez pas, l'impression qu'une erreur a été commise : découvrez le Médiateur santé, le Service national d'information et de médiation dans le domaine de la santé, et son site mediateursante.public.lu : vos droits en tant que patient, le déroulement d'une médiation en santé, et qui vous aide pour les soins transfrontaliers.",
+  "topics": [
+   "Ce qu'est le Médiateur santé",
+   "Droits et obligations des patients",
+   "D'abord parler avec son prestataire",
+   "Le déroulement d'une médiation",
+   "Le rôle du médiateur",
+   "Quand ce n'est pas le bon interlocuteur",
+   "Les soins transfrontaliers",
+   "Le site mediateursante.public.lu"
+  ],
+  "questions": [
+   {
+    "text": "Qu'est-ce que le Médiateur santé ?",
+    "options": [
+     "Un service indépendant de l'État qui informe et fait de la médiation en santé",
+     "Une compagnie d'assurance privée qui rembourse les frais des traitements",
+     "Un tribunal qui juge les erreurs commises par les médecins et les hôpitaux",
+     "Un service d'hôpital qui organise les rendez-vous chez les spécialistes"
+    ],
+    "correct": 0,
+    "explanation": "Le Service national d'information et de médiation dans le domaine de la santé est un service indépendant de l'État, créé par la loi du 24 juillet 2014. Il informe sur les droits dans le domaine de la santé, fait de la médiation dans les conflits entre patients et prestataires, et il est un point de contact pour les soins transfrontaliers."
+   },
+   {
+    "text": "Vous avez un problème avec un traitement. Que conseille le service en premier ?",
+    "options": [
+     "Envoyer tout de suite une plainte écrite au ministère de la Santé",
+     "Parler directement avec votre prestataire, si possible lors d'un rendez-vous séparé",
+     "Ne plus payer aucune facture tant que le prestataire ne s'est pas excusé",
+     "Aller au tribunal avec un avocat avant de parler avec qui que ce soit"
+    ],
+    "correct": 1,
+    "explanation": "Le dialogue direct permet très souvent de résoudre un différend. Le site propose de demander un rendez-vous séparé pour ce sujet. Les hôpitaux et beaucoup d'autres prestataires ont aussi une personne ou un service chargé des plaintes."
+   },
+   {
+    "text": "Qui décide de la solution dans une médiation en santé ?",
+    "options": [
+     "Le médiateur seul, après avoir écouté le patient et le prestataire",
+     "Un expert médical qui est choisi et payé par l'hôpital concerné",
+     "Le patient et le prestataire eux-mêmes, avec l'aide du médiateur",
+     "La Caisse nationale de santé, sur la base du dossier patient"
+    ],
+    "correct": 2,
+    "explanation": "Le médiateur n'est pas un juge et n'a aucun pouvoir de décision. Il écoute toutes les parties de la même manière et guide le dialogue. L'accord vient des personnes elles-mêmes, et chacune est libre de mettre fin à la médiation à tout moment."
+   },
+   {
+    "text": "Vous n'êtes pas d'accord avec une décision de la Caisse nationale de santé (CNS) sur un remboursement. Le Médiateur santé est-il le bon interlocuteur ?",
+    "options": [
+     "Oui, car le Médiateur santé peut modifier toutes les décisions de la CNS",
+     "Oui, mais seulement si le traitement a eu lieu dans un hôpital au Luxembourg",
+     "Non, car le Médiateur santé ne traite que les questions des médecins",
+     "Non, pour une telle décision il y a l'Ombudsman ou les juridictions sociales"
+    ],
+    "correct": 3,
+    "explanation": "Le service n'est pas le bon interlocuteur pour un désaccord avec une décision d'un organisme de sécurité sociale comme la CNS. Pour cela, vous pouvez contacter l'Ombudsman, ou saisir les juridictions sociales."
+   },
+   {
+    "text": "Le Luxembourg a deux points de contact nationaux pour les soins de santé transfrontaliers. Lesquels ?",
+    "options": [
+     "Le ministère des Affaires étrangères et l'ambassade de votre pays",
+     "Le service de médiation santé et la Caisse nationale de santé (CNS)",
+     "Le service d'urgence 112 et la pharmacie qui est de garde",
+     "L'administration communale et l'hôpital le plus proche de la frontière"
+    ],
+    "correct": 1,
+    "explanation": "Le service de médiation santé informe les patients, par exemple sur le système de santé au Luxembourg, sur leurs droits et sur ce qu'il faut faire en cas de différend. Pour le remboursement et l'autorisation préalable de soins à l'étranger, le point de contact est la CNS."
+   }
+  ]
+ },
+ "de": {
+  "title": "Der Mediator für das Gesundheitswesen – Ihre Rechte als Patient",
+  "description": "Eine Behandlung, die niemand erklärt hat, eine Rechnung, die Sie nicht verstehen, das Gefühl, dass ein Fehler gemacht wurde: Entdecken Sie den Médiateur santé, die Nationale Informations- und Mediationsstelle im Gesundheitswesen, und ihre Internetseite mediateursante.public.lu: Ihre Rechte als Patient, den Ablauf einer Mediation, und wer bei der Versorgung über die Grenzen hinweg hilft.",
+  "topics": [
+   "Was der Mediator für das Gesundheitswesen ist",
+   "Rechte und Pflichten der Patienten",
+   "Zuerst mit dem Dienstleister sprechen",
+   "Der Ablauf einer Mediation",
+   "Die Rolle des Mediators",
+   "Wann er nicht der richtige Ansprechpartner ist",
+   "Grenzüberschreitende Versorgung",
+   "Die Internetseite mediateursante.public.lu"
+  ],
+  "questions": [
+   {
+    "text": "Was ist der Mediator für das Gesundheitswesen (Médiateur santé)?",
+    "options": [
+     "Eine unabhängige staatliche Stelle, die im Gesundheitswesen informiert und vermittelt",
+     "Eine private Versicherungsgesellschaft, die die Kosten von Behandlungen erstattet",
+     "Ein Gericht, das über die Fehler von Ärzten und von Krankenhäusern urteilt",
+     "Eine Abteilung im Krankenhaus, die Termine bei Fachärzten organisiert"
+    ],
+    "correct": 0,
+    "explanation": "Die Nationale Informations- und Mediationsstelle im Gesundheitswesen ist eine unabhängige staatliche Stelle, geschaffen durch das Gesetz vom 24. Juli 2014. Sie informiert über die Rechte im Gesundheitswesen, vermittelt bei Streitigkeiten zwischen Patienten und Dienstleistern und ist eine Kontaktstelle für die grenzüberschreitende Versorgung."
+   },
+   {
+    "text": "Sie haben ein Problem mit einer Behandlung. Was rät die Stelle zuerst?",
+    "options": [
+     "Sofort eine schriftliche Beschwerde an das Gesundheitsministerium schicken",
+     "Direkt mit Ihrem Dienstleister sprechen, möglichst in einem eigenen Termin",
+     "Keine Rechnung mehr bezahlen, bis sich der Dienstleister entschuldigt hat",
+     "Mit einem Anwalt vor Gericht gehen, bevor Sie mit jemandem sprechen"
+    ],
+    "correct": 1,
+    "explanation": "Ein direktes Gespräch löst sehr oft eine Meinungsverschiedenheit. Die Internetseite schlägt vor, um einen eigenen Termin für dieses Thema zu bitten. Krankenhäuser und viele andere Dienstleister haben auch eine Person oder einen Dienst für Beschwerden."
+   },
+   {
+    "text": "Wer entscheidet in einer Mediation im Gesundheitsbereich über die Lösung?",
+    "options": [
+     "Der Mediator allein, nachdem er Patient und Dienstleister angehört hat",
+     "Ein medizinischer Experte, den das betroffene Krankenhaus auswählt und bezahlt",
+     "Der Patient und der Dienstleister selbst, mit der Hilfe des Mediators",
+     "Die Nationale Gesundheitskasse, auf der Grundlage der Patientenakte"
+    ],
+    "correct": 2,
+    "explanation": "Der Mediator ist kein Richter und hat keine Entscheidungsbefugnis. Er hört allen Seiten gleich zu und begleitet den Dialog. Die Einigung kommt von den Menschen selbst, und jeder von ihnen kann die Mediation jederzeit beenden."
+   },
+   {
+    "text": "Sie sind mit einer Entscheidung der Nationalen Gesundheitskasse (CNS) über eine Erstattung nicht einverstanden. Ist der Mediator für das Gesundheitswesen der richtige Ansprechpartner?",
+    "options": [
+     "Ja, denn der Mediator kann jede Entscheidung der CNS selbst ändern",
+     "Ja, aber nur wenn die Behandlung in einem Krankenhaus in Luxemburg stattfand",
+     "Nein, denn der Mediator behandelt nur die Fragen von Ärzten und Zahnärzten",
+     "Nein, dafür können Sie sich an den Ombudsman oder die Sozialgerichte wenden"
+    ],
+    "correct": 3,
+    "explanation": "Die Stelle ist nicht der richtige Ansprechpartner, wenn Sie mit einer Entscheidung einer Einrichtung der sozialen Sicherheit wie der CNS nicht einverstanden sind. Dafür können Sie sich an den Ombudsman wenden, oder an die Sozialgerichte."
+   },
+   {
+    "text": "Luxemburg hat zwei nationale Kontaktstellen für die grenzüberschreitende Gesundheitsversorgung. Welche?",
+    "options": [
+     "Das Außenministerium und die Botschaft Ihres Herkunftslandes in Luxemburg",
+     "Die Mediationsstelle im Gesundheitswesen und die Nationale Gesundheitskasse (CNS)",
+     "Den Notruf 112 und die Apotheke, die gerade Bereitschaftsdienst hat",
+     "Die Gemeindeverwaltung und das Krankenhaus, das der Grenze am nächsten liegt"
+    ],
+    "correct": 1,
+    "explanation": "Die Mediationsstelle informiert Patienten, zum Beispiel über das Gesundheitssystem in Luxemburg, über ihre Rechte und darüber, was bei einer Meinungsverschiedenheit zu tun ist. Für die Erstattung und die vorherige Genehmigung einer Behandlung im Ausland ist die CNS die Kontaktstelle."
+   }
+  ]
+ }
+}

@@ -17,7 +17,7 @@ OR = {"en": "or", "fr": "ou", "de": "oder", "lb": "oder"}
 EMERGENCY_112 = {"en": "one-one-two", "fr": "cent-douze", "de": "eins-eins-zwei"}
 
 # Acronyms said letter by letter -> written "C-N-S" so every voice spells them.
-LETTERS = ["CNPD", "GDPR", "RGPD", "DSGVO", "CAE", "CCSS", "CET", "ULC", "CEC", "CNS", "FNS", "SNJ", "CNAP", "AAA", "DSP", "CGDIS", "CSU", "CIS", "CNIS", "INFS", "INFPC",
+LETTERS = ["KJT", "CJF", "CNPD", "GDPR", "RGPD", "DSGVO", "CAE", "CCSS", "CET", "ULC", "CEC", "CNS", "FNS", "SNJ", "CNAP", "AAA", "DSP", "CGDIS", "CSU", "CIS", "CNIS", "INFS", "INFPC",
            "ASBL", "EBL", "ONE", "FNR", "LIH", "SES", "IMD", "FSE", "ESF", "GAP", "SIA", "ATVA", "OTP", "QR",
            "ID", "CV", "SMS", "GDP", "PIB", "BIP", "VAT", "TVA", "ATM", "AVC", "EU", "UE"]
 LETTERS_LANG = {"en": ["IT", "AI"], "fr": ["IA"], "de": ["IT", "KI"]}
@@ -56,6 +56,7 @@ NAMES = {
            (r"(?i)\bdon ?du ?sang\b", "dawn dew sahn"),                     # dondusang ep: Jacques's A/B choice B (2026-11-20)
            (r"(?i)\bicanvote\b", "I can vote"),
            (r"(?i)\bclubaktivplus\b", "Club Aktiv Plus"),
+           (r"\bKanner-Jugendtelefon\b", "Kanner-Yoogunt-telefon"),   # KJT ep (2026-11-24), not A/B tested: check by ear
            (r"\bHowald\b", "Hoh-wald"),   # consommateurs ep: Jacques 2026-11-24 "HO-WALD", Wald as in Waldorf (A/B build/el_test/pron_howald_en_AB.mp3, B used)
            (r"(?i)\bokaju\b", "Oka-joo")],   # ombudsman ep: Jacques 2026-11-23 "OKA-JUU", J as in "juice" (was "Oh-kah-yoo")
     #jepeuxvoter ep (2026-11-20)                         # website said the French way, A/B choice A (2026-11-13)
@@ -68,6 +69,8 @@ NAMES = {
            (r"(?i)\bl[ëe]tz ?prepare\b", "Lets pri-pair"),                   # Lëtz prepare ep (2026-11-14), check by ear
            (r"\bLëtz\b", "Lets"),
            (r"\bBass du prett\b", "Bass dou prèt"),
+           (r"\bKanner-Jugendtelefon\b", "Kanneur-Youguènnt-téléfone"),   # KJT ep (2026-11-24), not A/B tested: check by ear
+           (r"\bElterentelefon\b", "Elteurènn-téléfone"),
            (r"(?i)\bdondusang\b", "don du sang"),                           # dondusang ep (2026-11-20)
            (r"(?i)\bjepeuxvoter\b", "je peux voter"),
            (r"(?i)\bclubaktivplus\b", "Club Aktiv Plus"),
@@ -122,11 +125,15 @@ def rules(lang):
         (r"\bccss\b", "C-C-S-S"),
         # cnpd.lu (CNPD ep, 2026-11-24): "C-N-P-D dot L-U"
         (r"\bcnpd\b", "C-N-P-D"),
+        # kjt.lu (KJT ep, 2026-11-24): "K-J-T dot L-U"
+        (r"\bkjt\b", "K-J-T"),
         # cet.lu (CET ep, 2026-11-23): "C-E-T dot L-U"; only before dot/point/Punkt, because "cet" is a French word
         (r"\bcet(?= (?:dot|point|Punkt) )", "C-E-T"),
         # consommateurs ep (2026-11-24): ulc.lu -> "U-L-C dot L-U", cecluxembourg.lu -> "C-E-C Luxembourg dot L-U"
         (r"\bulc(?= (?:dot|point|Punkt) )", "U-L-C"),
         (r"\bcecluxembourg\b", "C-E-C Luxembourg"),
+        # mediateursante ep (2026-11-24): mediateursante.public.lu -> "médiateur santé dot public dot L-U" (French words said the French way)
+        (r"\bmediateursante\b", "médiateur santé"),
         # GouvID app (fact-check 2026-11-02): "Gouv I-D"
         (r"\bGouvID\b", "Gouv I-D"),
         # activitesseniors ep (2026-11-20): GERO departments read as two words; MEC asbl spelled out
@@ -149,6 +156,12 @@ def rules(lang):
     if lang == "en":   # GERO is said "Jero" (Jacques, 2026-11-20); English only so far
         r += [(r"\bGERO\b", "Jero"), (r"\bgero (Aktiv|Pro|Research)\b", r"Jero \1")]
     if lang in DIGITS:
+        # KJT ep (2026-11-24): helpline numbers digit by digit, with a small pause between the two groups
+        if lang == "fr":   # like "cent-douze" for 112: three "un" in a row were not clearly audible
+            r.append((r"\b116 111\b", "cent seize, cent onze"))
+        for num in ("116 111", "8002 4444", "8002 1234"):
+            g1, g2 = num.split()
+            r.append((r"\b" + num + r"\b", " ".join(DIGITS[lang][int(c)] for c in g1) + ", " + " ".join(DIGITS[lang][int(c)] for c in g2)))
         r.append((r"\b\d(?:-\d)+\b", _digits(lang)))                      # 2-4-7, 8-0-0-2
         r.append((r"\b(?:" + "|".join(PHONE_NUMBERS) + r")\b", _digits(lang)))
     return r
