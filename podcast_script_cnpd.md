@@ -12,7 +12,7 @@
 **TOM:** Think about an ordinary day. You use a loyalty card in a shop, you order something online, you open an app on your phone, and you fill in a form at the doctor's.
 **ANNA:** And each time, you leave a little information about yourself: your name, your address, what you buy, and sometimes even something about your health.
 **TOM:** All of this is personal data. And in Luxembourg, there is an authority that checks how such data is used: the CNPD.
-**ANNA:** In English, it is called the National Commission for Data Protection. The four letters come from its French name: Commission nationale pour la protection des données.
+**ANNA:** In English, it is called the National Commission for Data Protection.
 **TOM:** Today, we look at the rights that you have over your own data, and at what you can do when they are not respected. So what kind of organisation is the CNPD?
 **ANNA:** It is an independent public institution. It checks that personal data is processed in a lawful way, and it protects the freedoms and fundamental rights of people when it comes to data protection and privacy.
 **TOM:** And which rules does the CNPD supervise in its daily work?

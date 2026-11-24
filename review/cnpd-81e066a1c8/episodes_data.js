@@ -6,7 +6,7 @@ const EPISODES = [
   "title": "The CNPD – Your Data Protection Rights",
   "description": "Shops, apps, administrations: many organisations use your personal data. Discover the CNPD, Luxembourg's National Commission for Data Protection, and its website cnpd.lu: the rights the GDPR gives you, how to use them with an organisation, and how to lodge a complaint when they are not respected.",
   "audio": "../../podcast_cnpd.mp3",
-  "duration": 770.22,
+  "duration": 764.5,
   "topics": [
    "What the CNPD is",
    "The GDPR in a few words",
@@ -79,769 +79,764 @@ const EPISODES = [
     "t": 53.59
    },
    {
-    "speaker": "Anna",
-    "text": "The four letters come from its French name: Commission nationale pour la protection des données.",
-    "t": 57.5
-   },
-   {
     "speaker": "Tom",
     "text": "Today, we look at the rights that you have over your own data, and at what you can do when they are not respected.",
-    "t": 63.38
+    "t": 57.65
    },
    {
     "speaker": "Tom",
     "text": "So what kind of organisation is the CNPD?",
-    "t": 70.59
+    "t": 64.86
    },
    {
     "speaker": "Anna",
     "text": "It is an independent public institution.",
-    "t": 73.62
+    "t": 67.89
    },
    {
     "speaker": "Anna",
     "text": "It checks that personal data is processed in a lawful way, and it protects the freedoms and fundamental rights of people when it comes to data protection and privacy.",
-    "t": 76.18
+    "t": 70.45
    },
    {
     "speaker": "Tom",
     "text": "And which rules does the CNPD supervise in its daily work?",
-    "t": 86.23
+    "t": 80.5
    },
    {
     "speaker": "Anna",
     "text": "The best known one is a European regulation, the General Data Protection Regulation.",
-    "t": 89.7
+    "t": 83.97
    },
    {
     "speaker": "Anna",
     "text": "Most people simply say GDPR.",
-    "t": 94.58
+    "t": 88.85
    },
    {
     "speaker": "Anna",
     "text": "It has applied directly in all Member States of the European Union since 25 May 2018.",
-    "t": 97.26
+    "t": 91.53
    },
    {
     "speaker": "Tom",
     "text": "So people who live in Luxembourg and people who cross the border to work here are protected by the same regulation.",
-    "t": 103.45
+    "t": 97.72
    },
    {
     "speaker": "Anna",
     "text": "Yes, because the regulation is the same in all of these countries.",
-    "t": 110.11
+    "t": 104.38
    },
    {
     "speaker": "Anna",
     "text": "In Luxembourg, there are also national laws, for example a law of 1 August 2018 that organises the CNPD.",
-    "t": 114.02
+    "t": 108.29
    },
    {
     "speaker": "Tom",
     "text": "Is there anything that the CNPD does not supervise?",
-    "t": 122.79
+    "t": 117.06
    },
    {
     "speaker": "Anna",
     "text": "Yes, there is one clear limit.",
-    "t": 126.04
+    "t": 120.31
    },
    {
     "speaker": "Anna",
     "text": "It does not supervise the data processing of the courts when they do their work as judges, and that includes the public prosecutor's office.",
-    "t": 127.94
+    "t": 122.21
    },
    {
     "speaker": "Tom",
     "text": "Before we come to the rights, here is one expression that you will read again and again on the website: the data controller.",
-    "t": 136.44
+    "t": 130.71
    },
    {
     "speaker": "Tom",
     "text": "That is simply the organisation that processes your data, or on whose behalf it is processed.",
-    "t": 143.48
+    "t": 137.75
    },
    {
     "speaker": "Tom",
     "text": "It can be a company or a public body.",
-    "t": 148.73
+    "t": 143
    },
    {
     "speaker": "Anna",
     "text": "So what can I ask from such a data controller?",
-    "t": 150.97
+    "t": 145.24
    },
    {
     "speaker": "Tom",
     "text": "The website of the CNPD presents your rights one by one.",
-    "t": 153.75
+    "t": 148.02
    },
    {
     "speaker": "Tom",
     "text": "The first is the right to information.",
-    "t": 157.52
+    "t": 151.79
    },
    {
     "speaker": "Tom",
     "text": "When an organisation collects your data, it must tell you who it is, why it needs the data, and how long it will keep it.",
-    "t": 159.72
+    "t": 153.99
    },
    {
     "speaker": "Anna",
     "text": "Does it have to say this in legal language that nobody understands?",
-    "t": 166.1
+    "t": 160.37
    },
    {
     "speaker": "Tom",
     "text": "No, it is the opposite.",
-    "t": 170.35
+    "t": 164.62
    },
    {
     "speaker": "Tom",
     "text": "The information must be easy to find, easy to understand, and written in clear and simple words.",
-    "t": 171.87
+    "t": 166.14
    },
    {
     "speaker": "Anna",
     "text": "And what if the organisation did not get the data from me, but from somebody else?",
-    "t": 176.85
+    "t": 171.12
    },
    {
     "speaker": "Tom",
     "text": "Then it must still inform you within a reasonable time, and as a rule within one month at the latest.",
-    "t": 181.81
+    "t": 176.08
    },
    {
     "speaker": "Anna",
     "text": "The second right is the right of access, and it is a very practical one.",
-    "t": 187.38
+    "t": 181.65
    },
    {
     "speaker": "Anna",
     "text": "You can ask an organisation whether it holds data about you.",
-    "t": 191.7
+    "t": 185.97
    },
    {
     "speaker": "Anna",
     "text": "If it does, you can get a copy of this data, and an explanation of how it is used.",
-    "t": 195.35
+    "t": 189.62
    },
    {
     "speaker": "Tom",
     "text": "Which details does the organisation have to give me?",
-    "t": 200.7
+    "t": 194.97
    },
    {
     "speaker": "Anna",
     "text": "For example, which kinds of data it has, why it uses them, how long it keeps them, and who has received them.",
-    "t": 203.69
+    "t": 197.96
    },
    {
     "speaker": "Anna",
     "text": "If the data did not come from you, it must also say where it comes from.",
-    "t": 210.63
+    "t": 204.9
    },
    {
     "speaker": "Tom",
     "text": "Do I have to pay to receive this copy?",
-    "t": 215.11
+    "t": 209.38
    },
    {
     "speaker": "Anna",
     "text": "In principle, it is free.",
-    "t": 217.14
+    "t": 211.41
    },
    {
     "speaker": "Anna",
     "text": "An organisation may only ask for a fee, or refuse, when requests are clearly unfounded or excessive, for example when someone repeats the same request again and again.",
-    "t": 219.15
+    "t": 213.42
    },
    {
     "speaker": "Tom",
     "text": "And how long can the organisation take to answer?",
-    "t": 230.53
+    "t": 224.8
    },
    {
     "speaker": "Anna",
     "text": "It must answer within one month.",
-    "t": 233.14
+    "t": 227.41
    },
    {
     "speaker": "Anna",
     "text": "If the request is complex, it can take up to two more months, but then it has to tell you why.",
-    "t": 235.03
+    "t": 229.3
    },
    {
     "speaker": "Tom",
     "text": "Once you have seen your data, you may notice a mistake.",
-    "t": 240.18
+    "t": 234.45
    },
    {
     "speaker": "Tom",
     "text": "That is where the right to rectification comes in.",
-    "t": 243.93
+    "t": 238.2
    },
    {
     "speaker": "Tom",
     "text": "If data about you is wrong, incomplete or out of date, you can ask for a correction.",
-    "t": 246.79
+    "t": 241.06
    },
    {
     "speaker": "Anna",
     "text": "Can I also ask for my data to be deleted completely?",
-    "t": 252.37
+    "t": 246.64
    },
    {
     "speaker": "Tom",
     "text": "Yes, that is the right to erasure, which many people call the right to be forgotten.",
-    "t": 255.87
+    "t": 250.14
    },
    {
     "speaker": "Tom",
     "text": "You can use it when there is no longer a reason to process your data.",
-    "t": 260.69
+    "t": 254.96
    },
    {
     "speaker": "Anna",
     "text": "Could you give us one or two examples?",
-    "t": 264.21
+    "t": 258.48
    },
    {
     "speaker": "Tom",
     "text": "The website gives several.",
-    "t": 266.52
+    "t": 260.79
    },
    {
     "speaker": "Tom",
     "text": "You close your account on a fitness app, so the data is no longer needed.",
-    "t": 268.15
+    "t": 262.42
    },
    {
     "speaker": "Tom",
     "text": "Or you unsubscribe from a newsletter, so you take back your consent.",
-    "t": 271.89
+    "t": 266.16
    },
    {
     "speaker": "Anna",
     "text": "I suppose that this right also has its limits.",
-    "t": 276.08
+    "t": 270.35
    },
    {
     "speaker": "Tom",
     "text": "Yes, it has limits, because an organisation can keep data when a law obliges it to do so, when the data is needed for freedom of expression and information, or when it is needed to defend a legal claim.",
-    "t": 279.04
+    "t": 273.31
    },
    {
     "speaker": "Anna",
     "text": "There is a related right with a difficult name: de-referencing.",
-    "t": 292.33
+    "t": 286.6
    },
    {
     "speaker": "Anna",
     "text": "It is about search engines.",
-    "t": 296.66
+    "t": 290.93
    },
    {
     "speaker": "Anna",
     "text": "You can ask a search engine to remove certain results that appear when someone types your first name and your surname.",
-    "t": 298.55
+    "t": 292.82
    },
    {
     "speaker": "Tom",
     "text": "Does that also delete the original page on the internet?",
-    "t": 305.15
+    "t": 299.42
    },
    {
     "speaker": "Anna",
     "text": "No, the content stays on the website that published it, and only the link in the search results disappears.",
-    "t": 308.11
+    "t": 302.38
    },
    {
     "speaker": "Anna",
     "text": "This right is not absolute either, because it is weighed against freedom of expression and information.",
-    "t": 315.08
+    "t": 309.35
    },
    {
     "speaker": "Tom",
     "text": "Then there is the right to object.",
-    "t": 321.17
+    "t": 315.44
    },
    {
     "speaker": "Tom",
     "text": "You can say no to a certain use of your data, for reasons linked to your particular situation, and you explain these reasons to the organisation.",
-    "t": 322.99
+    "t": 317.26
    },
    {
     "speaker": "Anna",
     "text": "What about advertising, for example a newsletter from an online shop?",
-    "t": 331.01
+    "t": 325.28
    },
    {
     "speaker": "Tom",
     "text": "For advertising, it is even easier.",
-    "t": 335.38
+    "t": 329.65
    },
    {
     "speaker": "Tom",
     "text": "You can object to the use of your data for commercial prospecting at any time, and you do not have to give any reason.",
-    "t": 337.58
+    "t": 331.85
    },
    {
     "speaker": "Anna",
     "text": "Sometimes I do not want my data to be deleted, but I do not want it to be used either.",
-    "t": 344.12
+    "t": 338.39
    },
    {
     "speaker": "Anna",
     "text": "Is there something in between?",
-    "t": 349.55
+    "t": 343.82
    },
    {
     "speaker": "Tom",
     "text": "Yes, that is the right to restriction of processing.",
-    "t": 351.46
+    "t": 345.73
    },
    {
     "speaker": "Tom",
     "text": "Imagine that you say your data is wrong.",
-    "t": 354.31
+    "t": 348.58
    },
    {
     "speaker": "Tom",
     "text": "While the organisation checks this, it may not use the data.",
-    "t": 356.58
+    "t": 350.85
    },
    {
     "speaker": "Anna",
     "text": "Two rights are left, and they sound a little more technical.",
-    "t": 360.35
+    "t": 354.62
    },
    {
     "speaker": "Anna",
     "text": "The first is data portability.",
-    "t": 363.46
+    "t": 357.73
    },
    {
     "speaker": "Anna",
     "text": "You can receive the data that you gave to an organisation in a common format that a computer can read, and you can have it sent to another organisation.",
-    "t": 365.7
+    "t": 359.97
    },
    {
     "speaker": "Tom",
     "text": "That sounds useful when I move from one provider to another.",
-    "t": 374.67
+    "t": 368.94
    },
    {
     "speaker": "Anna",
     "text": "That is the idea, and it applies to data that is processed by automated means, on the basis of your consent or of a contract.",
-    "t": 377.72
+    "t": 371.99
    },
    {
     "speaker": "Tom",
     "text": "And what is the last right on the list about?",
-    "t": 386.28
+    "t": 380.55
    },
    {
     "speaker": "Anna",
     "text": "It is about decisions that are taken only by a computer, without any human being.",
-    "t": 388.35
+    "t": 382.62
    },
    {
     "speaker": "Anna",
     "text": "The website gives the example of a bank that refuses a loan because the system said no.",
-    "t": 393.86
+    "t": 388.13
    },
    {
     "speaker": "Tom",
     "text": "What can I do in that situation?",
-    "t": 399.23
+    "t": 393.5
    },
    {
     "speaker": "Anna",
     "text": "You can ask for an explanation of the logic behind the decision, you can give your point of view, and if necessary you can contest the decision.",
-    "t": 401.09
+    "t": 395.36
    },
    {
     "speaker": "Tom",
     "text": "Now comes the practical question: how do you use these rights?",
-    "t": 410.54
+    "t": 404.81
    },
    {
     "speaker": "Tom",
     "text": "The first step is always the same.",
-    "t": 414.79
+    "t": 409.06
    },
    {
     "speaker": "Tom",
     "text": "You contact the organisation itself, the data controller.",
-    "t": 416.92
+    "t": 411.19
    },
    {
     "speaker": "Anna",
     "text": "Where do I find the right contact address?",
-    "t": 420.17
+    "t": 414.44
    },
    {
     "speaker": "Tom",
     "text": "Usually on the website of the organisation, in its privacy notice or data protection notice.",
-    "t": 422.64
+    "t": 416.91
    },
    {
     "speaker": "Tom",
     "text": "Some organisations also have a special form, or a personal space where you can see your data directly.",
-    "t": 428.1
+    "t": 422.37
    },
    {
     "speaker": "Anna",
     "text": "Is it enough to make a phone call?",
-    "t": 434.64
+    "t": 428.91
    },
    {
     "speaker": "Tom",
     "text": "It is better to make your request in writing, by letter, by email or with the form of the organisation.",
-    "t": 436.95
+    "t": 431.22
    },
    {
     "speaker": "Tom",
     "text": "The CNPD also offers model letters on its website, for example for the right of access.",
-    "t": 443.75
+    "t": 438.02
    },
    {
     "speaker": "Anna",
     "text": "Do I have to send a copy of my identity card with my request?",
-    "t": 449.4
+    "t": 443.67
    },
    {
     "speaker": "Tom",
     "text": "No, not automatically, because the organisation may ask for proof of identity only if it has reasonable doubts about who you are.",
-    "t": 453.01
+    "t": 447.28
    },
    {
     "speaker": "Tom",
     "text": "Often, your email address or your customer number is enough.",
-    "t": 462.18
+    "t": 456.45
    },
    {
     "speaker": "Anna",
     "text": "Now imagine that the deadline passes and nothing happens.",
-    "t": 465.63
+    "t": 459.9
    },
    {
     "speaker": "Anna",
     "text": "Or you receive an answer, and you are not satisfied with it.",
-    "t": 469.19
+    "t": 463.46
    },
    {
     "speaker": "Anna",
     "text": "Then you can lodge a complaint with the CNPD.",
-    "t": 472.83
+    "t": 467.1
    },
    {
     "speaker": "Tom",
     "text": "And how do you lodge such a complaint?",
-    "t": 475.96
+    "t": 470.23
    },
    {
     "speaker": "Anna",
     "text": "The CNPD recommends its online complaint form, which you find on its website.",
-    "t": 478.07
+    "t": 472.34
    },
    {
     "speaker": "Anna",
     "text": "You can also print the form, fill it in by hand and send it by post.",
-    "t": 483.43
+    "t": 477.7
    },
    {
     "speaker": "Tom",
     "text": "What should I add to the form?",
-    "t": 487.7
+    "t": 481.97
    },
    {
     "speaker": "Anna",
     "text": "You attach the documents that show what you have already done, for example your letter to the organisation and its answer.",
-    "t": 489.34
+    "t": 483.61
    },
    {
     "speaker": "Tom",
     "text": "Once your complaint has arrived, the CNPD first checks whether it is justified.",
-    "t": 496.33
+    "t": 490.6
    },
    {
     "speaker": "Tom",
     "text": "If the rules were broken, it first tries to put the situation right.",
-    "t": 501.22
+    "t": 495.49
    },
    {
     "speaker": "Anna",
     "text": "And what if the organisation still does not follow the rules?",
-    "t": 505.24
+    "t": 499.51
    },
    {
     "speaker": "Tom",
     "text": "Then the CNPD has real powers.",
-    "t": 508.82
+    "t": 503.09
    },
    {
     "speaker": "Tom",
     "text": "It can order an organisation to answer your request, to correct or erase data, or to stop a processing.",
-    "t": 511.22
+    "t": 505.49
    },
    {
     "speaker": "Tom",
     "text": "It can also impose administrative fines.",
-    "t": 516.98
+    "t": 511.25
    },
    {
     "speaker": "Anna",
     "text": "Can it also carry out checks inside an organisation?",
-    "t": 519.47
+    "t": 513.74
    },
    {
     "speaker": "Tom",
     "text": "Yes, it has investigative powers.",
-    "t": 522.75
+    "t": 517.02
    },
    {
     "speaker": "Tom",
     "text": "It can demand information, carry out data protection audits, and enter the premises of an organisation, according to the procedures set by law.",
-    "t": 524.77
+    "t": 519.04
    },
    {
     "speaker": "Anna",
     "text": "Will I be told what happens with my complaint?",
-    "t": 533.34
+    "t": 527.61
    },
    {
     "speaker": "Tom",
     "text": "Yes, one of its duties is to keep the person who complained informed about the progress and the outcome.",
-    "t": 535.87
+    "t": 530.14
    },
    {
     "speaker": "Anna",
     "text": "Some data is very sensitive, for example data held by the police.",
-    "t": 541.84
+    "t": 536.11
    },
    {
     "speaker": "Anna",
     "text": "Do I have rights there too?",
-    "t": 545.89
+    "t": 540.16
    },
    {
     "speaker": "Tom",
     "text": "Yes, you do, but under a separate law with specific rules.",
-    "t": 547.6
+    "t": 541.87
    },
    {
     "speaker": "Tom",
     "text": "You can ask for access to data processed by the Police or by the Customs and Excise Administration, for example.",
-    "t": 551.41
+    "t": 545.68
    },
    {
     "speaker": "Tom",
     "text": "This access can be limited, for instance to protect an investigation.",
-    "t": 557.24
+    "t": 551.51
    },
    {
     "speaker": "Anna",
     "text": "And what can I do if my request is refused there?",
-    "t": 561.54
+    "t": 555.81
    },
    {
     "speaker": "Tom",
     "text": "Then you can exercise your rights indirectly, through the CNPD.",
-    "t": 564.74
+    "t": 559.01
    },
    {
     "speaker": "Tom",
     "text": "It carries out the checks with the authority concerned, and it informs you at least that these checks took place.",
-    "t": 569.13
+    "t": 563.4
    },
    {
     "speaker": "Anna",
     "text": "One more question about complaints.",
-    "t": 575.83
+    "t": 570.1
    },
    {
     "speaker": "Anna",
     "text": "Can the CNPD award me money as compensation?",
-    "t": 577.84
+    "t": 572.11
    },
    {
     "speaker": "Tom",
     "text": "No, that is not its role, because to claim damages you have to go to court.",
-    "t": 581.26
+    "t": 575.53
    },
    {
     "speaker": "Tom",
     "text": "The CNPD suggests that you consult a lawyer for this.",
-    "t": 586.02
+    "t": 580.29
    },
    {
     "speaker": "Tom",
     "text": "You can also go to court if you are not satisfied with what the CNPD did.",
-    "t": 589.68
+    "t": 583.95
    },
    {
     "speaker": "Anna",
     "text": "The CNPD does much more than handle complaints.",
-    "t": 594.55
+    "t": 588.82
    },
    {
     "speaker": "Anna",
     "text": "It raises public awareness about the risks, the rules and the rights linked to personal data, with special attention to children.",
-    "t": 597.97
+    "t": 592.24
    },
    {
     "speaker": "Tom",
     "text": "Does it also advise the people who make the laws?",
-    "t": 605.78
+    "t": 600.05
    },
    {
     "speaker": "Anna",
     "text": "Yes, it advises the Chamber of Deputies, the Government and other institutions, and you can read its opinions on its website.",
-    "t": 608.44
+    "t": 602.71
    },
    {
     "speaker": "Tom",
     "text": "And does it work together with other countries?",
-    "t": 616.17
+    "t": 610.44
    },
    {
     "speaker": "Anna",
     "text": "Yes, it cooperates with the data protection authorities of the other Member States, and it contributes to the European Data Protection Board, so that the rules are applied in the same way everywhere.",
-    "t": 618.26
+    "t": 612.53
    },
    {
     "speaker": "Tom",
     "text": "Can I simply ask the CNPD a question, without making a complaint?",
-    "t": 629.87
+    "t": 624.14
    },
    {
     "speaker": "Anna",
     "text": "Yes, you can, because informing people about their rights is one of its duties.",
-    "t": 634.11
+    "t": 628.38
    },
    {
     "speaker": "Anna",
     "text": "There is an online form for individuals on the website, you can write a letter, and you can phone during the telephone hours shown on the contact page.",
-    "t": 638.87
+    "t": 633.14
    },
    {
     "speaker": "Tom",
     "text": "The website itself is cnpd dot l-u, and it exists in French, English and German.",
-    "t": 647.86
+    "t": 642.13
    },
    {
     "speaker": "Tom",
     "text": "In the section for individuals, you find all the rights we talked about, the complaint form and the model letters.",
-    "t": 653.36
+    "t": 647.63
    },
    {
     "speaker": "Anna",
     "text": "And is there something for organisations too?",
-    "t": 659.51
+    "t": 653.78
    },
    {
     "speaker": "Tom",
     "text": "Yes, there is a section for professionals, because organisations that process data have obligations.",
-    "t": 662.33
+    "t": 656.6
    },
    {
     "speaker": "Tom",
     "text": "There are also thematic dossiers, news and publications.",
-    "t": 668.78
+    "t": 663.05
    },
    {
     "speaker": "Anna",
     "text": "Time to sum up the most important points.",
-    "t": 672.56
+    "t": 666.83
    },
    {
     "speaker": "Anna",
     "text": "First: the GDPR gives you rights that let you control how your personal data is used.",
-    "t": 674.96
+    "t": 669.23
    },
    {
     "speaker": "Tom",
     "text": "Second: you can ask for information, for access and a copy, for a correction and for erasure, and you can object, especially to advertising.",
-    "t": 681.11
+    "t": 675.38
    },
    {
     "speaker": "Anna",
     "text": "Third: always contact the organisation first, preferably in writing.",
-    "t": 690.08
+    "t": 684.35
    },
    {
     "speaker": "Anna",
     "text": "It normally has one month to answer, and in principle it costs you nothing.",
-    "t": 695.19
+    "t": 689.46
    },
    {
     "speaker": "Tom",
     "text": "Fourth: if that does not work, you can lodge a complaint with the CNPD, the National Commission for Data Protection, with the form on its website.",
-    "t": 699.35
+    "t": 693.62
    },
    {
     "speaker": "Anna",
     "text": "You find all the information on cnpd dot l-u.",
-    "t": 709.07
+    "t": 703.34
    },
    {
     "speaker": "Tom",
     "text": "Your data says a lot about you, so it is good to know who uses it, and why.",
-    "t": 712.9
+    "t": 707.17
    },
    {
     "speaker": "Anna",
     "text": "And now you know where to ask.",
-    "t": 717.29
+    "t": 711.56
    },
    {
     "speaker": "Anna",
     "text": "That was our episode about the CNPD and your data protection rights.",
-    "t": 719.34
+    "t": 713.61
    },
    {
     "speaker": "Anna",
     "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
-    "t": 723.83
+    "t": 718.1
    },
    {
     "speaker": "Anna",
     "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
-    "t": 733.4
+    "t": 727.67
    },
    {
     "speaker": "Anna",
     "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
-    "t": 751.68
+    "t": 745.95
    },
    {
     "speaker": "Anna",
     "text": "And the activities are free of charge.",
-    "t": 758.43
+    "t": 752.7
    },
    {
     "speaker": "Anna",
     "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
-    "t": 760.63
+    "t": 754.9
    },
    {
     "speaker": "Tom",
     "text": "Thank you, everyone.",
-    "t": 765.32
+    "t": 759.59
    },
    {
     "speaker": "Tom",
     "text": "Take care, and see you next time!",
-    "t": 766.49
+    "t": 760.76
    },
    {
     "speaker": "Anna",
     "text": "Thank you so much for listening.",
-    "t": 768.63
+    "t": 762.9
    }
   ],
   "questions": [
@@ -2740,442 +2735,442 @@ const EPISODES = [
    {
     "speaker": "Tom",
     "text": "Haut kucke mir eis d'Rechter un, déi Dir iwwer Är eegen Daten hutt, a wat Dir maache kënnt, wa se net respektéiert ginn. Wat fir eng Ariichtung ass d'CNPD dann?",
-    "t": 63.38
+    "t": 57.65
    },
    {
     "speaker": "Anna",
     "text": "Si ass en onofhängegen ëffentlechen Etablissement. Si kontrolléiert, datt perséinlech Daten op eng legal Manéier verschafft ginn, a si schützt d'Fräiheeten an d'Grondrechter vun de Leit, wann et ëm Dateschutz a Privatliewe geet.",
-    "t": 73.62
+    "t": 67.89
    },
    {
     "speaker": "Tom",
     "text": "A wéi eng Reegelen iwwerwaacht d'CNPD an hirer deeglecher Aarbecht?",
-    "t": 86.23
+    "t": 80.5
    },
    {
     "speaker": "Anna",
     "text": "Déi bekanntst ass en europäescht Reglement, dat allgemengt Reglement iwwer den Dateschutz. Déi meescht Leit soen einfach RGPD. Et gëllt zënter dem 25. Mee 2018 direkt an alle Memberstaate vun der Europäescher Unioun.",
-    "t": 89.7
+    "t": 83.97
    },
    {
     "speaker": "Tom",
     "text": "Leit, déi zu Lëtzebuerg wunnen, a Leit, déi iwwer d'Grenz heihi schaffe kommen, sinn also duerch datselwecht Reglement geschützt.",
-    "t": 103.45
+    "t": 97.72
    },
    {
     "speaker": "Anna",
     "text": "Jo, well d'Reglement an all dëse Länner datselwecht ass. Zu Lëtzebuerg ginn et och national Gesetzer, zum Beispill e Gesetz vum 1. August 2018, dat d'CNPD organiséiert.",
-    "t": 110.11
+    "t": 104.38
    },
    {
     "speaker": "Tom",
     "text": "Gëtt et eppes, wat d'CNPD net kontrolléiert?",
-    "t": 122.79
+    "t": 117.06
    },
    {
     "speaker": "Anna",
     "text": "Jo, et gëtt eng kloer Grenz. Si kontrolléiert net d'Dateveraarbechtung vun de Geriichter, wa si hir Aufgab als Riichter maachen, an dat gëllt och fir de Parquet.",
-    "t": 126.04
+    "t": 120.31
    },
    {
     "speaker": "Tom",
     "text": "Ier mir bei d'Rechter kommen, hei en Ausdrock, deen Dir um Site ëmmer erëm liest: de Responsabele vum Traitement. Dat ass einfach d'Organisatioun, déi Är Date verschafft, oder an där hirem Numm se verschafft ginn. Dat kann eng Firma oder eng ëffentlech Instanz sinn.",
-    "t": 136.44
+    "t": 130.71
    },
    {
     "speaker": "Anna",
     "text": "Wat kann ech dann esou engem Responsabele vum Traitement froen?",
-    "t": 150.97
+    "t": 145.24
    },
    {
     "speaker": "Tom",
     "text": "De Site vun der CNPD stellt Är Rechter eent nom aneren vir. Dat éischt ass d'Recht op Informatioun. Wann eng Organisatioun Är Date sammelt, muss si Iech soen, wien si ass, firwat si d'Date brauch, a wéi laang si se behält.",
-    "t": 153.75
+    "t": 148.02
    },
    {
     "speaker": "Anna",
     "text": "Muss si dat an enger juristescher Sprooch soen, déi kee versteet?",
-    "t": 166.1
+    "t": 160.37
    },
    {
     "speaker": "Tom",
     "text": "Nee, ganz am Géigendeel. D'Informatioun muss liicht ze fannen a liicht ze verstoe sinn, a si muss a kloren an einfache Wierder geschriwwe sinn.",
-    "t": 170.35
+    "t": 164.62
    },
    {
     "speaker": "Anna",
     "text": "A wann d'Organisatioun d'Daten net vu mir kritt huet, mee vun engem aneren?",
-    "t": 176.85
+    "t": 171.12
    },
    {
     "speaker": "Tom",
     "text": "Da muss si Iech trotzdeem bannent enger raisonnabeler Frist informéieren, an an der Reegel spéitstens bannent engem Mount.",
-    "t": 181.81
+    "t": 176.08
    },
    {
     "speaker": "Anna",
     "text": "Dat zweet Recht ass d'Zougangsrecht, an et ass ganz praktesch. Dir kënnt eng Organisatioun froen, ob si Daten iwwer Iech huet. Wa jo, kënnt Dir eng Kopie vun dësen Date kréien, an eng Erklärung, wéi se benotzt ginn.",
-    "t": 187.38
+    "t": 181.65
    },
    {
     "speaker": "Tom",
     "text": "Wéi eng Detailer muss d'Organisatioun mir ginn?",
-    "t": 200.7
+    "t": 194.97
    },
    {
     "speaker": "Anna",
     "text": "Zum Beispill, wéi eng Zorte vun Date si huet, firwat si se benotzt, wéi laang si se behält, a wien se kritt huet. Wann d'Daten net vun Iech kommen, muss si och soen, wou se hierkommen.",
-    "t": 203.69
+    "t": 197.96
    },
    {
     "speaker": "Tom",
     "text": "Muss ech eppes bezuelen, fir dës Kopie ze kréien?",
-    "t": 215.11
+    "t": 209.38
    },
    {
     "speaker": "Anna",
     "text": "Am Prinzip ass et gratis. Eng Organisatioun dierf nëmmen dann eng Tax froen oder refuséieren, wann d'Ufroen offensichtlech onbegrënnt oder iwwerdriwwe sinn, zum Beispill wann een ëmmer erëm déiselwecht Ufro mécht.",
-    "t": 217.14
+    "t": 211.41
    },
    {
     "speaker": "Tom",
     "text": "A wéi laang dierf d'Organisatioun sech Zäit loossen, fir ze äntweren?",
-    "t": 230.53
+    "t": 224.8
    },
    {
     "speaker": "Anna",
     "text": "Si muss bannent engem Mount äntweren. Wann d'Ufro komplizéiert ass, kann si bis zu zwee Méint méi brauchen, mee da muss si Iech soen, firwat.",
-    "t": 233.14
+    "t": 227.41
    },
    {
     "speaker": "Tom",
     "text": "Wann Dir Är Date gesinn hutt, mierkt Dir vläicht e Feeler. Hei kënnt d'Recht op Rektifikatioun an d'Spill. Wann Daten iwwer Iech falsch, onvollstänneg oder net méi aktuell sinn, kënnt Dir eng Korrektur froen.",
-    "t": 240.18
+    "t": 234.45
    },
    {
     "speaker": "Anna",
     "text": "Kann ech och froen, datt meng Date ganz geläscht ginn?",
-    "t": 252.37
+    "t": 246.64
    },
    {
     "speaker": "Tom",
     "text": "Jo, dat ass d'Recht op d'Läschen, dat vill Leit d'Recht op d'Vergiesse nennen. Dir kënnt et benotzen, wann et kee Grond méi gëtt, Är Daten ze verschaffen.",
-    "t": 255.87
+    "t": 250.14
    },
    {
     "speaker": "Anna",
     "text": "Kënnt Dir eis een oder zwee Beispiller ginn?",
-    "t": 264.21
+    "t": 258.48
    },
    {
     "speaker": "Tom",
     "text": "De Site nennt der e puer. Dir maacht Äre Kont bei enger Fitness-App zou, also ginn d'Daten net méi gebraucht. Oder Dir mellt Iech vun enger Newsletter of, also zitt Dir Ären Accord zeréck.",
-    "t": 266.52
+    "t": 260.79
    },
    {
     "speaker": "Anna",
     "text": "Ech huelen un, datt och dëst Recht seng Grenzen huet.",
-    "t": 276.08
+    "t": 270.35
    },
    {
     "speaker": "Tom",
     "text": "Jo, et huet Grenzen, well eng Organisatioun dierf Date behalen, wann e Gesetz si dozou verflicht, wann d'Date fir d'Meenungs- an Informatiounsfräiheet néideg sinn, oder wa se gebraucht ginn, fir e Recht viru Geriicht ze verdeedegen.",
-    "t": 279.04
+    "t": 273.31
    },
    {
     "speaker": "Anna",
     "text": "Et gëtt e verwandt Recht mat engem schwieregen Numm: d'Dereferenzéierung. Do geet et ëm Sichmaschinnen. Dir kënnt eng Sichmaschinn froen, bestëmmte Resultater ewechzehuelen, déi erschéngen, wann een Äre Virnumm an Äre Familljennumm antippt.",
-    "t": 292.33
+    "t": 286.6
    },
    {
     "speaker": "Tom",
     "text": "Gëtt domat och déi ursprénglech Säit um Internet geläscht?",
-    "t": 305.15
+    "t": 299.42
    },
    {
     "speaker": "Anna",
     "text": "Nee, den Inhalt bleift um Site, deen e publizéiert huet, an nëmmen de Link an de Sichresultater verschwënnt. Och dëst Recht ass net absolut, well et géint d'Meenungs- an Informatiounsfräiheet ofgewie gëtt.",
-    "t": 308.11
+    "t": 302.38
    },
    {
     "speaker": "Tom",
     "text": "Da gëtt et d'Recht op Oppositioun. Dir kënnt Nee soen zu enger bestëmmter Benotzung vun Ären Daten, aus Grënn, déi mat Ärer besonnescher Situatioun ze dinn hunn, an Dir erkläert der Organisatioun dës Grënn.",
-    "t": 321.17
+    "t": 315.44
    },
    {
     "speaker": "Anna",
     "text": "A wéi ass et bei Reklamm, zum Beispill bei der Newsletter vun engem Online-Buttek?",
-    "t": 331.01
+    "t": 325.28
    },
    {
     "speaker": "Tom",
     "text": "Bei Reklamm ass et nach méi einfach. Dir kënnt Iech zu all Moment géint d'Benotzung vun Ären Date fir kommerziell Prospektioun wieren, an Dir musst kee Grond uginn.",
-    "t": 335.38
+    "t": 329.65
    },
    {
     "speaker": "Anna",
     "text": "Heiansdo wëll ech net, datt meng Date geläscht ginn, mee ech wëll och net, datt se benotzt ginn. Gëtt et eppes dertëscht?",
-    "t": 344.12
+    "t": 338.39
    },
    {
     "speaker": "Tom",
     "text": "Jo, dat ass d'Recht op d'Limitatioun vum Traitement. Stellt Iech vir, Dir sot, datt Är Date falsch sinn. Soulaang d'Organisatioun dat nokuckt, dierf si d'Daten net benotzen.",
-    "t": 351.46
+    "t": 345.73
    },
    {
     "speaker": "Anna",
     "text": "Zwee Rechter bleiwen nach, a si kléngen e bësse méi technesch. Dat éischt ass d'Portabilitéit vun den Daten. Dir kënnt d'Daten, déi Dir enger Organisatioun ginn hutt, an engem gängege Format kréien, dat e Computer liese kann, an Dir kënnt se un eng aner Organisatioun schécke loossen.",
-    "t": 360.35
+    "t": 354.62
    },
    {
     "speaker": "Tom",
     "text": "Dat kléngt nëtzlech, wann ech vun engem Ubidder bei en anere wiesselen.",
-    "t": 374.67
+    "t": 368.94
    },
    {
     "speaker": "Anna",
     "text": "Genee dat ass d'Iddi, an et gëllt fir Daten, déi automatiséiert verschafft ginn, op Basis vun Ärem Accord oder vun engem Kontrakt.",
-    "t": 377.72
+    "t": 371.99
    },
    {
     "speaker": "Tom",
     "text": "A wourëms geet et beim leschte Recht op der Lëscht?",
-    "t": 386.28
+    "t": 380.55
    },
    {
     "speaker": "Anna",
     "text": "Et geet ëm Decisiounen, déi nëmme vun engem Computer geholl ginn, ouni datt e Mënsch bedeelegt ass. De Site nennt d'Beispill vun enger Bank, déi e Kredit refuséiert, well de System Nee gesot huet.",
-    "t": 388.35
+    "t": 382.62
    },
    {
     "speaker": "Tom",
     "text": "Wat kann ech an där Situatioun maachen?",
-    "t": 399.23
+    "t": 393.5
    },
    {
     "speaker": "Anna",
     "text": "Dir kënnt eng Erklärung zur Logik hannert der Decisioun froen, Dir kënnt Äre Standpunkt duerleeën, a wann néideg kënnt Dir d'Decisioun ufechten.",
-    "t": 401.09
+    "t": 395.36
    },
    {
     "speaker": "Tom",
     "text": "Elo kënnt déi praktesch Fro: Wéi benotzt een dës Rechter? Deen éischte Schrëtt ass ëmmer deeselwechten. Dir kontaktéiert d'Organisatioun selwer, de Responsabele vum Traitement.",
-    "t": 410.54
+    "t": 404.81
    },
    {
     "speaker": "Anna",
     "text": "Wou fannen ech déi richteg Kontaktadress?",
-    "t": 420.17
+    "t": 414.44
    },
    {
     "speaker": "Tom",
     "text": "Meeschtens um Site vun der Organisatioun, an hirer Dateschutzerklärung. Verschidden Organisatiounen hunn och e spezielle Formulaire, oder e perséinleche Beräich, an deem Dir Är Daten direkt gesi kënnt.",
-    "t": 422.64
+    "t": 416.91
    },
    {
     "speaker": "Anna",
     "text": "Geet et duer, wann ech do einfach uruffen?",
-    "t": 434.64
+    "t": 428.91
    },
    {
     "speaker": "Tom",
     "text": "Et ass besser, Är Ufro schrëftlech ze maachen, per Bréif, per E-Mail oder mam Formulaire vun der Organisatioun. D'CNPD bitt op hirem Site och Modellbréiwer un, zum Beispill fir d'Zougangsrecht.",
-    "t": 436.95
+    "t": 431.22
    },
    {
     "speaker": "Anna",
     "text": "Muss ech eng Kopie vu menger Identitéitskaart bei meng Ufro leeën?",
-    "t": 449.4
+    "t": 443.67
    },
    {
     "speaker": "Tom",
     "text": "Nee, net automatesch, well d'Organisatioun dierf nëmmen dann e Beweis vun der Identitéit froen, wa si begrënnt Zweifel huet, wien Dir sidd. Dacks geet Är E-Mail-Adress oder Är Clientsnummer duer.",
-    "t": 453.01
+    "t": 447.28
    },
    {
     "speaker": "Anna",
     "text": "Stellt Iech elo vir, d'Frist leeft of an näischt geschitt. Oder Dir kritt eng Äntwert, an Dir sidd net zefridden domat. Da kënnt Dir bei der CNPD eng Reklamatioun maachen.",
-    "t": 465.63
+    "t": 459.9
    },
    {
     "speaker": "Tom",
     "text": "A wéi mécht een esou eng Reklamatioun?",
-    "t": 475.96
+    "t": 470.23
    },
    {
     "speaker": "Anna",
     "text": "D'CNPD recommandéiert hiren Online-Formulaire fir Reklamatiounen, deen Dir op hirem Site fannt. Dir kënnt de Formulaire och ausdrécken, mat der Hand ausfëllen a mat der Post schécken.",
-    "t": 478.07
+    "t": 472.34
    },
    {
     "speaker": "Tom",
     "text": "Wat soll ech bei de Formulaire derbäileeën?",
-    "t": 487.7
+    "t": 481.97
    },
    {
     "speaker": "Anna",
     "text": "Dir leet d'Dokumenter derbäi, déi weisen, wat Dir scho gemaach hutt, zum Beispill Äre Bréif un d'Organisatioun an hir Äntwert.",
-    "t": 489.34
+    "t": 483.61
    },
    {
     "speaker": "Tom",
     "text": "Wann Är Reklamatioun ukomm ass, kontrolléiert d'CNPD fir d'éischt, ob se berechtegt ass. Wann d'Reegelen net respektéiert goufen, probéiert si fir d'éischt, d'Situatioun an d'Rei ze bréngen.",
-    "t": 496.33
+    "t": 490.6
    },
    {
     "speaker": "Anna",
     "text": "A wann d'Organisatioun d'Reegelen dann nach ëmmer net anhält?",
-    "t": 505.24
+    "t": 499.51
    },
    {
     "speaker": "Tom",
     "text": "Dann huet d'CNPD richteg Pouvoiren. Si kann enger Organisatioun uerdnen, op Är Ufro ze äntweren, Daten ze korrigéieren oder ze läschen, oder en Traitement ze stoppen. Si kann och administrativ Geldstrofe verhänken.",
-    "t": 508.82
+    "t": 503.09
    },
    {
     "speaker": "Anna",
     "text": "Kann si och Kontrollen an enger Organisatioun maachen?",
-    "t": 519.47
+    "t": 513.74
    },
    {
     "speaker": "Tom",
     "text": "Jo, si huet Enquêtëpouvoiren. Si kann Informatioune verlaangen, Dateschutz-Auditte maachen, an d'Raimlechkeete vun enger Organisatioun betrieden, no de Prozeduren, déi d'Gesetz virgesäit.",
-    "t": 522.75
+    "t": 517.02
    },
    {
     "speaker": "Anna",
     "text": "Gëtt mir gesot, wat mat menger Reklamatioun geschitt?",
-    "t": 533.34
+    "t": 527.61
    },
    {
     "speaker": "Tom",
     "text": "Jo, eng vun hire Missiounen ass et, déi Persoun, déi reklaméiert huet, iwwer de Fortschrëtt an d'Resultat ze informéieren.",
-    "t": 535.87
+    "t": 530.14
    },
    {
     "speaker": "Anna",
     "text": "Verschidden Date si ganz sensibel, zum Beispill Daten, déi d'Police huet. Hunn ech do och Rechter?",
-    "t": 541.84
+    "t": 536.11
    },
    {
     "speaker": "Tom",
     "text": "Jo, déi hutt Dir, mee no engem eegene Gesetz mat spezielle Reegelen. Dir kënnt zum Beispill Zougang zu Date froen, déi vun der Police oder vun der Douanes- an Accisenverwaltung verschafft ginn. Dësen Zougang kann ageschränkt ginn, zum Beispill fir eng Enquête ze schützen.",
-    "t": 547.6
+    "t": 541.87
    },
    {
     "speaker": "Anna",
     "text": "A wat kann ech maachen, wa meng Ufro do refuséiert gëtt?",
-    "t": 561.54
+    "t": 555.81
    },
    {
     "speaker": "Tom",
     "text": "Da kënnt Dir Är Rechter indirekt ausüben, iwwer d'CNPD. Si mécht d'Verifikatioune bei der betraffener Autoritéit, a si deelt Iech op d'mannst mat, datt dës Verifikatioune stattfonnt hunn.",
-    "t": 564.74
+    "t": 559.01
    },
    {
     "speaker": "Anna",
     "text": "Nach eng Fro zu de Reklamatiounen. Kann d'CNPD mir Geld als Entschiedegung zouspriechen?",
-    "t": 575.83
+    "t": 570.1
    },
    {
     "speaker": "Tom",
     "text": "Nee, dat ass net hir Roll, well fir Schuedenersaz musst Dir viru Geriicht goen. D'CNPD réit Iech, Iech dofir vun engem Affekot berode ze loossen. Dir kënnt och viru Geriicht goen, wann Dir net zefridde sidd mat deem, wat d'CNPD gemaach huet.",
-    "t": 581.26
+    "t": 575.53
    },
    {
     "speaker": "Anna",
     "text": "D'CNPD mécht vill méi, wéi Reklamatiounen ze behandelen. Si sensibiliséiert de Public fir d'Risiken, d'Reegelen an d'Rechter ronderëm perséinlech Daten, mat enger besonnescher Opmierksamkeet fir d'Kanner.",
-    "t": 594.55
+    "t": 588.82
    },
    {
     "speaker": "Tom",
     "text": "Beréit si och déi, déi d'Gesetzer maachen?",
-    "t": 605.78
+    "t": 600.05
    },
    {
     "speaker": "Anna",
     "text": "Jo, si beréit d'Chamber, d'Regierung an aner Institutiounen, an Dir kënnt hir Avisen op hirem Site liesen.",
-    "t": 608.44
+    "t": 602.71
    },
    {
     "speaker": "Tom",
     "text": "A schafft si mat anere Länner zesummen?",
-    "t": 616.17
+    "t": 610.44
    },
    {
     "speaker": "Anna",
     "text": "Jo, si schafft mat den Dateschutzautoritéite vun deenen anere Memberstaaten zesummen, a si schafft am Europäeschen Dateschutzausschoss mat, fir datt d'Reegelen iwwerall op déiselwecht Manéier applizéiert ginn.",
-    "t": 618.26
+    "t": 612.53
    },
    {
     "speaker": "Tom",
     "text": "Kann ech der CNPD einfach eng Fro stellen, ouni eng Reklamatioun ze maachen?",
-    "t": 629.87
+    "t": 624.14
    },
    {
     "speaker": "Anna",
     "text": "Jo, dat kënnt Dir, well et zu hire Missioune gehéiert, d'Leit iwwer hir Rechter ze informéieren. Um Site gëtt et en Online-Formulaire fir Privatpersounen, Dir kënnt e Bréif schreiwen, an Dir kënnt während den Telefonszäiten uruffen, déi op der Kontaktsäit stinn.",
-    "t": 634.11
+    "t": 628.38
    },
    {
     "speaker": "Tom",
     "text": "De Site selwer ass cnpd Punkt l-u, an et gëtt en op Franséisch, Englesch an Däitsch. An der Rubrik fir Privatpersoune fannt Dir all d'Rechter, iwwer déi mir geschwat hunn, de Formulaire fir Reklamatiounen an d'Modellbréiwer.",
-    "t": 647.86
+    "t": 642.13
    },
    {
     "speaker": "Anna",
     "text": "A gëtt et do och eppes fir Organisatiounen?",
-    "t": 659.51
+    "t": 653.78
    },
    {
     "speaker": "Tom",
     "text": "Jo, et gëtt eng eege Rubrik fir si, well Organisatiounen, déi Date verschaffen, hunn Obligatiounen. Et ginn och thematesch Dossieren, Aktualitéiten a Publikatiounen.",
-    "t": 662.33
+    "t": 656.6
    },
    {
     "speaker": "Anna",
     "text": "Et ass Zäit, déi wichtegst Punkten zesummenzefaassen. Éischtens: De RGPD gëtt Iech Rechter, mat deenen Dir kontrolléiere kënnt, wéi Är perséinlech Date benotzt ginn.",
-    "t": 672.56
+    "t": 666.83
    },
    {
     "speaker": "Tom",
     "text": "Zweetens: Dir kënnt Informatioun, Zougang an eng Kopie, eng Korrektur an d'Läsche froen, an Dir kënnt Iech wieren, virun allem géint Reklamm.",
-    "t": 681.11
+    "t": 675.38
    },
    {
     "speaker": "Anna",
     "text": "Drëttens: Kontaktéiert ëmmer fir d'éischt d'Organisatioun, am beschte schrëftlech. Si huet normalerweis ee Mount Zäit fir ze äntweren, an am Prinzip kascht et Iech näischt.",
-    "t": 690.08
+    "t": 684.35
    },
    {
     "speaker": "Tom",
     "text": "Véiertens: Wann dat net klappt, kënnt Dir bei der CNPD, der Nationalkommissioun fir den Dateschutz, eng Reklamatioun maachen, mam Formulaire op hirem Site.",
-    "t": 699.35
+    "t": 693.62
    },
    {
     "speaker": "Anna",
     "text": "Dir fannt all d'Informatiounen op cnpd Punkt l-u.",
-    "t": 709.07
+    "t": 703.34
    },
    {
     "speaker": "Tom",
     "text": "Är Date soe vill iwwer Iech, dofir ass et gutt ze wëssen, wien se benotzt, a firwat.",
-    "t": 712.9
+    "t": 707.17
    },
    {
     "speaker": "Anna",
     "text": "An elo wësst Dir, u wien Dir Iech wende kënnt. Dat war eis Episode iwwer d'CNPD an Är Rechter beim Dateschutz. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir aner Aktivitéite vum Biergerpakt entdecke wëllt, wéi gefouert Visitten, Online-Informatiounsversammlungen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. En ass fir all Awunner op, Lëtzebuerger an Net-Lëtzebuerger, an och fir d'Grenzgänger. An d'Aktivitéite si gratis. Dir musst just gratis um Biergerpakt matmaachen, op biergerpakt.lu.",
-    "t": 717.29
+    "t": 711.56
    },
    {
     "speaker": "Tom",
     "text": "Merci, alleguer. Passt op Iech op, a bis d'nächst Kéier!",
-    "t": 765.32
+    "t": 759.59
    },
    {
     "speaker": "Anna",
     "text": "Villmools Merci fir d'Nolauschteren.",
-    "t": 768.63
+    "t": 762.9
    }
   ]
  }
