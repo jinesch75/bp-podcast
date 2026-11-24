@@ -1,0 +1,215 @@
+{
+ "en": {
+  "title": "The Kanner-Jugendtelefon – 116 111, Someone Who Listens",
+  "description": "A child, a teenager or a parent sometimes needs someone to talk to. Discover the KJT, the Kanner-Jugendtelefon, and its website kjt.lu: the free and anonymous line 116 111, the Online Help, the chat with trained young counsellors, the Elterentelefon for parents, and the BEE SECURE Helpline and Stopline for questions about the internet.",
+  "topics": [
+   "What the KJT is",
+   "Five principles",
+   "The line 116 111",
+   "Online Help",
+   "Chat with young counsellors",
+   "The Elterentelefon for parents",
+   "BEE SECURE Helpline & Stopline",
+   "Volunteers & kjt.lu"
+  ],
+  "questions": [
+   {
+    "text": "Which number can children and young people call to reach the Kanner-Jugendtelefon?",
+    "options": [
+     "116 111",
+     "8002 1234",
+     "8002 4444",
+     "247 86000"
+    ],
+    "correct": 0,
+    "explanation": "The line for children and young people is 116 111. The number 8002 4444 is the Elterentelefon for parents, and 8002 1234 is the BEE SECURE Helpline."
+   },
+   {
+    "text": "What does a child have to tell the counsellor at the start of a call to 116 111?",
+    "options": [
+     "Their full name and the name of their school",
+     "Nothing personal, because the call is anonymous",
+     "The telephone number of one of their parents",
+     "Their home address, so that a letter can follow"
+    ],
+    "correct": 1,
+    "explanation": "The call is anonymous: you do not have to say who you are or where you live. It is also confidential and free of charge."
+   },
+   {
+    "text": "What is special about the chat counselling of the KJT?",
+    "options": [
+     "It is answered by a computer program, day and night",
+     "It is reserved for parents and for grandparents",
+     "The counsellors are trained young people themselves",
+     "It can only be used to report illegal content"
+    ],
+    "correct": 2,
+    "explanation": "The website describes the chat as peer-to-peer: the chat counsellors are young people themselves, who have been trained and who also bring in their own experience."
+   },
+   {
+    "text": "Who can call the Elterentelefon?",
+    "options": [
+     "Only children and teenagers under the age of eighteen",
+     "Only teachers and other professionals from schools",
+     "Only people who want to report an illegal website",
+     "Parents, grandparents and adults responsible for children"
+    ],
+    "correct": 3,
+    "explanation": "The Elterentelefon is for parents, grandparents and every adult who is responsible for children or teenagers. It is free, anonymous and confidential."
+   },
+   {
+    "text": "What is the BEE SECURE Stopline for?",
+    "options": [
+     "Reporting illegal content found on the internet",
+     "Blocking advertising calls on a mobile phone",
+     "Asking questions about bringing up children",
+     "Ordering posters and leaflets for a classroom"
+    ],
+    "correct": 0,
+    "explanation": "The BEE SECURE Stopline is a website where you can report illegal content found online: images of sexual abuse of minors, racist, revisionist or discriminatory content, and content linked to terrorism."
+   }
+  ]
+ },
+ "fr": {
+  "title": "Le Kanner-Jugendtelefon – 116 111, quelqu'un qui écoute",
+  "description": "Un enfant, un adolescent ou un parent a parfois besoin de quelqu'un à qui parler. Découvrez le KJT, le Kanner-Jugendtelefon, et son site kjt.lu : la ligne gratuite et anonyme 116 111, l'Online Help, le chat avec de jeunes conseillers formés, l'Elterentelefon (Écoute parents), ainsi que la BEE SECURE Helpline et la BEE SECURE Stopline pour les questions liées à Internet.",
+  "topics": [
+   "Ce qu'est le KJT",
+   "Cinq principes",
+   "La ligne 116 111",
+   "Online Help",
+   "Le chat avec de jeunes conseillers",
+   "L'Elterentelefon pour les parents",
+   "BEE SECURE Helpline et Stopline",
+   "Les bénévoles et kjt.lu"
+  ],
+  "questions": [
+   {
+    "text": "Quel numéro les enfants et les jeunes peuvent-ils appeler pour joindre le Kanner-Jugendtelefon ?",
+    "options": [
+     "116 111",
+     "8002 1234",
+     "8002 4444",
+     "247 86000"
+    ],
+    "correct": 0,
+    "explanation": "La ligne pour enfants et jeunes est le 116 111. Le 8002 4444 est l'Elterentelefon (Écoute parents), et le 8002 1234 est la BEE SECURE Helpline."
+   },
+   {
+    "text": "Que doit dire un enfant au conseiller au début d'un appel au 116 111 ?",
+    "options": [
+     "Son nom complet et le nom de son école",
+     "Rien de personnel, car l'appel est anonyme",
+     "Le numéro de téléphone d'un de ses parents",
+     "Son adresse, pour recevoir ensuite une lettre"
+    ],
+    "correct": 1,
+    "explanation": "L'appel est anonyme : il n'est pas nécessaire de dire qui l'on est ni où l'on habite. Il est aussi confidentiel et gratuit."
+   },
+   {
+    "text": "Qu'est-ce qui rend le conseil par chat du KJT particulier ?",
+    "options": [
+     "Un programme informatique y répond jour et nuit",
+     "Il est réservé aux parents et aux grands-parents",
+     "Les conseillers sont eux-mêmes des jeunes formés",
+     "Il sert seulement à signaler des contenus illégaux"
+    ],
+    "correct": 2,
+    "explanation": "Le site décrit le chat comme un service de pair à pair : les conseillers du chat sont eux-mêmes des jeunes, qui ont suivi une formation et qui apportent aussi leur propre expérience."
+   },
+   {
+    "text": "Qui peut appeler l'Elterentelefon (Écoute parents) ?",
+    "options": [
+     "Seulement les enfants et les adolescents de moins de dix-huit ans",
+     "Seulement les enseignants et les autres professionnels des écoles",
+     "Seulement les personnes qui veulent signaler un site illégal",
+     "Les parents, les grands-parents et les adultes responsables d'enfants"
+    ],
+    "correct": 3,
+    "explanation": "L'Elterentelefon s'adresse aux parents, aux grands-parents et à tout adulte responsable d'enfants ou d'adolescents. Il est gratuit, anonyme et confidentiel."
+   },
+   {
+    "text": "À quoi sert la BEE SECURE Stopline ?",
+    "options": [
+     "À signaler des contenus illégaux trouvés sur Internet",
+     "À bloquer les appels publicitaires sur un téléphone",
+     "À poser des questions sur l'éducation des enfants",
+     "À commander des affiches et des dépliants pour une classe"
+    ],
+    "correct": 0,
+    "explanation": "La BEE SECURE Stopline est un site où l'on peut signaler des contenus illégaux trouvés en ligne : représentations d'abus sexuels sur des mineurs, contenus racistes, révisionnistes ou discriminatoires, et contenus liés au terrorisme."
+   }
+  ]
+ },
+ "de": {
+  "title": "Das Kanner-Jugendtelefon – 116 111, jemand hört zu",
+  "description": "Ein Kind, ein Jugendlicher oder ein Elternteil braucht manchmal jemanden zum Reden. Entdecken Sie das KJT, das Kanner-Jugendtelefon, und seine Website kjt.lu: die kostenlose und anonyme Nummer 116 111, die Online Help, den Chat mit ausgebildeten jungen Beratern, das Elterentelefon sowie die BEE SECURE Helpline und die BEE SECURE Stopline für Fragen rund um das Internet.",
+  "topics": [
+   "Was das KJT ist",
+   "Fünf Prinzipien",
+   "Die Nummer 116 111",
+   "Online Help",
+   "Chat mit jungen Beratern",
+   "Das Elterentelefon",
+   "BEE SECURE Helpline und Stopline",
+   "Ehrenamtliche und kjt.lu"
+  ],
+  "questions": [
+   {
+    "text": "Welche Nummer können Kinder und Jugendliche anrufen, um das Kanner-Jugendtelefon zu erreichen?",
+    "options": [
+     "116 111",
+     "8002 1234",
+     "8002 4444",
+     "247 86000"
+    ],
+    "correct": 0,
+    "explanation": "Die Nummer für Kinder und Jugendliche ist die 116 111. Die 8002 4444 ist das Elterentelefon, und die 8002 1234 ist die BEE SECURE Helpline."
+   },
+   {
+    "text": "Was muss ein Kind dem Berater am Anfang eines Anrufs bei der 116 111 sagen?",
+    "options": [
+     "Seinen vollen Namen und den Namen seiner Schule",
+     "Nichts Persönliches, denn der Anruf ist anonym",
+     "Die Telefonnummer von einem seiner Elternteile",
+     "Seine Adresse, damit ein Brief folgen kann"
+    ],
+    "correct": 1,
+    "explanation": "Der Anruf ist anonym: Man muss nicht sagen, wer man ist oder wo man wohnt. Er ist außerdem vertraulich und kostenlos."
+   },
+   {
+    "text": "Was ist das Besondere an der Chatberatung des KJT?",
+    "options": [
+     "Ein Computerprogramm antwortet dort Tag und Nacht",
+     "Sie ist nur für Eltern und für Großeltern gedacht",
+     "Die Berater sind selbst ausgebildete junge Menschen",
+     "Man kann dort nur illegale Inhalte melden"
+    ],
+    "correct": 2,
+    "explanation": "Die Website beschreibt den Chat als Peer-to-Peer-Angebot: Die Chatberater sind selbst junge Menschen, die eine Ausbildung gemacht haben und auch ihre eigenen Erfahrungen mitbringen."
+   },
+   {
+    "text": "Wer kann das Elterentelefon anrufen?",
+    "options": [
+     "Nur Kinder und Jugendliche unter achtzehn Jahren",
+     "Nur Lehrkräfte und andere Fachleute aus Schulen",
+     "Nur Personen, die eine illegale Website melden wollen",
+     "Eltern, Großeltern und Erwachsene, die mit Kindern zu tun haben"
+    ],
+    "correct": 3,
+    "explanation": "Das Elterentelefon ist für Eltern, Großeltern und alle Erwachsenen da, die mit Kindern oder Jugendlichen zu tun haben. Es ist kostenlos, anonym und vertraulich."
+   },
+   {
+    "text": "Wozu dient die BEE SECURE Stopline?",
+    "options": [
+     "Um illegale Inhalte aus dem Internet zu melden",
+     "Um Werbeanrufe auf dem Handy zu blockieren",
+     "Um Fragen zur Erziehung von Kindern zu stellen",
+     "Um Plakate und Faltblätter für eine Klasse zu bestellen"
+    ],
+    "correct": 0,
+    "explanation": "Die BEE SECURE Stopline ist eine Website, auf der man illegale Inhalte aus dem Internet melden kann: Darstellungen von sexuellem Missbrauch von Minderjährigen, rassistische, revisionistische oder diskriminierende Inhalte und Inhalte, die mit Terrorismus zu tun haben."
+   }
+  ]
+ }
+}
