@@ -6,7 +6,7 @@ const EPISODES = [
   "title": "Consumer Protection – The ULC and the European Consumer Centre",
   "description": "A broken product, a parcel that never arrives, a cancelled flight? Discover two addresses that help consumers in Luxembourg: the ULC, the consumer association, for problems with a professional in Luxembourg, and the European Consumer Centre, which helps free of charge when the company is in another European country.",
   "audio": "../../podcast_consommateurs.mp3",
-  "duration": 689.14,
+  "duration": 689.19,
   "topics": [
    "What the ULC is",
    "Independent and financed by its members",
@@ -406,442 +406,442 @@ const EPISODES = [
    {
     "speaker": "Tom",
     "text": "Advisers are also present in Ettelbruck at certain times.",
-    "t": 319.74
+    "t": 319.79
    },
    {
     "speaker": "Tom",
     "text": "The website is ulc dot l-u, in French and in German.",
-    "t": 322.89
+    "t": 322.94
    },
    {
     "speaker": "Anna",
     "text": "Now imagine that the seller is not in Luxembourg.",
-    "t": 327.3
+    "t": 327.35
    },
    {
     "speaker": "Anna",
     "text": "You ordered a sofa from a website in Germany, or you rented a car in Spain.",
-    "t": 330.08
+    "t": 330.13
    },
    {
     "speaker": "Tom",
     "text": "That happens to many of us, in a small country with open borders.",
-    "t": 335.02
+    "t": 335.07
    },
    {
     "speaker": "Tom",
     "text": "Who helps in that case?",
-    "t": 338.31
+    "t": 338.36
    },
    {
     "speaker": "Anna",
     "text": "The European Consumer Centre Luxembourg helps you.",
-    "t": 339.82
+    "t": 339.87
    },
    {
     "speaker": "Anna",
     "text": "Many people here simply say CEC, the three letters of its French name.",
-    "t": 342.93
+    "t": 342.98
    },
    {
     "speaker": "Tom",
     "text": "And what exactly is the role of this centre?",
-    "t": 348.11
+    "t": 348.16
    },
    {
     "speaker": "Anna",
     "text": "It informs, advises and assists consumers who live in Luxembourg and who have a problem with a professional in another country of the European Union, in Iceland or in Norway.",
-    "t": 350.46
+    "t": 350.51
    },
    {
     "speaker": "Tom",
     "text": "Why these countries in particular?",
-    "t": 361.28
+    "t": 361.33
    },
    {
     "speaker": "Anna",
     "text": "Because the centre belongs to a European network.",
-    "t": 363.16
+    "t": 363.21
    },
    {
     "speaker": "Anna",
     "text": "There is a European Consumer Centre in every country of the European Union, and also in Iceland and in Norway, and the centres work together.",
-    "t": 366.14
+    "t": 366.19
    },
    {
     "speaker": "Tom",
     "text": "How much does this help cost?",
-    "t": 375.28
+    "t": 375.33
    },
    {
     "speaker": "Anna",
     "text": "It costs nothing at all.",
-    "t": 376.97
+    "t": 377.02
    },
    {
     "speaker": "Anna",
     "text": "The services are completely free of charge, and there is no membership.",
-    "t": 378.87
+    "t": 378.92
    },
    {
     "speaker": "Tom",
     "text": "Who pays for the centre, then?",
-    "t": 383.4
+    "t": 383.45
    },
    {
     "speaker": "Anna",
     "text": "It is financed together by the European Commission, the Luxembourg State and the ULC.",
-    "t": 384.96
+    "t": 385.01
    },
    {
     "speaker": "Anna",
     "text": "So our two addresses of today are partners.",
-    "t": 390.69
+    "t": 390.74
    },
    {
     "speaker": "Tom",
     "text": "Can you give us some typical examples?",
-    "t": 393.85
+    "t": 393.9
    },
    {
     "speaker": "Anna",
     "text": "A flight is cancelled or arrives very late.",
-    "t": 396.06
+    "t": 396.11
    },
    {
     "speaker": "Anna",
     "text": "A suitcase is lost or damaged.",
-    "t": 398.9
+    "t": 398.95
    },
    {
     "speaker": "Anna",
     "text": "Something that you bought online is never delivered, or it arrives broken.",
-    "t": 401.08
+    "t": 401.13
    },
    {
     "speaker": "Anna",
     "text": "Or you have a problem with a rental car abroad.",
-    "t": 405.73
+    "t": 405.78
    },
    {
     "speaker": "Tom",
     "text": "And here too, there is a clear order to follow.",
-    "t": 408.52
+    "t": 408.57
    },
    {
     "speaker": "Tom",
     "text": "The first step is always to write to the company yourself, and to explain what happened and what you are asking for.",
-    "t": 410.77
+    "t": 410.82
    },
    {
     "speaker": "Anna",
     "text": "Is that first step really necessary?",
-    "t": 417.57
+    "t": 417.62
    },
    {
     "speaker": "Tom",
     "text": "Yes, the centre can only act if you have first complained to the company.",
-    "t": 420.03
+    "t": 420.08
    },
    {
     "speaker": "Tom",
     "text": "On its website, you find model letters and emails that help you to do this.",
-    "t": 424.02
+    "t": 424.07
    },
    {
     "speaker": "Anna",
     "text": "And what if the company does not answer, or refuses?",
-    "t": 428.28
+    "t": 428.33
    },
    {
     "speaker": "Tom",
     "text": "Then you contact the European Consumer Centre.",
-    "t": 431.89
+    "t": 431.94
    },
    {
     "speaker": "Tom",
     "text": "You describe the problem clearly, and you add copies of your documents: the contract, the invoice, the emails and the letters.",
-    "t": 434.32
+    "t": 434.37
    },
    {
     "speaker": "Anna",
     "text": "How can I send all these documents?",
-    "t": 441.51
+    "t": 441.56
    },
    {
     "speaker": "Tom",
     "text": "There is an online complaint form on the website.",
-    "t": 443.71
+    "t": 443.76
    },
    {
     "speaker": "Tom",
     "text": "You can also write an email or a letter, or call the centre.",
-    "t": 445.95
+    "t": 446
    },
    {
     "speaker": "Tom",
     "text": "A visit to the office is possible, but only by appointment.",
-    "t": 449.31
+    "t": 449.36
    },
    {
     "speaker": "Anna",
     "text": "What happens with my file afterwards?",
-    "t": 453.05
+    "t": 453.1
    },
    {
     "speaker": "Tom",
     "text": "Legal experts study it and tell you how to continue.",
-    "t": 455.38
+    "t": 455.43
    },
    {
     "speaker": "Tom",
     "text": "If it is useful, the centre contacts the foreign company, to look for a solution that both sides can accept.",
-    "t": 458.25
+    "t": 458.3
    },
    {
     "speaker": "Anna",
     "text": "Can the centre force the company to pay me back?",
-    "t": 464.75
+    "t": 464.8
    },
    {
     "speaker": "Tom",
     "text": "No, it has no power to force a company, and it cannot go to court for you.",
-    "t": 467.67
+    "t": 467.72
    },
    {
     "speaker": "Tom",
     "text": "Its goal is always a friendly solution.",
-    "t": 471.83
+    "t": 471.88
    },
    {
     "speaker": "Anna",
     "text": "And what if no friendly solution is found?",
-    "t": 474.13
+    "t": 474.18
    },
    {
     "speaker": "Tom",
     "text": "Then the centre explains the other possibilities.",
-    "t": 476.9
+    "t": 476.95
    },
    {
     "speaker": "Tom",
     "text": "One of them is a mediation body in the country of the company.",
-    "t": 479.51
+    "t": 479.56
    },
    {
     "speaker": "Tom",
     "text": "Another one is the European small claims procedure: a court procedure for smaller amounts, which is mainly done in writing and for which you do not need a lawyer.",
-    "t": 483.18
+    "t": 483.23
    },
    {
     "speaker": "Anna",
     "text": "In which languages can I speak with the team?",
-    "t": 493.04
+    "t": 493.09
    },
    {
     "speaker": "Tom",
     "text": "In several languages, among them French, German, English and Luxembourgish.",
-    "t": 495.7
+    "t": 495.75
    },
    {
     "speaker": "Tom",
     "text": "And the website exists in French, in English and in German, with a page in easy-to-read language.",
-    "t": 500.81
+    "t": 500.86
    },
    {
     "speaker": "Anna",
     "text": "There are also some limits to know.",
-    "t": 506.52
+    "t": 506.57
    },
    {
     "speaker": "Anna",
     "text": "The centre helps consumers, so private persons.",
-    "t": 508.64
+    "t": 508.69
    },
    {
     "speaker": "Anna",
     "text": "It does not deal with a dispute between two companies, or between two private persons.",
-    "t": 512.07
+    "t": 512.12
    },
    {
     "speaker": "Tom",
     "text": "And what if the company is outside Europe, for example an online shop on another continent?",
-    "t": 517.88
+    "t": 517.93
    },
    {
     "speaker": "Anna",
     "text": "Then the network cannot treat the case in the same way.",
-    "t": 522.32
+    "t": 522.37
    },
    {
     "speaker": "Anna",
     "text": "It works for companies in the European Union, in Iceland and in Norway.",
-    "t": 525.34
+    "t": 525.39
    },
    {
     "speaker": "Tom",
     "text": "And what about our listeners who work in Luxembourg but live in France, Belgium or Germany: which centre is theirs?",
-    "t": 530.01
+    "t": 530.06
    },
    {
     "speaker": "Anna",
     "text": "Each person contacts the European Consumer Centre of the country where he or she lives.",
-    "t": 535.98
+    "t": 536.03
    },
    {
     "speaker": "Anna",
     "text": "So a cross-border worker turns to the centre of his or her country of residence.",
-    "t": 541.53
+    "t": 541.58
    },
    {
     "speaker": "Tom",
     "text": "The website of the centre is also full of practical advice.",
-    "t": 546.58
+    "t": 546.63
    },
    {
     "speaker": "Tom",
     "text": "Two rules are especially useful to know.",
-    "t": 549.54
+    "t": 549.59
    },
    {
     "speaker": "Anna",
     "text": "Which rule would you like to share first?",
-    "t": 552.19
+    "t": 552.24
    },
    {
     "speaker": "Tom",
     "text": "When you buy something online, by phone or by post from a professional, you normally have fourteen days to change your mind.",
-    "t": 554.59
+    "t": 554.64
    },
    {
     "speaker": "Tom",
     "text": "This is a minimum right everywhere in the European Union.",
-    "t": 561.95
+    "t": 562
    },
    {
     "speaker": "Anna",
     "text": "But this right does not exist when you buy in a shop or at a fair.",
-    "t": 565.52
+    "t": 565.57
    },
    {
     "speaker": "Anna",
     "text": "And there are exceptions online too, for example for personalised products or for concert tickets.",
-    "t": 569.12
+    "t": 569.17
    },
    {
     "speaker": "Tom",
     "text": "The second rule is the legal guarantee.",
-    "t": 574.87
+    "t": 574.92
    },
    {
     "speaker": "Tom",
     "text": "For a new product, it lasts two years in the whole European Union, even if the seller writes something else.",
-    "t": 577.1
+    "t": 577.15
    },
    {
     "speaker": "Anna",
     "text": "You find all of this on the website of the centre, at cecluxembourg dot l-u.",
-    "t": 583.79
+    "t": 583.84
    },
    {
     "speaker": "Tom",
     "text": "Let's bring it all together.",
-    "t": 589.28
+    "t": 589.33
    },
    {
     "speaker": "Tom",
     "text": "What should people remember?",
-    "t": 590.61
+    "t": 590.66
    },
    {
     "speaker": "Anna",
     "text": "First: for a problem with a professional in Luxembourg, the ULC is your contact.",
-    "t": 592.25
+    "t": 592.3
    },
    {
     "speaker": "Anna",
     "text": "A first telephone consultation is free, and members receive personal help.",
-    "t": 598.3
+    "t": 598.35
    },
    {
     "speaker": "Tom",
     "text": "Second: for a problem with a professional in another country of the European Union, in Iceland or in Norway, the European Consumer Centre helps you free of charge.",
-    "t": 603.18
+    "t": 603.23
    },
    {
     "speaker": "Anna",
     "text": "Third: always write to the company first, and keep a copy of everything.",
-    "t": 612.91
+    "t": 612.96
    },
    {
     "speaker": "Tom",
     "text": "And fourth: both look for friendly solutions.",
-    "t": 617.71
+    "t": 617.76
    },
    {
     "speaker": "Tom",
     "text": "They cannot force a company, but they know your rights and the next steps.",
-    "t": 621.42
+    "t": 621.47
    },
    {
     "speaker": "Anna",
     "text": "You find them on ulc dot l-u and on cecluxembourg dot l-u.",
-    "t": 625.14
+    "t": 625.19
    },
    {
     "speaker": "Tom",
     "text": "A consumer who knows his or her rights buys with more confidence.",
-    "t": 630.22
+    "t": 630.27
    },
    {
     "speaker": "Anna",
     "text": "And nobody has to stay alone with a problem like this.",
-    "t": 633.6
+    "t": 633.65
    },
    {
     "speaker": "Anna",
     "text": "That was our episode about consumer protection, with the ULC and the European Consumer Centre.",
-    "t": 636.72
+    "t": 636.77
    },
    {
     "speaker": "Anna",
     "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
-    "t": 642.59
+    "t": 642.64
    },
    {
     "speaker": "Anna",
     "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
-    "t": 652.31
+    "t": 652.36
    },
    {
     "speaker": "Anna",
     "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
-    "t": 670.59
+    "t": 670.64
    },
    {
     "speaker": "Anna",
     "text": "And the activities are free of charge.",
-    "t": 677.34
+    "t": 677.39
    },
    {
     "speaker": "Anna",
     "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
-    "t": 679.54
+    "t": 679.59
    },
    {
     "speaker": "Tom",
     "text": "Thank you, everyone.",
-    "t": 684.23
+    "t": 684.28
    },
    {
     "speaker": "Tom",
     "text": "Take care, and see you next time!",
-    "t": 685.4
+    "t": 685.45
    },
    {
     "speaker": "Anna",
     "text": "Thank you so much for listening.",
-    "t": 687.54
+    "t": 687.59
    }
   ],
   "questions": [
@@ -2940,247 +2940,247 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "Stellt Iech elo vir, datt de Verkeefer net zu Lëtzebuerg ass. Dir hutt e Canapé op engem Site an Däitschland bestallt, oder Dir hutt a Spuenien en Auto gelount.",
-    "t": 327.3
+    "t": 327.35
    },
    {
     "speaker": "Tom",
     "text": "Dat geschitt ville vun eis, an engem klenge Land mat oppene Grenzen. Wien hëlleft an deem Fall?",
-    "t": 335.02
+    "t": 335.07
    },
    {
     "speaker": "Anna",
     "text": "Dann hëlleft Iech den Europäesche Konsumentenzentrum Lëtzebuerg. Vill Leit soen einfach CEC, no den dräi Buschtawe vum franséischen Numm.",
-    "t": 339.82
+    "t": 339.87
    },
    {
     "speaker": "Tom",
     "text": "A wat genee ass d'Roll vun dësem Zentrum?",
-    "t": 348.11
+    "t": 348.16
    },
    {
     "speaker": "Anna",
     "text": "En informéiert, beréit an ënnerstëtzt Konsumenten, déi zu Lëtzebuerg wunnen an e Problem mat engem Professionellen an engem anere Land vun der Europäescher Unioun, an Island oder an Norwegen hunn.",
-    "t": 350.46
+    "t": 350.51
    },
    {
     "speaker": "Tom",
     "text": "Firwat sinn et grad dës Länner?",
-    "t": 361.28
+    "t": 361.33
    },
    {
     "speaker": "Anna",
     "text": "Well den Zentrum zu engem europäeschen Netzwierk gehéiert. An all Land vun der Europäescher Unioun, an och an Island an an Norwegen, gëtt et en Europäesche Konsumentenzentrum, an dës Zentren schaffen zesummen.",
-    "t": 363.16
+    "t": 363.21
    },
    {
     "speaker": "Tom",
     "text": "Wéi vill kascht dës Hëllef?",
-    "t": 375.28
+    "t": 375.33
    },
    {
     "speaker": "Anna",
     "text": "Dës Hëllef kascht guer näischt. D'Servicer si komplett gratis, an et gëtt keng Memberschaft.",
-    "t": 376.97
+    "t": 377.02
    },
    {
     "speaker": "Tom",
     "text": "Wie bezilt dann den Zentrum?",
-    "t": 383.4
+    "t": 383.45
    },
    {
     "speaker": "Anna",
     "text": "E gëtt zesumme vun der Europäescher Kommissioun, dem Lëtzebuerger Staat an der ULC finanzéiert. Eis zwou Adresse vun haut sinn also Partner.",
-    "t": 384.96
+    "t": 385.01
    },
    {
     "speaker": "Tom",
     "text": "Kënnt Dir eis e puer typesch Beispiller ginn?",
-    "t": 393.85
+    "t": 393.9
    },
    {
     "speaker": "Anna",
     "text": "E Fluch gëtt annuléiert oder kënnt mat grousser Verspéidung un. Eng Wallis geet verluer oder gëtt beschiedegt. Eng Wuer, déi Dir online kaaft hutt, gëtt ni geliwwert, oder si kënnt futti un. Oder Dir hutt am Ausland e Problem mat engem Lounauto.",
-    "t": 396.06
+    "t": 396.11
    },
    {
     "speaker": "Tom",
     "text": "An och hei gëtt et eng kloer Reiefolleg. Den éischte Schrëtt ass ëmmer, selwer un d'Entreprise ze schreiwen an z'erklären, wat geschitt ass a wat Dir verlaangt.",
-    "t": 408.52
+    "t": 408.57
    },
    {
     "speaker": "Anna",
     "text": "Ass dësen éischte Schrëtt wierklech néideg?",
-    "t": 417.57
+    "t": 417.62
    },
    {
     "speaker": "Tom",
     "text": "Jo, den Zentrum kann nëmmen handelen, wann Dir Iech fir d'éischt bei der Entreprise beschwéiert hutt. Op sengem Site fannt Dir Musterbréiwer a Muster-E-Mailen, déi Iech dobäi hëllefen.",
-    "t": 420.03
+    "t": 420.08
    },
    {
     "speaker": "Anna",
     "text": "A wann d'Entreprise net äntwert oder refuséiert?",
-    "t": 428.28
+    "t": 428.33
    },
    {
     "speaker": "Tom",
     "text": "Da kontaktéiert Dir den Europäesche Konsumentenzentrum. Dir beschreift de Problem kloer, an Dir leet Kopië vun Ären Dokumenter bäi: de Kontrakt, d'Rechnung, d'E-Mailen an d'Bréiwer.",
-    "t": 431.89
+    "t": 431.94
    },
    {
     "speaker": "Anna",
     "text": "Wéi kann ech all dës Dokumenter schécken?",
-    "t": 441.51
+    "t": 441.56
    },
    {
     "speaker": "Tom",
     "text": "Um Site gëtt et en Online-Formulaire fir Reklamatiounen. Dir kënnt och eng E-Mail oder e Bréif schreiwen, oder den Zentrum uruffen. E Besuch am Büro ass méiglech, awer nëmmen op Rendez-vous.",
-    "t": 443.71
+    "t": 443.76
    },
    {
     "speaker": "Anna",
     "text": "Wat geschitt duerno mat mengem Dossier?",
-    "t": 453.05
+    "t": 453.1
    },
    {
     "speaker": "Tom",
     "text": "Juristen préiwen en a soen Iech, wéi et weidergeet. Wann et sënnvoll ass, kontaktéiert den Zentrum déi auslännesch Entreprise, fir eng Léisung ze sichen, déi béid Säiten unhuele kënnen.",
-    "t": 455.38
+    "t": 455.43
    },
    {
     "speaker": "Anna",
     "text": "Kann den Zentrum d'Entreprise zwéngen, mir meng Suen zréckzebezuelen?",
-    "t": 464.75
+    "t": 464.8
    },
    {
     "speaker": "Tom",
     "text": "Nee, en huet keng Muecht, eng Entreprise ze zwéngen, an e kann net fir Iech viru Geriicht goen. Säin Zil ass ëmmer eng Léisung am Gudden.",
-    "t": 467.67
+    "t": 467.72
    },
    {
     "speaker": "Anna",
     "text": "A wa keng Léisung am Gudde fonnt gëtt?",
-    "t": 474.13
+    "t": 474.18
    },
    {
     "speaker": "Tom",
     "text": "Dann erkläert den Zentrum déi aner Méiglechkeeten. Eng dovun ass eng Mediatiounsstell am Land vun der Entreprise. Eng aner ass déi europäesch Prozedur fir kleng Fuerderungen: eng Geriichtsprozedur fir méi kleng Betrag, déi virun allem schrëftlech ofleeft a fir déi Dir keen Affekot braucht.",
-    "t": 476.9
+    "t": 476.95
    },
    {
     "speaker": "Anna",
     "text": "A wéi enge Sprooche kann ech mat der Equipe schwätzen?",
-    "t": 493.04
+    "t": 493.09
    },
    {
     "speaker": "Tom",
     "text": "A méi Sproochen, dorënner Franséisch, Däitsch, Englesch a Lëtzebuergesch. An de Site gëtt et op Franséisch, Englesch an Däitsch, mat enger Säit a liicht liesbarer Sprooch.",
-    "t": 495.7
+    "t": 495.75
    },
    {
     "speaker": "Anna",
     "text": "Et ginn och e puer Grenzen, déi ee kenne sollt. Den Zentrum hëlleft Konsumenten, also Privatpersounen. E këmmert sech net ëm e Sträit tëscht zwou Entreprisen oder tëscht zwou Privatpersounen.",
-    "t": 506.52
+    "t": 506.57
    },
    {
     "speaker": "Tom",
     "text": "A wann d'Entreprise ausserhalb vun Europa ass, zum Beispill en Online-Shop op engem anere Kontinent?",
-    "t": 517.88
+    "t": 517.93
    },
    {
     "speaker": "Anna",
     "text": "Da kann d'Netzwierk de Fall net op déi selwecht Manéier behandelen. Et schafft fir Entreprisen an der Europäescher Unioun, an Island an an Norwegen.",
-    "t": 522.32
+    "t": 522.37
    },
    {
     "speaker": "Tom",
     "text": "An eis Nolauschterer, déi zu Lëtzebuerg schaffen, awer a Frankräich, an der Belsch oder an Däitschland wunnen: Wéi en Zentrum ass fir si do?",
-    "t": 530.01
+    "t": 530.06
    },
    {
     "speaker": "Anna",
     "text": "All Persoun kontaktéiert den Europäesche Konsumentenzentrum vum Land, an deem si wunnt. E Grenzgänger wennt sech also un den Zentrum vu sengem Wunnland.",
-    "t": 535.98
+    "t": 536.03
    },
    {
     "speaker": "Tom",
     "text": "De Site vum Zentrum ass och voller praktesche Rotschléi. Zwou Reegele si besonnesch nëtzlech.",
-    "t": 546.58
+    "t": 546.63
    },
    {
     "speaker": "Anna",
     "text": "Wéi eng Reegel wëllt Dir als éischt mat eis deelen?",
-    "t": 552.19
+    "t": 552.24
    },
    {
     "speaker": "Tom",
     "text": "Wann Dir eppes online, um Telefon oder per Post bei engem Professionelle kaaft, hutt Dir normalerweis véierzéng Deeg Zäit, fir Iech et anescht z'iwwerleeën. Dat ass e Mindestrecht iwwerall an der Europäescher Unioun.",
-    "t": 554.59
+    "t": 554.64
    },
    {
     "speaker": "Anna",
     "text": "Awer dëst Recht gëtt et net, wann Dir an engem Geschäft oder op enger Foire kaaft. An och online ginn et Ausnamen, zum Beispill fir personaliséiert Produiten oder fir Concertsbilljeeën.",
-    "t": 565.52
+    "t": 565.57
    },
    {
     "speaker": "Tom",
     "text": "Déi zweet Reegel ass déi gesetzlech Garantie. Fir en neie Produit dauert si zwee Joer an der ganzer Europäescher Unioun, och wann de Verkeefer eppes anescht schreift.",
-    "t": 574.87
+    "t": 574.92
    },
    {
     "speaker": "Anna",
     "text": "Dat alles fannt Dir um Site vum Zentrum, ënner cecluxembourg Punkt l-u.",
-    "t": 583.79
+    "t": 583.84
    },
    {
     "speaker": "Tom",
     "text": "Faasse mir alles zesummen. Wat sollt ee sech mierken?",
-    "t": 589.28
+    "t": 589.33
    },
    {
     "speaker": "Anna",
     "text": "Éischtens: Bei engem Problem mat engem Professionellen zu Lëtzebuerg ass d'ULC Äre Kontakt. Eng éischt telefonesch Berodung ass gratis, an d'Memberen kréie perséinlech Hëllef.",
-    "t": 592.25
+    "t": 592.3
    },
    {
     "speaker": "Tom",
     "text": "Zweetens: Bei engem Problem mat engem Professionellen an engem anere Land vun der Europäescher Unioun, an Island oder an Norwegen hëlleft Iech den Europäesche Konsumentenzentrum gratis.",
-    "t": 603.18
+    "t": 603.23
    },
    {
     "speaker": "Anna",
     "text": "Drëttens: Schreift ëmmer fir d'éischt un d'Entreprise, a behaalt vun allem eng Kopie.",
-    "t": 612.91
+    "t": 612.96
    },
    {
     "speaker": "Tom",
     "text": "A véiertens: Déi zwee siche Léisungen am Gudden. Si kënnen eng Entreprise net zwéngen, awer si kennen Är Rechter an déi nächst Schrëtt.",
-    "t": 617.71
+    "t": 617.76
    },
    {
     "speaker": "Anna",
     "text": "Dir fannt se op ulc Punkt l-u an op cecluxembourg Punkt l-u.",
-    "t": 625.14
+    "t": 625.19
    },
    {
     "speaker": "Tom",
     "text": "E Konsument, dee seng Rechter kennt, keeft mat méi Vertrauen.",
-    "t": 630.22
+    "t": 630.27
    },
    {
     "speaker": "Anna",
     "text": "A kee muss mat sou engem Problem eleng bleiwen. Dat war eis Episode iwwer de Konsumenteschutz, mat der ULC an dem Europäesche Konsumentenzentrum. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir aner Aktivitéite vum Biergerpakt entdecke wëllt, wéi gefouert Visitten, Online-Informatiounsversammlungen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. En ass fir all Awunner op, Lëtzebuerger an Net-Lëtzebuerger, an och fir d'Grenzgänger. An d'Aktivitéite si gratis. Dir musst just gratis um Biergerpakt matmaachen, op biergerpakt.lu.",
-    "t": 633.6
+    "t": 633.65
    },
    {
     "speaker": "Tom",
     "text": "Merci, alleguer. Passt op Iech op, a bis d'nächst Kéier!",
-    "t": 684.23
+    "t": 684.28
    },
    {
     "speaker": "Anna",
     "text": "Villmools Merci fir d'Nolauschteren.",
-    "t": 687.54
+    "t": 687.59
    }
   ]
  }
