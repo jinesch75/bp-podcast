@@ -2,7 +2,7 @@
 
 **Part of the Biergerpakt programme**
 **Hosts:** Anna (woman) and Tom (man)
-**Length:** about 10 minutes — spoken slowly, in simple English
+**Length:** about 13 minutes — spoken slowly, in simple English
 
 ---
 

@@ -2,7 +2,7 @@
 
 **Teil des Biergerpakt-Programms**
 **Moderation:** Anna (Frau) und Tom (Mann)
-**Länge:** etwa 11 Minuten — langsam gesprochen, in einfachem Deutsch
+**Länge:** etwa 14 Minuten — langsam gesprochen, in einfachem Deutsch
 
 ---
 

@@ -2,7 +2,7 @@
 
 **Dans le cadre du programme Biergerpakt**
 **Animateurs :** Anna (femme) et Tom (homme)
-**Durée :** environ 10 minutes — parlé lentement, dans un français simple
+**Durée :** environ 12 minutes — parlé lentement, dans un français simple
 
 ---
 
