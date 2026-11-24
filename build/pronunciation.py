@@ -17,7 +17,7 @@ OR = {"en": "or", "fr": "ou", "de": "oder", "lb": "oder"}
 EMERGENCY_112 = {"en": "one-one-two", "fr": "cent-douze", "de": "eins-eins-zwei"}
 
 # Acronyms said letter by letter -> written "C-N-S" so every voice spells them.
-LETTERS = ["CAE", "CCSS", "CET", "CNS", "FNS", "SNJ", "CNAP", "AAA", "DSP", "CGDIS", "CSU", "CIS", "CNIS", "INFS", "INFPC",
+LETTERS = ["CNPD", "GDPR", "RGPD", "DSGVO", "CAE", "CCSS", "CET", "ULC", "CEC", "CNS", "FNS", "SNJ", "CNAP", "AAA", "DSP", "CGDIS", "CSU", "CIS", "CNIS", "INFS", "INFPC",
            "ASBL", "EBL", "ONE", "FNR", "LIH", "SES", "IMD", "FSE", "ESF", "GAP", "SIA", "ATVA", "OTP", "QR",
            "ID", "CV", "SMS", "GDP", "PIB", "BIP", "VAT", "TVA", "ATM", "AVC", "EU", "UE"]
 LETTERS_LANG = {"en": ["IT", "AI"], "fr": ["IA"], "de": ["IT", "KI"]}
@@ -119,8 +119,13 @@ def rules(lang):
         (r"\bfns\b", "F-N-S"),
         # ccss.lu spelled out: "C-C-S-S dot L-U" (ccss ep, 2026-11-20)
         (r"\bccss\b", "C-C-S-S"),
+        # cnpd.lu (CNPD ep, 2026-11-24): "C-N-P-D dot L-U"
+        (r"\bcnpd\b", "C-N-P-D"),
         # cet.lu (CET ep, 2026-11-23): "C-E-T dot L-U"; only before dot/point/Punkt, because "cet" is a French word
         (r"\bcet(?= (?:dot|point|Punkt) )", "C-E-T"),
+        # consommateurs ep (2026-11-24): ulc.lu -> "U-L-C dot L-U", cecluxembourg.lu -> "C-E-C Luxembourg dot L-U"
+        (r"\bulc(?= (?:dot|point|Punkt) )", "U-L-C"),
+        (r"\bcecluxembourg\b", "C-E-C Luxembourg"),
         # GouvID app (fact-check 2026-11-02): "Gouv I-D"
         (r"\bGouvID\b", "Gouv I-D"),
         # activitesseniors ep (2026-11-20): GERO departments read as two words; MEC asbl spelled out

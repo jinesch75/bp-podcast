@@ -1,0 +1,215 @@
+{
+ "en": {
+  "title": "The CNPD – Your Data Protection Rights",
+  "description": "Shops, apps, administrations: many organisations use your personal data. Discover the CNPD, Luxembourg's National Commission for Data Protection, and its website cnpd.lu: the rights the GDPR gives you, how to use them with an organisation, and how to lodge a complaint when they are not respected.",
+  "topics": [
+   "What the CNPD is",
+   "The GDPR in a few words",
+   "Information & access",
+   "Correction & erasure",
+   "Saying no to advertising",
+   "Portability & automated decisions",
+   "Complaining to the CNPD",
+   "The website cnpd.lu"
+  ],
+  "questions": [
+   {
+    "text": "What is the CNPD?",
+    "options": [
+     "An independent public institution that supervises data protection",
+     "A private company that stores the personal data of all residents",
+     "A court that judges disputes between companies and their clients",
+     "A ministry department that issues identity cards and passports"
+    ],
+    "correct": 0,
+    "explanation": "The CNPD, the National Commission for Data Protection, is an independent public institution. It checks that personal data is processed lawfully and supervises the rules on data protection, such as the GDPR."
+   },
+   {
+    "text": "You want to use one of your data protection rights. What is the first step?",
+    "options": [
+     "Send a registered letter to the Chamber of Deputies",
+     "Contact the organisation that processes your data",
+     "Go to court together with a lawyer straight away",
+     "File a report at the nearest police station first"
+    ],
+    "correct": 1,
+    "explanation": "The first step is always to contact the organisation itself, called the data controller, preferably in writing. Only if that does not work do you turn to the CNPD."
+   },
+   {
+    "text": "How long does an organisation normally have to answer a request for access?",
+    "options": [
+     "One week, with one more week for a complex request",
+     "Six months, or a full year for a complex request",
+     "One month, with up to two more for a complex request",
+     "There is no time limit, as each organisation decides"
+    ],
+    "correct": 2,
+    "explanation": "The organisation must answer within one month. For a complex request, it can take up to two more months, but it has to tell you why. In principle, the answer and the copy of your data are free."
+   },
+   {
+    "text": "What is the right to de-referencing about?",
+    "options": [
+     "Advertising letters that are sent to your home address",
+     "Decisions that are taken by a computer inside a bank",
+     "Old photographs that are stored on your own phone",
+     "Search engine results that appear for your name"
+    ],
+    "correct": 3,
+    "explanation": "De-referencing means asking a search engine to remove certain results that appear when someone types your first name and surname. The content itself stays on the website that published it."
+   },
+   {
+    "text": "An organisation does not answer your request in time. What can you do?",
+    "options": [
+     "Lodge a complaint with the CNPD using its online form",
+     "Ask the CNPD to pay you compensation for the delay",
+     "Delete your data yourself in the organisation's system",
+     "Nothing at all, as organisations are free not to answer"
+    ],
+    "correct": 0,
+    "explanation": "If you get no answer, or if you are not satisfied with it, you can lodge a complaint with the CNPD. It recommends its online complaint form, and you attach the documents that show what you have already done. For damages, you have to go to court."
+   }
+  ]
+ },
+ "fr": {
+  "title": "La CNPD – Vos droits en matière de protection des données",
+  "description": "Magasins, applications, administrations : de nombreux organismes utilisent vos données personnelles. Découvrez la CNPD, la Commission nationale pour la protection des données, et son site cnpd.lu : les droits que vous donne le RGPD, comment les exercer auprès d'un organisme, et comment introduire une réclamation quand ils ne sont pas respectés.",
+  "topics": [
+   "Ce qu'est la CNPD",
+   "Le RGPD en quelques mots",
+   "Information & accès",
+   "Rectification & effacement",
+   "Dire non à la publicité",
+   "Portabilité & décisions automatisées",
+   "Réclamation auprès de la CNPD",
+   "Le site cnpd.lu"
+  ],
+  "questions": [
+   {
+    "text": "Qu'est-ce que la CNPD ?",
+    "options": [
+     "Un établissement public indépendant qui contrôle la protection des données",
+     "Une entreprise privée qui conserve les données personnelles des résidents",
+     "Un tribunal qui juge les litiges entre les entreprises et leurs clients",
+     "Un service ministériel qui délivre les cartes d'identité et les passeports"
+    ],
+    "correct": 0,
+    "explanation": "La CNPD, la Commission nationale pour la protection des données, est un établissement public indépendant. Elle vérifie que les données personnelles sont traitées de manière légale et contrôle le respect des règles de protection des données, comme le RGPD."
+   },
+   {
+    "text": "Vous voulez exercer l'un de vos droits. Quelle est la première étape ?",
+    "options": [
+     "Envoyer un courrier recommandé à la Chambre des Députés",
+     "Contacter l'organisme qui traite vos données personnelles",
+     "Saisir tout de suite le tribunal avec l'aide d'un avocat",
+     "Déposer d'abord une plainte au commissariat de police"
+    ],
+    "correct": 1,
+    "explanation": "La première étape est toujours de contacter l'organisme lui-même, appelé responsable du traitement, de préférence par écrit. C'est seulement si cela ne fonctionne pas que vous vous adressez à la CNPD."
+   },
+   {
+    "text": "De combien de temps un organisme dispose-t-il normalement pour répondre à une demande d'accès ?",
+    "options": [
+     "Une semaine, et une semaine de plus si la demande est complexe",
+     "Six mois, et une année entière si la demande est complexe",
+     "Un mois, et jusqu'à deux mois de plus si la demande est complexe",
+     "Il n'y a aucun délai, car chaque organisme décide lui-même"
+    ],
+    "correct": 2,
+    "explanation": "L'organisme doit répondre dans un délai d'un mois. Pour une demande complexe, il peut prendre jusqu'à deux mois de plus, mais il doit vous expliquer pourquoi. En principe, la réponse et la copie de vos données sont gratuites."
+   },
+   {
+    "text": "Sur quoi porte le droit au déréférencement ?",
+    "options": [
+     "Sur les lettres publicitaires envoyées à votre domicile",
+     "Sur les décisions prises par un ordinateur dans une banque",
+     "Sur les anciennes photos conservées dans votre téléphone",
+     "Sur les résultats d'un moteur de recherche pour votre nom"
+    ],
+    "correct": 3,
+    "explanation": "Le déréférencement consiste à demander à un moteur de recherche de retirer certains résultats qui apparaissent quand quelqu'un tape votre prénom et votre nom. Le contenu lui-même reste sur le site qui l'a publié."
+   },
+   {
+    "text": "Un organisme ne répond pas à votre demande dans le délai. Que pouvez-vous faire ?",
+    "options": [
+     "Introduire une réclamation auprès de la CNPD avec son formulaire en ligne",
+     "Demander à la CNPD de vous verser une indemnité pour le retard",
+     "Supprimer vous-même vos données dans le système de l'organisme",
+     "Rien du tout, car les organismes sont libres de ne pas répondre"
+    ],
+    "correct": 0,
+    "explanation": "Sans réponse, ou si la réponse ne vous satisfait pas, vous pouvez introduire une réclamation auprès de la CNPD. Elle recommande son formulaire en ligne, et vous joignez les documents qui montrent ce que vous avez déjà fait. Pour des dommages et intérêts, il faut saisir le tribunal."
+   }
+  ]
+ },
+ "de": {
+  "title": "Die CNPD – Ihre Rechte beim Datenschutz",
+  "description": "Geschäfte, Apps, Verwaltungen: Viele Organisationen verwenden Ihre persönlichen Daten. Entdecken Sie die CNPD, die Nationale Kommission für den Datenschutz, und ihre Website cnpd.lu: die Rechte, die Ihnen die DSGVO gibt, wie Sie sie bei einer Organisation nutzen, und wie Sie eine Beschwerde einreichen, wenn sie nicht beachtet werden.",
+  "topics": [
+   "Was die CNPD ist",
+   "Die DSGVO in wenigen Worten",
+   "Information & Auskunft",
+   "Berichtigung & Löschung",
+   "Nein zu Werbung sagen",
+   "Übertragbarkeit & automatisierte Entscheidungen",
+   "Beschwerde bei der CNPD",
+   "Die Website cnpd.lu"
+  ],
+  "questions": [
+   {
+    "text": "Was ist die CNPD?",
+    "options": [
+     "Eine unabhängige öffentliche Einrichtung, die den Datenschutz überwacht",
+     "Ein privates Unternehmen, das die Daten aller Einwohner speichert",
+     "Ein Gericht, das Streitfälle zwischen Firmen und Kunden entscheidet",
+     "Eine Abteilung im Ministerium, die Ausweise und Reisepässe ausstellt"
+    ],
+    "correct": 0,
+    "explanation": "Die CNPD, die Nationale Kommission für den Datenschutz, ist eine unabhängige öffentliche Einrichtung. Sie prüft, ob persönliche Daten rechtmäßig verarbeitet werden, und überwacht die Datenschutzregeln, zum Beispiel die DSGVO."
+   },
+   {
+    "text": "Sie möchten eines Ihrer Datenschutzrechte nutzen. Was ist der erste Schritt?",
+    "options": [
+     "Ein Einschreiben an die Abgeordnetenkammer schicken",
+     "Sich an die Organisation wenden, die Ihre Daten verarbeitet",
+     "Sofort zusammen mit einem Anwalt vor Gericht gehen",
+     "Zuerst eine Anzeige bei der nächsten Polizeistelle machen"
+    ],
+    "correct": 1,
+    "explanation": "Der erste Schritt ist immer, sich an die Organisation selbst zu wenden, den sogenannten Verantwortlichen, am besten schriftlich. Erst wenn das nicht funktioniert, wenden Sie sich an die CNPD."
+   },
+   {
+    "text": "Wie lange hat eine Organisation normalerweise Zeit, um auf einen Auskunftsantrag zu antworten?",
+    "options": [
+     "Eine Woche, und eine Woche mehr bei einem komplizierten Antrag",
+     "Sechs Monate, und ein ganzes Jahr bei einem komplizierten Antrag",
+     "Einen Monat, und bis zu zwei Monate mehr bei einem komplizierten Antrag",
+     "Es gibt keine Frist, denn jede Organisation entscheidet das selbst"
+    ],
+    "correct": 2,
+    "explanation": "Die Organisation muss innerhalb eines Monats antworten. Bei einem komplizierten Antrag kann sie bis zu zwei weitere Monate brauchen, muss Ihnen aber sagen, warum. Grundsätzlich sind die Antwort und die Kopie Ihrer Daten kostenlos."
+   },
+   {
+    "text": "Worum geht es beim Recht auf Dereferenzierung?",
+    "options": [
+     "Um Werbebriefe, die an Ihre Wohnadresse geschickt werden",
+     "Um Entscheidungen, die ein Computer in einer Bank trifft",
+     "Um alte Fotos, die auf Ihrem eigenen Handy gespeichert sind",
+     "Um Ergebnisse einer Suchmaschine zu Ihrem Namen"
+    ],
+    "correct": 3,
+    "explanation": "Dereferenzierung bedeutet, eine Suchmaschine zu bitten, bestimmte Ergebnisse zu entfernen, die erscheinen, wenn jemand Ihren Vornamen und Nachnamen eingibt. Der Inhalt selbst bleibt auf der Website, die ihn veröffentlicht hat."
+   },
+   {
+    "text": "Eine Organisation antwortet nicht rechtzeitig auf Ihren Antrag. Was können Sie tun?",
+    "options": [
+     "Bei der CNPD mit dem Online-Formular eine Beschwerde einreichen",
+     "Von der CNPD eine Entschädigung für die Verspätung verlangen",
+     "Ihre Daten selbst im System der Organisation löschen",
+     "Gar nichts, denn Organisationen müssen nicht antworten"
+    ],
+    "correct": 0,
+    "explanation": "Wenn Sie keine Antwort bekommen oder damit nicht zufrieden sind, können Sie bei der CNPD eine Beschwerde einreichen. Sie empfiehlt ihr Online-Beschwerdeformular, und Sie legen die Unterlagen bei, die zeigen, was Sie schon unternommen haben. Für Schadenersatz müssen Sie vor Gericht gehen."
+   }
+  ]
+ }
+}
