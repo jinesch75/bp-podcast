@@ -1,0 +1,83 @@
+{
+ "en": {
+  "title": "Consumer Protection – The ULC and the European Consumer Centre",
+  "description": "A broken product, a parcel that never arrives, a cancelled flight? Discover two addresses that help consumers in Luxembourg: the ULC, the consumer association, for problems with a professional in Luxembourg, and the European Consumer Centre, which helps free of charge when the company is in another European country.",
+  "topics": ["What the ULC is", "Independent and financed by its members", "A free first telephone consultation", "What members receive", "Travel and insurance disputes", "The European Consumer Centre", "Steps for a cross-border complaint", "Two rights worth knowing"],
+  "questions": [
+   {"text": "For which kind of problem is the ULC your contact?",
+    "options": ["A dispute with a shop or a craftsman established in Luxembourg", "A decision of a public administration that you do not want to accept", "A dispute between two companies about an unpaid invoice", "A disagreement with your employer about your working hours"],
+    "correct": 0,
+    "explanation": "The ULC deals with disputes between a consumer and a professional established in Luxembourg. It is not competent for problems with a public administration: for those, there is the Ombudsman."},
+   {"text": "What can you get from the ULC even if you are not a member?",
+    "options": ["The complete analysis of a file with all your documents", "A first telephone consultation with an adviser, free of charge", "A contribution to the costs of a lawyer or of a judicial expert", "The visit of a technical adviser to your building site"],
+    "correct": 1,
+    "explanation": "People who are not yet members can call the ULC for a first free telephone consultation. The analysis of a complete file and the personal assistance in a dispute are reserved for members."},
+   {"text": "Whom does the European Consumer Centre Luxembourg help?",
+    "options": ["Companies in Luxembourg that are in a dispute with a supplier in another European country", "Private persons who sold an object to another private person in a neighbouring country", "Consumers living in Luxembourg, with a professional in another EU country, Iceland or Norway", "Residents who do not accept a decision taken by a public administration in another country"],
+    "correct": 2,
+    "explanation": "The centre informs, advises and assists consumers who live in Luxembourg and have a problem with a professional in another country of the European Union, in Iceland or in Norway. Its services are free of charge."},
+   {"text": "What must you do before the European Consumer Centre can act?",
+    "options": ["Pay a registration fee and become a member of the centre", "Ask a lawyer in the country of the company to open a case", "Wait one full year after the date of your purchase", "Complain to the company yourself, in writing"],
+    "correct": 3,
+    "explanation": "The first step is always to write to the company yourself and to explain what happened and what you are asking for. The centre can only act if you have first complained to the company. Its website offers model letters and emails."},
+   {"text": "You bought something online from a professional in the European Union. How long do you normally have to change your mind?",
+    "options": ["Normally two days, if the parcel has not been opened", "Normally fourteen days, a minimum right in the whole EU", "Normally two years, the same period as the legal guarantee", "There is normally no such right for purchases on the internet"],
+    "correct": 1,
+    "explanation": "For purchases made at a distance, for example online, by phone or by post, you normally have fourteen days to change your mind. There are exceptions, such as personalised products or concert tickets, and this right does not exist for purchases in a shop or at a fair."}
+  ]
+ },
+ "fr": {
+  "title": "La protection des consommateurs – l'ULC et le Centre européen des consommateurs",
+  "description": "Un produit cassé, un colis qui n'arrive jamais, un vol annulé ? Découvrez deux adresses qui aident les consommateurs au Luxembourg : l'ULC, l'association des consommateurs, pour les problèmes avec un professionnel au Luxembourg, et le Centre européen des consommateurs, qui aide gratuitement quand l'entreprise se trouve dans un autre pays européen.",
+  "topics": ["Ce qu'est l'ULC", "Indépendante et financée par ses membres", "Une première consultation téléphonique gratuite", "Ce que reçoivent les membres", "Litiges de voyage et d'assurance", "Le Centre européen des consommateurs", "Les étapes d'une réclamation transfrontalière", "Deux droits utiles à connaître"],
+  "questions": [
+   {"text": "Pour quel type de problème l'ULC est-elle votre contact ?",
+    "options": ["Un litige avec un magasin ou un artisan établi au Luxembourg", "Une décision d'une administration publique que vous n'acceptez pas", "Un litige entre deux entreprises au sujet d'une facture impayée", "Un désaccord avec votre employeur sur vos horaires de travail"],
+    "correct": 0,
+    "explanation": "L'ULC s'occupe des litiges entre un consommateur et un professionnel établi au Luxembourg. Elle n'est pas compétente pour les problèmes avec une administration publique : pour cela, il y a l'Ombudsman."},
+   {"text": "Que pouvez-vous obtenir de l'ULC même si vous n'êtes pas membre ?",
+    "options": ["L'analyse complète d'un dossier avec tous vos documents", "Une première consultation téléphonique gratuite avec un conseiller", "Une participation aux frais d'un avocat ou d'un expert", "La visite d'un conseiller technique sur votre chantier de construction"],
+    "correct": 1,
+    "explanation": "Les personnes qui ne sont pas encore membres peuvent appeler l'ULC pour une première consultation téléphonique gratuite. L'analyse d'un dossier complet et l'assistance personnelle dans un litige sont réservées aux membres."},
+   {"text": "Qui le Centre européen des consommateurs Luxembourg aide-t-il ?",
+    "options": ["Les entreprises du Luxembourg qui sont en litige avec un fournisseur établi dans un autre pays européen", "Les personnes privées qui ont vendu un objet à une autre personne privée dans un pays voisin du Luxembourg", "Les consommateurs qui habitent au Luxembourg, face à un professionnel d'un autre pays de l'UE, d'Islande ou de Norvège", "Les résidents qui n'acceptent pas une décision prise par une administration publique d'un autre pays"],
+    "correct": 2,
+    "explanation": "Le centre informe, conseille et assiste les consommateurs qui habitent au Luxembourg et qui ont un problème avec un professionnel dans un autre pays de l'Union européenne, en Islande ou en Norvège. Ses services sont gratuits."},
+   {"text": "Que devez-vous faire avant que le Centre européen des consommateurs puisse agir ?",
+    "options": ["Payer des frais d'inscription et devenir membre du centre", "Demander à un avocat du pays de l'entreprise d'ouvrir un dossier", "Attendre une année entière après la date de votre achat", "Réclamer vous-même, par écrit, auprès de l'entreprise"],
+    "correct": 3,
+    "explanation": "La première étape est toujours d'écrire vous-même à l'entreprise et d'expliquer ce qui s'est passé et ce que vous demandez. Le centre ne peut agir que si vous avez d'abord réclamé auprès de l'entreprise. Son site propose des modèles de lettres et d'e-mails."},
+   {"text": "Vous avez acheté quelque chose en ligne auprès d'un professionnel dans l'Union européenne. De combien de temps disposez-vous normalement pour changer d'avis ?",
+    "options": ["Normalement deux jours, si le colis n'a pas été ouvert", "Normalement quatorze jours, un droit minimum dans toute l'UE", "Normalement deux ans, la même durée que la garantie légale", "Il n'existe normalement pas de tel droit pour les achats sur internet"],
+    "correct": 1,
+    "explanation": "Pour les achats à distance, par exemple en ligne, par téléphone ou par correspondance, vous avez normalement quatorze jours pour changer d'avis. Il y a des exceptions, comme les produits personnalisés ou les billets de concert, et ce droit n'existe pas pour les achats dans un magasin ou sur une foire."}
+  ]
+ },
+ "de": {
+  "title": "Verbraucherschutz – die ULC und das Europäische Verbraucherzentrum",
+  "description": "Ein kaputtes Produkt, ein Paket, das nie ankommt, ein gestrichener Flug? Entdecken Sie zwei Adressen, die Verbrauchern in Luxemburg helfen: die ULC, den Verbraucherverband, bei Problemen mit einem Unternehmen in Luxemburg, und das Europäische Verbraucherzentrum, das kostenlos hilft, wenn das Unternehmen in einem anderen europäischen Land sitzt.",
+  "topics": ["Was die ULC ist", "Unabhängig und von ihren Mitgliedern finanziert", "Eine kostenlose erste telefonische Beratung", "Was die Mitglieder bekommen", "Streitfälle bei Reisen und Versicherungen", "Das Europäische Verbraucherzentrum", "Die Schritte einer grenzüberschreitenden Beschwerde", "Zwei Rechte, die man kennen sollte"],
+  "questions": [
+   {"text": "Bei welcher Art von Problem ist die ULC Ihr Ansprechpartner?",
+    "options": ["Ein Streit mit einem Geschäft oder einem Handwerker mit Sitz in Luxemburg", "Eine Entscheidung einer öffentlichen Verwaltung, die Sie nicht akzeptieren", "Ein Streit zwischen zwei Unternehmen über eine unbezahlte Rechnung", "Eine Meinungsverschiedenheit mit Ihrem Arbeitgeber über Ihre Arbeitszeiten"],
+    "correct": 0,
+    "explanation": "Die ULC kümmert sich um Streitfälle zwischen einem Verbraucher und einem Gewerbetreibenden mit Sitz in Luxemburg. Für Probleme mit einer öffentlichen Verwaltung ist sie nicht zuständig: Dafür gibt es den Ombudsman."},
+   {"text": "Was können Sie von der ULC bekommen, auch wenn Sie kein Mitglied sind?",
+    "options": ["Die vollständige Prüfung einer Akte mit allen Ihren Unterlagen", "Eine kostenlose erste telefonische Beratung mit einem Berater", "Eine Beteiligung an den Kosten für einen Anwalt oder Gutachter", "Den Besuch eines technischen Beraters auf Ihrer Baustelle"],
+    "correct": 1,
+    "explanation": "Personen, die noch kein Mitglied sind, können die ULC für eine kostenlose erste telefonische Beratung anrufen. Die Prüfung einer vollständigen Akte und die persönliche Unterstützung in einem Streitfall sind den Mitgliedern vorbehalten."},
+   {"text": "Wem hilft das Europäische Verbraucherzentrum Luxemburg?",
+    "options": ["Unternehmen in Luxemburg, die einen Streit mit einem Lieferanten in einem anderen europäischen Land haben", "Privatpersonen, die einen Gegenstand an eine andere Privatperson in einem Nachbarland verkauft haben", "Verbrauchern, die in Luxemburg wohnen, gegenüber einem Unternehmen in einem anderen EU-Land, in Island oder Norwegen", "Einwohnern, die eine Entscheidung einer öffentlichen Verwaltung in einem anderen Land nicht akzeptieren"],
+    "correct": 2,
+    "explanation": "Das Zentrum informiert, berät und unterstützt Verbraucher, die in Luxemburg wohnen und ein Problem mit einem Unternehmen in einem anderen Land der Europäischen Union, in Island oder in Norwegen haben. Seine Dienste sind kostenlos."},
+   {"text": "Was müssen Sie tun, bevor das Europäische Verbraucherzentrum handeln kann?",
+    "options": ["Eine Anmeldegebühr bezahlen und Mitglied des Zentrums werden", "Einen Anwalt im Land des Unternehmens bitten, eine Akte zu eröffnen", "Ein ganzes Jahr nach dem Datum Ihres Kaufs abwarten", "Sich selbst schriftlich bei dem Unternehmen beschweren"],
+    "correct": 3,
+    "explanation": "Der erste Schritt ist immer, selbst an das Unternehmen zu schreiben und zu erklären, was passiert ist und was Sie verlangen. Das Zentrum kann nur handeln, wenn Sie sich zuerst bei dem Unternehmen beschwert haben. Auf seiner Website gibt es Musterbriefe und Muster-E-Mails."},
+   {"text": "Sie haben etwas online bei einem Unternehmen in der Europäischen Union gekauft. Wie viel Zeit haben Sie normalerweise, um es sich anders zu überlegen?",
+    "options": ["Normalerweise zwei Tage, wenn das Paket nicht geöffnet wurde", "Normalerweise vierzehn Tage, ein Mindestrecht in der ganzen EU", "Normalerweise zwei Jahre, genauso lange wie die gesetzliche Garantie", "Für Käufe im Internet gibt es normalerweise kein solches Recht"],
+    "correct": 1,
+    "explanation": "Bei Käufen im Fernabsatz, zum Beispiel online, am Telefon oder per Post, haben Sie normalerweise vierzehn Tage Zeit, um es sich anders zu überlegen. Es gibt Ausnahmen, etwa für personalisierte Produkte oder Konzertkarten, und dieses Recht gibt es nicht bei Käufen in einem Geschäft oder auf einer Messe."}
+  ]
+ }
+}
