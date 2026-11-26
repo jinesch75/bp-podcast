@@ -401,6 +401,7 @@ function applyLang() {
   else if (id === 'screen-quiz') { setQuizLabel(); renderQuestion(curIndex); }
   else if (id === 'screen-results') showResults();
   else if (id === 'screen-certificate') showCertificate();
+  plRefreshUI();   // playlist: header counter, + buttons, playlist screen, player bar
 }
 
 // ── Helpers ──────────────────────────────────────────────
@@ -480,7 +481,7 @@ function episodeRow(ep) {
     (inProgress ? '<span class="ep-status-badge">' + esc(t('status_in_progress')) + '</span>' : '') +
     '<span class="ep-row-go" aria-hidden="true">&rsaquo;</span>';
   row.addEventListener('click', function () { selectEpisode(ep.id); });
-  return row;
+  return plWrapRow(row, ep);   // adds the "+ playlist" button (row unchanged where playlists are off)
 }
 function renderViewToggle() {
   // Tick box "Show episodes by topic" (unticked = full list, the default).
@@ -706,6 +707,7 @@ function renderEpisodeDetail() {
 
   updateLangButtons();
   renderTranscript();
+  plPaintDetailBtn();
 }
 
 // ── Transcript (always the chosen UI language) ───────────
@@ -763,6 +765,7 @@ function renderTranscript() {
 function setSiteLang(lang) {
   if (lang === currentLang) return;
   currentLang = lang;
+  plOnLangChange();   // playlist track follows the site language
   applyLang();
 }
 
@@ -944,6 +947,443 @@ function showCertificate() {
   showScreen('screen-certificate');
 }
 
+// ── Playlist ─────────────────────────────────────────────
+// Listeners pick episodes and hear them one after the other (e.g. in the car).
+//  - A second <audio id="pl-audio"> sits in the fixed player bar, so the playlist keeps playing on every
+//    screen. The episode page keeps its own player (#ep-audio, with the read-along script).
+//    Only one of the two plays at a time.
+//  - The list (and where you stopped) is kept on the device only (localStorage) – nothing is sent anywhere.
+//  - Media Session: title + previous/next on the lock screen, Bluetooth, CarPlay and Android Auto.
+//  - Switched off on single-episode pages (partner review links) and on pages generated before this
+//    feature existed (no #pl-audio in the HTML).
+Object.assign(I18N.en, {
+  pl_button: 'My playlist',
+  pl_h1: 'My playlist',
+  pl_intro: 'Choose the episodes you want to hear in a row – in the car, on the train or on a walk. They play one after the other.',
+  pl_add: 'Add to my playlist',
+  pl_added: '✓ In my playlist',
+  pl_remove: 'Remove from my playlist',
+  pl_empty: 'Your playlist is empty. Use the + button next to an episode to add it.',
+  pl_play_all: '▶ Play all',
+  pl_clear: 'Empty the playlist',
+  pl_clear_confirm: 'Tap again to empty',
+  pl_summary: '{n} episodes · {time}',
+  pl_summary_one: '1 episode · {time}',
+  pl_up: 'Move up', pl_down: 'Move down',
+  pl_play_this: 'Play this episode',
+  pl_car_hint: 'In the car: connect your phone by Bluetooth, CarPlay or Android Auto, start the playlist before you drive, and use the buttons of your car to pause or to skip to the next episode. The audio is streamed, so it uses mobile data.',
+  pl_storage_note: 'Your playlist is saved only on this device. Nothing is sent anywhere.',
+  pl_prev: 'Previous episode', pl_next: 'Next episode', pl_play: 'Play', pl_pause: 'Pause',
+  pl_close: 'Close the player', pl_seek: 'Position in the episode'
+});
+Object.assign(I18N.fr, {
+  pl_button: 'Ma playlist',
+  pl_h1: 'Ma playlist',
+  pl_intro: 'Choisissez les épisodes que vous voulez écouter à la suite – en voiture, dans le train ou en promenade. Ils s’enchaînent automatiquement.',
+  pl_add: 'Ajouter à ma playlist',
+  pl_added: '✓ Dans ma playlist',
+  pl_remove: 'Retirer de ma playlist',
+  pl_empty: 'Votre playlist est vide. Utilisez le bouton + à côté d’un épisode pour l’ajouter.',
+  pl_play_all: '▶ Tout écouter',
+  pl_clear: 'Vider la playlist',
+  pl_clear_confirm: 'Appuyez encore pour vider',
+  pl_summary: '{n} épisodes · {time}',
+  pl_summary_one: '1 épisode · {time}',
+  pl_up: 'Monter', pl_down: 'Descendre',
+  pl_play_this: 'Écouter cet épisode',
+  pl_car_hint: 'En voiture : connectez votre téléphone par Bluetooth, CarPlay ou Android Auto, lancez la playlist avant de démarrer, puis utilisez les touches de votre voiture pour mettre en pause ou passer à l’épisode suivant. L’écoute se fait en streaming et utilise donc vos données mobiles.',
+  pl_storage_note: 'Votre playlist est enregistrée uniquement sur cet appareil. Rien n’est envoyé.',
+  pl_prev: 'Épisode précédent', pl_next: 'Épisode suivant', pl_play: 'Lecture', pl_pause: 'Pause',
+  pl_close: 'Fermer le lecteur', pl_seek: 'Position dans l’épisode'
+});
+Object.assign(I18N.de, {
+  pl_button: 'Meine Playlist',
+  pl_h1: 'Meine Playlist',
+  pl_intro: 'Wählen Sie die Folgen aus, die Sie nacheinander hören möchten – im Auto, im Zug oder beim Spazierengehen. Sie werden automatisch nacheinander abgespielt.',
+  pl_add: 'Zu meiner Playlist hinzufügen',
+  pl_added: '✓ In meiner Playlist',
+  pl_remove: 'Aus meiner Playlist entfernen',
+  pl_empty: 'Ihre Playlist ist leer. Mit der Schaltfläche + neben einer Folge fügen Sie sie hinzu.',
+  pl_play_all: '▶ Alle abspielen',
+  pl_clear: 'Playlist leeren',
+  pl_clear_confirm: 'Zum Leeren erneut tippen',
+  pl_summary: '{n} Folgen · {time}',
+  pl_summary_one: '1 Folge · {time}',
+  pl_up: 'Nach oben', pl_down: 'Nach unten',
+  pl_play_this: 'Diese Folge abspielen',
+  pl_car_hint: 'Im Auto: Verbinden Sie Ihr Telefon über Bluetooth, CarPlay oder Android Auto, starten Sie die Playlist vor der Fahrt und nutzen Sie die Tasten Ihres Autos, um zu pausieren oder zur nächsten Folge zu springen. Die Wiedergabe erfolgt per Streaming und verbraucht mobile Daten.',
+  pl_storage_note: 'Ihre Playlist wird nur auf diesem Gerät gespeichert. Es wird nichts übertragen.',
+  pl_prev: 'Vorherige Folge', pl_next: 'Nächste Folge', pl_play: 'Abspielen', pl_pause: 'Pause',
+  pl_close: 'Player schließen', pl_seek: 'Position in der Folge'
+});
+
+var PL_KEY = 'bp_playlist_v1';
+var PL_ICONS = {
+  play:  '<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M8 5v14l11-7z"/></svg>',
+  pause: '<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M6 5h4v14H6zM14 5h4v14h-4z"/></svg>',
+  plus:  '<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" d="M12 5v14M5 12h14"/></svg>',
+  check: '<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" d="M5 12.5l4.5 4.5L19 7.5"/></svg>',
+  up:    '<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" d="M6 15l6-6 6 6"/></svg>',
+  down:  '<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" d="M6 9l6 6 6-6"/></svg>',
+  remove:'<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" d="M6 6l12 12M18 6L6 18"/></svg>'
+};
+var playlist = [];          // episode ids, in listening order
+var plCurId = null;         // episode loaded in the player bar (null = bar closed)
+var plLang = null;          // language of the loaded track
+var plPendingSeek = null;   // position to jump to once the audio has loaded (resume / language switch)
+var plSeeking = false;      // the listener is dragging the position slider
+var plLastStore = 0;
+var plClearTimer = null;
+
+function plAudio() { return document.getElementById('pl-audio'); }
+function plEnabled() { return EPISODES.length > 1 && !!plAudio(); }
+function plEp(id) { return EPISODES.find(function (e) { return e.id === id; }); }
+function plHas(id) { return playlist.indexOf(id) >= 0; }
+function plIndex() { return plCurId == null ? -1 : playlist.indexOf(plCurId); }
+function plDurIn(ep, lang) { return (lang === 'en' ? ep.duration : ep['duration_' + lang]) || ep.duration || 0; }
+function plDur(ep) { return plDurIn(ep, audioLangFor(ep)); }
+function plPos() { var a = plAudio(); return plPendingSeek != null ? plPendingSeek : ((a && a.currentTime) || 0); }
+function plScreenActive() { var s = document.getElementById('screen-playlist'); return !!s && s.classList.contains('active'); }
+function fmtTime(s) {
+  s = Math.max(0, Math.round(s || 0));
+  var h = Math.floor(s / 3600), m = Math.floor((s % 3600) / 60), x = s % 60;
+  return (h ? h + ':' + (m < 10 ? '0' : '') : '') + m + ':' + (x < 10 ? '0' : '') + x;
+}
+
+// Storage (private browsing or blocked storage simply means the list is not remembered).
+function plStore() {
+  plLastStore = Date.now();
+  try {
+    localStorage.setItem(PL_KEY, JSON.stringify({ ids: playlist, cur: plCurId, t: plCurId != null ? Math.floor(plPos()) : 0 }));
+  } catch (e) {}
+}
+function plRestore() {
+  try {
+    var d = JSON.parse(localStorage.getItem(PL_KEY) || 'null');
+    if (!d || !Array.isArray(d.ids)) return;
+    var seen = {};
+    playlist = d.ids.filter(function (id) { if (seen[id] || !plEp(id)) return false; seen[id] = 1; return true; });
+    if (d.cur != null && plHas(d.cur)) plLoadTrack(d.cur, false, d.t || 0);   // bar comes back paused where you stopped
+  } catch (e) {}
+}
+
+// Player
+function plLoadTrack(id, autoplay, startAt) {
+  var ep = plEp(id), a = plAudio();
+  if (!ep || !a) return;
+  plCurId = id;
+  plLang = audioLangFor(ep);
+  plPendingSeek = startAt > 0 ? startAt : null;
+  a.src = audioForLang(ep);
+  if (plPendingSeek != null) { try { a.currentTime = plPendingSeek; } catch (e) {} }
+  plShowBar(true);
+  plMediaSession(true);
+  plUpdateBar();
+  if (plScreenActive()) renderPlaylist();
+  if (autoplay) plPlay();
+  plStore();
+}
+function plPlay() {
+  var a = plAudio();
+  if (!a || plCurId == null) return;
+  var p = a.play();
+  if (p && p.catch) p.catch(function () { plUpdateBar(); });
+}
+function plTogglePlay() { var a = plAudio(); if (!a || plCurId == null) return; if (a.paused) plPlay(); else a.pause(); }
+function plPlayAt(i) { if (i >= 0 && i < playlist.length) plLoadTrack(playlist[i], true, 0); }
+function plNext() { var i = plIndex(); if (i >= 0 && i < playlist.length - 1) plPlayAt(i + 1); }
+function plPrev() {
+  var a = plAudio(), i = plIndex();
+  if (!a || i < 0) return;
+  if (plPos() > 5 || i === 0) { plSeekTo(0); }   // like a car radio: first press goes back to the start
+  else plPlayAt(i - 1);
+}
+function plSeekTo(sec) {
+  var a = plAudio();
+  if (!a || plCurId == null) return;
+  sec = Math.max(0, sec);
+  if (a.readyState === 0) plPendingSeek = sec; else plPendingSeek = null;
+  try { a.currentTime = sec; } catch (e) {}
+  plUpdateBar();
+}
+function plOnEnded() {
+  var i = plIndex();
+  if (i >= 0 && i < playlist.length - 1) plPlayAt(i + 1);
+  else if (playlist.length) plLoadTrack(playlist[0], false, 0);   // end of the list: back to the first episode, paused
+}
+function plClose() {
+  var a = plAudio();
+  if (a) { a.pause(); a.removeAttribute('src'); a.load(); }
+  plCurId = null; plPendingSeek = null;
+  plShowBar(false);
+  plMediaSession(false);
+  plStore();
+  if (plScreenActive()) renderPlaylist();
+}
+function plShowBar(on) {
+  var bar = document.getElementById('pl-bar');
+  if (bar) bar.hidden = !on;
+  document.body.classList.toggle('pl-bar-on', !!on);
+}
+function plUpdateBar() {
+  var a = plAudio(), ep = plCurId != null && plEp(plCurId);
+  if (!a || !ep) return;
+  var i = plIndex();
+  var dur = (isFinite(a.duration) && a.duration > 0) ? a.duration : plDur(ep);
+  var cur = Math.min(plPos(), dur);
+  document.getElementById('pl-bar-count').textContent = (i + 1) + '/' + playlist.length;
+  document.getElementById('pl-bar-name').textContent = epField(ep, 'title');
+  var seek = document.getElementById('pl-seek');
+  seek.max = Math.floor(dur);
+  if (!plSeeking) {
+    seek.value = Math.floor(cur);
+    document.getElementById('pl-cur').textContent = fmtTime(cur);
+  }
+  seek.style.setProperty('--p', (dur ? (seek.value / dur) * 100 : 0) + '%');
+  seek.setAttribute('aria-label', t('pl_seek'));
+  seek.setAttribute('aria-valuetext', fmtTime(seek.value) + ' / ' + fmtTime(dur));
+  document.getElementById('pl-dur').textContent = fmtTime(dur);
+  var tg = document.getElementById('pl-toggle');
+  var want = a.paused ? 'play' : 'pause';
+  if (tg.getAttribute('data-state') !== want) { tg.innerHTML = PL_ICONS[want]; tg.setAttribute('data-state', want); }
+  tg.setAttribute('aria-label', t(a.paused ? 'pl_play' : 'pl_pause'));
+  document.getElementById('pl-prev').setAttribute('aria-label', t('pl_prev'));
+  var nx = document.getElementById('pl-next');
+  nx.setAttribute('aria-label', t('pl_next'));
+  nx.disabled = i >= playlist.length - 1;
+  document.getElementById('pl-close').setAttribute('aria-label', t('pl_close'));
+  document.getElementById('pl-bar-title').setAttribute('aria-label', t('pl_button') + ': ' + epField(ep, 'title'));
+}
+
+// Lock screen / car display. Only claimed while the playlist is the active player, so the episode
+// page's own player keeps the browser's default behaviour.
+function plMediaSession(on) {
+  if (!('mediaSession' in navigator)) return;
+  var ms = navigator.mediaSession, a = plAudio();
+  var ep = on && plCurId != null && plEp(plCurId);
+  var handlers = {
+    play: function () { plPlay(); },
+    pause: function () { if (a) a.pause(); },
+    previoustrack: function () { plPrev(); },
+    nexttrack: function () { plNext(); },
+    seekbackward: function (d) { plSeekTo(plPos() - ((d && d.seekOffset) || 15)); },
+    seekforward: function (d) { plSeekTo(plPos() + ((d && d.seekOffset) || 30)); },
+    seekto: function (d) { if (d && d.seekTime != null) plSeekTo(d.seekTime); }
+  };
+  Object.keys(handlers).forEach(function (k) {
+    try { ms.setActionHandler(k, ep ? handlers[k] : null); } catch (e) {}
+  });
+  try {
+    ms.metadata = ep ? new MediaMetadata({
+      title: epField(ep, 'title'),
+      artist: t('podcast_name'),
+      album: epNumber(ep),
+      artwork: [
+        { src: 'podcast-cover-192.png', sizes: '192x192', type: 'image/png' },
+        { src: 'podcast-cover-512.png', sizes: '512x512', type: 'image/png' }
+      ]
+    }) : null;
+  } catch (e) {}
+}
+function plPositionState() {
+  var a = plAudio();
+  if (!a || !('mediaSession' in navigator) || !navigator.mediaSession.setPositionState) return;
+  if (!isFinite(a.duration) || a.duration <= 0) return;
+  try { navigator.mediaSession.setPositionState({ duration: a.duration, playbackRate: a.playbackRate || 1, position: Math.min(a.currentTime, a.duration) }); } catch (e) {}
+}
+
+// Changes to the list
+function plToggle(id) {
+  var i = playlist.indexOf(id);
+  if (i >= 0) plRemoveAt(i); else { playlist.push(id); plChanged(); }
+}
+function plRemoveAt(i) {
+  var a = plAudio(), wasCur = playlist[i] === plCurId, wasPlaying = !!a && !a.paused;
+  playlist.splice(i, 1);
+  if (wasCur) {
+    if (playlist.length) plLoadTrack(playlist[Math.min(i, playlist.length - 1)], wasPlaying && i < playlist.length, 0);
+    else plClose();
+  }
+  plChanged();
+}
+function plMove(i, d) {
+  var j = i + d;
+  if (j < 0 || j >= playlist.length) return;
+  var x = playlist[i]; playlist[i] = playlist[j]; playlist[j] = x;
+  plChanged({ index: j, act: d < 0 ? 'up' : 'down' });
+}
+function plClear() { playlist = []; plClose(); plChanged(); }
+function plChanged(focus) { plStore(); plRefreshUI(focus); }
+
+// Buttons that add / remove an episode
+function plPaintAddBtn(b) {
+  var ep = plEp(Number(b.getAttribute('data-id')));
+  if (!ep) return;
+  var added = plHas(ep.id);
+  var want = added ? 'check' : 'plus';
+  if (b.getAttribute('data-state') !== want) { b.innerHTML = PL_ICONS[want]; b.setAttribute('data-state', want); }
+  b.classList.toggle('added', added);
+  b.setAttribute('aria-pressed', added ? 'true' : 'false');
+  b.title = t(added ? 'pl_remove' : 'pl_add');
+  b.setAttribute('aria-label', t(added ? 'pl_remove' : 'pl_add') + ': ' + epField(ep, 'title'));
+}
+function plWrapRow(row, ep) {
+  if (!plEnabled()) return row;   // review pages etc.: the row exactly as before
+  var wrap = document.createElement('div');
+  wrap.className = 'ep-row-wrap';
+  var b = document.createElement('button');
+  b.type = 'button';
+  b.className = 'ep-row-add';
+  b.setAttribute('data-id', ep.id);
+  b.addEventListener('click', function () { plToggle(ep.id); });
+  plPaintAddBtn(b);
+  wrap.appendChild(row);
+  wrap.appendChild(b);
+  return wrap;
+}
+function plPaintDetailBtn() {
+  var b = document.getElementById('btn-pl-toggle');
+  if (!b) return;
+  if (!plEnabled() || !selectedEpisode) { b.hidden = true; return; }
+  var added = plHas(selectedEpisode.id);
+  b.hidden = false;
+  b.textContent = added ? t('pl_added') : '+ ' + t('pl_add');
+  b.classList.toggle('added', added);
+  b.setAttribute('aria-pressed', added ? 'true' : 'false');
+  b.title = added ? t('pl_remove') : '';
+}
+function plRefreshUI(focus) {
+  if (!plEnabled()) return;
+  var hb = document.getElementById('btn-playlist');
+  if (hb) {
+    hb.hidden = false;
+    document.getElementById('pl-head-count').textContent = playlist.length;
+    hb.classList.toggle('has-items', playlist.length > 0);
+    hb.setAttribute('aria-label', t('pl_button') + ' (' + playlist.length + ')');
+  }
+  document.querySelectorAll('.ep-row-add').forEach(plPaintAddBtn);
+  plPaintDetailBtn();
+  if (plScreenActive()) renderPlaylist(focus);
+  plUpdateBar();
+  if (plCurId != null && 'mediaSession' in navigator && navigator.mediaSession.metadata) plMediaSession(true);   // title in the new language
+}
+
+// "My playlist" screen
+function renderPlaylist(focus) {
+  var list = document.getElementById('pl-list');
+  if (!list) return;
+  var a = plAudio(), cur = plIndex(), total = 0;
+  list.innerHTML = '';
+  playlist.forEach(function (id, i) {
+    var ep = plEp(id);
+    total += plDur(ep);
+    var item = document.createElement('div');
+    var isCur = i === cur;
+    item.className = 'pl-item' + (isCur ? ' current' : '') + (isCur && a && !a.paused ? ' playing' : '');
+    item.innerHTML =
+      '<span class="pl-pos">' + (i + 1) + '</span>' +
+      '<button type="button" class="pl-item-main" data-act="play" title="' + esc(t('pl_play_this')) + '">' +
+        '<span class="pl-item-title">' + esc(epField(ep, 'title')) + '</span>' +
+        '<span class="pl-item-meta">' + esc(epNumber(ep)) + ' · ' + fmtTime(plDur(ep)) + '</span>' +
+      '</button>' +
+      '<button type="button" class="pl-ic pl-sm" data-act="up" aria-label="' + esc(t('pl_up')) + '" title="' + esc(t('pl_up')) + '"' + (i === 0 ? ' disabled' : '') + '>' + PL_ICONS.up + '</button>' +
+      '<button type="button" class="pl-ic pl-sm" data-act="down" aria-label="' + esc(t('pl_down')) + '" title="' + esc(t('pl_down')) + '"' + (i === playlist.length - 1 ? ' disabled' : '') + '>' + PL_ICONS.down + '</button>' +
+      '<button type="button" class="pl-ic pl-sm pl-rm" data-act="remove" aria-label="' + esc(t('pl_remove')) + '" title="' + esc(t('pl_remove')) + '">' + PL_ICONS.remove + '</button>';
+    item.querySelectorAll('[data-act]').forEach(function (b) {
+      b.addEventListener('click', function () {
+        var act = b.getAttribute('data-act');
+        if (act === 'play') { if (i === plIndex()) plTogglePlay(); else plPlayAt(i); }
+        else if (act === 'up') plMove(i, -1);
+        else if (act === 'down') plMove(i, 1);
+        else if (act === 'remove') plRemoveAt(i);
+      });
+    });
+    list.appendChild(item);
+  });
+  var has = playlist.length > 0;
+  document.getElementById('pl-empty').hidden = has;
+  document.getElementById('pl-actions').hidden = !has;
+  list.hidden = !has;
+  document.getElementById('pl-summary').textContent = has
+    ? t(playlist.length === 1 ? 'pl_summary_one' : 'pl_summary', { n: playlist.length, time: fmtTime(total) }) : '';
+  // Keep the keyboard focus on the arrow that was just used (or its neighbour at the end of the list).
+  if (focus && list.children[focus.index]) {
+    var fb = list.children[focus.index].querySelector('[data-act="' + focus.act + '"]');
+    if (fb && fb.disabled) fb = list.children[focus.index].querySelector('[data-act="' + (focus.act === 'up' ? 'down' : 'up') + '"]');
+    if (fb) fb.focus();
+  }
+}
+function openPlaylist() { renderPlaylist(); showScreen('screen-playlist'); }
+
+// Language switch while a playlist track is loaded: same episode, other language, about the same place.
+function plOnLangChange() {
+  if (!plEnabled() || plCurId == null) return;
+  var ep = plEp(plCurId), a = plAudio();
+  var lang = audioLangFor(ep);
+  if (lang === plLang) return;
+  var oldDur = (isFinite(a.duration) && a.duration > 0) ? a.duration : plDurIn(ep, plLang);
+  var ratio = oldDur ? plPos() / oldDur : 0;
+  plLoadTrack(plCurId, !a.paused, Math.floor(ratio * plDur(ep)));
+}
+
+function plInit() {
+  if (!plEnabled()) return;
+  var a = plAudio(), epA = document.getElementById('ep-audio');
+  a.addEventListener('play', function () {
+    if (epA) epA.pause();
+    plMediaSession(true);
+    plUpdateBar();
+    if (plScreenActive()) renderPlaylist();
+  });
+  a.addEventListener('pause', function () { plUpdateBar(); plStore(); if (plScreenActive()) renderPlaylist(); });
+  a.addEventListener('ended', plOnEnded);
+  a.addEventListener('loadedmetadata', function () {
+    if (plPendingSeek != null) {
+      if (Math.abs(a.currentTime - plPendingSeek) > 1) { try { a.currentTime = plPendingSeek; } catch (e) {} }
+      plPendingSeek = null;
+    }
+    plUpdateBar();
+    plPositionState();
+  });
+  a.addEventListener('timeupdate', function () {
+    plUpdateBar();
+    if (Date.now() - plLastStore > 5000) { plStore(); plPositionState(); }
+  });
+  a.addEventListener('seeked', function () { plUpdateBar(); plPositionState(); });
+  // One player at a time: starting the episode page's player pauses the playlist.
+  if (epA) epA.addEventListener('play', function () { a.pause(); plMediaSession(false); });
+  window.addEventListener('pagehide', plStore);
+
+  document.getElementById('pl-toggle').addEventListener('click', plTogglePlay);
+  document.getElementById('pl-prev').addEventListener('click', plPrev);
+  document.getElementById('pl-next').addEventListener('click', plNext);
+  document.getElementById('pl-close').addEventListener('click', plClose);
+  document.getElementById('pl-bar-title').addEventListener('click', openPlaylist);
+  var seek = document.getElementById('pl-seek');
+  seek.addEventListener('input', function () {
+    plSeeking = true;
+    document.getElementById('pl-cur').textContent = fmtTime(seek.value);
+    seek.style.setProperty('--p', (seek.max > 0 ? (seek.value / seek.max) * 100 : 0) + '%');
+  });
+  seek.addEventListener('change', function () { plSeeking = false; plSeekTo(Number(seek.value)); });
+
+  document.getElementById('btn-playlist').addEventListener('click', openPlaylist);
+  document.getElementById('btn-back-episodes-pl').addEventListener('click', function () { showScreen('screen-episodes'); });
+  document.getElementById('pl-play-all').addEventListener('click', function () { plPlayAt(0); });
+  var clr = document.getElementById('pl-clear');
+  clr.addEventListener('click', function () {   // two taps, so a slip of the finger does not empty the list
+    if (plClearTimer) { clearTimeout(plClearTimer); plClearTimer = null; clr.textContent = t('pl_clear'); plClear(); return; }
+    clr.textContent = t('pl_clear_confirm');
+    plClearTimer = setTimeout(function () { plClearTimer = null; clr.textContent = t('pl_clear'); }, 4000);
+  });
+  var db = document.getElementById('btn-pl-toggle');
+  if (db) db.addEventListener('click', function () { if (selectedEpisode) plToggle(selectedEpisode.id); });
+  // The quiz is taken without audio in the background.
+  document.getElementById('btn-start-quiz').addEventListener('click', function () { a.pause(); });
+
+  plRestore();
+}
+
 // ── Wire up ──────────────────────────────────────────────
 document.addEventListener('DOMContentLoaded', function () {
   // Registration screen is disabled for now - go straight to the catalogue.
@@ -993,6 +1433,8 @@ document.addEventListener('DOMContentLoaded', function () {
       }
     }, 4000);
   }
+
+  plInit();   // playlist (restores the saved list)
 
   // Apply initial language (sets active states + static strings).
   applyLang();
