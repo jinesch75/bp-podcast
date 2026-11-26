@@ -1,0 +1,83 @@
+{
+ "en": {
+  "title": "Luxembourg Air Rescue – Rescue Helicopters and Repatriation",
+  "description": "When every minute counts, a rescue helicopter brings a doctor straight to the scene. Discover Luxembourg Air Rescue (LAR): how its helicopters are sent through the emergency number 112, who is on board, how members are brought home from abroad after a medical emergency, and what the individual and family memberships cover.",
+  "topics": ["What LAR is", "Rescue helicopters and the 112", "The crew on board", "Safety near a landing helicopter", "Medical repatriation from abroad", "Conditions of repatriation", "Individual and family membership", "Humanitarian work, training and tours"],
+  "questions": [
+   {"text": "There is a serious accident in Luxembourg. How is the rescue helicopter sent?",
+    "options": ["You call 112, and the emergency control centre decides", "You call the LAR office, and the pilot decides to come", "You send a request with the form on the LAR website", "You ask the nearest hospital to send its own helicopter"],
+    "correct": 0,
+    "explanation": "You do not call the helicopter yourself. You call 112, and the emergency control centre decides whether the helicopter is the best help, depending on how serious the situation is, how easy the place is to reach and which teams are available."},
+   {"text": "Does the LAR rescue helicopter only come for members?",
+    "options": ["No, it also carries out rescue missions for non-members", "Yes, non-members always have to wait for a road ambulance", "Yes, unless the non-member pays the full cost in advance", "No, but only members are then flown to a hospital"],
+    "correct": 0,
+    "explanation": "LAR is part of the emergency system in Luxembourg, so it also carries out rescue missions for people who are not members. Membership fees help to keep the service available for everyone."},
+   {"text": "A member falls seriously ill abroad. Who decides whether and how the member can travel home?",
+    "options": ["A doctor from LAR, after talking with the doctor abroad", "The member, by booking a flight home on the internet", "The travel agency that sold the holiday to the member", "The embassy of Luxembourg in the country of the stay"],
+    "correct": 0,
+    "explanation": "After the call to the alert centre, a doctor from LAR speaks directly with the treating doctor abroad. Then LAR's medical team decides whether, when and how the patient can travel safely."},
+   {"text": "When does the right to a repatriation begin for a new member?",
+    "options": ["One month after LAR receives the first membership fee", "On the very same day that the online form is sent", "Only after three full years of paid membership", "One week after the membership card arrives by post"],
+    "correct": 0,
+    "explanation": "The cover starts one month after LAR receives the first membership fee. After that, the membership must be renewed every year."},
+   {"text": "Who is covered by an LAR family membership?",
+    "options": ["A couple at the same address and their children up to 18", "All relatives, including grandparents, uncles and cousins", "Only married couples, but not the children of the household", "Any friends who travel abroad together with the member"],
+    "correct": 0,
+    "explanation": "A family membership covers a couple who officially live at the same address, married or not, and the children of the household up to the age of 18. Other people living in the household are not covered."}
+  ]
+ },
+ "fr": {
+  "title": "Luxembourg Air Rescue – hélicoptères de secours et rapatriement",
+  "description": "Quand chaque minute compte, un hélicoptère de secours amène un médecin directement sur place. Découvrez Luxembourg Air Rescue (LAR) : comment ses hélicoptères sont envoyés via le numéro d'urgence 112, qui se trouve à bord, comment les membres sont rapatriés de l'étranger après une urgence médicale, et ce que couvrent les affiliations individuelle et familiale.",
+  "topics": ["Ce qu'est la LAR", "Les hélicoptères de secours et le 112", "L'équipage à bord", "La sécurité près d'un hélicoptère", "Le rapatriement médical", "Les conditions du rapatriement", "Affiliation individuelle et familiale", "Humanitaire, formations et visites"],
+  "questions": [
+   {"text": "Il y a un accident grave au Luxembourg. Comment l'hélicoptère de secours est-il envoyé ?",
+    "options": ["On appelle le 112, et le central des secours décide", "On appelle le bureau de la LAR, et le pilote décide de venir", "On envoie une demande avec le formulaire du site de la LAR", "On demande à l'hôpital le plus proche d'envoyer son hélicoptère"],
+    "correct": 0,
+    "explanation": "On n'appelle pas soi-même l'hélicoptère. On appelle le 112, et le central des secours décide si l'hélicoptère est la meilleure aide, selon la gravité de la situation, l'accès au lieu et les équipes disponibles."},
+   {"text": "L'hélicoptère de secours de la LAR vient-il seulement pour les membres ?",
+    "options": ["Non, elle intervient aussi pour les non-membres", "Oui, les non-membres doivent toujours attendre une ambulance", "Oui, sauf si le non-membre paie tout le coût à l'avance", "Non, mais seuls les membres sont ensuite amenés à l'hôpital"],
+    "correct": 0,
+    "explanation": "La LAR fait partie du système de secours au Luxembourg : elle intervient donc aussi pour des personnes qui ne sont pas membres. Les cotisations aident à garder ce service disponible pour tout le monde."},
+   {"text": "Un membre tombe gravement malade à l'étranger. Qui décide s'il peut rentrer, et comment ?",
+    "options": ["Un médecin de la LAR, après avoir parlé avec le médecin sur place", "Le membre lui-même, en réservant un vol de retour sur internet", "L'agence de voyages qui a vendu les vacances au membre", "L'ambassade du Luxembourg dans le pays du séjour"],
+    "correct": 0,
+    "explanation": "Après l'appel au centre d'alerte, un médecin de la LAR parle directement avec le médecin qui soigne le patient. Puis l'équipe médicale de la LAR décide si, quand et comment le patient peut voyager en sécurité."},
+   {"text": "À partir de quand un nouveau membre a-t-il droit à un rapatriement ?",
+    "options": ["Un mois après que la LAR a reçu la première cotisation", "Le jour même où le formulaire en ligne est envoyé", "Seulement après trois années complètes d'adhésion", "Une semaine après l'arrivée de la carte de membre"],
+    "correct": 0,
+    "explanation": "La couverture commence un mois après que la LAR a reçu la première cotisation. Ensuite, l'adhésion doit être renouvelée chaque année."},
+   {"text": "Qui est couvert par une affiliation familiale de la LAR ?",
+    "options": ["Un couple à la même adresse et leurs enfants jusqu'à 18 ans", "Toute la famille, y compris les grands-parents et les cousins", "Seulement les couples mariés, sans les enfants du foyer", "Tous les amis qui voyagent à l'étranger avec le membre"],
+    "correct": 0,
+    "explanation": "L'affiliation familiale couvre un couple qui habite officiellement à la même adresse, marié ou non, et les enfants du foyer jusqu'à 18 ans. Les autres personnes du foyer ne sont pas couvertes."}
+  ]
+ },
+ "de": {
+  "title": "Luxembourg Air Rescue – Rettungshubschrauber und Rückholung",
+  "description": "Wenn jede Minute zählt, bringt ein Rettungshubschrauber einen Notarzt direkt zum Einsatzort. Lernen Sie Luxembourg Air Rescue (LAR) kennen: wie die Hubschrauber über die Notrufnummer 112 geschickt werden, wer an Bord ist, wie Mitglieder nach einem medizinischen Notfall aus dem Ausland nach Hause geholt werden und was die Einzel- und die Familienmitgliedschaft abdecken.",
+  "topics": ["Was die LAR ist", "Rettungshubschrauber und die 112", "Die Besatzung an Bord", "Sicherheit bei einer Landung", "Rückholung aus dem Ausland", "Bedingungen der Rückholung", "Einzel- und Familienmitgliedschaft", "Humanitäre Hilfe, Kurse und Führungen"],
+  "questions": [
+   {"text": "In Luxemburg passiert ein schwerer Unfall. Wie wird der Rettungshubschrauber geschickt?",
+    "options": ["Man ruft die 112 an, und die Notrufzentrale entscheidet", "Man ruft das Büro der LAR an, und der Pilot entscheidet", "Man schickt eine Anfrage über das Formular der LAR-Website", "Man bittet das nächste Krankenhaus, seinen Hubschrauber zu schicken"],
+    "correct": 0,
+    "explanation": "Man ruft den Hubschrauber nicht selbst. Man ruft die 112 an, und die Notrufzentrale entscheidet, ob der Hubschrauber die beste Hilfe ist, je nachdem, wie ernst die Lage ist, wie gut der Ort erreichbar ist und welche Teams verfügbar sind."},
+   {"text": "Kommt der Rettungshubschrauber der LAR nur für Mitglieder?",
+    "options": ["Nein, sie fliegt auch Rettungseinsätze für Nichtmitglieder", "Ja, Nichtmitglieder müssen immer auf einen Krankenwagen warten", "Ja, außer das Nichtmitglied zahlt die Kosten im Voraus", "Nein, aber nur Mitglieder werden danach ins Krankenhaus geflogen"],
+    "correct": 0,
+    "explanation": "Die LAR ist Teil des Rettungssystems in Luxemburg und fliegt deshalb auch Rettungseinsätze für Menschen, die keine Mitglieder sind. Die Mitgliedsbeiträge helfen, den Dienst für alle verfügbar zu halten."},
+   {"text": "Ein Mitglied wird im Ausland schwer krank. Wer entscheidet, ob und wie es nach Hause reisen kann?",
+    "options": ["Ein Arzt der LAR, nach einem Gespräch mit dem Arzt im Ausland", "Das Mitglied selbst, indem es im Internet einen Rückflug bucht", "Das Reisebüro, das dem Mitglied den Urlaub verkauft hat", "Die Botschaft Luxemburgs im Land des Aufenthalts"],
+    "correct": 0,
+    "explanation": "Nach dem Anruf bei der Alarmzentrale spricht ein Arzt der LAR direkt mit dem behandelnden Arzt im Ausland. Dann entscheidet das medizinische Team der LAR, ob, wann und wie der Patient sicher reisen kann."},
+   {"text": "Ab wann hat ein neues Mitglied Anspruch auf eine Rückholung?",
+    "options": ["Einen Monat, nachdem die LAR den ersten Beitrag erhalten hat", "Am selben Tag, an dem das Online-Formular abgeschickt wird", "Erst nach drei vollen Jahren bezahlter Mitgliedschaft", "Eine Woche, nachdem die Mitgliedskarte angekommen ist"],
+    "correct": 0,
+    "explanation": "Der Schutz beginnt einen Monat, nachdem die LAR den ersten Mitgliedsbeitrag erhalten hat. Danach muss die Mitgliedschaft jedes Jahr erneuert werden."},
+   {"text": "Wer ist durch eine Familienmitgliedschaft der LAR geschützt?",
+    "options": ["Ein Paar an derselben Adresse und seine Kinder bis 18", "Alle Verwandten, auch Großeltern, Onkel und Cousins", "Nur verheiratete Paare, ohne die Kinder im Haushalt", "Alle Freunde, die mit dem Mitglied ins Ausland reisen"],
+    "correct": 0,
+    "explanation": "Die Familienmitgliedschaft schützt ein Paar, das offiziell an derselben Adresse wohnt, verheiratet oder nicht, und die Kinder im Haushalt bis 18 Jahre. Andere Personen im Haushalt sind nicht geschützt."}
+  ]
+ }
+}

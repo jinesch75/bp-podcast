@@ -78,7 +78,10 @@ if os.path.exists(W) and not os.access(W, os.W_OK):
     W = f"/tmp/fin_{KEY}_{os.getuid()}"
 os.makedirs(W, exist_ok=True)
 SP = os.path.join(W, "finish_state.json")
-if RESET and os.path.exists(SP): os.remove(SP)
+if RESET:   # a new pass: also forget the recorder's "done" state and the old pitch measurements, otherwise a
+            # changed script is not re-recorded (LAR ep, 2026-11-26). Unchanged sentences come from the cache (0 credits).
+    for f in [SP, os.path.join(W, "rec_state.json"), os.path.join(W, "rebuild_state.json")] + glob.glob(f"{W}/voice_qc_{KEY}_*.json"):
+        if os.path.exists(f): os.remove(f)
 S = json.load(open(SP)) if os.path.exists(SP) else {}
 if S.get("langs") and S["langs"] != LANGS and not RESET and not FROM:
     sys.exit(f"Saved progress is for languages {S['langs']}. Use the same languages, or --reset.")

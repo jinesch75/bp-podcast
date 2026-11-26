@@ -17,7 +17,7 @@ OR = {"en": "or", "fr": "ou", "de": "oder", "lb": "oder"}
 EMERGENCY_112 = {"en": "one-one-two", "fr": "cent-douze", "de": "eins-eins-zwei"}
 
 # Acronyms said letter by letter -> written "C-N-S" so every voice spells them.
-LETTERS = ["KJT", "CJF", "CNPD", "GDPR", "RGPD", "DSGVO", "CAE", "CCSS", "CET", "ULC", "CEC", "CNS", "FNS", "SNJ", "CNAP", "AAA", "DSP", "CGDIS", "CSU", "CIS", "CNIS", "INFS", "INFPC",
+LETTERS = ["LAR", "KJT", "CJF", "CNPD", "GDPR", "RGPD", "DSGVO", "CAE", "CCSS", "CET", "ULC", "CEC", "CNS", "FNS", "SNJ", "CNAP", "AAA", "DSP", "CGDIS", "CSU", "CIS", "CNIS", "INFS", "INFPC",
            "ASBL", "EBL", "ONE", "FNR", "LIH", "SES", "IMD", "FSE", "ESF", "GAP", "SIA", "ATVA", "OTP", "QR",
            "ID", "CV", "SMS", "GDP", "PIB", "BIP", "VAT", "TVA", "ATM", "AVC", "EU", "UE"]
 LETTERS_LANG = {"en": ["IT", "AI"], "fr": ["IA"], "de": ["IT", "KI"]}
@@ -80,7 +80,8 @@ NAMES = {
            (r"(?i)\bclubaktivplus\b", "Club Aktiv Plus"),
            (r"(?i)\bokaju\b", "Okadjou")],   # ombudsman ep: Jacques 2026-11-23 "OKA-JUU", J as in "juice" (was "Okayou")
     #jepeuxvoter ep (2026-11-20)
-    "de": [(r"\bwurde 1992 gegründet\b", "wurde neunzehnhundertzweiundneunzig gegründet"),
+    "de": [(r"\bwurde 1988 von\b", "wurde neunzehnhundertachtundachtzig von"),   # LAR ep (2026-11-26), written out like the KJT year (pre-emptive)
+           (r"\bwurde 1992 gegründet\b", "wurde neunzehnhundertzweiundneunzig gegründet"),
            (r"\bwurde 2022 gestartet\b", "wurde zweitausendzweiundzwanzig gestartet"),   # Zesumme Vereinfachen: Jacques 2026-11-26, year not pronounced correctly   # KJT ep: Jacques 2026-11-26, Tom said "1990"
            (r"\bvom 23\. August 2023\b", "vom dreiundzwanzigsten August zweitausenddreiundzwanzig"),   # SIMPA ep (2026-11-26), was slow
            (r"(?i)\bl[ëe]tz ?prepare\b", "Lets pripär"),                    # Lëtz prepare ep (2026-11-14), check by ear
@@ -134,6 +135,8 @@ def rules(lang):
         (r"\bcnpd\b", "C-N-P-D"),
         # kjt.lu (KJT ep, 2026-11-24): "K-J-T dot L-U"
         (r"\bkjt\b", "K-J-T"),
+        # lar.lu (LAR ep, 2026-11-26): "L-A-R dot L-U"; only before dot/point/Punkt
+        (r"\blar(?= (?:dot|point|Punkt) )", "L-A-R"),
         # cet.lu (CET ep, 2026-11-23): "C-E-T dot L-U"; only before dot/point/Punkt, because "cet" is a French word
         (r"\bcet(?= (?:dot|point|Punkt) )", "C-E-T"),
         # consommateurs ep (2026-11-24): ulc.lu -> "U-L-C dot L-U", cecluxembourg.lu -> "C-E-C Luxembourg dot L-U"
