@@ -2,7 +2,7 @@
 
 **Part of the Biergerpakt programme**
 **Hosts:** Anna (woman) and Tom (man)
-**Length:** about 14 minutes — spoken slowly, in simple English
+**Length:** about 10 minutes — spoken slowly, in simple English
 
 ---
 
@@ -13,12 +13,10 @@
 **ANNA:** Most of the time, this works well. But sometimes something goes wrong: nobody really explained your treatment, you do not understand a bill, or you believe that a mistake was made.
 **TOM:** In such a moment, many people do not know where to turn. Luxembourg has a public service that was created for exactly these situations, and people often simply call it the health mediator.
 **ANNA:** Its full name is the National Health Information and Mediation Service. On its website, you will see its short French name: Médiateur santé.
-**TOM:** Today, we look at what this service does, at your rights as a patient, and at how a mediation works, step by step. So what kind of service is it?
+**TOM:** So what kind of service is it?
 **ANNA:** It is an independent service of the State. It was created by a law of 24 July 2014, the law on the rights and obligations of the patient, and it has been working since 2015.
 **TOM:** Which tasks did this law give to the service?
 **ANNA:** There are three main tasks. It is an information centre about rights in health care. It is a mediation centre for conflicts between a patient and a healthcare provider. And it is a contact point for cross-border health care.
-**TOM:** When you say healthcare provider, who do you mean exactly?
-**ANNA:** It can be one professional, for example a doctor or a dentist, or it can be an institution, for example a hospital.
 **TOM:** And does the service stand on the side of the patient?
 **ANNA:** No, and that is important to understand. The service is neutral, independent and impartial, so it listens to patients and to healthcare providers in the same way.
 **TOM:** Let us begin with information, because many people simply have a question, and not a conflict. You can contact the service just to understand your rights and your obligations as a patient.
@@ -30,12 +28,6 @@
 **TOM:** Yes, the law takes the wishes of the patient more strongly into account. You can name a person of trust, and you can be accompanied by a person that you choose.
 **ANNA:** And what about the file that my doctor keeps about me?
 **TOM:** The law wants every patient to have a patient file, and it wants this file to be accessible to the patient. It also insists on confidentiality and on professional secrecy.
-**ANNA:** The name of the law also contains the word obligations. So the relationship goes in both directions.
-**TOM:** That is right, because the law is built on mutual respect. The website explains the obligations of patients next to their rights.
-**ANNA:** Does the website also answer very practical questions?
-**TOM:** Yes, there is a page with frequently asked questions. It explains, for example, what happens to your file when your doctor stops working, or where you can look up the codes on a fee note.
-**ANNA:** Can healthcare professionals ask the service for information as well?
-**TOM:** Yes, they can, because the information is meant for patients and for professionals alike.
 **ANNA:** Now imagine that there really is a problem. The first advice on the website may surprise you: talk to your provider directly, because a direct conversation very often solves a disagreement.
 **TOM:** That is not always easy in the middle of a normal appointment.
 **ANNA:** I agree, and the website says so too. It suggests that you ask for a separate appointment, only for this subject, and you can bring someone with you if you wish.
@@ -46,48 +38,30 @@
 **TOM:** Mediation is a structured process. The people in a conflict try, of their own free will, to find an agreement themselves, and a mediator helps them to do so.
 **ANNA:** So is it the mediator who decides who is right in the end?
 **TOM:** No, the mediator is not a judge, and not an expert who gives a verdict. The mediator has no power to decide. The role is to listen to all sides equally, to open a dialogue, and to guide everyone through the process.
-**ANNA:** Who are the mediators of this service?
-**TOM:** They are trained in mediation, they continue their training regularly, and they are approved as mediators by the Minister of Justice. Very often, two mediators work together on a case.
 **ANNA:** Suppose that I say something during a mediation. Could it be used against me afterwards?
 **TOM:** Mediation is confidential, and every person who takes part is bound by secrecy, so that everyone can speak openly about the conflict.
-**ANNA:** And am I obliged to continue until the very end?
-**TOM:** No, because mediation is voluntary for the patient and for the professional. Each of them is free to stop the mediation at any moment.
 **ANNA:** Here is how it works in practice. You contact the service by phone, by email, or with the contact form on its website.
 **TOM:** Who is allowed to ask for a mediation?
 **ANNA:** Patients, their family and their representatives can ask, and healthcare providers can ask too. The request can come from one side alone, or from everyone together.
 **TOM:** What happens when I am the only one who asks?
 **ANNA:** Then the service contacts the other side and asks whether they agree to a mediation. It can only take place when both sides say yes.
-**TOM:** Can the service also refuse a request?
-**ANNA:** Yes, it can refuse when nobody has tried to discuss the problem directly with the other side first, or when a mediation has little chance of success.
 **TOM:** And how does the mediation itself begin?
 **ANNA:** Most often with a preliminary interview. The mediator meets each side individually, explains the rules, and listens to your point of view. Together, you check whether mediation is the right way for your situation.
-**TOM:** Do I have to travel to the office for this interview?
-**ANNA:** Not necessarily, because the interview can also take place by videoconference, and the service can meet you elsewhere if you cannot travel.
-**TOM:** Is there a document that I have to sign at the start?
-**ANNA:** Sometimes there is a written agreement to mediate. It names the mediator and the participants, and it recalls that the process is voluntary and confidential. It is not always necessary.
 **TOM:** Then comes the moment when everybody sits at the same table.
 **ANNA:** Yes, and this meeting normally takes place in the meeting room of the service. The mediator recalls the rules, and then each person explains how they see the situation, with the facts and also with the feelings.
-**TOM:** How long does such a meeting last?
-**ANNA:** The length is agreed together, and it is generally two hours at the most. If it is necessary, there can be several meetings.
 **TOM:** May I bring somebody with me to this meeting?
 **ANNA:** In principle, you can be accompanied by one or several persons of your choice, for example a relative, and a lawyer can advise and assist you. You must tell the mediator and the other side in advance who will come with you.
-**TOM:** For some people, sitting in front of the other person may be too hard.
-**ANNA:** There is a solution for that, called indirect mediation. The mediator speaks with each side separately, and the two sides do not meet. A mediation at a distance, by video or by telephone, is also possible.
 **TOM:** And what happens when the two sides find a solution?
 **ANNA:** Then the agreement can be written down. It can be complete or partial, it is dated and signed by everyone, it describes what each side promises to do, and it binds them.
 **TOM:** The website tells a real story, made anonymous. A patient went to the emergency department of a hospital. An important remark in the report of an X-ray was only seen much later, because the patient had already gone home.
 **ANNA:** And how did the mediation help in this case?
 **TOM:** Everyone could say what they felt and explain what had happened. Regrets and apologies were expressed, and they were accepted. The hospital changed its internal procedure, and the patient received compensation without going to court.
-**ANNA:** So a mediation is not only about money.
-**TOM:** Exactly, it is also about being heard, about receiving an explanation, and about keeping trust. When financial compensation is needed, this part is handled with the insurers of the professionals.
 **ANNA:** Does a mediation always end with an agreement?
 **TOM:** No, the result is open, and nobody can guarantee a solution. Mediation needs two sides who look for a solution in good faith.
 **ANNA:** And what can I do when there is no agreement?
 **TOM:** Then the courts remain open to you. The website recommends that you consult a lawyer before you start a court action.
 **ANNA:** Are there situations where the health mediator is not the right address?
-**TOM:** Yes, the website names three. The first is a decision of a social security body, for example when you disagree with the National Health Fund about a reimbursement. For this, you can turn to the Ombudsman, and there is an episode about the Ombudsman in this podcast.
-**ANNA:** And what are the second and the third situation?
-**TOM:** The second is a problem that only concerns long-term care, meaning help with everyday life under the dependency insurance. The third is a conflict between professionals only, without a particular patient.
+**TOM:** Yes, the website names several. One of them is a decision of a social security body, for example when you disagree with the National Health Fund about a reimbursement. For this, you can turn to the Ombudsman, and there is an episode about the Ombudsman in this podcast.
 **ANNA:** The third task of the service is interesting for many of our listeners: cross-border health care. That means care which is given or prescribed in another country than the one where you are insured.
 **TOM:** What is the role of the service in this field?
 **ANNA:** European countries have national contact points for patients with questions about care in another country. Luxembourg has two of them: the health mediation service and the National Health Fund, the CNS.
@@ -96,14 +70,10 @@
 **TOM:** And what about a person who is insured in Luxembourg and receives care abroad?
 **ANNA:** For general questions and for a conflict, this person can contact the health mediation service. For the reimbursement itself, and for a prior authorisation, the contact point is the CNS.
 **TOM:** You can reach the service by phone, by email and with the contact form. Its office is in Luxembourg City, and the hours of the secretariat are shown on the website.
-**ANNA:** Is it possible to get an appointment outside these hours?
-**TOM:** Yes, an appointment can be arranged at another time, and a meeting by video or by telephone is possible too.
 **ANNA:** In which languages can I speak with the team?
 **TOM:** The team works in several languages, among them Luxembourgish, French, German and English.
 **ANNA:** What can people find on the website of the service?
 **TOM:** The website exists in French and in German. It has sections about mediation and disputes, about your rights and obligations, about care in Luxembourg, and about cross-border care.
-**ANNA:** I also saw a list of patient associations and information services there.
-**TOM:** Yes, and there is a glossary that explains difficult words. The address of the website is mediateursante dot public dot l-u.
 **ANNA:** Time to sum up the most important points. First: as a patient in Luxembourg, you have rights and obligations, and they are written in the law of 2014.
 **TOM:** Second: when there is a problem, speak with your provider first, or with the complaints service of the hospital.
 **ANNA:** Third: if that does not help, the health mediator can organise a mediation. It is voluntary, confidential and neutral, and the solution comes from the people themselves.

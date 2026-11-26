@@ -134119,7 +134119,7 @@ const EPISODES = [
   "title": "The Health Mediator – Your Rights as a Patient",
   "description": "A treatment nobody explained, a bill you do not understand, the feeling that a mistake was made: discover the Médiateur santé, Luxembourg's National Health Information and Mediation Service, and its website mediateursante.public.lu: your rights as a patient, how a health mediation works, and who helps with care across borders.",
   "audio": "podcast_mediateursante.mp3",
-  "duration": 812.36,
+  "duration": 616.62,
   "topics": [
    "What the health mediator is",
    "Rights and obligations of patients",
@@ -134203,823 +134203,603 @@ const EPISODES = [
    },
    {
     "speaker": "Tom",
-    "text": "Today, we look at what this service does, at your rights as a patient, and at how a mediation works, step by step.",
-    "t": 66.54
-   },
-   {
-    "speaker": "Tom",
     "text": "So what kind of service is it?",
-    "t": 73.72
+    "t": 66.54
    },
    {
     "speaker": "Anna",
     "text": "It is an independent service of the State.",
-    "t": 75.58
+    "t": 68.26
    },
    {
     "speaker": "Anna",
     "text": "It was created by a law of 24 July 2014, the law on the rights and obligations of the patient, and it has been working since 2015.",
-    "t": 78.06
+    "t": 70.74
    },
    {
     "speaker": "Tom",
     "text": "Which tasks did this law give to the service?",
-    "t": 88.01
+    "t": 80.69
    },
    {
     "speaker": "Anna",
     "text": "There are three main tasks.",
-    "t": 90.68
+    "t": 83.36
    },
    {
     "speaker": "Anna",
     "text": "It is an information centre about rights in health care.",
-    "t": 92.5
+    "t": 85.18
    },
    {
     "speaker": "Anna",
     "text": "It is a mediation centre for conflicts between a patient and a healthcare provider.",
-    "t": 95.83
+    "t": 88.51
    },
    {
     "speaker": "Anna",
     "text": "And it is a contact point for cross-border health care.",
-    "t": 100.77
-   },
-   {
-    "speaker": "Tom",
-    "text": "When you say healthcare provider, who do you mean exactly?",
-    "t": 104.07
-   },
-   {
-    "speaker": "Anna",
-    "text": "It can be one professional, for example a doctor or a dentist, or it can be an institution, for example a hospital.",
-    "t": 107.07
+    "t": 93.45
    },
    {
     "speaker": "Tom",
     "text": "And does the service stand on the side of the patient?",
-    "t": 113.9
+    "t": 96.75
    },
    {
     "speaker": "Anna",
     "text": "No, and that is important to understand.",
-    "t": 116.61
+    "t": 99.46
    },
    {
     "speaker": "Anna",
     "text": "The service is neutral, independent and impartial, so it listens to patients and to healthcare providers in the same way.",
-    "t": 118.94
+    "t": 101.79
    },
    {
     "speaker": "Tom",
     "text": "Let us begin with information, because many people simply have a question, and not a conflict.",
-    "t": 126.14
+    "t": 108.99
    },
    {
     "speaker": "Tom",
     "text": "You can contact the service just to understand your rights and your obligations as a patient.",
-    "t": 131.58
+    "t": 114.43
    },
    {
     "speaker": "Anna",
     "text": "Which rights are we talking about here?",
-    "t": 136.44
+    "t": 119.29
    },
    {
     "speaker": "Tom",
     "text": "They are written in the law of 2014.",
-    "t": 138.55
+    "t": 121.4
    },
    {
     "speaker": "Tom",
     "text": "Its basic principle is mutual respect, dignity and loyalty between the patient and the provider.",
-    "t": 141.01
+    "t": 123.86
    },
    {
     "speaker": "Tom",
     "text": "Then come the free choice of your provider and access to health care.",
-    "t": 147.35
+    "t": 130.2
    },
    {
     "speaker": "Anna",
     "text": "What does the law say about information and decisions?",
-    "t": 150.96
+    "t": 133.81
    },
    {
     "speaker": "Tom",
     "text": "The provider has a duty to inform you, to talk with you, and to involve you in the decisions about your care.",
-    "t": 154.33
+    "t": 137.18
    },
    {
     "speaker": "Tom",
     "text": "Your consent matters, and that is why the website groups information, consent and decision-making together.",
-    "t": 161.31
+    "t": 144.16
    },
    {
     "speaker": "Anna",
     "text": "I have also heard about a person of trust.",
-    "t": 167.84
+    "t": 150.69
    },
    {
     "speaker": "Anna",
     "text": "Is that part of the same law?",
-    "t": 170.34
+    "t": 153.19
    },
    {
     "speaker": "Tom",
     "text": "Yes, the law takes the wishes of the patient more strongly into account.",
-    "t": 172.29
+    "t": 155.14
    },
    {
     "speaker": "Tom",
     "text": "You can name a person of trust, and you can be accompanied by a person that you choose.",
-    "t": 176.57
+    "t": 159.42
    },
    {
     "speaker": "Anna",
     "text": "And what about the file that my doctor keeps about me?",
-    "t": 180.93
+    "t": 163.78
    },
    {
     "speaker": "Tom",
     "text": "The law wants every patient to have a patient file, and it wants this file to be accessible to the patient.",
-    "t": 183.96
+    "t": 166.81
    },
    {
     "speaker": "Tom",
     "text": "It also insists on confidentiality and on professional secrecy.",
-    "t": 190.15
-   },
-   {
-    "speaker": "Anna",
-    "text": "The name of the law also contains the word obligations.",
-    "t": 194.31
-   },
-   {
-    "speaker": "Anna",
-    "text": "So the relationship goes in both directions.",
-    "t": 197.85
-   },
-   {
-    "speaker": "Tom",
-    "text": "That is right, because the law is built on mutual respect.",
-    "t": 200.72
-   },
-   {
-    "speaker": "Tom",
-    "text": "The website explains the obligations of patients next to their rights.",
-    "t": 204.67
-   },
-   {
-    "speaker": "Anna",
-    "text": "Does the website also answer very practical questions?",
-    "t": 208.45
-   },
-   {
-    "speaker": "Tom",
-    "text": "Yes, there is a page with frequently asked questions.",
-    "t": 211.87
-   },
-   {
-    "speaker": "Tom",
-    "text": "It explains, for example, what happens to your file when your doctor stops working, or where you can look up the codes on a fee note.",
-    "t": 215.17
-   },
-   {
-    "speaker": "Anna",
-    "text": "Can healthcare professionals ask the service for information as well?",
-    "t": 223.86
-   },
-   {
-    "speaker": "Tom",
-    "text": "Yes, they can, because the information is meant for patients and for professionals alike.",
-    "t": 227.8
+    "t": 173
    },
    {
     "speaker": "Anna",
     "text": "Now imagine that there really is a problem.",
-    "t": 232.78
+    "t": 177.16
    },
    {
     "speaker": "Anna",
     "text": "The first advice on the website may surprise you: talk to your provider directly, because a direct conversation very often solves a disagreement.",
-    "t": 235.31
+    "t": 179.69
    },
    {
     "speaker": "Tom",
     "text": "That is not always easy in the middle of a normal appointment.",
-    "t": 244.69
+    "t": 189.07
    },
    {
     "speaker": "Anna",
     "text": "I agree, and the website says so too.",
-    "t": 247.66
+    "t": 192.04
    },
    {
     "speaker": "Anna",
     "text": "It suggests that you ask for a separate appointment, only for this subject, and you can bring someone with you if you wish.",
-    "t": 250.36
+    "t": 194.74
    },
    {
     "speaker": "Tom",
     "text": "And who can I talk to when the problem happened in a hospital?",
-    "t": 257.24
+    "t": 201.62
    },
    {
     "speaker": "Anna",
     "text": "Hospitals, and many other providers, have a person or a service in charge of complaints and of relations with patients.",
-    "t": 260.08
+    "t": 204.46
    },
    {
     "speaker": "Anna",
     "text": "Your feedback helps them to understand your point of view, and it is used to improve quality.",
-    "t": 266.94
+    "t": 211.32
    },
    {
     "speaker": "Tom",
     "text": "What can I do if this conversation is difficult, or if it brings no solution?",
-    "t": 272.68
+    "t": 217.06
    },
    {
     "speaker": "Anna",
     "text": "Then health mediation can be the next step.",
-    "t": 277.08
+    "t": 221.46
    },
    {
     "speaker": "Tom",
     "text": "Mediation is a structured process.",
-    "t": 279.77
+    "t": 224.15
    },
    {
     "speaker": "Tom",
     "text": "The people in a conflict try, of their own free will, to find an agreement themselves, and a mediator helps them to do so.",
-    "t": 282
+    "t": 226.38
    },
    {
     "speaker": "Anna",
     "text": "So is it the mediator who decides who is right in the end?",
-    "t": 288.31
+    "t": 232.69
    },
    {
     "speaker": "Tom",
     "text": "No, the mediator is not a judge, and not an expert who gives a verdict.",
-    "t": 291.77
+    "t": 236.15
    },
    {
     "speaker": "Tom",
     "text": "The mediator has no power to decide.",
-    "t": 296.18
+    "t": 240.56
    },
    {
     "speaker": "Tom",
     "text": "The role is to listen to all sides equally, to open a dialogue, and to guide everyone through the process.",
-    "t": 298.67
-   },
-   {
-    "speaker": "Anna",
-    "text": "Who are the mediators of this service?",
-    "t": 304.8
-   },
-   {
-    "speaker": "Tom",
-    "text": "They are trained in mediation, they continue their training regularly, and they are approved as mediators by the Minister of Justice.",
-    "t": 307.23
-   },
-   {
-    "speaker": "Tom",
-    "text": "Very often, two mediators work together on a case.",
-    "t": 314.84
+    "t": 243.05
    },
    {
     "speaker": "Anna",
     "text": "Suppose that I say something during a mediation.",
-    "t": 317.57
+    "t": 249.18
    },
    {
     "speaker": "Anna",
     "text": "Could it be used against me afterwards?",
-    "t": 320.43
+    "t": 252.04
    },
    {
     "speaker": "Tom",
     "text": "Mediation is confidential, and every person who takes part is bound by secrecy, so that everyone can speak openly about the conflict.",
-    "t": 322.73
-   },
-   {
-    "speaker": "Anna",
-    "text": "And am I obliged to continue until the very end?",
-    "t": 331.98
-   },
-   {
-    "speaker": "Tom",
-    "text": "No, because mediation is voluntary for the patient and for the professional.",
-    "t": 335.16
-   },
-   {
-    "speaker": "Tom",
-    "text": "Each of them is free to stop the mediation at any moment.",
-    "t": 339.32
+    "t": 254.34
    },
    {
     "speaker": "Anna",
     "text": "Here is how it works in practice.",
-    "t": 342.8
+    "t": 263.59
    },
    {
     "speaker": "Anna",
     "text": "You contact the service by phone, by email, or with the contact form on its website.",
-    "t": 344.96
+    "t": 265.75
    },
    {
     "speaker": "Tom",
     "text": "Who is allowed to ask for a mediation?",
-    "t": 350.65
+    "t": 271.44
    },
    {
     "speaker": "Anna",
     "text": "Patients, their family and their representatives can ask, and healthcare providers can ask too.",
-    "t": 352.89
+    "t": 273.68
    },
    {
     "speaker": "Anna",
     "text": "The request can come from one side alone, or from everyone together.",
-    "t": 358.75
+    "t": 279.54
    },
    {
     "speaker": "Tom",
     "text": "What happens when I am the only one who asks?",
-    "t": 363.03
+    "t": 283.82
    },
    {
     "speaker": "Anna",
     "text": "Then the service contacts the other side and asks whether they agree to a mediation.",
-    "t": 365.72
+    "t": 286.51
    },
    {
     "speaker": "Anna",
     "text": "It can only take place when both sides say yes.",
-    "t": 370.97
-   },
-   {
-    "speaker": "Tom",
-    "text": "Can the service also refuse a request?",
-    "t": 374.24
-   },
-   {
-    "speaker": "Anna",
-    "text": "Yes, it can refuse when nobody has tried to discuss the problem directly with the other side first, or when a mediation has little chance of success.",
-    "t": 376.39
+    "t": 291.76
    },
    {
     "speaker": "Tom",
     "text": "And how does the mediation itself begin?",
-    "t": 385.77
+    "t": 295.03
    },
    {
     "speaker": "Anna",
     "text": "Most often with a preliminary interview.",
-    "t": 388.08
+    "t": 297.34
    },
    {
     "speaker": "Anna",
     "text": "The mediator meets each side individually, explains the rules, and listens to your point of view.",
-    "t": 390.53
+    "t": 299.79
    },
    {
     "speaker": "Anna",
     "text": "Together, you check whether mediation is the right way for your situation.",
-    "t": 396.7
-   },
-   {
-    "speaker": "Tom",
-    "text": "Do I have to travel to the office for this interview?",
-    "t": 401.06
-   },
-   {
-    "speaker": "Anna",
-    "text": "Not necessarily, because the interview can also take place by videoconference, and the service can meet you elsewhere if you cannot travel.",
-    "t": 403.67
-   },
-   {
-    "speaker": "Tom",
-    "text": "Is there a document that I have to sign at the start?",
-    "t": 411.75
-   },
-   {
-    "speaker": "Anna",
-    "text": "Sometimes there is a written agreement to mediate.",
-    "t": 414.67
-   },
-   {
-    "speaker": "Anna",
-    "text": "It names the mediator and the participants, and it recalls that the process is voluntary and confidential.",
-    "t": 417.58
-   },
-   {
-    "speaker": "Anna",
-    "text": "It is not always necessary.",
-    "t": 424.59
+    "t": 305.96
    },
    {
     "speaker": "Tom",
     "text": "Then comes the moment when everybody sits at the same table.",
-    "t": 426.71
+    "t": 310.32
    },
    {
     "speaker": "Anna",
     "text": "Yes, and this meeting normally takes place in the meeting room of the service.",
-    "t": 429.81
+    "t": 313.42
    },
    {
     "speaker": "Anna",
     "text": "The mediator recalls the rules, and then each person explains how they see the situation, with the facts and also with the feelings.",
-    "t": 433.96
-   },
-   {
-    "speaker": "Tom",
-    "text": "How long does such a meeting last?",
-    "t": 443.07
-   },
-   {
-    "speaker": "Anna",
-    "text": "The length is agreed together, and it is generally two hours at the most.",
-    "t": 444.96
-   },
-   {
-    "speaker": "Anna",
-    "text": "If it is necessary, there can be several meetings.",
-    "t": 449.37
+    "t": 317.57
    },
    {
     "speaker": "Tom",
     "text": "May I bring somebody with me to this meeting?",
-    "t": 452.64
+    "t": 326.68
    },
    {
     "speaker": "Anna",
     "text": "In principle, you can be accompanied by one or several persons of your choice, for example a relative, and a lawyer can advise and assist you.",
-    "t": 454.63
+    "t": 328.67
    },
    {
     "speaker": "Anna",
     "text": "You must tell the mediator and the other side in advance who will come with you.",
-    "t": 463.54
-   },
-   {
-    "speaker": "Tom",
-    "text": "For some people, sitting in front of the other person may be too hard.",
-    "t": 468.8
-   },
-   {
-    "speaker": "Anna",
-    "text": "There is a solution for that, called indirect mediation.",
-    "t": 472.49
-   },
-   {
-    "speaker": "Anna",
-    "text": "The mediator speaks with each side separately, and the two sides do not meet.",
-    "t": 476.05
-   },
-   {
-    "speaker": "Anna",
-    "text": "A mediation at a distance, by video or by telephone, is also possible.",
-    "t": 480.85
+    "t": 337.58
    },
    {
     "speaker": "Tom",
     "text": "And what happens when the two sides find a solution?",
-    "t": 485.54
+    "t": 342.84
    },
    {
     "speaker": "Anna",
     "text": "Then the agreement can be written down.",
-    "t": 488.09
+    "t": 345.39
    },
    {
     "speaker": "Anna",
     "text": "It can be complete or partial, it is dated and signed by everyone, it describes what each side promises to do, and it binds them.",
-    "t": 490.34
+    "t": 347.64
    },
    {
     "speaker": "Tom",
     "text": "The website tells a real story, made anonymous.",
-    "t": 498.92
+    "t": 356.22
    },
    {
     "speaker": "Tom",
     "text": "A patient went to the emergency department of a hospital.",
-    "t": 501.74
+    "t": 359.04
    },
    {
     "speaker": "Tom",
     "text": "An important remark in the report of an X-ray was only seen much later, because the patient had already gone home.",
-    "t": 504.88
+    "t": 362.18
    },
    {
     "speaker": "Anna",
     "text": "And how did the mediation help in this case?",
-    "t": 511.2
+    "t": 368.5
    },
    {
     "speaker": "Tom",
     "text": "Everyone could say what they felt and explain what had happened.",
-    "t": 514.15
+    "t": 371.45
    },
    {
     "speaker": "Tom",
     "text": "Regrets and apologies were expressed, and they were accepted.",
-    "t": 518.12
+    "t": 375.42
    },
    {
     "speaker": "Tom",
     "text": "The hospital changed its internal procedure, and the patient received compensation without going to court.",
-    "t": 521.71
-   },
-   {
-    "speaker": "Anna",
-    "text": "So a mediation is not only about money.",
-    "t": 528.01
-   },
-   {
-    "speaker": "Tom",
-    "text": "Exactly, it is also about being heard, about receiving an explanation, and about keeping trust.",
-    "t": 530.48
-   },
-   {
-    "speaker": "Tom",
-    "text": "When financial compensation is needed, this part is handled with the insurers of the professionals.",
-    "t": 537.84
+    "t": 379.01
    },
    {
     "speaker": "Anna",
     "text": "Does a mediation always end with an agreement?",
-    "t": 543.35
+    "t": 385.31
    },
    {
     "speaker": "Tom",
     "text": "No, the result is open, and nobody can guarantee a solution.",
-    "t": 546.31
+    "t": 388.27
    },
    {
     "speaker": "Tom",
     "text": "Mediation needs two sides who look for a solution in good faith.",
-    "t": 550.29
+    "t": 392.25
    },
    {
     "speaker": "Anna",
     "text": "And what can I do when there is no agreement?",
-    "t": 554.11
+    "t": 396.07
    },
    {
     "speaker": "Tom",
     "text": "Then the courts remain open to you.",
-    "t": 556.72
+    "t": 398.68
    },
    {
     "speaker": "Tom",
     "text": "The website recommends that you consult a lawyer before you start a court action.",
-    "t": 558.75
+    "t": 400.71
    },
    {
     "speaker": "Anna",
     "text": "Are there situations where the health mediator is not the right address?",
-    "t": 562.8
+    "t": 404.76
    },
    {
     "speaker": "Tom",
-    "text": "Yes, the website names three.",
-    "t": 567.3
+    "text": "Yes, the website names several.",
+    "t": 409.26
    },
    {
     "speaker": "Tom",
-    "text": "The first is a decision of a social security body, for example when you disagree with the National Health Fund about a reimbursement.",
-    "t": 568.9
+    "text": "One of them is a decision of a social security body, for example when you disagree with the National Health Fund about a reimbursement.",
+    "t": 411.49
    },
    {
     "speaker": "Tom",
     "text": "For this, you can turn to the Ombudsman, and there is an episode about the Ombudsman in this podcast.",
-    "t": 575.94
-   },
-   {
-    "speaker": "Anna",
-    "text": "And what are the second and the third situation?",
-    "t": 582.27
-   },
-   {
-    "speaker": "Tom",
-    "text": "The second is a problem that only concerns long-term care, meaning help with everyday life under the dependency insurance.",
-    "t": 585.33
-   },
-   {
-    "speaker": "Tom",
-    "text": "The third is a conflict between professionals only, without a particular patient.",
-    "t": 593.64
+    "t": 419.19
    },
    {
     "speaker": "Anna",
     "text": "The third task of the service is interesting for many of our listeners: cross-border health care.",
-    "t": 598.21
+    "t": 425.52
    },
    {
     "speaker": "Anna",
     "text": "That means care which is given or prescribed in another country than the one where you are insured.",
-    "t": 603.79
+    "t": 431.1
    },
    {
     "speaker": "Tom",
     "text": "What is the role of the service in this field?",
-    "t": 610.49
+    "t": 437.8
    },
    {
     "speaker": "Anna",
     "text": "European countries have national contact points for patients with questions about care in another country.",
-    "t": 612.89
+    "t": 440.2
    },
    {
     "speaker": "Anna",
     "text": "Luxembourg has two of them: the health mediation service and the National Health Fund, the CNS.",
-    "t": 619.1
+    "t": 446.41
    },
    {
     "speaker": "Tom",
     "text": "How do I know which of the two I should contact?",
-    "t": 625.89
+    "t": 453.2
    },
    {
     "speaker": "Anna",
     "text": "Imagine that you are insured in another country and you want to be treated in Luxembourg.",
-    "t": 628.52
+    "t": 455.83
    },
    {
     "speaker": "Anna",
     "text": "The health mediation service informs you about the health system here, about providers, about your rights, and about what to do in a disagreement.",
-    "t": 633.74
+    "t": 461.05
    },
    {
     "speaker": "Tom",
     "text": "And what about a person who is insured in Luxembourg and receives care abroad?",
-    "t": 642.26
+    "t": 469.57
    },
    {
     "speaker": "Anna",
     "text": "For general questions and for a conflict, this person can contact the health mediation service.",
-    "t": 646.54
+    "t": 473.85
    },
    {
     "speaker": "Anna",
     "text": "For the reimbursement itself, and for a prior authorisation, the contact point is the CNS.",
-    "t": 652.33
+    "t": 479.64
    },
    {
     "speaker": "Tom",
     "text": "You can reach the service by phone, by email and with the contact form.",
-    "t": 658.69
+    "t": 486
    },
    {
     "speaker": "Tom",
     "text": "Its office is in Luxembourg City, and the hours of the secretariat are shown on the website.",
-    "t": 662.34
-   },
-   {
-    "speaker": "Anna",
-    "text": "Is it possible to get an appointment outside these hours?",
-    "t": 667.86
-   },
-   {
-    "speaker": "Tom",
-    "text": "Yes, an appointment can be arranged at another time, and a meeting by video or by telephone is possible too.",
-    "t": 671.13
+    "t": 489.65
    },
    {
     "speaker": "Anna",
     "text": "In which languages can I speak with the team?",
-    "t": 677.59
+    "t": 495.17
    },
    {
     "speaker": "Tom",
     "text": "The team works in several languages, among them Luxembourgish, French, German and English.",
-    "t": 680.25
+    "t": 497.83
    },
    {
     "speaker": "Anna",
     "text": "What can people find on the website of the service?",
-    "t": 685.9
+    "t": 503.48
    },
    {
     "speaker": "Tom",
     "text": "The website exists in French and in German.",
-    "t": 688.89
+    "t": 506.47
    },
    {
     "speaker": "Tom",
     "text": "It has sections about mediation and disputes, about your rights and obligations, about care in Luxembourg, and about cross-border care.",
-    "t": 691.37
-   },
-   {
-    "speaker": "Anna",
-    "text": "I also saw a list of patient associations and information services there.",
-    "t": 699.8
-   },
-   {
-    "speaker": "Tom",
-    "text": "Yes, and there is a glossary that explains difficult words.",
-    "t": 704.55
-   },
-   {
-    "speaker": "Tom",
-    "text": "The address of the website is mediateursante dot public dot l-u.",
-    "t": 708.37
+    "t": 508.95
    },
    {
     "speaker": "Anna",
     "text": "Time to sum up the most important points.",
-    "t": 713.11
+    "t": 517.38
    },
    {
     "speaker": "Anna",
     "text": "First: as a patient in Luxembourg, you have rights and obligations, and they are written in the law of 2014.",
-    "t": 715.66
+    "t": 519.93
    },
    {
     "speaker": "Tom",
     "text": "Second: when there is a problem, speak with your provider first, or with the complaints service of the hospital.",
-    "t": 723.25
+    "t": 527.52
    },
    {
     "speaker": "Anna",
     "text": "Third: if that does not help, the health mediator can organise a mediation.",
-    "t": 729.78
+    "t": 534.05
    },
    {
     "speaker": "Anna",
     "text": "It is voluntary, confidential and neutral, and the solution comes from the people themselves.",
-    "t": 734.91
+    "t": 539.18
    },
    {
     "speaker": "Tom",
     "text": "Fourth: the service also answers questions about care across borders, together with the CNS.",
-    "t": 740.86
+    "t": 545.13
    },
    {
     "speaker": "Anna",
     "text": "You find all the information on mediateursante dot public dot l-u.",
-    "t": 747.23
+    "t": 551.5
    },
    {
     "speaker": "Tom",
     "text": "A conflict about your health is never pleasant, but in Luxembourg you do not have to face it alone.",
-    "t": 752.08
+    "t": 556.34
    },
    {
     "speaker": "Anna",
     "text": "And a good conversation is very often the best start.",
-    "t": 757.63
+    "t": 561.89
    },
    {
     "speaker": "Anna",
     "text": "That was our episode about the health mediator and your rights as a patient.",
-    "t": 760.98
+    "t": 565.24
    },
    {
     "speaker": "Anna",
     "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
-    "t": 765.31
+    "t": 569.57
    },
    {
     "speaker": "Anna",
     "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
-    "t": 775.53
+    "t": 579.79
    },
    {
     "speaker": "Anna",
     "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
-    "t": 793.81
+    "t": 598.07
    },
    {
     "speaker": "Anna",
     "text": "And the activities are free of charge.",
-    "t": 800.56
+    "t": 604.82
    },
    {
     "speaker": "Anna",
     "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
-    "t": 802.76
+    "t": 607.02
    },
    {
     "speaker": "Tom",
     "text": "Thank you, everyone.",
-    "t": 807.45
+    "t": 611.71
    },
    {
     "speaker": "Tom",
     "text": "Take care, and see you next time!",
-    "t": 808.62
+    "t": 612.88
    },
    {
     "speaker": "Anna",
     "text": "Thank you so much for listening.",
-    "t": 810.76
+    "t": 615.02
    }
   ],
   "questions": [
@@ -135054,7 +134834,7 @@ const EPISODES = [
      "The National Health Fund, on the basis of the patient file"
     ],
     "correct": 0,
-    "explanation": "The mediator is not a judge and has no power to decide. The mediator listens to all sides equally and guides the dialogue. The agreement comes from the people themselves, and each of them is free to stop the mediation at any moment."
+    "explanation": "The mediator is not a judge and has no power to decide. The mediator listens to all sides equally and guides the dialogue. The agreement comes from the people themselves."
    },
    {
     "text": "You disagree with a decision of the National Health Fund (CNS) about a reimbursement. Is the health mediator the right address?",
@@ -135128,7 +134908,7 @@ const EPISODES = [
      "La Caisse nationale de santé, sur la base du dossier patient"
     ],
     "correct": 0,
-    "explanation": "Le médiateur n'est pas un juge et n'a aucun pouvoir de décision. Il écoute toutes les parties de la même manière et guide le dialogue. L'accord vient des personnes elles-mêmes, et chacune est libre de mettre fin à la médiation à tout moment."
+    "explanation": "Le médiateur n'est pas un juge et n'a aucun pouvoir de décision. Il écoute toutes les parties de la même manière et guide le dialogue. L'accord vient des personnes elles-mêmes."
    },
    {
     "text": "Vous n'êtes pas d'accord avec une décision de la Caisse nationale de santé (CNS) sur un remboursement. Le Médiateur santé est-il le bon interlocuteur ?",
@@ -135197,7 +134977,7 @@ const EPISODES = [
      "Die Nationale Gesundheitskasse, auf der Grundlage der Patientenakte"
     ],
     "correct": 0,
-    "explanation": "Der Mediator ist kein Richter und hat keine Entscheidungsbefugnis. Er hört allen Seiten gleich zu und begleitet den Dialog. Die Einigung kommt von den Menschen selbst, und jeder von ihnen kann die Mediation jederzeit beenden."
+    "explanation": "Der Mediator ist kein Richter und hat keine Entscheidungsbefugnis. Er hört allen Seiten gleich zu und begleitet den Dialog. Die Einigung kommt von den Menschen selbst."
    },
    {
     "text": "Sie sind mit einer Entscheidung der Nationalen Gesundheitskasse (CNS) über eine Erstattung nicht einverstanden. Ist der Mediator für das Gesundheitswesen der richtige Ansprechpartner?",
@@ -135223,7 +135003,7 @@ const EPISODES = [
    }
   ],
   "audio_fr": "podcast_mediateursante_fr.mp3",
-  "duration_fr": 770.12,
+  "duration_fr": 580.99,
   "segments_fr": [
    {
     "speaker": "Anna",
@@ -135297,827 +135077,607 @@ const EPISODES = [
    },
    {
     "speaker": "Tom",
-    "text": "Aujourd'hui, nous regardons ce que fait ce service, quels sont vos droits en tant que patient, et comment se déroule une médiation, étape par étape.",
-    "t": 63.96
-   },
-   {
-    "speaker": "Tom",
     "text": "Alors, de quel genre de service s'agit-il ?",
-    "t": 71.81
+    "t": 63.96
    },
    {
     "speaker": "Anna",
     "text": "C'est un service indépendant de l'État.",
-    "t": 74.56
+    "t": 66.68
    },
    {
     "speaker": "Anna",
     "text": "Il a été créé par une loi du 24 juillet 2014, la loi relative aux droits et obligations du patient, et il fonctionne depuis 2015.",
-    "t": 76.62
+    "t": 68.74
    },
    {
     "speaker": "Tom",
     "text": "Quelles missions cette loi a-t-elle données au service ?",
-    "t": 84.33
+    "t": 76.45
    },
    {
     "speaker": "Anna",
     "text": "Il y a trois missions principales.",
-    "t": 87.29
+    "t": 79.41
    },
    {
     "speaker": "Anna",
     "text": "C'est un centre d'information sur les droits dans le domaine de la santé.",
-    "t": 89.05
+    "t": 81.17
    },
    {
     "speaker": "Anna",
     "text": "C'est un centre de médiation pour les conflits entre un patient et un prestataire de soins de santé.",
-    "t": 92.33
+    "t": 84.45
    },
    {
     "speaker": "Anna",
     "text": "Et c'est un point de contact pour les soins de santé transfrontaliers.",
-    "t": 97.06
-   },
-   {
-    "speaker": "Tom",
-    "text": "Quand vous dites prestataire de soins de santé, de qui parlez-vous exactement ?",
-    "t": 100.27
-   },
-   {
-    "speaker": "Anna",
-    "text": "Cela peut être un professionnel, par exemple un médecin ou un dentiste, ou bien un établissement, par exemple un hôpital.",
-    "t": 104.37
+    "t": 89.18
    },
    {
     "speaker": "Tom",
     "text": "Et le service est-il du côté du patient ?",
-    "t": 110.26
+    "t": 92.39
    },
    {
     "speaker": "Anna",
     "text": "Non, et c'est important à comprendre.",
-    "t": 112.54
+    "t": 94.67
    },
    {
     "speaker": "Anna",
     "text": "Le service est neutre, indépendant et impartial, il écoute donc les patients et les prestataires de soins de la même manière.",
-    "t": 114.48
+    "t": 96.61
    },
    {
     "speaker": "Tom",
     "text": "Commençons par l'information, car beaucoup de personnes ont simplement une question, et pas un conflit.",
-    "t": 120.47
+    "t": 102.6
    },
    {
     "speaker": "Tom",
     "text": "Vous pouvez contacter le service juste pour comprendre vos droits et vos obligations en tant que patient.",
-    "t": 125.38
+    "t": 107.51
    },
    {
     "speaker": "Anna",
     "text": "De quels droits parlons-nous ici ?",
-    "t": 131.01
+    "t": 113.14
    },
    {
     "speaker": "Tom",
     "text": "Ils sont inscrits dans la loi de 2014.",
-    "t": 132.89
+    "t": 115.02
    },
    {
     "speaker": "Tom",
     "text": "Son principe de base est le respect mutuel, la dignité et la loyauté entre le patient et le prestataire.",
-    "t": 135.54
+    "t": 117.67
    },
    {
     "speaker": "Tom",
     "text": "Viennent ensuite le libre choix de votre prestataire et l'accès aux soins de santé.",
-    "t": 141.43
+    "t": 123.56
    },
    {
     "speaker": "Anna",
     "text": "Que dit la loi sur l'information et sur les décisions ?",
-    "t": 145.79
+    "t": 127.92
    },
    {
     "speaker": "Tom",
     "text": "Le prestataire a le devoir de vous informer, de dialoguer avec vous et de vous associer aux décisions sur vos soins.",
-    "t": 148.56
+    "t": 130.69
    },
    {
     "speaker": "Tom",
     "text": "Votre consentement compte, et c'est pourquoi le site réunit l'information, le consentement et la prise de décision.",
-    "t": 154.84
+    "t": 136.97
    },
    {
     "speaker": "Anna",
     "text": "J'ai aussi entendu parler d'une personne de confiance.",
-    "t": 161.51
+    "t": 143.64
    },
    {
     "speaker": "Anna",
     "text": "Est-ce que cela fait partie de la même loi ?",
-    "t": 164.09
+    "t": 146.22
    },
    {
     "speaker": "Tom",
     "text": "Oui, la loi tient davantage compte de la volonté du patient.",
-    "t": 166.27
+    "t": 148.4
    },
    {
     "speaker": "Tom",
     "text": "Vous pouvez désigner une personne de confiance, et vous pouvez vous faire accompagner par une personne de votre choix.",
-    "t": 169.81
+    "t": 151.94
    },
    {
     "speaker": "Anna",
     "text": "Et qu'en est-il du dossier que mon médecin tient sur moi ?",
-    "t": 175.31
+    "t": 157.44
    },
    {
     "speaker": "Tom",
     "text": "La loi veut que chaque patient ait un dossier patient, et que ce dossier soit accessible au patient.",
-    "t": 178.05
+    "t": 160.18
    },
    {
     "speaker": "Tom",
     "text": "Elle insiste aussi sur la confidentialité et sur le secret professionnel.",
-    "t": 183.23
-   },
-   {
-    "speaker": "Anna",
-    "text": "Le nom de la loi contient aussi le mot obligations.",
-    "t": 187.69
-   },
-   {
-    "speaker": "Anna",
-    "text": "La relation va donc dans les deux sens.",
-    "t": 190.34
-   },
-   {
-    "speaker": "Tom",
-    "text": "C'est exact, car la loi est construite sur le respect mutuel.",
-    "t": 192.64
-   },
-   {
-    "speaker": "Tom",
-    "text": "Le site explique les obligations des patients à côté de leurs droits.",
-    "t": 196.2
-   },
-   {
-    "speaker": "Anna",
-    "text": "Le site répond-il aussi à des questions très pratiques ?",
-    "t": 200.07
-   },
-   {
-    "speaker": "Tom",
-    "text": "Oui, il y a une page de questions fréquentes.",
-    "t": 202.87
-   },
-   {
-    "speaker": "Tom",
-    "text": "Elle explique, par exemple, ce que devient votre dossier quand votre médecin arrête son activité, ou bien où vous pouvez chercher la signification des codes sur un mémoire d'honoraires.",
-    "t": 205.48
-   },
-   {
-    "speaker": "Anna",
-    "text": "Les professionnels de santé peuvent-ils eux aussi demander des informations au service ?",
-    "t": 214.68
-   },
-   {
-    "speaker": "Tom",
-    "text": "Oui, ils le peuvent, car l'information s'adresse aux patients comme aux professionnels.",
-    "t": 219.14
+    "t": 165.36
    },
    {
     "speaker": "Anna",
     "text": "Imaginez maintenant qu'il y ait vraiment un problème.",
-    "t": 224.04
+    "t": 169.82
    },
    {
     "speaker": "Anna",
     "text": "Le premier conseil du site peut vous surprendre : parlez directement avec votre prestataire, car le dialogue direct permet très souvent de résoudre un différend.",
-    "t": 226.41
+    "t": 172.19
    },
    {
     "speaker": "Tom",
     "text": "Ce n'est pas toujours facile au milieu d'un rendez-vous normal.",
-    "t": 234.22
+    "t": 180
    },
    {
     "speaker": "Anna",
     "text": "Je suis d'accord, et le site le dit aussi.",
-    "t": 237.35
+    "t": 183.13
    },
    {
     "speaker": "Anna",
     "text": "Il propose de demander un rendez-vous séparé, uniquement pour ce sujet, et vous pouvez venir avec quelqu'un si vous le souhaitez.",
-    "t": 239.58
+    "t": 185.36
    },
    {
     "speaker": "Tom",
     "text": "Et à qui puis-je parler quand le problème s'est produit dans un hôpital ?",
-    "t": 245.65
+    "t": 191.43
    },
    {
     "speaker": "Anna",
     "text": "Les hôpitaux, et beaucoup d'autres prestataires, ont une personne ou un service chargé des plaintes et des relations avec les patients.",
-    "t": 249.36
+    "t": 195.14
    },
    {
     "speaker": "Anna",
     "text": "Votre retour les aide à comprendre votre point de vue, et il sert à améliorer la qualité.",
-    "t": 255.26
+    "t": 201.04
    },
    {
     "speaker": "Tom",
     "text": "Que puis-je faire si cette discussion est difficile, ou si elle n'apporte aucune solution ?",
-    "t": 259.63
+    "t": 205.41
    },
    {
     "speaker": "Anna",
     "text": "Dans ce cas, la médiation en santé peut être l'étape suivante.",
-    "t": 264.49
+    "t": 210.27
    },
    {
     "speaker": "Tom",
     "text": "La médiation est un processus structuré.",
-    "t": 267.58
+    "t": 213.36
    },
    {
     "speaker": "Tom",
     "text": "Les personnes en conflit essaient, de leur plein gré, de trouver elles-mêmes un accord, et un médiateur les aide à y arriver.",
-    "t": 270.18
+    "t": 215.96
    },
    {
     "speaker": "Anna",
     "text": "Est-ce donc le médiateur qui décide à la fin qui a raison ?",
-    "t": 277.34
+    "t": 223.12
    },
    {
     "speaker": "Tom",
     "text": "Non, le médiateur n'est ni un juge, ni un expert qui se prononce.",
-    "t": 280.23
+    "t": 226.01
    },
    {
     "speaker": "Tom",
     "text": "Le médiateur n'a aucun pouvoir de décision.",
-    "t": 284.45
+    "t": 230.23
    },
    {
     "speaker": "Tom",
     "text": "Son rôle est d'écouter toutes les parties de la même manière, d'ouvrir un dialogue et de guider chacun tout au long du processus.",
-    "t": 287.1
-   },
-   {
-    "speaker": "Anna",
-    "text": "Qui sont les médiateurs de ce service ?",
-    "t": 294.23
-   },
-   {
-    "speaker": "Tom",
-    "text": "Ils sont formés à la médiation, ils suivent régulièrement des formations continues, et ils sont agréés comme médiateurs par le ministre de la Justice.",
-    "t": 296.44
-   },
-   {
-    "speaker": "Tom",
-    "text": "Très souvent, deux médiateurs travaillent ensemble sur un dossier.",
-    "t": 304.43
+    "t": 232.88
    },
    {
     "speaker": "Anna",
     "text": "Supposons que je dise quelque chose pendant une médiation.",
-    "t": 308.04
+    "t": 240.01
    },
    {
     "speaker": "Anna",
     "text": "Est-ce que cela pourrait être utilisé contre moi plus tard ?",
-    "t": 310.76
+    "t": 242.73
    },
    {
     "speaker": "Tom",
     "text": "La médiation est confidentielle, et toute personne qui y participe est tenue au secret, pour que chacun puisse parler ouvertement du conflit.",
-    "t": 313.66
-   },
-   {
-    "speaker": "Anna",
-    "text": "Et suis-je obligée de continuer jusqu'au bout ?",
-    "t": 321.68
-   },
-   {
-    "speaker": "Tom",
-    "text": "Non, car la médiation est volontaire pour le patient comme pour le professionnel.",
-    "t": 323.97
-   },
-   {
-    "speaker": "Tom",
-    "text": "Chacun d'eux est libre de mettre fin à la médiation à tout moment.",
-    "t": 328.2
+    "t": 245.63
    },
    {
     "speaker": "Anna",
     "text": "Voici comment cela se passe en pratique.",
-    "t": 332.12
+    "t": 253.65
    },
    {
     "speaker": "Anna",
     "text": "Vous contactez le service par téléphone, par courriel, ou avec le formulaire de contact de son site internet.",
-    "t": 334.07
+    "t": 255.6
    },
    {
     "speaker": "Tom",
     "text": "Qui a le droit de demander une médiation ?",
-    "t": 339.16
+    "t": 260.69
    },
    {
     "speaker": "Anna",
     "text": "Les patients, leur famille et leurs représentants peuvent la demander, et les prestataires de soins de santé le peuvent aussi.",
-    "t": 341.5
+    "t": 263.03
    },
    {
     "speaker": "Anna",
     "text": "La demande peut venir d'une seule partie, ou de toutes les parties ensemble.",
-    "t": 346.87
+    "t": 268.4
    },
    {
     "speaker": "Tom",
     "text": "Que se passe-t-il quand je suis le seul à faire la demande ?",
-    "t": 350.43
+    "t": 271.96
    },
    {
     "speaker": "Anna",
     "text": "Alors le service contacte l'autre partie et lui demande si elle est d'accord avec une médiation.",
-    "t": 353.44
+    "t": 274.97
    },
    {
     "speaker": "Anna",
     "text": "Celle-ci ne peut avoir lieu que si les deux parties disent oui.",
-    "t": 357.85
-   },
-   {
-    "speaker": "Tom",
-    "text": "Le service peut-il aussi refuser une demande ?",
-    "t": 361
-   },
-   {
-    "speaker": "Anna",
-    "text": "Oui, il peut refuser quand personne n'a d'abord essayé de discuter du problème directement avec l'autre partie, ou quand une médiation a peu de chances de réussir.",
-    "t": 363.5
+    "t": 279.38
    },
    {
     "speaker": "Tom",
     "text": "Et comment la médiation elle-même commence-t-elle ?",
-    "t": 371.28
+    "t": 282.53
    },
    {
     "speaker": "Anna",
     "text": "Le plus souvent par un entretien préalable.",
-    "t": 374
+    "t": 285.25
    },
    {
     "speaker": "Anna",
     "text": "Le médiateur rencontre chaque partie individuellement, explique les règles et écoute votre point de vue.",
-    "t": 376.24
+    "t": 287.49
    },
    {
     "speaker": "Anna",
     "text": "Ensemble, vous vérifiez si la médiation est la bonne voie pour votre situation.",
-    "t": 381.33
-   },
-   {
-    "speaker": "Tom",
-    "text": "Dois-je me déplacer jusqu'au bureau pour cet entretien ?",
-    "t": 385.24
-   },
-   {
-    "speaker": "Anna",
-    "text": "Pas forcément, car l'entretien peut aussi avoir lieu par visioconférence, et le service peut vous rencontrer ailleurs si vous ne pouvez pas vous déplacer.",
-    "t": 388.21
-   },
-   {
-    "speaker": "Tom",
-    "text": "Y a-t-il un document que je dois signer au début ?",
-    "t": 395.17
-   },
-   {
-    "speaker": "Anna",
-    "text": "Parfois, il y a un accord écrit en vue de la médiation.",
-    "t": 397.71
-   },
-   {
-    "speaker": "Anna",
-    "text": "Il nomme le médiateur et les participants, et il rappelle que le processus est volontaire et confidentiel.",
-    "t": 400.46
-   },
-   {
-    "speaker": "Anna",
-    "text": "Il n'est pas toujours nécessaire.",
-    "t": 405.85
+    "t": 292.58
    },
    {
     "speaker": "Tom",
     "text": "Vient ensuite le moment où tout le monde s'assoit à la même table.",
-    "t": 407.87
+    "t": 296.49
    },
    {
     "speaker": "Anna",
     "text": "Oui, et cette réunion a normalement lieu dans la salle de réunion du service.",
-    "t": 411.39
+    "t": 300.01
    },
    {
     "speaker": "Anna",
     "text": "Le médiateur rappelle les règles, puis chaque personne explique comment elle voit la situation, avec les faits et aussi avec les émotions.",
-    "t": 414.91
-   },
-   {
-    "speaker": "Tom",
-    "text": "Combien de temps dure une telle réunion ?",
-    "t": 421.43
-   },
-   {
-    "speaker": "Anna",
-    "text": "La durée est convenue ensemble, et elle est en général de deux heures au maximum.",
-    "t": 423.57
-   },
-   {
-    "speaker": "Anna",
-    "text": "Si c'est nécessaire, il peut y avoir plusieurs réunions.",
-    "t": 427.79
+    "t": 303.53
    },
    {
     "speaker": "Tom",
     "text": "Puis-je venir avec quelqu'un à cette réunion ?",
-    "t": 430.64
+    "t": 310.05
    },
    {
     "speaker": "Anna",
     "text": "En principe, vous pouvez être accompagné par une ou plusieurs personnes de votre choix, par exemple un proche, et un avocat peut vous conseiller et vous assister.",
-    "t": 433.05
+    "t": 312.46
    },
    {
     "speaker": "Anna",
     "text": "Vous devez dire à l'avance au médiateur et à l'autre partie qui viendra avec vous.",
-    "t": 440.15
-   },
-   {
-    "speaker": "Tom",
-    "text": "Pour certaines personnes, s'asseoir en face de l'autre peut être trop difficile.",
-    "t": 444.27
-   },
-   {
-    "speaker": "Anna",
-    "text": "Il existe une solution pour cela, appelée médiation indirecte.",
-    "t": 448.93
-   },
-   {
-    "speaker": "Anna",
-    "text": "Le médiateur parle avec chaque partie séparément, et les deux parties ne se rencontrent pas.",
-    "t": 451.94
-   },
-   {
-    "speaker": "Anna",
-    "text": "Une médiation à distance, par visioconférence ou par téléphone, est également possible.",
-    "t": 455.98
+    "t": 319.56
    },
    {
     "speaker": "Tom",
     "text": "Et que se passe-t-il quand les deux parties trouvent une solution ?",
-    "t": 460.5
+    "t": 323.68
    },
    {
     "speaker": "Anna",
     "text": "Alors l'accord peut être mis par écrit.",
-    "t": 463.72
+    "t": 326.9
    },
    {
     "speaker": "Anna",
     "text": "Il peut être total ou partiel, il est daté et signé par tous, il décrit ce que chaque partie s'engage à faire, et il les lie.",
-    "t": 465.6
+    "t": 328.78
    },
    {
     "speaker": "Tom",
     "text": "Le site raconte une histoire vraie, rendue anonyme.",
-    "t": 472.73
+    "t": 335.91
    },
    {
     "speaker": "Tom",
     "text": "Un patient s'est rendu aux urgences d'un hôpital.",
-    "t": 476.43
+    "t": 339.61
    },
    {
     "speaker": "Tom",
     "text": "Une remarque importante dans le compte rendu d'une radiographie n'a été vue que bien plus tard, parce que le patient était déjà rentré chez lui.",
-    "t": 478.97
+    "t": 342.15
    },
    {
     "speaker": "Anna",
     "text": "Et comment la médiation a-t-elle aidé dans ce cas ?",
-    "t": 486.59
+    "t": 349.77
    },
    {
     "speaker": "Tom",
     "text": "Chacun a pu dire ce qu'il ressentait et expliquer ce qui s'était passé.",
-    "t": 489.26
+    "t": 352.44
    },
    {
     "speaker": "Tom",
     "text": "Des regrets et des excuses ont été exprimés, et ils ont été acceptés.",
-    "t": 493.12
+    "t": 356.3
    },
    {
     "speaker": "Tom",
     "text": "L'hôpital a changé sa procédure interne, et le patient a reçu une indemnisation sans passer par le tribunal.",
-    "t": 497.18
-   },
-   {
-    "speaker": "Anna",
-    "text": "Une médiation ne concerne donc pas seulement l'argent.",
-    "t": 503.28
-   },
-   {
-    "speaker": "Tom",
-    "text": "Exactement, il s'agit aussi d'être écouté, de recevoir une explication et de garder la confiance.",
-    "t": 506.28
-   },
-   {
-    "speaker": "Tom",
-    "text": "Quand une indemnisation financière est nécessaire, cette partie est traitée avec les assureurs des professionnels.",
-    "t": 512.15
+    "t": 360.36
    },
    {
     "speaker": "Anna",
     "text": "Une médiation se termine-t-elle toujours par un accord ?",
-    "t": 518.25
+    "t": 366.46
    },
    {
     "speaker": "Tom",
     "text": "Non, le résultat est ouvert, et personne ne peut garantir une solution.",
-    "t": 521.06
+    "t": 369.27
    },
    {
     "speaker": "Tom",
     "text": "La médiation a besoin de deux parties qui cherchent une solution de bonne foi.",
-    "t": 525.17
+    "t": 373.38
    },
    {
     "speaker": "Anna",
     "text": "Et que puis-je faire quand il n'y a pas d'accord ?",
-    "t": 529.27
+    "t": 377.48
    },
    {
     "speaker": "Tom",
     "text": "Alors la voie des tribunaux vous reste ouverte.",
-    "t": 531.44
+    "t": 379.65
    },
    {
     "speaker": "Tom",
     "text": "Le site recommande de consulter un avocat avant d'engager une action en justice.",
-    "t": 534.05
+    "t": 382.26
    },
    {
     "speaker": "Anna",
     "text": "Y a-t-il des situations où le médiateur de la santé n'est pas le bon interlocuteur ?",
-    "t": 538.82
+    "t": 387.03
    },
    {
     "speaker": "Tom",
-    "text": "Oui, le site en cite trois.",
-    "t": 543.05
+    "text": "Oui, le site en cite plusieurs.",
+    "t": 391.26
    },
    {
     "speaker": "Tom",
-    "text": "La première est une décision d'un organisme de sécurité sociale, par exemple quand vous n'êtes pas d'accord avec la Caisse nationale de santé au sujet d'un remboursement.",
-    "t": 545.02
+    "text": "L'une d'elles est une décision d'un organisme de sécurité sociale, par exemple quand vous n'êtes pas d'accord avec la Caisse nationale de santé au sujet d'un remboursement.",
+    "t": 393.15
    },
    {
     "speaker": "Tom",
     "text": "Pour cela, vous pouvez vous adresser à l'Ombudsman, et il y a un épisode sur l'Ombudsman dans ce podcast.",
-    "t": 553.68
-   },
-   {
-    "speaker": "Anna",
-    "text": "Et quelles sont la deuxième et la troisième situation ?",
-    "t": 559.13
-   },
-   {
-    "speaker": "Tom",
-    "text": "La deuxième est un problème qui concerne uniquement les soins de longue durée, c'est-à-dire l'aide pour la vie de tous les jours dans le cadre de l'assurance dépendance.",
-    "t": 561.88
-   },
-   {
-    "speaker": "Tom",
-    "text": "La troisième est un conflit entre professionnels seulement, sans patient en particulier.",
-    "t": 569.93
+    "t": 402.06
    },
    {
     "speaker": "Anna",
     "text": "La troisième mission du service intéresse beaucoup de nos auditeurs : les soins de santé transfrontaliers.",
-    "t": 574.75
+    "t": 407.51
    },
    {
     "speaker": "Anna",
     "text": "Ce sont des soins qui sont donnés ou prescrits dans un autre pays que celui où vous êtes assuré.",
-    "t": 579.9
+    "t": 412.66
    },
    {
     "speaker": "Tom",
     "text": "Quel est le rôle du service dans ce domaine ?",
-    "t": 584.45
+    "t": 417.21
    },
    {
     "speaker": "Anna",
     "text": "Les pays européens ont des points de contact nationaux pour les patients qui ont des questions sur les soins dans un autre pays.",
-    "t": 586.78
+    "t": 419.54
    },
    {
     "speaker": "Anna",
     "text": "Le Luxembourg en a deux : le service de médiation santé et la Caisse nationale de santé, la CNS.",
-    "t": 592.55
+    "t": 425.31
    },
    {
     "speaker": "Tom",
     "text": "Comment savoir lequel des deux je dois contacter ?",
-    "t": 598.45
+    "t": 431.21
    },
    {
     "speaker": "Anna",
     "text": "Imaginez que vous êtes assuré dans un autre pays et que vous voulez vous faire soigner au Luxembourg.",
-    "t": 601.11
+    "t": 433.87
    },
    {
     "speaker": "Anna",
     "text": "Le service de médiation santé vous informe sur le système de santé d'ici, sur les prestataires, sur vos droits, et sur ce qu'il faut faire en cas de différend.",
-    "t": 605.54
+    "t": 438.3
    },
    {
     "speaker": "Tom",
     "text": "Et qu'en est-il d'une personne qui est assurée au Luxembourg et qui reçoit des soins à l'étranger ?",
-    "t": 612.96
+    "t": 445.72
    },
    {
     "speaker": "Anna",
     "text": "Pour des questions générales et pour un conflit, cette personne peut contacter le service de médiation santé.",
-    "t": 617.8
+    "t": 450.56
    },
    {
     "speaker": "Anna",
     "text": "Pour le remboursement lui-même, et pour une autorisation préalable, le point de contact est la CNS.",
-    "t": 622.41
+    "t": 455.17
    },
    {
     "speaker": "Tom",
     "text": "Vous pouvez joindre le service par téléphone, par courriel et avec le formulaire de contact.",
-    "t": 627.89
+    "t": 460.65
    },
    {
     "speaker": "Tom",
     "text": "Son bureau se trouve à Luxembourg-Ville, et les horaires du secrétariat sont indiqués sur le site.",
-    "t": 632.73
-   },
-   {
-    "speaker": "Anna",
-    "text": "Est-il possible d'obtenir un rendez-vous en dehors de ces horaires ?",
-    "t": 637.55
-   },
-   {
-    "speaker": "Tom",
-    "text": "Oui, un rendez-vous peut être convenu à un autre moment, et une réunion par visioconférence ou par téléphone est possible aussi.",
-    "t": 640.53
+    "t": 465.49
    },
    {
     "speaker": "Anna",
     "text": "Dans quelles langues puis-je parler avec l'équipe ?",
-    "t": 647.54
+    "t": 470.31
    },
    {
     "speaker": "Tom",
     "text": "L'équipe travaille en plusieurs langues, parmi lesquelles le luxembourgeois, le français, l'allemand et l'anglais.",
-    "t": 649.8
+    "t": 472.57
    },
    {
     "speaker": "Anna",
     "text": "Que peut-on trouver sur le site internet du service ?",
-    "t": 655.77
+    "t": 478.54
    },
    {
     "speaker": "Tom",
     "text": "Le site existe en français et en allemand.",
-    "t": 658.48
+    "t": 481.25
    },
    {
     "speaker": "Tom",
     "text": "Il a des rubriques sur la médiation et les différends, sur vos droits et obligations, sur les soins au Luxembourg et sur les soins transfrontaliers.",
-    "t": 660.82
-   },
-   {
-    "speaker": "Anna",
-    "text": "J'y ai vu aussi une liste d'associations de patients et de services d'information.",
-    "t": 668.69
-   },
-   {
-    "speaker": "Tom",
-    "text": "Oui, et il y a un glossaire qui explique les mots difficiles.",
-    "t": 672.86
-   },
-   {
-    "speaker": "Tom",
-    "text": "L'adresse du site est mediateursante point public point l-u.",
-    "t": 676.34
+    "t": 483.59
    },
    {
     "speaker": "Anna",
     "text": "Il est temps de résumer les points les plus importants.",
-    "t": 680.57
+    "t": 491.46
    },
    {
     "speaker": "Anna",
     "text": "Premièrement : en tant que patient au Luxembourg, vous avez des droits et des obligations, et ils sont inscrits dans la loi de 2014.",
-    "t": 683.22
+    "t": 494.11
    },
    {
     "speaker": "Tom",
     "text": "Deuxièmement : quand il y a un problème, parlez d'abord avec votre prestataire, ou avec le service des plaintes de l'hôpital.",
-    "t": 689.81
+    "t": 500.7
    },
    {
     "speaker": "Anna",
     "text": "Troisièmement : si cela n'aide pas, le médiateur de la santé peut organiser une médiation.",
-    "t": 696.53
+    "t": 507.42
    },
    {
     "speaker": "Anna",
     "text": "Elle est volontaire, confidentielle et neutre, et la solution vient des personnes elles-mêmes.",
-    "t": 700.87
+    "t": 511.76
    },
    {
     "speaker": "Tom",
     "text": "Quatrièmement : le service répond aussi aux questions sur les soins au-delà des frontières, avec la CNS.",
-    "t": 705.47
+    "t": 516.36
    },
    {
     "speaker": "Anna",
     "text": "Vous trouvez toutes les informations sur mediateursante point public point l-u.",
-    "t": 711.97
+    "t": 522.86
    },
    {
     "speaker": "Tom",
     "text": "Un conflit au sujet de votre santé n'est jamais agréable, mais au Luxembourg, vous n'êtes pas obligé d'y faire face seul.",
-    "t": 716.47
+    "t": 527.36
    },
    {
     "speaker": "Anna",
     "text": "Et une bonne discussion est très souvent le meilleur début.",
-    "t": 723.02
+    "t": 533.91
    },
    {
     "speaker": "Anna",
     "text": "C'était notre épisode sur le médiateur de la santé et vos droits en tant que patient.",
-    "t": 725.88
+    "t": 536.77
    },
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
-    "t": 729.67
+    "t": 540.56
    },
    {
     "speaker": "Anna",
     "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
-    "t": 737.54
+    "t": 548.43
    },
    {
     "speaker": "Anna",
     "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
-    "t": 753.99
+    "t": 564.88
    },
    {
     "speaker": "Anna",
     "text": "Et les activités sont gratuites.",
-    "t": 758.64
+    "t": 569.53
    },
    {
     "speaker": "Anna",
     "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
-    "t": 760.42
+    "t": 571.31
    },
    {
     "speaker": "Tom",
     "text": "Merci à tous.",
-    "t": 764.8
+    "t": 575.69
    },
    {
     "speaker": "Tom",
     "text": "Prenez soin de vous, et à la prochaine !",
-    "t": 766.05
+    "t": 576.94
    },
    {
     "speaker": "Anna",
     "text": "Merci beaucoup de nous avoir écoutés.",
-    "t": 768.34
+    "t": 579.23
    }
   ],
   "audio_de": "podcast_mediateursante_de.mp3",
-  "duration_de": 888.48,
+  "duration_de": 679.71,
   "segments_de": [
    {
     "speaker": "Anna",
@@ -136191,823 +135751,603 @@ const EPISODES = [
    },
    {
     "speaker": "Tom",
-    "text": "Heute schauen wir uns an, was diese Stelle macht, welche Rechte Sie als Patient haben, und wie eine Mediation abläuft, Schritt für Schritt.",
-    "t": 73.83
-   },
-   {
-    "speaker": "Tom",
     "text": "Was für eine Stelle ist das also?",
-    "t": 81.41
+    "t": 73.83
    },
    {
     "speaker": "Anna",
     "text": "Es ist eine unabhängige staatliche Stelle.",
-    "t": 83.45
+    "t": 75.85
    },
    {
     "speaker": "Anna",
     "text": "Sie wurde durch ein Gesetz vom 24. Juli 2014 geschaffen, das Gesetz über die Rechte und Pflichten des Patienten, und sie arbeitet seit 2015.",
-    "t": 85.93
+    "t": 78.33
    },
    {
     "speaker": "Tom",
     "text": "Welche Aufgaben hat dieses Gesetz der Stelle gegeben?",
-    "t": 95.82
+    "t": 88.22
    },
    {
     "speaker": "Anna",
     "text": "Es gibt drei Hauptaufgaben.",
-    "t": 98.99
+    "t": 91.39
    },
    {
     "speaker": "Anna",
     "text": "Sie ist ein Informationszentrum über die Rechte im Gesundheitswesen.",
-    "t": 100.74
+    "t": 93.14
    },
    {
     "speaker": "Anna",
     "text": "Sie ist ein Mediationszentrum für Streitigkeiten zwischen einem Patienten und einem Gesundheitsdienstleister.",
-    "t": 104.65
+    "t": 97.05
    },
    {
     "speaker": "Anna",
     "text": "Und sie ist eine Kontaktstelle für die grenzüberschreitende Gesundheitsversorgung.",
-    "t": 110.97
-   },
-   {
-    "speaker": "Tom",
-    "text": "Wenn Sie Gesundheitsdienstleister sagen, wen meinen Sie damit genau?",
-    "t": 115.51
-   },
-   {
-    "speaker": "Anna",
-    "text": "Das kann eine einzelne Fachperson sein, zum Beispiel ein Arzt oder ein Zahnarzt, oder auch eine Einrichtung, zum Beispiel ein Krankenhaus.",
-    "t": 119.34
+    "t": 103.37
    },
    {
     "speaker": "Tom",
     "text": "Und steht die Stelle auf der Seite des Patienten?",
-    "t": 127.52
+    "t": 107.91
    },
    {
     "speaker": "Anna",
     "text": "Nein, und das ist wichtig zu verstehen.",
-    "t": 130.78
+    "t": 111.17
    },
    {
     "speaker": "Anna",
     "text": "Die Stelle ist neutral, unabhängig und unparteiisch, sie hört also Patienten und Gesundheitsdienstleistern auf die gleiche Weise zu.",
-    "t": 133.45
+    "t": 113.84
    },
    {
     "speaker": "Tom",
     "text": "Beginnen wir mit der Information, denn viele Menschen haben einfach eine Frage, und keinen Konflikt.",
-    "t": 141.45
+    "t": 121.84
    },
    {
     "speaker": "Tom",
     "text": "Sie können die Stelle auch nur kontaktieren, um Ihre Rechte und Ihre Pflichten als Patient zu verstehen.",
-    "t": 147.12
+    "t": 127.51
    },
    {
     "speaker": "Anna",
     "text": "Von welchen Rechten sprechen wir hier?",
-    "t": 152.79
+    "t": 133.18
    },
    {
     "speaker": "Tom",
     "text": "Sie stehen im Gesetz von 2014.",
-    "t": 155.01
+    "t": 135.4
    },
    {
     "speaker": "Tom",
     "text": "Sein Grundprinzip ist der gegenseitige Respekt, die Würde und die Loyalität zwischen Patient und Dienstleister.",
-    "t": 157.78
+    "t": 138.17
    },
    {
     "speaker": "Tom",
     "text": "Dann kommen die freie Wahl Ihres Dienstleisters und der Zugang zur Gesundheitsversorgung.",
-    "t": 164.91
+    "t": 145.3
    },
    {
     "speaker": "Anna",
     "text": "Was sagt das Gesetz über Information und Entscheidungen?",
-    "t": 170.14
+    "t": 150.53
    },
    {
     "speaker": "Tom",
     "text": "Der Dienstleister hat die Pflicht, Sie zu informieren, mit Ihnen zu sprechen und Sie an den Entscheidungen über Ihre Behandlung zu beteiligen.",
-    "t": 173.83
+    "t": 154.22
    },
    {
     "speaker": "Tom",
     "text": "Ihre Einwilligung zählt, und deshalb stellt die Internetseite Information, Einwilligung und Entscheidung zusammen dar.",
-    "t": 181.44
+    "t": 161.83
    },
    {
     "speaker": "Anna",
     "text": "Ich habe auch von einer Vertrauensperson gehört.",
-    "t": 188.69
+    "t": 169.08
    },
    {
     "speaker": "Anna",
     "text": "Gehört das zum selben Gesetz?",
-    "t": 191.3
+    "t": 171.69
    },
    {
     "speaker": "Tom",
     "text": "Ja, das Gesetz berücksichtigt den Willen des Patienten stärker.",
-    "t": 193.46
+    "t": 173.85
    },
    {
     "speaker": "Tom",
     "text": "Sie können eine Vertrauensperson benennen, und Sie können sich von einer Person Ihrer Wahl begleiten lassen.",
-    "t": 197.28
+    "t": 177.67
    },
    {
     "speaker": "Anna",
     "text": "Und wie ist es mit der Akte, die mein Arzt über mich führt?",
-    "t": 203.14
+    "t": 183.53
    },
    {
     "speaker": "Tom",
     "text": "Das Gesetz will, dass jeder Patient eine Patientenakte hat, und dass diese Akte für den Patienten zugänglich ist.",
-    "t": 206.58
+    "t": 186.97
    },
    {
     "speaker": "Tom",
     "text": "Es besteht auch auf Vertraulichkeit und auf dem Berufsgeheimnis.",
-    "t": 213.3
-   },
-   {
-    "speaker": "Anna",
-    "text": "Im Namen des Gesetzes steht auch das Wort Pflichten.",
-    "t": 217.26
-   },
-   {
-    "speaker": "Anna",
-    "text": "Die Beziehung geht also in beide Richtungen.",
-    "t": 220.13
-   },
-   {
-    "speaker": "Tom",
-    "text": "Das stimmt, denn das Gesetz beruht auf gegenseitigem Respekt.",
-    "t": 222.78
-   },
-   {
-    "speaker": "Tom",
-    "text": "Die Internetseite erklärt die Pflichten der Patienten neben ihren Rechten.",
-    "t": 226.62
-   },
-   {
-    "speaker": "Anna",
-    "text": "Beantwortet die Internetseite auch ganz praktische Fragen?",
-    "t": 230.97
-   },
-   {
-    "speaker": "Tom",
-    "text": "Ja, es gibt eine Seite mit häufig gestellten Fragen.",
-    "t": 234.45
-   },
-   {
-    "speaker": "Tom",
-    "text": "Sie erklärt zum Beispiel, was mit Ihrer Akte geschieht, wenn Ihr Arzt seine Tätigkeit beendet, oder wo Sie die Bedeutung der Codes auf einer Honorarrechnung nachschlagen können.",
-    "t": 237.71
-   },
-   {
-    "speaker": "Anna",
-    "text": "Können auch Gesundheitsfachleute die Stelle um Informationen bitten?",
-    "t": 247.49
-   },
-   {
-    "speaker": "Tom",
-    "text": "Ja, das können sie, denn die Information richtet sich an Patienten und an Fachleute gleichermaßen.",
-    "t": 251.38
+    "t": 193.69
    },
    {
     "speaker": "Anna",
     "text": "Stellen Sie sich nun vor, dass es wirklich ein Problem gibt.",
-    "t": 257.44
+    "t": 197.65
    },
    {
     "speaker": "Anna",
     "text": "Der erste Rat auf der Internetseite überrascht Sie vielleicht: Sprechen Sie direkt mit Ihrem Dienstleister, denn ein direktes Gespräch löst sehr oft eine Meinungsverschiedenheit.",
-    "t": 260.7
+    "t": 200.91
    },
    {
     "speaker": "Tom",
     "text": "Das ist mitten in einem normalen Termin nicht immer einfach.",
-    "t": 270.42
+    "t": 210.63
    },
    {
     "speaker": "Anna",
     "text": "Da stimme ich zu, und die Internetseite sagt das auch.",
-    "t": 273.86
+    "t": 214.07
    },
    {
     "speaker": "Anna",
     "text": "Sie schlägt vor, um einen eigenen Termin zu bitten, nur für dieses Thema, und Sie können jemanden mitbringen, wenn Sie das möchten.",
-    "t": 277.17
+    "t": 217.38
    },
    {
     "speaker": "Tom",
     "text": "Und mit wem kann ich sprechen, wenn das Problem in einem Krankenhaus passiert ist?",
-    "t": 284.28
+    "t": 224.49
    },
    {
     "speaker": "Anna",
     "text": "Krankenhäuser, und viele andere Dienstleister, haben eine Person oder einen Dienst, der für Beschwerden und für die Beziehungen zu den Patienten zuständig ist.",
-    "t": 288.64
+    "t": 228.85
    },
    {
     "speaker": "Anna",
     "text": "Ihre Rückmeldung hilft ihnen, Ihre Sicht zu verstehen, und sie wird genutzt, um die Qualität zu verbessern.",
-    "t": 297.49
+    "t": 237.7
    },
    {
     "speaker": "Tom",
     "text": "Was kann ich tun, wenn dieses Gespräch schwierig ist, oder wenn es keine Lösung bringt?",
-    "t": 303.41
+    "t": 243.62
    },
    {
     "speaker": "Anna",
     "text": "Dann kann die Mediation im Gesundheitsbereich der nächste Schritt sein.",
-    "t": 308.33
+    "t": 248.54
    },
    {
     "speaker": "Tom",
     "text": "Die Mediation ist ein strukturiertes Verfahren.",
-    "t": 312.49
+    "t": 252.7
    },
    {
     "speaker": "Tom",
     "text": "Die Menschen in einem Konflikt versuchen freiwillig, selbst eine Einigung zu finden, und ein Mediator hilft ihnen dabei.",
-    "t": 315.45
+    "t": 255.66
    },
    {
     "speaker": "Anna",
     "text": "Entscheidet also am Ende der Mediator, wer recht hat?",
-    "t": 322.31
+    "t": 262.52
    },
    {
     "speaker": "Tom",
     "text": "Nein, der Mediator ist kein Richter, und auch kein Experte, der ein Urteil abgibt.",
-    "t": 325.91
+    "t": 266.12
    },
    {
     "speaker": "Tom",
     "text": "Der Mediator hat keine Entscheidungsbefugnis.",
-    "t": 331.5
+    "t": 271.71
    },
    {
     "speaker": "Tom",
     "text": "Seine Rolle ist es, allen Seiten gleich zuzuhören, einen Dialog zu eröffnen und alle durch das Verfahren zu begleiten.",
-    "t": 334.29
-   },
-   {
-    "speaker": "Anna",
-    "text": "Wer sind die Mediatoren dieser Stelle?",
-    "t": 341.67
-   },
-   {
-    "speaker": "Tom",
-    "text": "Sie sind in Mediation ausgebildet, sie bilden sich regelmäßig weiter, und sie sind vom Justizminister als Mediatoren zugelassen.",
-    "t": 344.29
-   },
-   {
-    "speaker": "Tom",
-    "text": "Sehr oft arbeiten zwei Mediatoren gemeinsam an einem Fall.",
-    "t": 352.27
+    "t": 274.5
    },
    {
     "speaker": "Anna",
     "text": "Nehmen wir an, ich sage etwas während einer Mediation.",
-    "t": 356.17
+    "t": 281.88
    },
    {
     "speaker": "Anna",
     "text": "Könnte das später gegen mich verwendet werden?",
-    "t": 359.35
+    "t": 285.06
    },
    {
     "speaker": "Tom",
     "text": "Die Mediation ist vertraulich, und jede Person, die daran teilnimmt, ist zur Verschwiegenheit verpflichtet, damit alle offen über den Konflikt sprechen können.",
-    "t": 361.86
-   },
-   {
-    "speaker": "Anna",
-    "text": "Und bin ich verpflichtet, bis ganz zum Schluss weiterzumachen?",
-    "t": 370.97
-   },
-   {
-    "speaker": "Tom",
-    "text": "Nein, denn die Mediation ist für den Patienten und für die Fachperson freiwillig.",
-    "t": 374.26
-   },
-   {
-    "speaker": "Tom",
-    "text": "Jeder von ihnen kann die Mediation jederzeit beenden.",
-    "t": 379.4
+    "t": 287.57
    },
    {
     "speaker": "Anna",
     "text": "So funktioniert es in der Praxis.",
-    "t": 382.72
+    "t": 296.68
    },
    {
     "speaker": "Anna",
     "text": "Sie kontaktieren die Stelle per Telefon, per E-Mail oder mit dem Kontaktformular auf ihrer Internetseite.",
-    "t": 384.93
+    "t": 298.89
    },
    {
     "speaker": "Tom",
     "text": "Wer darf um eine Mediation bitten?",
-    "t": 391.39
+    "t": 305.35
    },
    {
     "speaker": "Anna",
     "text": "Patienten, ihre Familie und ihre Vertreter können darum bitten, und Gesundheitsdienstleister können es auch.",
-    "t": 393.67
+    "t": 307.63
    },
    {
     "speaker": "Anna",
     "text": "Die Anfrage kann von einer Seite allein kommen, oder von allen gemeinsam.",
-    "t": 399.88
+    "t": 313.84
    },
    {
     "speaker": "Tom",
     "text": "Was passiert, wenn ich der Einzige bin, der anfragt?",
-    "t": 404.21
+    "t": 318.17
    },
    {
     "speaker": "Anna",
     "text": "Dann kontaktiert die Stelle die andere Seite und fragt, ob sie mit einer Mediation einverstanden ist.",
-    "t": 407.18
+    "t": 321.14
    },
    {
     "speaker": "Anna",
     "text": "Diese kann nur stattfinden, wenn beide Seiten Ja sagen.",
-    "t": 413.06
-   },
-   {
-    "speaker": "Tom",
-    "text": "Kann die Stelle eine Anfrage auch ablehnen?",
-    "t": 416.55
-   },
-   {
-    "speaker": "Anna",
-    "text": "Ja, sie kann ablehnen, wenn zuvor niemand versucht hat, das Problem direkt mit der anderen Seite zu besprechen, oder wenn eine Mediation wenig Aussicht auf Erfolg hat.",
-    "t": 419
+    "t": 327.02
    },
    {
     "speaker": "Tom",
     "text": "Und wie beginnt die Mediation selbst?",
-    "t": 429.38
+    "t": 330.51
    },
    {
     "speaker": "Anna",
     "text": "Meistens mit einem Vorgespräch.",
-    "t": 431.77
+    "t": 332.9
    },
    {
     "speaker": "Anna",
     "text": "Der Mediator trifft jede Seite einzeln, erklärt die Regeln und hört sich Ihre Sicht an.",
-    "t": 433.8
+    "t": 334.93
    },
    {
     "speaker": "Anna",
     "text": "Gemeinsam prüfen Sie, ob die Mediation der richtige Weg für Ihre Situation ist.",
-    "t": 438.93
-   },
-   {
-    "speaker": "Tom",
-    "text": "Muss ich für dieses Gespräch ins Büro kommen?",
-    "t": 444.02
-   },
-   {
-    "speaker": "Anna",
-    "text": "Nicht unbedingt, denn das Gespräch kann auch per Videokonferenz stattfinden, und die Stelle kann Sie anderswo treffen, wenn Sie nicht kommen können.",
-    "t": 446.74
-   },
-   {
-    "speaker": "Tom",
-    "text": "Gibt es ein Dokument, das ich am Anfang unterschreiben muss?",
-    "t": 454.54
-   },
-   {
-    "speaker": "Anna",
-    "text": "Manchmal gibt es eine schriftliche Vereinbarung über die Teilnahme an der Mediation.",
-    "t": 457.76
-   },
-   {
-    "speaker": "Anna",
-    "text": "Sie nennt den Mediator und die Teilnehmer, und sie erinnert daran, dass das Verfahren freiwillig und vertraulich ist.",
-    "t": 462.21
-   },
-   {
-    "speaker": "Anna",
-    "text": "Sie ist nicht immer nötig.",
-    "t": 468.62
+    "t": 340.06
    },
    {
     "speaker": "Tom",
     "text": "Dann kommt der Moment, in dem alle am selben Tisch sitzen.",
-    "t": 470.45
+    "t": 345.15
    },
    {
     "speaker": "Anna",
     "text": "Ja, und dieses Treffen findet normalerweise im Besprechungsraum der Stelle statt.",
-    "t": 473.71
+    "t": 348.41
    },
    {
     "speaker": "Anna",
     "text": "Der Mediator erinnert an die Regeln, und dann erklärt jede Person, wie sie die Situation sieht, mit den Fakten und auch mit den Gefühlen.",
-    "t": 478.15
-   },
-   {
-    "speaker": "Tom",
-    "text": "Wie lange dauert ein solches Treffen?",
-    "t": 487.05
-   },
-   {
-    "speaker": "Anna",
-    "text": "Die Dauer wird gemeinsam vereinbart, und sie beträgt in der Regel höchstens zwei Stunden.",
-    "t": 489.1
-   },
-   {
-    "speaker": "Anna",
-    "text": "Wenn es nötig ist, kann es mehrere Treffen geben.",
-    "t": 493.94
+    "t": 352.85
    },
    {
     "speaker": "Tom",
     "text": "Darf ich jemanden zu diesem Treffen mitbringen?",
-    "t": 496.96
+    "t": 361.75
    },
    {
     "speaker": "Anna",
     "text": "Grundsätzlich können Sie sich von einer oder mehreren Personen Ihrer Wahl begleiten lassen, zum Beispiel von einem Angehörigen, und ein Anwalt kann Sie beraten und unterstützen.",
-    "t": 499.51
+    "t": 364.3
    },
    {
     "speaker": "Anna",
     "text": "Sie müssen dem Mediator und der anderen Seite im Voraus sagen, wer mit Ihnen kommt.",
-    "t": 508.93
-   },
-   {
-    "speaker": "Tom",
-    "text": "Für manche Menschen ist es vielleicht zu schwer, der anderen Person gegenüberzusitzen.",
-    "t": 513.91
-   },
-   {
-    "speaker": "Anna",
-    "text": "Dafür gibt es eine Lösung, die indirekte Mediation.",
-    "t": 518.36
-   },
-   {
-    "speaker": "Anna",
-    "text": "Der Mediator spricht mit jeder Seite getrennt, und die beiden Seiten treffen sich nicht.",
-    "t": 521.72
-   },
-   {
-    "speaker": "Anna",
-    "text": "Eine Mediation aus der Ferne, per Video oder per Telefon, ist ebenfalls möglich.",
-    "t": 526.45
+    "t": 373.72
    },
    {
     "speaker": "Tom",
     "text": "Und was passiert, wenn die beiden Seiten eine Lösung finden?",
-    "t": 531.9
+    "t": 378.7
    },
    {
     "speaker": "Anna",
     "text": "Dann kann die Einigung schriftlich festgehalten werden.",
-    "t": 535.13
+    "t": 381.93
    },
    {
     "speaker": "Anna",
     "text": "Sie kann vollständig oder teilweise sein, sie wird datiert und von allen unterschrieben, sie beschreibt, wozu sich jede Seite verpflichtet, und sie bindet die Beteiligten.",
-    "t": 538.18
+    "t": 384.98
    },
    {
     "speaker": "Tom",
     "text": "Die Internetseite erzählt eine wahre Geschichte, die anonymisiert wurde.",
-    "t": 547.95
+    "t": 394.75
    },
    {
     "speaker": "Tom",
     "text": "Ein Patient kam in die Notaufnahme eines Krankenhauses.",
-    "t": 552.18
+    "t": 398.98
    },
    {
     "speaker": "Tom",
     "text": "Ein wichtiger Hinweis im Befund einer Röntgenaufnahme wurde erst viel später gesehen, weil der Patient schon nach Hause gegangen war.",
-    "t": 555.33
+    "t": 402.13
    },
    {
     "speaker": "Anna",
     "text": "Und wie hat die Mediation in diesem Fall geholfen?",
-    "t": 562.98
+    "t": 409.78
    },
    {
     "speaker": "Tom",
     "text": "Jeder konnte sagen, was er fühlte, und erklären, was passiert war.",
-    "t": 566.05
+    "t": 412.85
    },
    {
     "speaker": "Tom",
     "text": "Bedauern und Entschuldigungen wurden ausgesprochen, und sie wurden angenommen.",
-    "t": 569.64
+    "t": 416.44
    },
    {
     "speaker": "Tom",
     "text": "Das Krankenhaus hat sein internes Verfahren geändert, und der Patient hat eine Entschädigung erhalten, ohne vor Gericht zu gehen.",
-    "t": 573.89
-   },
-   {
-    "speaker": "Anna",
-    "text": "Bei einer Mediation geht es also nicht nur um Geld.",
-    "t": 580.96
-   },
-   {
-    "speaker": "Tom",
-    "text": "Genau, es geht auch darum, gehört zu werden, eine Erklärung zu bekommen und das Vertrauen zu erhalten.",
-    "t": 584.47
-   },
-   {
-    "speaker": "Tom",
-    "text": "Wenn eine finanzielle Entschädigung nötig ist, wird dieser Teil mit den Versicherern der Fachleute geregelt.",
-    "t": 590.76
+    "t": 420.69
    },
    {
     "speaker": "Anna",
     "text": "Endet eine Mediation immer mit einer Einigung?",
-    "t": 596.56
+    "t": 427.76
    },
    {
     "speaker": "Tom",
     "text": "Nein, das Ergebnis ist offen, und niemand kann eine Lösung garantieren.",
-    "t": 599.53
+    "t": 430.73
    },
    {
     "speaker": "Tom",
     "text": "Die Mediation braucht zwei Seiten, die in gutem Glauben nach einer Lösung suchen.",
-    "t": 604.03
+    "t": 435.23
    },
    {
     "speaker": "Anna",
     "text": "Und was kann ich tun, wenn es keine Einigung gibt?",
-    "t": 608.82
+    "t": 440.02
    },
    {
     "speaker": "Tom",
     "text": "Dann bleibt Ihnen der Weg zu den Gerichten offen.",
-    "t": 612.08
+    "t": 443.28
    },
    {
     "speaker": "Tom",
     "text": "Die Internetseite empfiehlt, einen Anwalt zu konsultieren, bevor Sie eine Klage einreichen.",
-    "t": 614.63
+    "t": 445.83
    },
    {
     "speaker": "Anna",
     "text": "Gibt es Situationen, in denen der Mediator für das Gesundheitswesen nicht der richtige Ansprechpartner ist?",
-    "t": 620.08
+    "t": 451.28
    },
    {
     "speaker": "Tom",
-    "text": "Ja, die Internetseite nennt drei.",
-    "t": 626.05
+    "text": "Ja, die Internetseite nennt mehrere.",
+    "t": 457.25
    },
    {
     "speaker": "Tom",
-    "text": "Die erste ist eine Entscheidung einer Einrichtung der sozialen Sicherheit, zum Beispiel wenn Sie mit der Nationalen Gesundheitskasse über eine Erstattung nicht einverstanden sind.",
-    "t": 628.4
+    "text": "Eine davon ist eine Entscheidung einer Einrichtung der sozialen Sicherheit, zum Beispiel wenn Sie mit der Nationalen Gesundheitskasse über eine Erstattung nicht einverstanden sind.",
+    "t": 459.93
    },
    {
     "speaker": "Tom",
     "text": "Dafür können Sie sich an den Ombudsman wenden, und es gibt in diesem Podcast eine Folge über den Ombudsman.",
-    "t": 637.99
-   },
-   {
-    "speaker": "Anna",
-    "text": "Und was sind die zweite und die dritte Situation?",
-    "t": 644.32
-   },
-   {
-    "speaker": "Tom",
-    "text": "Die zweite ist ein Problem, das nur die Langzeitpflege betrifft, also die Hilfe im Alltag im Rahmen der Pflegeversicherung.",
-    "t": 647.17
-   },
-   {
-    "speaker": "Tom",
-    "text": "Die dritte ist ein Konflikt nur zwischen Fachleuten, ohne einen bestimmten Patienten.",
-    "t": 654.24
+    "t": 469.41
    },
    {
     "speaker": "Anna",
     "text": "Die dritte Aufgabe der Stelle ist für viele unserer Hörer interessant: die grenzüberschreitende Gesundheitsversorgung.",
-    "t": 659.5
+    "t": 475.74
    },
    {
     "speaker": "Anna",
     "text": "Das ist eine Versorgung, die in einem anderen Land erbracht oder verschrieben wird als in dem Land, in dem Sie versichert sind.",
-    "t": 665.98
+    "t": 482.22
    },
    {
     "speaker": "Tom",
     "text": "Welche Rolle hat die Stelle in diesem Bereich?",
-    "t": 673.4
+    "t": 489.64
    },
    {
     "speaker": "Anna",
     "text": "Die europäischen Länder haben nationale Kontaktstellen für Patienten, die Fragen zur Versorgung in einem anderen Land haben.",
-    "t": 675.83
+    "t": 492.07
    },
    {
     "speaker": "Anna",
     "text": "Luxemburg hat zwei davon: die Mediationsstelle im Gesundheitswesen und die Nationale Gesundheitskasse, die CNS.",
-    "t": 682.63
+    "t": 498.87
    },
    {
     "speaker": "Tom",
     "text": "Wie weiß ich, welche der beiden ich kontaktieren soll?",
-    "t": 690.55
+    "t": 506.79
    },
    {
     "speaker": "Anna",
     "text": "Stellen Sie sich vor, Sie sind in einem anderen Land versichert und möchten sich in Luxemburg behandeln lassen.",
-    "t": 693.64
+    "t": 509.88
    },
    {
     "speaker": "Anna",
     "text": "Die Mediationsstelle informiert Sie über das Gesundheitssystem hier, über die Dienstleister, über Ihre Rechte, und darüber, was bei einer Meinungsverschiedenheit zu tun ist.",
-    "t": 699.59
+    "t": 515.83
    },
    {
     "speaker": "Tom",
     "text": "Und wie ist es bei einer Person, die in Luxemburg versichert ist und im Ausland behandelt wird?",
-    "t": 709.59
+    "t": 525.83
    },
    {
     "speaker": "Anna",
     "text": "Bei allgemeinen Fragen und bei einem Konflikt kann sich diese Person an die Mediationsstelle wenden.",
-    "t": 714.74
+    "t": 530.98
    },
    {
     "speaker": "Anna",
     "text": "Für die Erstattung selbst, und für eine vorherige Genehmigung, ist die CNS die Kontaktstelle.",
-    "t": 720.77
+    "t": 537.01
    },
    {
     "speaker": "Tom",
     "text": "Sie erreichen die Stelle per Telefon, per E-Mail und mit dem Kontaktformular.",
-    "t": 726.51
+    "t": 542.75
    },
    {
     "speaker": "Tom",
     "text": "Ihr Büro befindet sich in Luxemburg-Stadt, und die Öffnungszeiten des Sekretariats stehen auf der Internetseite.",
-    "t": 731.14
-   },
-   {
-    "speaker": "Anna",
-    "text": "Ist es möglich, einen Termin außerhalb dieser Zeiten zu bekommen?",
-    "t": 737.83
-   },
-   {
-    "speaker": "Tom",
-    "text": "Ja, ein Termin kann zu einer anderen Zeit vereinbart werden, und ein Treffen per Video oder per Telefon ist auch möglich.",
-    "t": 741.48
+    "t": 547.38
    },
    {
     "speaker": "Anna",
     "text": "In welchen Sprachen kann ich mit dem Team sprechen?",
-    "t": 748.48
+    "t": 554.07
    },
    {
     "speaker": "Tom",
     "text": "Das Team arbeitet in mehreren Sprachen, darunter Luxemburgisch, Französisch, Deutsch und Englisch.",
-    "t": 751.24
+    "t": 556.83
    },
    {
     "speaker": "Anna",
     "text": "Was findet man auf der Internetseite der Stelle?",
-    "t": 757.45
+    "t": 563.04
    },
    {
     "speaker": "Tom",
     "text": "Die Internetseite gibt es auf Französisch und auf Deutsch.",
-    "t": 760.07
+    "t": 565.66
    },
    {
     "speaker": "Tom",
     "text": "Sie hat Rubriken über Mediation und Beschwerden, über Ihre Rechte und Pflichten, über die Versorgung in Luxemburg und über die grenzüberschreitende Versorgung.",
-    "t": 763.55
-   },
-   {
-    "speaker": "Anna",
-    "text": "Ich habe dort auch eine Liste von Patientenvereinigungen und Informationsdiensten gesehen.",
-    "t": 773.26
-   },
-   {
-    "speaker": "Tom",
-    "text": "Ja, und es gibt ein Glossar, das schwierige Wörter erklärt.",
-    "t": 778.3
-   },
-   {
-    "speaker": "Tom",
-    "text": "Die Adresse der Internetseite ist mediateursante Punkt public Punkt l-u.",
-    "t": 782.05
+    "t": 569.14
    },
    {
     "speaker": "Anna",
     "text": "Zeit, die wichtigsten Punkte zusammenzufassen.",
-    "t": 787.65
+    "t": 578.85
    },
    {
     "speaker": "Anna",
     "text": "Erstens: Als Patient in Luxemburg haben Sie Rechte und Pflichten, und sie stehen im Gesetz von 2014.",
-    "t": 790.5
+    "t": 581.7
    },
    {
     "speaker": "Tom",
     "text": "Zweitens: Wenn es ein Problem gibt, sprechen Sie zuerst mit Ihrem Dienstleister, oder mit der Beschwerdestelle des Krankenhauses.",
-    "t": 797.34
+    "t": 588.54
    },
    {
     "speaker": "Anna",
     "text": "Drittens: Wenn das nicht hilft, kann der Mediator für das Gesundheitswesen eine Mediation organisieren.",
-    "t": 804.62
+    "t": 595.82
    },
    {
     "speaker": "Anna",
     "text": "Sie ist freiwillig, vertraulich und neutral, und die Lösung kommt von den Menschen selbst.",
-    "t": 811.01
+    "t": 602.21
    },
    {
     "speaker": "Tom",
     "text": "Viertens: Die Stelle beantwortet auch Fragen zur Versorgung über die Grenzen hinweg, gemeinsam mit der CNS.",
-    "t": 816.1
+    "t": 607.3
    },
    {
     "speaker": "Anna",
     "text": "Alle Informationen finden Sie auf mediateursante Punkt public Punkt l-u.",
-    "t": 822.84
+    "t": 614.04
    },
    {
     "speaker": "Tom",
     "text": "Ein Konflikt rund um Ihre Gesundheit ist nie angenehm, aber in Luxemburg müssen Sie ihm nicht allein begegnen.",
-    "t": 827.81
+    "t": 619.01
    },
    {
     "speaker": "Anna",
     "text": "Und ein gutes Gespräch ist sehr oft der beste Anfang.",
-    "t": 834.18
+    "t": 625.38
    },
    {
     "speaker": "Anna",
     "text": "Das war unsere Folge über den Mediator für das Gesundheitswesen und Ihre Rechte als Patient.",
-    "t": 837.41
+    "t": 628.61
    },
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
-    "t": 843.11
+    "t": 634.31
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
-    "t": 851.89
+    "t": 643.09
    },
    {
     "speaker": "Anna",
     "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
-    "t": 870.22
+    "t": 661.42
    },
    {
     "speaker": "Anna",
     "text": "Und die Aktivitäten sind kostenlos.",
-    "t": 875.92
+    "t": 667.12
    },
    {
     "speaker": "Anna",
     "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
-    "t": 878.17
+    "t": 669.37
    },
    {
     "speaker": "Tom",
     "text": "Danke an alle.",
-    "t": 883.06
+    "t": 674.26
    },
    {
     "speaker": "Tom",
     "text": "Passen Sie auf sich auf, und bis zum nächsten Mal!",
-    "t": 884.16
+    "t": 675.36
    },
    {
     "speaker": "Anna",
     "text": "Vielen Dank fürs Zuhören.",
-    "t": 886.95
+    "t": 678.15
    }
   ],
   "segments_lb": [
@@ -137048,503 +136388,353 @@ const EPISODES = [
    },
    {
     "speaker": "Tom",
-    "text": "Haut kucke mir, wat dëse Service mécht, wéi eng Rechter Dir als Patient hutt, a wéi eng Mediatioun ofleeft, Schrëtt fir Schrëtt. Wat fir e Service ass dat also?",
+    "text": "Wat fir e Service ass dat also?",
     "t": 66.54
    },
    {
     "speaker": "Anna",
     "text": "Et ass en onofhängege Service vum Staat. E gouf duerch e Gesetz vum 24. Juli 2014 geschaaft, d'Gesetz iwwer d'Rechter an d'Flichte vum Patient, an e schafft zënter 2015.",
-    "t": 75.58
+    "t": 68.26
    },
    {
     "speaker": "Tom",
     "text": "Wéi eng Aufgaben huet dëst Gesetz dem Service ginn?",
-    "t": 88.01
+    "t": 80.69
    },
    {
     "speaker": "Anna",
     "text": "Et ginn dräi Haaptaufgaben. Et ass en Informatiounszentrum iwwer d'Rechter am Gesondheetsberäich. Et ass e Mediatiounszentrum fir Konflikter tëscht engem Patient an engem Gesondheetsdéngschtleeschter. An et ass eng Kontaktstell fir déi grenziwwerschreidend Gesondheetsversuergung.",
-    "t": 90.68
-   },
-   {
-    "speaker": "Tom",
-    "text": "Wann Dir Gesondheetsdéngschtleeschter sot, wie mengt Dir domat genee?",
-    "t": 104.07
-   },
-   {
-    "speaker": "Anna",
-    "text": "Dat kann eng eenzel Fachpersoun sinn, zum Beispill en Dokter oder en Zänndokter, oder och eng Institutioun, zum Beispill e Spidol.",
-    "t": 107.07
+    "t": 83.36
    },
    {
     "speaker": "Tom",
     "text": "A steet de Service op der Säit vum Patient?",
-    "t": 113.9
+    "t": 96.75
    },
    {
     "speaker": "Anna",
     "text": "Neen, an dat ass wichteg ze verstoen. De Service ass neutral, onofhängeg an onparteiesch, e lauschtert also de Patienten an de Gesondheetsdéngschtleeschter op déi selwecht Manéier no.",
-    "t": 116.61
+    "t": 99.46
    },
    {
     "speaker": "Tom",
     "text": "Fänke mir mat der Informatioun un, well vill Leit hunn einfach eng Fro, a kee Konflikt. Dir kënnt de Service och just kontaktéieren, fir Är Rechter an Är Flichten als Patient ze verstoen.",
-    "t": 126.14
+    "t": 108.99
    },
    {
     "speaker": "Anna",
     "text": "Vu wéi enge Rechter schwätze mir hei?",
-    "t": 136.44
+    "t": 119.29
    },
    {
     "speaker": "Tom",
     "text": "Si stinn am Gesetz vun 2014. Säi Grondprinzip ass de géigesäitege Respekt, d'Dignitéit an d'Loyalitéit tëscht dem Patient an dem Déngschtleeschter. Da kommen déi fräi Wiel vun Ärem Déngschtleeschter an den Zougang zu der Gesondheetsversuergung.",
-    "t": 138.55
+    "t": 121.4
    },
    {
     "speaker": "Anna",
     "text": "Wat seet d'Gesetz iwwer Informatioun an Decisiounen?",
-    "t": 150.96
+    "t": 133.81
    },
    {
     "speaker": "Tom",
     "text": "Den Déngschtleeschter huet d'Flicht, Iech z'informéieren, mat Iech ze schwätzen an Iech un den Decisiounen iwwer Är Behandlung ze bedeelegen. Ären Accord zielt, an dofir stellt den Internetsite Informatioun, Accord an Decisioun zesummen duer.",
-    "t": 154.33
+    "t": 137.18
    },
    {
     "speaker": "Anna",
     "text": "Ech hunn och vun enger Vertrauenspersoun héieren. Gehéiert dat zum selwechte Gesetz?",
-    "t": 167.84
+    "t": 150.69
    },
    {
     "speaker": "Tom",
     "text": "Jo, d'Gesetz hëlt de Wëlle vum Patient méi staark a Betruecht. Dir kënnt eng Vertrauenspersoun bestëmmen, an Dir kënnt Iech vun enger Persoun vun Ärer Wiel begleede loossen.",
-    "t": 172.29
+    "t": 155.14
    },
    {
     "speaker": "Anna",
     "text": "A wéi ass et mam Dossier, deen mäin Dokter iwwer mech féiert?",
-    "t": 180.93
+    "t": 163.78
    },
    {
     "speaker": "Tom",
     "text": "D'Gesetz wëll, datt all Patient en Patientendossier huet, an datt dësen Dossier fir de Patient zougänglech ass. Et besteet och op der Vertraulechkeet an um Beruffsgeheimnis.",
-    "t": 183.96
-   },
-   {
-    "speaker": "Anna",
-    "text": "Am Numm vum Gesetz steet och d'Wuert Flichten. D'Relatioun geet also an déi zwou Richtungen.",
-    "t": 194.31
-   },
-   {
-    "speaker": "Tom",
-    "text": "Dat stëmmt, well d'Gesetz baséiert op géigesäitegem Respekt. Den Internetsite erkläert d'Flichte vun de Patienten nieft hire Rechter.",
-    "t": 200.72
-   },
-   {
-    "speaker": "Anna",
-    "text": "Äntwert den Internetsite och op ganz praktesch Froen?",
-    "t": 208.45
-   },
-   {
-    "speaker": "Tom",
-    "text": "Jo, et gëtt eng Säit mat dacks gestallte Froen. Si erkläert zum Beispill, wat mat Ärem Dossier geschitt, wann Ären Dokter ophält ze schaffen, oder wou Dir d'Bedeitung vun de Coden op enger Honorarrechnung nokucke kënnt.",
-    "t": 211.87
-   },
-   {
-    "speaker": "Anna",
-    "text": "Kënnen och d'Gesondheetsberuffler de Service ëm Informatioune froen?",
-    "t": 223.86
-   },
-   {
-    "speaker": "Tom",
-    "text": "Jo, dat kënne si, well d'Informatioun riicht sech u Patienten an u Beruffler gläichermoossen.",
-    "t": 227.8
+    "t": 166.81
    },
    {
     "speaker": "Anna",
     "text": "Stellt Iech elo vir, datt et wierklech e Problem gëtt. Den éischte Rot um Internetsite iwwerrascht Iech vläicht: Schwätzt direkt mat Ärem Déngschtleeschter, well en direkt Gespréich léist ganz dacks eng Meenungsverschiddenheet.",
-    "t": 232.78
+    "t": 177.16
    },
    {
     "speaker": "Tom",
     "text": "Dat ass matzen an engem normale Rendez-vous net ëmmer einfach.",
-    "t": 244.69
+    "t": 189.07
    },
    {
     "speaker": "Anna",
     "text": "Do sinn ech averstanen, an den Internetsite seet dat och. E proposéiert, en eegene Rendez-vous ze froen, just fir dëst Thema, an Dir kënnt een matbréngen, wann Dir dat wëllt.",
-    "t": 247.66
+    "t": 192.04
    },
    {
     "speaker": "Tom",
     "text": "A mat wiem kann ech schwätzen, wann de Problem an engem Spidol geschitt ass?",
-    "t": 257.24
+    "t": 201.62
    },
    {
     "speaker": "Anna",
     "text": "D'Spideeler, a vill aner Déngschtleeschter, hunn eng Persoun oder e Service, dee fir d'Reklamatiounen a fir d'Relatioune mat de Patienten zoustänneg ass. Äre Feedback hëlleft hinnen, Äre Standpunkt ze verstoen, an e gëtt genotzt, fir d'Qualitéit ze verbesseren.",
-    "t": 260.08
+    "t": 204.46
    },
    {
     "speaker": "Tom",
     "text": "Wat kann ech maachen, wann dëst Gespréich schwiereg ass, oder wann et keng Léisung bréngt?",
-    "t": 272.68
+    "t": 217.06
    },
    {
     "speaker": "Anna",
     "text": "Da kann d'Mediatioun am Gesondheetsberäich deen nächste Schrëtt sinn.",
-    "t": 277.08
+    "t": 221.46
    },
    {
     "speaker": "Tom",
     "text": "D'Mediatioun ass e strukturéierte Prozess. D'Leit an engem Konflikt probéieren aus fräie Stécker, selwer en Accord ze fannen, an e Mediateur hëlleft hinnen dobäi.",
-    "t": 279.77
+    "t": 224.15
    },
    {
     "speaker": "Anna",
     "text": "Decidéiert also um Enn de Mediateur, wie Recht huet?",
-    "t": 288.31
+    "t": 232.69
    },
    {
     "speaker": "Tom",
     "text": "Neen, de Mediateur ass kee Riichter, an och keen Expert, deen en Urteel ofgëtt. De Mediateur huet keng Decisiounsmuecht. Seng Roll ass et, alle Säite gläich nozelauschteren, en Dialog opzemaachen an jiddereen duerch de Prozess ze begleeden.",
-    "t": 291.77
-   },
-   {
-    "speaker": "Anna",
-    "text": "Wie sinn d'Mediateure vun dësem Service?",
-    "t": 304.8
-   },
-   {
-    "speaker": "Tom",
-    "text": "Si sinn an der Mediatioun ausgebilt, si bilde sech reegelméisseg weider, a si si vum Justizminister als Mediateuren agreéiert. Ganz dacks schaffen zwee Mediateuren zesummen un engem Dossier.",
-    "t": 307.23
+    "t": 236.15
    },
    {
     "speaker": "Anna",
     "text": "Huele mir un, ech soen eppes während enger Mediatioun. Kéint dat méi spéit géint mech benotzt ginn?",
-    "t": 317.57
+    "t": 249.18
    },
    {
     "speaker": "Tom",
     "text": "D'Mediatioun ass vertraulech, an all Persoun, déi dorun deelhëlt, ass un d'Geheimnis gebonnen, fir datt jiddereen oppen iwwer de Konflikt schwätze kann.",
-    "t": 322.73
-   },
-   {
-    "speaker": "Anna",
-    "text": "A sinn ech verflicht, bis ganz zum Schluss weiderzemaachen?",
-    "t": 331.98
-   },
-   {
-    "speaker": "Tom",
-    "text": "Neen, well d'Mediatioun ass fir de Patient a fir de Beruffler fräiwëlleg. Jidderee vun hinne kann d'Mediatioun zu all Moment ophalen.",
-    "t": 335.16
+    "t": 254.34
    },
    {
     "speaker": "Anna",
     "text": "Esou funktionéiert et an der Praxis. Dir kontaktéiert de Service per Telefon, per E-Mail oder mam Kontaktformulaire op sengem Internetsite.",
-    "t": 342.8
+    "t": 263.59
    },
    {
     "speaker": "Tom",
     "text": "Wien däerf eng Mediatioun froen?",
-    "t": 350.65
+    "t": 271.44
    },
    {
     "speaker": "Anna",
     "text": "Patienten, hir Famill an hir Vertrieder kënnen se froen, an d'Gesondheetsdéngschtleeschter kënnen dat och. D'Ufro ka vun enger Säit eleng kommen, oder vun alleguer zesummen.",
-    "t": 352.89
+    "t": 273.68
    },
    {
     "speaker": "Tom",
     "text": "Wat geschitt, wann ech deen Eenzegen sinn, deen ufreet?",
-    "t": 363.03
+    "t": 283.82
    },
    {
     "speaker": "Anna",
     "text": "Da kontaktéiert de Service déi aner Säit a freet, ob si mat enger Mediatioun averstanen ass. Déi ka just stattfannen, wann déi zwou Säite Jo soen.",
-    "t": 365.72
-   },
-   {
-    "speaker": "Tom",
-    "text": "Kann de Service eng Ufro och refuséieren?",
-    "t": 374.24
-   },
-   {
-    "speaker": "Anna",
-    "text": "Jo, e ka refuséieren, wa virdru kee probéiert huet, de Problem direkt mat der anerer Säit ze beschwätzen, oder wann eng Mediatioun wéineg Chancen op Erfolleg huet.",
-    "t": 376.39
+    "t": 286.51
    },
    {
     "speaker": "Tom",
     "text": "A wéi fänkt d'Mediatioun selwer un?",
-    "t": 385.77
+    "t": 295.03
    },
    {
     "speaker": "Anna",
     "text": "Meeschtens mat engem Virgespréich. De Mediateur begéint all Säit eenzel, erkläert d'Reegelen a lauschtert Äre Standpunkt. Zesumme kuckt Dir, ob d'Mediatioun dee richtege Wee fir Är Situatioun ass.",
-    "t": 388.08
-   },
-   {
-    "speaker": "Tom",
-    "text": "Muss ech fir dëst Gespréich op de Büro kommen?",
-    "t": 401.06
-   },
-   {
-    "speaker": "Anna",
-    "text": "Net onbedéngt, well d'Gespréich kann och per Videokonferenz stattfannen, an de Service kann Iech soss anzwousch begéinen, wann Dir net komme kënnt.",
-    "t": 403.67
-   },
-   {
-    "speaker": "Tom",
-    "text": "Gëtt et en Dokument, dat ech um Ufank ënnerschreiwe muss?",
-    "t": 411.75
-   },
-   {
-    "speaker": "Anna",
-    "text": "Heiansdo gëtt et e schrëftlechen Accord iwwer d'Deelhuelen un der Mediatioun. E nennt de Mediateur an d'Participanten, an en erënnert drun, datt de Prozess fräiwëlleg a vertraulech ass. En ass net ëmmer néideg.",
-    "t": 414.67
+    "t": 297.34
    },
    {
     "speaker": "Tom",
     "text": "Da kënnt de Moment, wou jiddereen um selwechten Dësch sëtzt.",
-    "t": 426.71
+    "t": 310.32
    },
    {
     "speaker": "Anna",
     "text": "Jo, an dës Reunioun fënnt normalerweis am Reuniounssall vum Service statt. De Mediateur erënnert un d'Reegelen, an dann erkläert all Persoun, wéi si d'Situatioun gesäit, mat de Fakten an och mat de Gefiller.",
-    "t": 429.81
-   },
-   {
-    "speaker": "Tom",
-    "text": "Wéi laang dauert esou eng Reunioun?",
-    "t": 443.07
-   },
-   {
-    "speaker": "Anna",
-    "text": "D'Dauer gëtt zesummen ofgemaach, a si ass an der Reegel héchstens zwou Stonnen. Wann et néideg ass, kann et e puer Reunioune ginn.",
-    "t": 444.96
+    "t": 313.42
    },
    {
     "speaker": "Tom",
     "text": "Däerf ech een op dës Reunioun matbréngen?",
-    "t": 452.64
+    "t": 326.68
    },
    {
     "speaker": "Anna",
     "text": "Am Prinzip kënnt Dir Iech vun enger oder méi Persoune vun Ärer Wiel begleede loossen, zum Beispill vun engem Familljemember, an en Affekot kann Iech beroden an ënnerstëtzen. Dir musst dem Mediateur an der anerer Säit am Viraus soen, wie mat Iech kënnt.",
-    "t": 454.63
-   },
-   {
-    "speaker": "Tom",
-    "text": "Fir verschidde Leit ass et vläicht ze schwéier, der anerer Persoun géintiwwer ze sëtzen.",
-    "t": 468.8
-   },
-   {
-    "speaker": "Anna",
-    "text": "Dofir gëtt et eng Léisung, déi indirekt Mediatioun. De Mediateur schwätzt mat all Säit getrennt, an déi zwou Säite begéine sech net. Eng Mediatioun op Distanz, per Video oder per Telefon, ass och méiglech.",
-    "t": 472.49
+    "t": 328.67
    },
    {
     "speaker": "Tom",
     "text": "A wat geschitt, wann déi zwou Säiten eng Léisung fannen?",
-    "t": 485.54
+    "t": 342.84
    },
    {
     "speaker": "Anna",
     "text": "Da kann den Accord schrëftlech festgehale ginn. E ka komplett oder deelweis sinn, e gëtt datéiert a vun alleguer ënnerschriwwen, e beschreift, wozou sech all Säit engagéiert, an e bënnt d'Bedeelegt.",
-    "t": 488.09
+    "t": 345.39
    },
    {
     "speaker": "Tom",
     "text": "Den Internetsite erzielt eng wouer Geschicht, déi anonymiséiert gouf. E Patient koum an d'Urgence vun engem Spidol. Eng wichteg Bemierkung am Rapport vun enger Radiographie gouf eréischt vill méi spéit gesinn, well de Patient scho heemgaange war.",
-    "t": 498.92
+    "t": 356.22
    },
    {
     "speaker": "Anna",
     "text": "A wéi huet d'Mediatioun an dësem Fall gehollef?",
-    "t": 511.2
+    "t": 368.5
    },
    {
     "speaker": "Tom",
     "text": "Jiddereen konnt soen, wat e gefillt huet, an erklären, wat geschitt war. Bedaueren an Entschëllegunge goufen ausgedréckt, a si goufen ugeholl. D'Spidol huet seng intern Prozedur geännert, an de Patient krut eng Entschiedegung, ouni viru Geriicht ze goen.",
-    "t": 514.15
-   },
-   {
-    "speaker": "Anna",
-    "text": "Bei enger Mediatioun geet et also net just ëm Geld.",
-    "t": 528.01
-   },
-   {
-    "speaker": "Tom",
-    "text": "Genee, et geet och drëm, gehéiert ze ginn, eng Erklärung ze kréien an d'Vertrauen ze behalen. Wann eng finanziell Entschiedegung néideg ass, gëtt dësen Deel mat den Assureure vun de Beruffler gereegelt.",
-    "t": 530.48
+    "t": 371.45
    },
    {
     "speaker": "Anna",
     "text": "Hält eng Mediatioun ëmmer mat engem Accord op?",
-    "t": 543.35
+    "t": 385.31
    },
    {
     "speaker": "Tom",
     "text": "Neen, d'Resultat ass oppen, a kee kann eng Léisung garantéieren. D'Mediatioun brauch zwou Säiten, déi a guddem Glawen no enger Léisung sichen.",
-    "t": 546.31
+    "t": 388.27
    },
    {
     "speaker": "Anna",
     "text": "A wat kann ech maachen, wann et keen Accord gëtt?",
-    "t": 554.11
+    "t": 396.07
    },
    {
     "speaker": "Tom",
     "text": "Da bleift Iech de Wee bei d'Geriichter op. Den Internetsite recommandéiert, en Affekot ze consultéieren, ier Dir eng Klo areecht.",
-    "t": 556.72
+    "t": 398.68
    },
    {
     "speaker": "Anna",
     "text": "Gëtt et Situatiounen, wou de Médiateur santé net dee richtegen Uspriechpartner ass?",
-    "t": 562.8
+    "t": 404.76
    },
    {
     "speaker": "Tom",
-    "text": "Jo, den Internetsite nennt dräi. Déi éischt ass eng Decisioun vun enger Institutioun vun der Sécurité sociale, zum Beispill wann Dir mat der Gesondheetskeess iwwer e Remboursement net averstane sidd. Dofir kënnt Dir Iech un den Ombudsman wenden, an et gëtt an dësem Podcast eng Episode iwwer den Ombudsman.",
-    "t": 567.3
-   },
-   {
-    "speaker": "Anna",
-    "text": "A wat sinn déi zweet an déi drëtt Situatioun?",
-    "t": 582.27
-   },
-   {
-    "speaker": "Tom",
-    "text": "Déi zweet ass e Problem, deen just d'Fleeg op laang Dauer betrëfft, also d'Hëllef am Alldag am Kader vun der Fleegeversécherung. Déi drëtt ass e Konflikt just tëscht Beruffler, ouni e bestëmmte Patient.",
-    "t": 585.33
+    "text": "Jo, den Internetsite nennt der e puer. Eng dovun ass eng Decisioun vun enger Institutioun vun der Sécurité sociale, zum Beispill wann Dir mat der Gesondheetskeess iwwer e Remboursement net averstane sidd. Dofir kënnt Dir Iech un den Ombudsman wenden, an et gëtt an dësem Podcast eng Episode iwwer den Ombudsman.",
+    "t": 409.26
    },
    {
     "speaker": "Anna",
     "text": "Déi drëtt Aufgab vum Service ass fir vill vun eisen Nolauschterer interessant: déi grenziwwerschreidend Gesondheetsversuergung. Dat ass eng Versuergung, déi an engem anere Land gemaach oder verschriwwe gëtt wéi an deem, wou Dir verséchert sidd.",
-    "t": 598.21
+    "t": 425.52
    },
    {
     "speaker": "Tom",
     "text": "Wéi eng Roll huet de Service an dësem Beräich?",
-    "t": 610.49
+    "t": 437.8
    },
    {
     "speaker": "Anna",
     "text": "Déi europäesch Länner hunn national Kontaktstelle fir Patienten, déi Froen iwwer d'Versuergung an engem anere Land hunn. Lëtzebuerg huet der zwou: de Service vum Médiateur santé an d'Gesondheetskeess, d'CNS.",
-    "t": 612.89
+    "t": 440.2
    },
    {
     "speaker": "Tom",
     "text": "Wéi weess ech, wéi eng vun deenen zwou ech kontaktéiere soll?",
-    "t": 625.89
+    "t": 453.2
    },
    {
     "speaker": "Anna",
     "text": "Stellt Iech vir, Dir sidd an engem anere Land verséchert an Dir wëllt Iech zu Lëtzebuerg behandele loossen. De Service vum Médiateur santé informéiert Iech iwwer de Gesondheetssystem hei, iwwer d'Déngschtleeschter, iwwer Är Rechter, an doriwwer, wat bei enger Meenungsverschiddenheet ze maachen ass.",
-    "t": 628.52
+    "t": 455.83
    },
    {
     "speaker": "Tom",
     "text": "A wéi ass et bei enger Persoun, déi zu Lëtzebuerg verséchert ass an am Ausland behandelt gëtt?",
-    "t": 642.26
+    "t": 469.57
    },
    {
     "speaker": "Anna",
     "text": "Bei allgemenge Froen a bei engem Konflikt kann dës Persoun sech un de Service vum Médiateur santé wenden. Fir de Remboursement selwer, a fir eng Autorisatioun am Viraus, ass d'CNS d'Kontaktstell.",
-    "t": 646.54
+    "t": 473.85
    },
    {
     "speaker": "Tom",
     "text": "Dir erreecht de Service per Telefon, per E-Mail a mam Kontaktformulaire. Säi Büro ass an der Stad Lëtzebuerg, an d'Ëffnungszäite vum Sekretariat stinn um Internetsite.",
-    "t": 658.69
-   },
-   {
-    "speaker": "Anna",
-    "text": "Ass et méiglech, e Rendez-vous ausserhalb vun dësen Zäiten ze kréien?",
-    "t": 667.86
-   },
-   {
-    "speaker": "Tom",
-    "text": "Jo, e Rendez-vous kann zu enger anerer Zäit ofgemaach ginn, an eng Reunioun per Video oder per Telefon ass och méiglech.",
-    "t": 671.13
+    "t": 486
    },
    {
     "speaker": "Anna",
     "text": "A wéi enge Sprooche kann ech mat der Equipe schwätzen?",
-    "t": 677.59
+    "t": 495.17
    },
    {
     "speaker": "Tom",
     "text": "D'Equipe schafft a méi Sproochen, dorënner Lëtzebuergesch, Franséisch, Däitsch an Englesch.",
-    "t": 680.25
+    "t": 497.83
    },
    {
     "speaker": "Anna",
     "text": "Wat fënnt een um Internetsite vum Service?",
-    "t": 685.9
+    "t": 503.48
    },
    {
     "speaker": "Tom",
     "text": "Den Internetsite gëtt et op Franséisch an op Däitsch. En huet Rubriken iwwer Mediatioun a Sträitfäll, iwwer Är Rechter a Flichten, iwwer d'Versuergung zu Lëtzebuerg an iwwer déi grenziwwerschreidend Versuergung.",
-    "t": 688.89
-   },
-   {
-    "speaker": "Anna",
-    "text": "Ech hunn do och eng Lëscht vu Patientenassociatiounen an Informatiounsservicer gesinn.",
-    "t": 699.8
-   },
-   {
-    "speaker": "Tom",
-    "text": "Jo, an et gëtt e Glossaire, dee schwiereg Wierder erkläert. D'Adress vum Internetsite ass mediateursante Punkt public Punkt l-u.",
-    "t": 704.55
+    "t": 506.47
    },
    {
     "speaker": "Anna",
     "text": "Zäit, fir déi wichtegst Punkten zesummenzefaassen. Éischtens: Als Patient zu Lëtzebuerg hutt Dir Rechter a Flichten, a si stinn am Gesetz vun 2014.",
-    "t": 713.11
+    "t": 517.38
    },
    {
     "speaker": "Tom",
     "text": "Zweetens: Wann et e Problem gëtt, schwätzt fir d'éischt mat Ärem Déngschtleeschter, oder mam Reklamatiounsservice vum Spidol.",
-    "t": 723.25
+    "t": 527.52
    },
    {
     "speaker": "Anna",
     "text": "Drëttens: Wann dat net hëlleft, kann de Médiateur santé eng Mediatioun organiséieren. Si ass fräiwëlleg, vertraulech an neutral, an d'Léisung kënnt vun de Leit selwer.",
-    "t": 729.78
+    "t": 534.05
    },
    {
     "speaker": "Tom",
     "text": "Véiertens: De Service äntwert och op Froen iwwer d'Versuergung iwwer d'Grenzen eraus, zesumme mat der CNS.",
-    "t": 740.86
+    "t": 545.13
    },
    {
     "speaker": "Anna",
     "text": "All d'Informatioune fannt Dir op mediateursante Punkt public Punkt l-u.",
-    "t": 747.23
+    "t": 551.5
    },
    {
     "speaker": "Tom",
     "text": "E Konflikt ronderëm Är Gesondheet ass ni agreabel, mee zu Lëtzebuerg musst Dir net eleng domat eens ginn.",
-    "t": 752.08
+    "t": 556.34
    },
    {
     "speaker": "Anna",
     "text": "An e gutt Gespréich ass ganz dacks dee beschten Ufank. Dat war eis Episode iwwer de Médiateur santé an Är Rechter als Patient. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir aner Aktivitéite vum Biergerpakt entdecke wëllt, wéi gefouert Visitten, Online-Informatiounsversammlungen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. En ass fir all Awunner op, Lëtzebuerger an Net-Lëtzebuerger, an och fir d'Grenzgänger. An d'Aktivitéite si gratis. Dir musst just gratis um Biergerpakt matmaachen, op biergerpakt.lu.",
-    "t": 757.63
+    "t": 561.89
    },
    {
     "speaker": "Tom",
     "text": "Merci, alleguer. Passt op Iech op, a bis d'nächst Kéier!",
-    "t": 807.45
+    "t": 611.71
    },
    {
     "speaker": "Anna",
     "text": "Villmools Merci fir d'Nolauschteren.",
-    "t": 810.76
+    "t": 615.02
    }
   ]
  },
@@ -137555,7 +136745,7 @@ const EPISODES = [
   "title": "The Kanner-Jugendtelefon – 116 111, Someone Who Listens",
   "description": "A child, a teenager or a parent sometimes needs someone to talk to. Discover the KJT, the Kanner-Jugendtelefon, and its website kjt.lu: the free and anonymous line 116 111, the Online Help, the chat with trained young counsellors, the Elterentelefon for parents, and the BEE SECURE Helpline and Stopline for questions about the internet.",
   "audio": "podcast_kjt.mp3",
-  "duration": 736.68,
+  "duration": 598.49,
   "topics": [
    "What the KJT is",
    "Five principles",
@@ -137643,649 +136833,469 @@ const EPISODES = [
     "t": 73.06
    },
    {
-    "speaker": "Anna",
-    "text": "And who stands behind the service today?",
-    "t": 78.31
-   },
-   {
     "speaker": "Tom",
-    "text": "Four organisations from the social sector founded it together.",
-    "t": 80.7
-   },
-   {
-    "speaker": "Tom",
-    "text": "Today, the KJT is a service of a non-profit association called CJF Lëtzebuerg.",
-    "t": 84.43
-   },
-   {
-    "speaker": "Tom",
-    "text": "It is financed through an agreement with the National Youth Service, the SNJ, which comes under the Ministry of Education, Children and Youth.",
-    "t": 90.41
-   },
-   {
-    "speaker": "Anna",
-    "text": "The SNJ has its own episode in this podcast, by the way.",
-    "t": 98.06
+    "text": "Today, the KJT is a service of a non-profit association called CJF Lëtzebuerg, and it is financed through an agreement with the National Youth Service, which comes under the Ministry of Education, Children and Youth.",
+    "t": 78.73
    },
    {
     "speaker": "Anna",
     "text": "What does the KJT actually do when someone gets in touch?",
-    "t": 101.73
+    "t": 91.68
    },
    {
     "speaker": "Tom",
     "text": "It advises and supports children, young people and the adults around them, with everyday worries, fears, problems and crises.",
-    "t": 105.62
+    "t": 95.59
    },
    {
     "speaker": "Tom",
     "text": "The counsellors listen, and together with the person they look for a solution that fits.",
-    "t": 113.88
+    "t": 103.85
    },
    {
     "speaker": "Anna",
     "text": "Does that mean that the counsellor decides what a child should do next?",
-    "t": 118.72
+    "t": 108.69
    },
    {
     "speaker": "Tom",
-    "text": "No, and that is one of the principles of the KJT.",
-    "t": 122.85
+    "text": "No, and that is one of the five principles of the KJT.",
+    "t": 112.82
    },
    {
     "speaker": "Tom",
     "text": "It is called self-determination: after the conversation, each person decides alone which steps to take.",
-    "t": 126.33
+    "t": 116.8
    },
    {
     "speaker": "Tom",
-    "text": "If more help is needed, the counsellors can point to other services.",
-    "t": 133.66
-   },
-   {
-    "speaker": "Anna",
-    "text": "Which other principles does the KJT work with?",
-    "t": 137.27
-   },
-   {
-    "speaker": "Tom",
-    "text": "The website names five of them.",
-    "t": 140.39
-   },
-   {
-    "speaker": "Tom",
-    "text": "Besides self-determination, there is anonymity, confidentiality, tolerance and respect, and openness, which means that you can come with any question and any subject.",
-    "t": 142.14
+    "text": "The other principles are anonymity, confidentiality, tolerance and respect, and openness to any question and any subject.",
+    "t": 124.33
    },
    {
     "speaker": "Anna",
     "text": "Let us look at the services one by one, starting with the oldest: the telephone line 116 111.",
-    "t": 152.52
+    "t": 132.15
    },
    {
     "speaker": "Anna",
     "text": "It is for children and young people who have a question or a problem, at school, at home, with friends, with parents, or with brothers and sisters.",
-    "t": 160.15
+    "t": 139.78
    },
    {
     "speaker": "Tom",
     "text": "What does a child have to say at the beginning of such a call?",
-    "t": 168.92
+    "t": 148.55
    },
    {
     "speaker": "Anna",
     "text": "Not much, because the call is anonymous: you do not have to say who you are or where you live.",
-    "t": 171.92
+    "t": 151.55
    },
    {
     "speaker": "Anna",
     "text": "It is also confidential, so nobody else learns what you talked about, and the call is free of charge.",
-    "t": 177.95
+    "t": 157.58
    },
    {
     "speaker": "Tom",
     "text": "Can you call this number at any time of the day or night?",
-    "t": 184.46
+    "t": 164.09
    },
    {
     "speaker": "Anna",
     "text": "No, the line is not open around the clock.",
-    "t": 187.09
+    "t": 166.72
    },
    {
     "speaker": "Anna",
-    "text": "It is open in the afternoon and in the evening, from Monday to Saturday, and the exact hours are on the website.",
-    "t": 189.41
-   },
-   {
-    "speaker": "Tom",
-    "text": "Luxembourg is a country of many languages.",
-    "t": 196.79
-   },
-   {
-    "speaker": "Tom",
-    "text": "Is there also something for children who speak English?",
-    "t": 199.44
+    "text": "It is open in the afternoon and in the evening, from Monday to Saturday.",
+    "t": 169.04
    },
    {
     "speaker": "Anna",
-    "text": "The website announces that the line can now also be reached in English on one day of the week.",
-    "t": 202.73
-   },
-   {
-    "speaker": "Anna",
-    "text": "Details like this can change, so it is best to check the website.",
-    "t": 208.34
+    "text": "The exact hours are on the website, and so are the times when you can call in English.",
+    "t": 173.71
    },
    {
     "speaker": "Tom",
     "text": "Not every young person likes to speak on the phone, and some find it much easier to write.",
-    "t": 212.76
+    "t": 178.88
    },
    {
     "speaker": "Anna",
     "text": "For them, there is the Online Help.",
-    "t": 217.65
+    "t": 183.77
    },
    {
     "speaker": "Anna",
-    "text": "You write your question or your worry on the website of the KJT, and a counsellor sends you a written answer within a few days.",
-    "t": 220.15
+    "text": "You write your question or your worry on the website of the KJT, in Luxembourgish, German, French or English, and a counsellor sends you a written answer within a few days.",
+    "t": 186.27
    },
    {
     "speaker": "Tom",
     "text": "Do you need an email address to use the Online Help?",
-    "t": 227.86
+    "t": 196.43
    },
    {
     "speaker": "Anna",
     "text": "No, you only choose a username and a password, and you keep them safe, because they are the only key to your answers.",
-    "t": 230.74
+    "t": 199.31
    },
    {
     "speaker": "Anna",
     "text": "You do not give your real name, your address, your email or your phone number.",
-    "t": 239.13
-   },
-   {
-    "speaker": "Tom",
-    "text": "And in which languages can young people write to the Online Help?",
-    "t": 244.34
-   },
-   {
-    "speaker": "Anna",
-    "text": "They can write in Luxembourgish, in German, in French or in English.",
-    "t": 247.47
+    "t": 207.7
    },
    {
     "speaker": "Tom",
     "text": "The newest service is the chat counselling, which started in 2021.",
-    "t": 251.65
+    "t": 212.91
    },
    {
     "speaker": "Tom",
     "text": "It is a live chat for young people who prefer writing, and who want to talk about something straight away.",
-    "t": 256.04
+    "t": 217.3
    },
    {
     "speaker": "Anna",
     "text": "And who answers in the chat, the same counsellors as on the telephone?",
-    "t": 262.13
+    "t": 223.39
    },
    {
     "speaker": "Tom",
     "text": "No, and that is what makes the chat special.",
-    "t": 266.25
+    "t": 227.51
    },
    {
     "speaker": "Tom",
     "text": "The website describes it as peer-to-peer, because the chat counsellors are young people themselves.",
-    "t": 268.93
+    "t": 230.19
    },
    {
     "speaker": "Tom",
     "text": "They have been trained, and they also bring in their own experience.",
-    "t": 273.96
-   },
-   {
-    "speaker": "Anna",
-    "text": "So a young person can talk with someone who is close to their own age.",
-    "t": 277.54
-   },
-   {
-    "speaker": "Tom",
-    "text": "Yes, that is the idea, and here too you log in with a username and a password, because anonymity and confidentiality are important.",
-    "t": 281.63
+    "t": 235.22
    },
    {
     "speaker": "Tom",
     "text": "The chat is open at fixed times in the evening, which you find on the website.",
-    "t": 289.59
+    "t": 238.66
    },
    {
     "speaker": "Anna",
     "text": "Now we come to the adults in a child's life.",
-    "t": 293.58
+    "t": 242.9
    },
    {
     "speaker": "Anna",
     "text": "Since 2007, there has been a telephone line for parents, called the Elterentelefon, and its number is 8002 4444.",
-    "t": 296.21
+    "t": 245.53
    },
    {
     "speaker": "Tom",
     "text": "Is this line really only for mothers and fathers?",
-    "t": 306.38
+    "t": 255.7
    },
    {
     "speaker": "Anna",
     "text": "No, it is for parents, for grandparents and for every adult who is responsible for children or teenagers.",
-    "t": 309.1
+    "t": 258.42
    },
    {
     "speaker": "Anna",
     "text": "You can call with a question about bringing up children, or when a situation at home has become stressful.",
-    "t": 315.95
+    "t": 265.27
    },
    {
     "speaker": "Tom",
     "text": "What can a parent expect from such a call?",
-    "t": 321.83
+    "t": 271.15
    },
    {
     "speaker": "Anna",
     "text": "You can expect counselling, orientation and information.",
-    "t": 324.22
+    "t": 273.54
    },
    {
     "speaker": "Anna",
     "text": "The counsellors do not step in and act in your place.",
-    "t": 327.83
+    "t": 277.15
    },
    {
     "speaker": "Anna",
     "text": "They help you to see more clearly, they give practical suggestions, and they can tell you which other services in Luxembourg could help.",
-    "t": 331.16
-   },
-   {
-    "speaker": "Tom",
-    "text": "And does a parent have to pay for this advice?",
-    "t": 339.19
+    "t": 280.48
    },
    {
     "speaker": "Anna",
-    "text": "No, the service is free, anonymous and confidential.",
-    "t": 341.65
-   },
-   {
-    "speaker": "Anna",
-    "text": "The counsellors are trained, and they have regular supervision and further training.",
-    "t": 345.43
-   },
-   {
-    "speaker": "Tom",
-    "text": "At which times can parents reach this line?",
-    "t": 349.94
-   },
-   {
-    "speaker": "Anna",
-    "text": "On weekdays, mostly in the morning, with some time slots later in the day.",
-    "t": 352.31
-   },
-   {
-    "speaker": "Anna",
-    "text": "The website also shows a time slot in English, and all the hours are listed there.",
-    "t": 357
+    "text": "The service is free, anonymous and confidential, and the hours are on the website.",
+    "t": 289.39
    },
    {
     "speaker": "Tom",
     "text": "Two more services have to do with the internet, and they carry the name BEE SECURE.",
-    "t": 362.35
+    "t": 294.85
    },
    {
     "speaker": "Tom",
     "text": "The first one is the BEE SECURE Helpline, with the number 8002 1234.",
-    "t": 366.83
+    "t": 299.33
    },
    {
     "speaker": "Anna",
     "text": "Is that helpline for children only, or can I call it as an adult?",
-    "t": 372.72
+    "t": 305.22
    },
    {
     "speaker": "Tom",
     "text": "It is for every citizen, of any age.",
-    "t": 377.07
+    "t": 309.57
    },
    {
     "speaker": "Tom",
     "text": "You can call with questions about safety on the internet and in digital media.",
-    "t": 379.35
+    "t": 311.85
    },
    {
     "speaker": "Tom",
     "text": "The team gives individual advice, and if necessary it points you to a specialised service.",
-    "t": 383.43
-   },
-   {
-    "speaker": "Anna",
-    "text": "And is a call to this helpline anonymous as well?",
-    "t": 389.06
+    "t": 315.93
    },
    {
     "speaker": "Tom",
-    "text": "Yes, the calls are free, anonymous and confidential.",
-    "t": 392.13
-   },
-   {
-    "speaker": "Tom",
-    "text": "You can also write through a contact form, which is confidential but not anonymous.",
-    "t": 395.53
+    "text": "The calls are free, anonymous and confidential.",
+    "t": 321.45
    },
    {
     "speaker": "Tom",
     "text": "And here is one detail for cross-border workers: the website says that this number can only be reached from the Luxembourg network.",
-    "t": 400.38
+    "t": 324.33
    },
    {
     "speaker": "Anna",
     "text": "And what is the second service that carries the name BEE SECURE?",
-    "t": 408.21
+    "t": 332.26
    },
    {
     "speaker": "Tom",
     "text": "It is the BEE SECURE Stopline.",
-    "t": 412.16
+    "t": 336.21
    },
    {
     "speaker": "Tom",
     "text": "It is not a telephone line, but a website where you can report illegal content that you find on the internet.",
-    "t": 414.2
+    "t": 338.25
    },
    {
     "speaker": "Anna",
     "text": "What kind of content can be reported there?",
-    "t": 420.25
+    "t": 344.3
    },
    {
     "speaker": "Tom",
     "text": "There are three kinds: images that show the sexual abuse of minors, content that is racist, revisionist or discriminatory, which includes hate speech, and content linked to terrorism.",
-    "t": 422.89
-   },
-   {
-    "speaker": "Anna",
-    "text": "What happens after I have sent such a report?",
-    "t": 433.93
+    "t": 346.94
    },
    {
     "speaker": "Tom",
-    "text": "The Stopline analyses it and passes it on to the competent services of the Grand Ducal Police, and the authorities decide what happens next.",
-    "t": 436.76
-   },
-   {
-    "speaker": "Tom",
-    "text": "The report form is online day and night, and the Stopline does not store data that could identify you.",
-    "t": 445.82
+    "text": "The Stopline analyses each report and passes it on to the competent services of the Grand Ducal Police, and it does not store data that could identify you.",
+    "t": 358.78
    },
    {
     "speaker": "Anna",
     "text": "And what about other problems online, such as insults, cyberbullying or fraud?",
-    "t": 451.43
+    "t": 368.52
    },
    {
     "speaker": "Tom",
     "text": "Those cases are not for the Stopline.",
-    "t": 456.15
+    "t": 373.24
    },
    {
     "speaker": "Tom",
     "text": "For such questions, you can call the BEE SECURE Helpline, or you can go to the police.",
-    "t": 458.22
+    "t": 375.31
    },
    {
     "speaker": "Anna",
     "text": "Here is something that I did not know before reading the website: volunteers work as counsellors at the KJT.",
-    "t": 463.04
+    "t": 380.13
    },
    {
     "speaker": "Anna",
     "text": "You find them on the line for children and young people, in the Online Help and on the Elterentelefon, and they also support the BEE SECURE Helpline.",
-    "t": 469.59
+    "t": 386.68
    },
    {
     "speaker": "Tom",
     "text": "Can anybody simply sit down at the telephone and start answering?",
-    "t": 478.43
+    "t": 395.52
    },
    {
     "speaker": "Anna",
     "text": "No, every volunteer first follows a basic training.",
-    "t": 481.7
+    "t": 398.79
    },
    {
     "speaker": "Anna",
     "text": "It rests on three pillars: the attitude of a counsellor and the way to lead a conversation, knowledge about psychology and education, and knowledge of the help services that exist in Luxembourg.",
-    "t": 485.48
-   },
-   {
-    "speaker": "Tom",
-    "text": "And do they practise before they take their first call alone?",
-    "t": 497.56
+    "t": 402.57
    },
    {
     "speaker": "Anna",
-    "text": "Yes, there is an internship in two phases.",
-    "t": 500.68
-   },
-   {
-    "speaker": "Anna",
-    "text": "First they listen in while experienced counsellors talk, and then they lead conversations themselves, with a mentor at their side.",
-    "t": 503.22
-   },
-   {
-    "speaker": "Tom",
-    "text": "What happens once the training is finished?",
-    "t": 510.68
-   },
-   {
-    "speaker": "Anna",
-    "text": "The volunteers take regular shifts every month, and they meet every month for supervision, which is obligatory.",
-    "t": 512.77
-   },
-   {
-    "speaker": "Anna",
-    "text": "It helps them to think about their conversations, and to stay well themselves.",
-    "t": 518.96
+    "text": "There is also an internship at the side of experienced counsellors, and afterwards regular supervision.",
+    "t": 414.81
    },
    {
     "speaker": "Tom",
     "text": "How can someone who is interested become a volunteer?",
-    "t": 523.51
+    "t": 420.88
    },
    {
     "speaker": "Anna",
-    "text": "There is a form on the website for people who are interested.",
-    "t": 526.51
-   },
-   {
-    "speaker": "Anna",
-    "text": "A new training does not start every year, and there is an information evening before each one.",
-    "t": 529.84
-   },
-   {
-    "speaker": "Tom",
-    "text": "Is the KJT connected with similar services in other countries?",
-    "t": 535.6
-   },
-   {
-    "speaker": "Anna",
-    "text": "Yes, it is a member of several international networks.",
-    "t": 539.19
-   },
-   {
-    "speaker": "Anna",
-    "text": "One is the worldwide association of helplines for children and young people, and others work for a safer internet and against illegal content and hate online.",
-    "t": 542.52
+    "text": "There is a form on the website for people who are interested, and there is an information evening before each new training.",
+    "t": 423.88
    },
    {
     "speaker": "Tom",
     "text": "The website kjt dot l-u is worth a visit, also for adults.",
-    "t": 553.2
+    "t": 430.77
    },
    {
     "speaker": "Tom",
     "text": "It exists in German, French and English.",
-    "t": 557.26
-   },
-   {
-    "speaker": "Anna",
-    "text": "What else can I find there, besides the services?",
-    "t": 559.76
+    "t": 434.83
    },
    {
     "speaker": "Tom",
-    "text": "There are pages on subjects that matter to young people: friendship, conflicts in the family, separation and divorce, stress and pressure, cyberbullying and mental health.",
-    "t": 562.6
+    "text": "There are pages on subjects that matter to young people, such as friendship, conflicts in the family, cyberbullying and mental health, and also on very serious subjects, such as violence, sexual abuse and suicide.",
+    "t": 437.71
    },
    {
     "speaker": "Tom",
-    "text": "There are also very serious subjects, such as violence, sexual abuse and suicide.",
-    "t": 573.25
-   },
-   {
-    "speaker": "Anna",
-    "text": "So a parent or a teacher can read there before starting a difficult conversation.",
-    "t": 579.24
-   },
-   {
-    "speaker": "Tom",
-    "text": "Yes, and there is a toolbox with tips, with videos, and with a page that helps you to find counselling centres in Luxembourg.",
-    "t": 584.04
-   },
-   {
-    "speaker": "Tom",
-    "text": "You can also order information material of the KJT.",
-    "t": 592.72
+    "text": "There is also a toolbox with tips, videos and a page that helps you to find counselling centres in Luxembourg.",
+    "t": 451.79
    },
    {
     "speaker": "Anna",
     "text": "Can I also ask for advice through the contact form of the website?",
-    "t": 596.49
+    "t": 458.3
    },
    {
     "speaker": "Tom",
     "text": "No, the KJT gives no counselling through that form, because it is not anonymous and confidential.",
-    "t": 600.5
+    "t": 462.31
    },
    {
     "speaker": "Tom",
     "text": "For advice, you use the services that we have described.",
-    "t": 607.64
+    "t": 469.45
    },
    {
     "speaker": "Anna",
     "text": "Here is one reminder from our side: these lines are there to listen and to advise, at certain hours.",
-    "t": 611.03
+    "t": 472.84
    },
    {
     "speaker": "Anna",
     "text": "When someone is in immediate danger, the emergency number is 112.",
-    "t": 617.54
+    "t": 479.35
    },
    {
     "speaker": "Tom",
     "text": "That is right, and there is an episode about 112 in this podcast too.",
-    "t": 622.26
+    "t": 484.07
    },
    {
     "speaker": "Tom",
     "text": "Shall we sum up what we have learned today?",
-    "t": 626.89
+    "t": 488.7
    },
    {
     "speaker": "Anna",
     "text": "First: the KJT, the Kanner-Jugendtelefon, has been listening to children and young people since 1992.",
-    "t": 629.27
+    "t": 491.08
    },
    {
     "speaker": "Anna",
     "text": "Its services are free, anonymous and confidential.",
-    "t": 636.75
+    "t": 498.56
    },
    {
     "speaker": "Tom",
     "text": "Second: children and young people can call 116 111, write to the Online Help, or use the chat with trained young counsellors.",
-    "t": 640.36
+    "t": 502.17
    },
    {
     "speaker": "Anna",
     "text": "Third: parents, grandparents and other adults who look after children can call the Elterentelefon on 8002 4444.",
-    "t": 649.66
+    "t": 511.47
    },
    {
     "speaker": "Tom",
     "text": "Fourth: for questions about safety on the internet, there is the BEE SECURE Helpline on 8002 1234, and illegal content can be reported to the BEE SECURE Stopline.",
-    "t": 660.09
+    "t": 521.9
    },
    {
     "speaker": "Anna",
     "text": "You find the opening hours and all the services on kjt dot l-u.",
-    "t": 672.43
+    "t": 534.24
    },
    {
     "speaker": "Tom",
     "text": "The KJT has a motto that says it very well: no one should be abandoned.",
-    "t": 676.85
+    "t": 538.66
    },
    {
     "speaker": "Anna",
     "text": "And sometimes, the most helpful thing an adult can do is to pass on a telephone number.",
-    "t": 681.55
+    "t": 543.36
    },
    {
     "speaker": "Anna",
     "text": "That was our episode about the Kanner-Jugendtelefon.",
-    "t": 686.74
+    "t": 548.55
    },
    {
     "speaker": "Anna",
     "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
-    "t": 690.5
+    "t": 552.31
    },
    {
     "speaker": "Anna",
     "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
-    "t": 699.84
+    "t": 561.65
    },
    {
     "speaker": "Anna",
     "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
-    "t": 718.13
+    "t": 579.94
    },
    {
     "speaker": "Anna",
     "text": "And the activities are free of charge.",
-    "t": 724.88
+    "t": 586.69
    },
    {
     "speaker": "Anna",
     "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
-    "t": 727.08
+    "t": 588.89
    },
    {
     "speaker": "Tom",
     "text": "Thank you, everyone.",
-    "t": 731.77
+    "t": 593.58
    },
    {
     "speaker": "Tom",
     "text": "Take care, and see you next time!",
-    "t": 732.94
+    "t": 594.75
    },
    {
     "speaker": "Anna",
     "text": "Thank you so much for listening.",
-    "t": 735.08
+    "t": 596.89
    }
   ],
   "questions": [
@@ -138488,7 +137498,7 @@ const EPISODES = [
    }
   ],
   "audio_fr": "podcast_kjt_fr.mp3",
-  "duration_fr": 691.54,
+  "duration_fr": 553.85,
   "segments_fr": [
    {
     "speaker": "Anna",
@@ -138566,653 +137576,473 @@ const EPISODES = [
     "t": 65.67
    },
    {
-    "speaker": "Anna",
-    "text": "Et qui se trouve derrière ce service aujourd'hui ?",
-    "t": 71.14
-   },
-   {
     "speaker": "Tom",
-    "text": "Quatre organisations du secteur social l'ont fondé ensemble.",
-    "t": 73.53
-   },
-   {
-    "speaker": "Tom",
-    "text": "Aujourd'hui, le KJT est un service d'une association sans but lucratif qui s'appelle CJF Lëtzebuerg.",
-    "t": 76.94
-   },
-   {
-    "speaker": "Tom",
-    "text": "Il est financé dans le cadre d'une convention avec le Service national de la jeunesse, le SNJ, qui dépend du Ministère de l'Éducation nationale, de l'Enfance et de la Jeunesse.",
-    "t": 83.49
-   },
-   {
-    "speaker": "Anna",
-    "text": "D'ailleurs, le SNJ a son propre épisode dans ce podcast.",
-    "t": 93.5
+    "text": "Aujourd'hui, le KJT est un service d'une association sans but lucratif qui s'appelle CJF Lëtzebuerg, et il est financé dans le cadre d'une convention avec le Service national de la jeunesse, qui dépend du Ministère de l'Éducation nationale, de l'Enfance et de la Jeunesse.",
+    "t": 70.93
    },
    {
     "speaker": "Anna",
     "text": "Que fait concrètement le KJT quand quelqu'un le contacte ?",
-    "t": 96.72
+    "t": 86.5
    },
    {
     "speaker": "Tom",
     "text": "Il conseille et soutient les enfants, les jeunes et les adultes qui les entourent, pour les soucis de tous les jours, les peurs, les problèmes et les crises.",
-    "t": 99.72
+    "t": 89.49
    },
    {
     "speaker": "Tom",
     "text": "Les conseillers écoutent, et ils cherchent avec la personne une solution qui lui convient.",
-    "t": 108.02
+    "t": 97.79
    },
    {
     "speaker": "Anna",
     "text": "Est-ce que cela veut dire que le conseiller décide de ce que l'enfant doit faire ensuite ?",
-    "t": 113.18
+    "t": 102.95
    },
    {
     "speaker": "Tom",
-    "text": "Non, et c'est justement un des principes du KJT.",
-    "t": 117.05
+    "text": "Non, et c'est justement un des cinq principes du KJT.",
+    "t": 106.82
    },
    {
     "speaker": "Tom",
     "text": "Il s'appelle l'autodétermination : après l'entretien, chaque personne décide elle-même des étapes à suivre.",
-    "t": 119.96
+    "t": 110.11
    },
    {
     "speaker": "Tom",
-    "text": "S'il faut une aide supplémentaire, les conseillers peuvent orienter vers d'autres services.",
-    "t": 126.33
-   },
-   {
-    "speaker": "Anna",
-    "text": "Quels sont les autres principes de travail du KJT ?",
-    "t": 131.16
-   },
-   {
-    "speaker": "Tom",
-    "text": "Le site du KJT en cite cinq au total.",
-    "t": 133.97
-   },
-   {
-    "speaker": "Tom",
-    "text": "À côté de l'autodétermination, il y a l'anonymat, la confidentialité, la tolérance et le respect, et l'ouverture, ce qui veut dire que l'on peut venir avec toutes les questions et tous les sujets.",
-    "t": 137.25
+    "text": "Les autres principes sont l'anonymat, la confidentialité, la tolérance et le respect, et l'ouverture à toutes les questions et à tous les sujets.",
+    "t": 116.16
    },
    {
     "speaker": "Anna",
     "text": "Regardons les services un par un, en commençant par le plus ancien : la ligne téléphonique 116 111.",
-    "t": 148.14
+    "t": 124.53
    },
    {
     "speaker": "Anna",
     "text": "Elle s'adresse aux enfants et aux jeunes qui ont une question ou un problème, à l'école, à la maison, avec des amis, avec leurs parents, ou avec leurs frères et sœurs.",
-    "t": 154.08
+    "t": 130.47
    },
    {
     "speaker": "Tom",
     "text": "Qu'est-ce qu'un enfant doit dire au début d'un tel appel ?",
-    "t": 161.69
+    "t": 138.08
    },
    {
     "speaker": "Anna",
     "text": "Pas grand-chose, car l'appel est anonyme : il n'est pas nécessaire de dire qui l'on est ni où l'on habite.",
-    "t": 164.7
+    "t": 141.09
    },
    {
     "speaker": "Anna",
     "text": "Il est aussi confidentiel, donc personne d'autre n'apprend de quoi on a parlé, et l'appel est gratuit.",
-    "t": 169.7
+    "t": 146.09
    },
    {
     "speaker": "Tom",
     "text": "Peut-on appeler ce numéro à n'importe quelle heure du jour ou de la nuit ?",
-    "t": 174.38
+    "t": 150.77
    },
    {
     "speaker": "Anna",
     "text": "Non, la ligne n'est pas ouverte en permanence.",
-    "t": 178.01
+    "t": 154.4
    },
    {
     "speaker": "Anna",
-    "text": "Elle est ouverte l'après-midi et le soir, du lundi au samedi, et les horaires exacts se trouvent sur le site.",
-    "t": 180.33
-   },
-   {
-    "speaker": "Tom",
-    "text": "Le Luxembourg est un pays où l'on parle beaucoup de langues.",
-    "t": 186.03
-   },
-   {
-    "speaker": "Tom",
-    "text": "Y a-t-il aussi quelque chose pour les enfants qui parlent anglais ?",
-    "t": 189.01
+    "text": "Elle est ouverte l'après-midi et le soir, du lundi au samedi.",
+    "t": 156.72
    },
    {
     "speaker": "Anna",
-    "text": "Le site annonce que la ligne est désormais aussi disponible en anglais un jour par semaine.",
-    "t": 192.2
-   },
-   {
-    "speaker": "Anna",
-    "text": "Ce genre de détail peut changer, il vaut donc mieux vérifier sur le site.",
-    "t": 196.59
+    "text": "Les horaires exacts se trouvent sur le site, tout comme les moments où l'on peut appeler en anglais.",
+    "t": 160.05
    },
    {
     "speaker": "Tom",
     "text": "Tous les jeunes n'aiment pas parler au téléphone, et certains trouvent beaucoup plus facile d'écrire.",
-    "t": 200.26
+    "t": 164.38
    },
    {
     "speaker": "Anna",
     "text": "Pour eux, il y a l'Online Help.",
-    "t": 205.19
+    "t": 169.31
    },
    {
     "speaker": "Anna",
-    "text": "Vous écrivez votre question ou votre souci sur le site du KJT, et un conseiller vous envoie une réponse écrite en quelques jours.",
-    "t": 206.93
+    "text": "Vous écrivez votre question ou votre souci sur le site du KJT, en luxembourgeois, en allemand, en français ou en anglais, et un conseiller vous envoie une réponse écrite en quelques jours.",
+    "t": 171.05
    },
    {
     "speaker": "Tom",
     "text": "Faut-il une adresse e-mail pour utiliser l'Online Help ?",
-    "t": 213.04
+    "t": 180.76
    },
    {
     "speaker": "Anna",
     "text": "Non, vous choisissez seulement un nom d'utilisateur et un mot de passe, et vous les gardez bien, car ils sont la seule clé pour lire vos réponses.",
-    "t": 216.29
+    "t": 184.01
    },
    {
     "speaker": "Anna",
     "text": "Vous ne donnez ni votre vrai nom, ni votre adresse, ni votre e-mail, ni votre numéro de téléphone.",
-    "t": 223.06
-   },
-   {
-    "speaker": "Tom",
-    "text": "Et dans quelles langues les jeunes peuvent-ils écrire à l'Online Help ?",
-    "t": 228.07
-   },
-   {
-    "speaker": "Anna",
-    "text": "Ils peuvent écrire en luxembourgeois, en allemand, en français ou en anglais.",
-    "t": 231.53
+    "t": 190.78
    },
    {
     "speaker": "Tom",
     "text": "Le service le plus récent est le conseil par chat, qui a commencé en 2021.",
-    "t": 235.56
+    "t": 195.79
    },
    {
     "speaker": "Tom",
     "text": "C'est un chat en direct, pour les jeunes qui préfèrent écrire et qui veulent parler de quelque chose tout de suite.",
-    "t": 239.79
+    "t": 200.02
    },
    {
     "speaker": "Anna",
     "text": "Et qui répond dans le chat, les mêmes conseillers qu'au téléphone ?",
-    "t": 245.74
+    "t": 205.97
    },
    {
     "speaker": "Tom",
     "text": "Non, et c'est ce qui rend le chat particulier.",
-    "t": 248.82
+    "t": 209.05
    },
    {
     "speaker": "Tom",
     "text": "Le site le décrit comme un service de pair à pair, car les conseillers du chat sont eux-mêmes des jeunes.",
-    "t": 251.53
+    "t": 211.76
    },
    {
     "speaker": "Tom",
     "text": "Ils ont suivi une formation, et ils apportent aussi leur propre expérience.",
-    "t": 256.96
-   },
-   {
-    "speaker": "Anna",
-    "text": "Un jeune peut donc parler avec quelqu'un qui a à peu près son âge.",
-    "t": 261.31
-   },
-   {
-    "speaker": "Tom",
-    "text": "Oui, c'est bien l'idée, et là aussi on se connecte avec un nom d'utilisateur et un mot de passe, car l'anonymat et la confidentialité sont importants.",
-    "t": 264.59
+    "t": 217.19
    },
    {
     "speaker": "Tom",
     "text": "Le chat est ouvert à des heures fixes en soirée, que vous trouvez sur le site.",
-    "t": 272.61
+    "t": 221.12
    },
    {
     "speaker": "Anna",
     "text": "Passons maintenant aux adultes qui entourent l'enfant.",
-    "t": 276.87
+    "t": 225.36
    },
    {
     "speaker": "Anna",
     "text": "Depuis 2007, il existe une ligne téléphonique pour les parents, appelée Elterentelefon, ou Écoute parents, et son numéro est le 8002 4444.",
-    "t": 279.22
+    "t": 227.71
    },
    {
     "speaker": "Tom",
     "text": "Cette ligne est-elle vraiment réservée aux mères et aux pères ?",
-    "t": 289.31
+    "t": 237.8
    },
    {
     "speaker": "Anna",
     "text": "Non, elle s'adresse aux parents, aux grands-parents et à tout adulte qui est responsable d'enfants ou d'adolescents.",
-    "t": 292.63
+    "t": 241.12
    },
    {
     "speaker": "Anna",
     "text": "Vous pouvez appeler pour une question d'éducation, ou quand une situation à la maison est devenue stressante.",
-    "t": 298.29
+    "t": 246.78
    },
    {
     "speaker": "Tom",
     "text": "Que peut attendre un parent d'un tel appel ?",
-    "t": 303.22
+    "t": 251.71
    },
    {
     "speaker": "Anna",
     "text": "Vous pouvez attendre de l'écoute, des conseils et des informations.",
-    "t": 305.52
+    "t": 254.01
    },
    {
     "speaker": "Anna",
     "text": "Les conseillers n'interviennent pas à votre place.",
-    "t": 308.84
+    "t": 257.33
    },
    {
     "speaker": "Anna",
     "text": "Ils vous aident à y voir plus clair, ils font des suggestions pratiques, et ils peuvent vous dire quels autres services au Luxembourg pourraient vous aider.",
-    "t": 311.22
-   },
-   {
-    "speaker": "Tom",
-    "text": "Et un parent doit-il payer pour ces conseils ?",
-    "t": 318.41
+    "t": 259.71
    },
    {
     "speaker": "Anna",
-    "text": "Non, le service est gratuit, anonyme et confidentiel.",
-    "t": 321.07
-   },
-   {
-    "speaker": "Anna",
-    "text": "Les conseillers sont formés, et ils bénéficient d'une supervision régulière et d'une formation continue.",
-    "t": 324
-   },
-   {
-    "speaker": "Tom",
-    "text": "À quels moments les parents peuvent-ils joindre cette ligne ?",
-    "t": 329.23
-   },
-   {
-    "speaker": "Anna",
-    "text": "En semaine, surtout le matin, avec quelques créneaux plus tard dans la journée.",
-    "t": 332.25
-   },
-   {
-    "speaker": "Anna",
-    "text": "Le site indique aussi un créneau en anglais, et tous les horaires y figurent.",
-    "t": 335.99
+    "text": "Le service est gratuit, anonyme et confidentiel, et les horaires se trouvent sur le site.",
+    "t": 266.16
    },
    {
     "speaker": "Tom",
     "text": "Deux autres services concernent Internet, et ils portent le nom BEE SECURE.",
-    "t": 339.68
+    "t": 270.85
    },
    {
     "speaker": "Tom",
     "text": "Le premier est la BEE SECURE Helpline, avec le numéro 8002 1234.",
-    "t": 343.89
+    "t": 275.06
    },
    {
     "speaker": "Anna",
     "text": "Cette helpline est-elle réservée aux enfants, ou puis-je l'appeler en tant qu'adulte ?",
-    "t": 349.47
+    "t": 280.64
    },
    {
     "speaker": "Tom",
     "text": "Elle est ouverte à tout citoyen, de tout âge.",
-    "t": 353.56
+    "t": 284.73
    },
    {
     "speaker": "Tom",
     "text": "Vous pouvez appeler pour des questions sur la sécurité sur Internet et dans les médias numériques.",
-    "t": 356.34
+    "t": 287.51
    },
    {
     "speaker": "Tom",
     "text": "L'équipe donne des conseils individuels et, si nécessaire, elle vous oriente vers un service spécialisé.",
-    "t": 360.99
-   },
-   {
-    "speaker": "Anna",
-    "text": "Et un appel à cette helpline est-il lui aussi anonyme ?",
-    "t": 367.77
+    "t": 292.16
    },
    {
     "speaker": "Tom",
-    "text": "Oui, les appels sont gratuits, anonymes et confidentiels.",
-    "t": 370.96
-   },
-   {
-    "speaker": "Tom",
-    "text": "Vous pouvez aussi écrire par un formulaire de contact, qui est confidentiel mais pas anonyme.",
-    "t": 374.56
+    "text": "Les appels sont gratuits, anonymes et confidentiels.",
+    "t": 298.82
    },
    {
     "speaker": "Tom",
     "text": "Et voici un détail pour les frontaliers : le site précise que ce numéro est joignable uniquement depuis le réseau luxembourgeois.",
-    "t": 379.73
+    "t": 302.24
    },
    {
     "speaker": "Anna",
     "text": "Et quel est le deuxième service qui porte le nom BEE SECURE ?",
-    "t": 386.72
+    "t": 309.16
    },
    {
     "speaker": "Tom",
     "text": "C'est la BEE SECURE Stopline.",
-    "t": 389.7
+    "t": 312.14
    },
    {
     "speaker": "Tom",
     "text": "Ce n'est pas une ligne téléphonique, mais un site où vous pouvez signaler des contenus illégaux que vous trouvez sur Internet.",
-    "t": 391.71
+    "t": 314.15
    },
    {
     "speaker": "Anna",
     "text": "Quels types de contenus peut-on y signaler ?",
-    "t": 398.48
+    "t": 320.92
    },
    {
     "speaker": "Tom",
     "text": "Il y en a trois : les représentations d'abus sexuels sur des mineurs, les contenus racistes, révisionnistes ou discriminatoires, y compris les discours de haine, et les contenus liés au terrorisme.",
-    "t": 400.74
-   },
-   {
-    "speaker": "Anna",
-    "text": "Que se passe-t-il après l'envoi d'un tel signalement ?",
-    "t": 412.38
+    "t": 323.18
    },
    {
     "speaker": "Tom",
-    "text": "La Stopline l'analyse et le transmet aux services compétents de la Police grand-ducale, et ce sont les autorités qui décident de la suite.",
-    "t": 414.91
-   },
-   {
-    "speaker": "Tom",
-    "text": "Le formulaire de signalement est en ligne jour et nuit, et la Stopline n'enregistre pas de données qui permettraient de vous identifier.",
-    "t": 422.42
+    "text": "La Stopline analyse chaque signalement et le transmet aux services compétents de la Police grand-ducale, et elle n'enregistre pas de données qui permettraient de vous identifier.",
+    "t": 334.58
    },
    {
     "speaker": "Anna",
     "text": "Et que faire pour d'autres problèmes en ligne, comme des insultes, du cyberharcèlement ou une arnaque ?",
-    "t": 429.25
+    "t": 343.66
    },
    {
     "speaker": "Tom",
     "text": "Ces cas ne sont pas pour la Stopline.",
-    "t": 434.11
+    "t": 348.52
    },
    {
     "speaker": "Tom",
     "text": "Pour ce genre de questions, vous pouvez appeler la BEE SECURE Helpline, ou vous adresser à la police.",
-    "t": 436.23
+    "t": 350.64
    },
    {
     "speaker": "Anna",
     "text": "Voici quelque chose que je ne savais pas avant de lire le site : des bénévoles travaillent comme conseillers au KJT.",
-    "t": 441.64
+    "t": 356.05
    },
    {
     "speaker": "Anna",
     "text": "On les trouve à la ligne pour enfants et jeunes, à l'Online Help et à l'Elterentelefon, et ils soutiennent aussi la BEE SECURE Helpline.",
-    "t": 447.57
+    "t": 361.98
    },
    {
     "speaker": "Tom",
     "text": "Est-ce que n'importe qui peut simplement s'asseoir au téléphone et commencer à répondre ?",
-    "t": 454.53
+    "t": 368.94
    },
    {
     "speaker": "Anna",
     "text": "Non, chaque bénévole suit d'abord une formation de base.",
-    "t": 458.89
+    "t": 373.3
    },
    {
     "speaker": "Anna",
     "text": "Elle repose sur trois piliers : l'attitude du conseiller et la manière de mener un entretien, des connaissances en psychologie et en pédagogie, et la connaissance des services d'aide qui existent au Luxembourg.",
-    "t": 461.63
-   },
-   {
-    "speaker": "Tom",
-    "text": "Et s'exercent-ils avant de prendre leur premier appel tout seuls ?",
-    "t": 472.06
+    "t": 376.04
    },
    {
     "speaker": "Anna",
-    "text": "Oui, il y a un stage en deux phases.",
-    "t": 475.51
-   },
-   {
-    "speaker": "Anna",
-    "text": "D'abord, ils écoutent des conseillers expérimentés pendant leurs entretiens, puis ils mènent eux-mêmes des entretiens, avec un mentor à leurs côtés.",
-    "t": 477.41
-   },
-   {
-    "speaker": "Tom",
-    "text": "Que se passe-t-il une fois la formation terminée ?",
-    "t": 484.09
-   },
-   {
-    "speaker": "Anna",
-    "text": "Les bénévoles assurent régulièrement des permanences chaque mois, et ils se retrouvent chaque mois pour une supervision, qui est obligatoire.",
-    "t": 486.7
-   },
-   {
-    "speaker": "Anna",
-    "text": "Elle les aide à réfléchir à leurs entretiens, et à prendre soin d'eux-mêmes.",
-    "t": 492.82
+    "text": "Il y a aussi un stage aux côtés de conseillers expérimentés, et ensuite une supervision régulière.",
+    "t": 385.81
    },
    {
     "speaker": "Tom",
     "text": "Comment une personne intéressée peut-elle devenir bénévole ?",
-    "t": 496.34
+    "t": 390.76
    },
    {
     "speaker": "Anna",
-    "text": "Il y a un formulaire sur le site pour les personnes intéressées.",
-    "t": 499.79
-   },
-   {
-    "speaker": "Anna",
-    "text": "Une nouvelle formation ne commence pas chaque année, et une soirée d'information a lieu avant chacune.",
-    "t": 502.86
-   },
-   {
-    "speaker": "Tom",
-    "text": "Le KJT est-il en lien avec des services semblables dans d'autres pays ?",
-    "t": 507.54
-   },
-   {
-    "speaker": "Anna",
-    "text": "Oui, il est membre de plusieurs réseaux internationaux.",
-    "t": 512.09
-   },
-   {
-    "speaker": "Anna",
-    "text": "L'un d'eux est l'association mondiale des lignes d'écoute pour enfants et adolescents, et d'autres agissent pour un Internet plus sûr et contre les contenus illégaux et la haine en ligne.",
-    "t": 514.86
+    "text": "Il y a un formulaire sur le site pour les personnes intéressées, et une soirée d'information a lieu avant chaque nouvelle formation.",
+    "t": 394.21
    },
    {
     "speaker": "Tom",
     "text": "Le site kjt point l-u vaut une visite, aussi pour les adultes.",
-    "t": 523.6
+    "t": 400.26
    },
    {
     "speaker": "Tom",
     "text": "Il existe en allemand, en français et en anglais.",
-    "t": 528.08
-   },
-   {
-    "speaker": "Anna",
-    "text": "Qu'est-ce que j'y trouve encore, à part les services ?",
-    "t": 531.1
+    "t": 404.74
    },
    {
     "speaker": "Tom",
-    "text": "Il y a des pages sur des sujets qui comptent pour les jeunes : l'amitié, les conflits dans la famille, la séparation et le divorce, le stress et la pression, le cyberharcèlement et la santé mentale.",
-    "t": 533.93
+    "text": "Il y a des pages sur des sujets qui comptent pour les jeunes, comme l'amitié, les conflits dans la famille, le cyberharcèlement et la santé mentale, et aussi sur des sujets très graves, comme la violence, les abus sexuels et le suicide.",
+    "t": 407.53
    },
    {
     "speaker": "Tom",
-    "text": "Il y a aussi des sujets très graves, comme la violence, les abus sexuels et le suicide.",
-    "t": 544.66
-   },
-   {
-    "speaker": "Anna",
-    "text": "Un parent ou un enseignant peut donc y lire avant d'entamer une conversation difficile.",
-    "t": 550.02
-   },
-   {
-    "speaker": "Tom",
-    "text": "Oui, et il y a une boîte à outils avec des conseils, des vidéos, et une page qui vous aide à trouver des centres de consultation au Luxembourg.",
-    "t": 554.18
-   },
-   {
-    "speaker": "Tom",
-    "text": "Vous pouvez aussi commander du matériel d'information du KJT.",
-    "t": 561.52
+    "text": "Il y a aussi une boîte à outils avec des conseils, des vidéos et une page qui vous aide à trouver des centres de consultation au Luxembourg.",
+    "t": 420.3
    },
    {
     "speaker": "Anna",
     "text": "Puis-je aussi demander un conseil par le formulaire de contact du site ?",
-    "t": 565.2
+    "t": 427.49
    },
    {
     "speaker": "Tom",
     "text": "Non, le KJT ne donne pas de conseils par ce formulaire, car il n'est ni anonyme ni confidentiel.",
-    "t": 568.7
+    "t": 430.99
    },
    {
     "speaker": "Tom",
     "text": "Pour un conseil, vous utilisez les services que nous avons décrits.",
-    "t": 574.52
+    "t": 436.81
    },
    {
     "speaker": "Anna",
     "text": "Voici un rappel de notre part : ces lignes sont là pour écouter et pour conseiller, à certaines heures.",
-    "t": 578.31
+    "t": 440.6
    },
    {
     "speaker": "Anna",
     "text": "Quand une personne est en danger immédiat, le numéro d'urgence est le 112.",
-    "t": 583.57
+    "t": 445.86
    },
    {
     "speaker": "Tom",
     "text": "C'est exact, et il y a aussi un épisode sur le 112 dans ce podcast.",
-    "t": 587.41
+    "t": 449.7
    },
    {
     "speaker": "Tom",
     "text": "Résumons ensemble ce que nous avons appris aujourd'hui.",
-    "t": 591.66
+    "t": 453.95
    },
    {
     "speaker": "Anna",
     "text": "Premièrement : le KJT, le Kanner-Jugendtelefon, écoute les enfants et les jeunes depuis 1992.",
-    "t": 594.85
+    "t": 457.14
    },
    {
     "speaker": "Anna",
     "text": "Ses services sont gratuits, anonymes et confidentiels.",
-    "t": 602.02
+    "t": 464.31
    },
    {
     "speaker": "Tom",
     "text": "Deuxièmement : les enfants et les jeunes peuvent appeler le 116 111, écrire à l'Online Help, ou utiliser le chat avec de jeunes conseillers formés.",
-    "t": 605.14
+    "t": 467.43
    },
    {
     "speaker": "Anna",
     "text": "Troisièmement : les parents, les grands-parents et les autres adultes qui s'occupent d'enfants peuvent appeler l'Elterentelefon au 8002 4444.",
-    "t": 614.34
+    "t": 476.63
    },
    {
     "speaker": "Tom",
     "text": "Quatrièmement : pour les questions sur la sécurité sur Internet, il y a la BEE SECURE Helpline au 8002 1234, et les contenus illégaux peuvent être signalés à la BEE SECURE Stopline.",
-    "t": 623.31
+    "t": 485.6
    },
    {
     "speaker": "Anna",
     "text": "Vous trouvez les horaires et tous les services sur kjt point l-u.",
-    "t": 634.97
+    "t": 497.26
    },
    {
     "speaker": "Tom",
     "text": "Le KJT a une devise qui le dit très bien : personne ne doit rester seul.",
-    "t": 638.66
+    "t": 500.95
    },
    {
     "speaker": "Anna",
     "text": "Et parfois, la chose la plus utile qu'un adulte puisse faire, c'est de transmettre un numéro de téléphone.",
-    "t": 643.57
+    "t": 505.86
    },
    {
     "speaker": "Anna",
     "text": "C'était notre épisode sur le Kanner-Jugendtelefon.",
-    "t": 648.62
+    "t": 510.91
    },
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
-    "t": 651.54
+    "t": 513.83
    },
    {
     "speaker": "Anna",
     "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
-    "t": 658.98
+    "t": 521.27
    },
    {
     "speaker": "Anna",
     "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
-    "t": 675.43
+    "t": 537.72
    },
    {
     "speaker": "Anna",
     "text": "Et les activités sont gratuites.",
-    "t": 680.08
+    "t": 542.37
    },
    {
     "speaker": "Anna",
     "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
-    "t": 681.86
+    "t": 544.15
    },
    {
     "speaker": "Tom",
     "text": "Merci à tous.",
-    "t": 686.24
+    "t": 548.53
    },
    {
     "speaker": "Tom",
     "text": "Prenez soin de vous, et à la prochaine !",
-    "t": 687.49
+    "t": 549.78
    },
    {
     "speaker": "Anna",
     "text": "Merci beaucoup de nous avoir écoutés.",
-    "t": 689.78
+    "t": 552.07
    }
   ],
   "audio_de": "podcast_kjt_de.mp3",
-  "duration_de": 779.44,
+  "duration_de": 626.1,
   "segments_de": [
    {
     "speaker": "Anna",
@@ -139290,649 +138120,469 @@ const EPISODES = [
     "t": 71.88
    },
    {
-    "speaker": "Anna",
-    "text": "Und wer steht heute hinter diesem Dienst?",
-    "t": 77.6
-   },
-   {
     "speaker": "Tom",
-    "text": "Vier Organisationen aus dem sozialen Bereich haben es gemeinsam gegründet.",
-    "t": 79.97
-   },
-   {
-    "speaker": "Tom",
-    "text": "Heute ist das KJT ein Dienst einer Vereinigung ohne Gewinnzweck mit dem Namen CJF Lëtzebuerg.",
-    "t": 84.38
-   },
-   {
-    "speaker": "Tom",
-    "text": "Finanziert wird es im Rahmen einer Konvention mit dem Service National de la Jeunesse, dem SNJ, der zum Ministerium für Bildung, Kinder und Jugend gehört.",
-    "t": 91.73
-   },
-   {
-    "speaker": "Anna",
-    "text": "Der SNJ hat übrigens eine eigene Folge in diesem Podcast.",
-    "t": 102.26
+    "text": "Heute ist das KJT ein Dienst einer Vereinigung ohne Gewinnzweck mit dem Namen CJF Lëtzebuerg, und es wird im Rahmen einer Konvention mit dem Service National de la Jeunesse finanziert, der zum Ministerium für Bildung, Kinder und Jugend gehört.",
+    "t": 77.87
    },
    {
     "speaker": "Anna",
     "text": "Was macht das KJT konkret, wenn sich jemand meldet?",
-    "t": 105.87
+    "t": 93.8
    },
    {
     "speaker": "Tom",
     "text": "Es berät und unterstützt Kinder, Jugendliche und die Erwachsenen in ihrem Umfeld, bei alltäglichen Sorgen, Ängsten, Problemen und Krisen.",
-    "t": 109.64
+    "t": 97.45
    },
    {
     "speaker": "Tom",
     "text": "Die Beraterinnen und Berater hören zu und suchen gemeinsam mit der Person nach einer Lösung, die zu ihr passt.",
-    "t": 118.21
+    "t": 106.02
    },
    {
     "speaker": "Anna",
     "text": "Heißt das, dass der Berater entscheidet, was das Kind als Nächstes tun soll?",
-    "t": 124.62
+    "t": 112.43
    },
    {
     "speaker": "Tom",
-    "text": "Nein, und das ist eines der Prinzipien des KJT.",
-    "t": 128.74
+    "text": "Nein, und das ist eines der fünf Prinzipien des KJT.",
+    "t": 116.55
    },
    {
     "speaker": "Tom",
     "text": "Es heißt Selbstbestimmung: Nach dem Gespräch entscheidet jede Person selbst, welche Schritte sie geht.",
-    "t": 132.5
+    "t": 120.84
    },
    {
     "speaker": "Tom",
-    "text": "Wenn mehr Hilfe nötig ist, können die Berater auf andere Stellen hinweisen.",
-    "t": 138.63
-   },
-   {
-    "speaker": "Anna",
-    "text": "Nach welchen anderen Prinzipien arbeitet das KJT?",
-    "t": 143.01
-   },
-   {
-    "speaker": "Tom",
-    "text": "Die Website des KJT nennt insgesamt fünf.",
-    "t": 146.78
-   },
-   {
-    "speaker": "Tom",
-    "text": "Neben der Selbstbestimmung gibt es die Anonymität, die Schweigepflicht, Toleranz und Respekt, und die Offenheit, was bedeutet, dass man mit jeder Frage und mit jedem Thema kommen kann.",
-    "t": 150.08
+    "text": "Die anderen Prinzipien sind die Anonymität, die Schweigepflicht, Toleranz und Respekt, und die Offenheit für jede Frage und jedes Thema.",
+    "t": 127.08
    },
    {
     "speaker": "Anna",
     "text": "Schauen wir uns die Angebote der Reihe nach an, und beginnen wir mit dem ältesten: der Telefonnummer 116 111.",
-    "t": 162.27
+    "t": 135.85
    },
    {
     "speaker": "Anna",
     "text": "Sie ist für Kinder und Jugendliche da, die eine Frage oder ein Problem haben, in der Schule, zu Hause, mit Freunden, mit den Eltern oder mit Geschwistern.",
-    "t": 171.26
+    "t": 144.84
    },
    {
     "speaker": "Tom",
     "text": "Was muss ein Kind am Anfang eines solchen Anrufs sagen?",
-    "t": 180.2
+    "t": 153.78
    },
    {
     "speaker": "Anna",
     "text": "Nicht viel, denn der Anruf ist anonym: Man muss nicht sagen, wer man ist oder wo man wohnt.",
-    "t": 183.41
+    "t": 156.99
    },
    {
     "speaker": "Anna",
     "text": "Er ist auch vertraulich, also erfährt niemand sonst, worüber gesprochen wurde, und der Anruf ist kostenlos.",
-    "t": 189.42
+    "t": 163
    },
    {
     "speaker": "Tom",
     "text": "Kann man diese Nummer zu jeder Tages- und Nachtzeit anrufen?",
-    "t": 195.66
+    "t": 169.24
    },
    {
     "speaker": "Anna",
     "text": "Nein, die Leitung ist nicht rund um die Uhr besetzt.",
-    "t": 199
+    "t": 172.58
    },
    {
     "speaker": "Anna",
-    "text": "Sie ist nachmittags und abends erreichbar, von Montag bis Samstag, und die genauen Zeiten stehen auf der Website.",
-    "t": 202.75
-   },
-   {
-    "speaker": "Tom",
-    "text": "Luxemburg ist ein Land mit vielen Sprachen.",
-    "t": 209.1
-   },
-   {
-    "speaker": "Tom",
-    "text": "Gibt es auch etwas für Kinder, die Englisch sprechen?",
-    "t": 211.59
+    "text": "Sie ist nachmittags und abends erreichbar, von Montag bis Samstag.",
+    "t": 176.33
    },
    {
     "speaker": "Anna",
-    "text": "Die Website kündigt an, dass die Nummer jetzt an einem Tag in der Woche auch auf Englisch erreichbar ist.",
-    "t": 214.33
-   },
-   {
-    "speaker": "Anna",
-    "text": "Solche Angaben können sich ändern, deshalb schauen Sie am besten auf der Website nach.",
-    "t": 219.69
+    "text": "Die genauen Zeiten stehen auf der Website, und dort steht auch, wann man auf Englisch anrufen kann.",
+    "t": 180.77
    },
    {
     "speaker": "Tom",
     "text": "Nicht alle Jugendlichen sprechen gern am Telefon, und manchen fällt das Schreiben viel leichter.",
-    "t": 224.59
+    "t": 185.88
    },
    {
     "speaker": "Anna",
     "text": "Für sie gibt es die Online Help.",
-    "t": 229.9
+    "t": 191.19
    },
    {
     "speaker": "Anna",
-    "text": "Man schreibt seine Frage oder seine Sorge auf der Website des KJT, und ein Berater schickt innerhalb weniger Tage eine schriftliche Antwort.",
-    "t": 231.78
+    "text": "Man schreibt seine Frage oder seine Sorge auf der Website des KJT, auf Luxemburgisch, Deutsch, Französisch oder Englisch, und ein Berater schickt innerhalb weniger Tage eine schriftliche Antwort.",
+    "t": 193.07
    },
    {
     "speaker": "Tom",
     "text": "Braucht man eine E-Mail-Adresse, um die Online Help zu nutzen?",
-    "t": 240.03
+    "t": 205.26
    },
    {
     "speaker": "Anna",
     "text": "Nein, man wählt nur einen Benutzernamen und ein Passwort und bewahrt beides gut auf, denn sie sind der einzige Schlüssel zu den Antworten.",
-    "t": 243.3
+    "t": 208.53
    },
    {
     "speaker": "Anna",
     "text": "Den echten Namen, die Adresse, die E-Mail oder die Telefonnummer gibt man nicht an.",
-    "t": 253.15
-   },
-   {
-    "speaker": "Tom",
-    "text": "Und in welchen Sprachen können Jugendliche an die Online Help schreiben?",
-    "t": 258.05
-   },
-   {
-    "speaker": "Anna",
-    "text": "Sie können auf Luxemburgisch, auf Deutsch, auf Französisch oder auf Englisch schreiben.",
-    "t": 261.91
+    "t": 218.38
    },
    {
     "speaker": "Tom",
     "text": "Das neueste Angebot ist die Chatberatung, die 2021 gestartet ist.",
-    "t": 266.45
+    "t": 223.28
    },
    {
     "speaker": "Tom",
     "text": "Das ist ein Live-Chat für Jugendliche, die lieber schreiben und die sofort über etwas sprechen möchten.",
-    "t": 271.55
+    "t": 228.38
    },
    {
     "speaker": "Anna",
     "text": "Und wer antwortet im Chat, dieselben Berater wie am Telefon?",
-    "t": 276.78
+    "t": 233.61
    },
    {
     "speaker": "Tom",
     "text": "Nein, und genau das macht den Chat besonders.",
-    "t": 280.38
+    "t": 237.21
    },
    {
     "speaker": "Tom",
     "text": "Die Website beschreibt ihn als Peer-to-Peer-Angebot, denn die Chatberater sind selbst junge Menschen.",
-    "t": 283.27
+    "t": 240.1
    },
    {
     "speaker": "Tom",
     "text": "Sie haben eine Ausbildung gemacht, und sie bringen auch ihre eigenen Erfahrungen mit.",
-    "t": 288.82
-   },
-   {
-    "speaker": "Anna",
-    "text": "Ein Jugendlicher kann also mit jemandem schreiben, der ungefähr in seinem Alter ist.",
-    "t": 293.14
-   },
-   {
-    "speaker": "Tom",
-    "text": "Ja, das ist die Idee, und auch hier meldet man sich mit einem Benutzernamen und einem Passwort an, denn Anonymität und Vertraulichkeit sind wichtig.",
-    "t": 297.76
+    "t": 245.65
    },
    {
     "speaker": "Tom",
     "text": "Der Chat ist zu festen Zeiten am Abend geöffnet, die Sie auf der Website finden.",
-    "t": 306.9
+    "t": 250.09
    },
    {
     "speaker": "Anna",
     "text": "Kommen wir jetzt zu den Erwachsenen im Leben eines Kindes.",
-    "t": 311.54
+    "t": 254.65
    },
    {
     "speaker": "Anna",
     "text": "Seit 2007 gibt es eine Telefonnummer für Eltern, das Elterentelefon, und seine Nummer ist die 8002 4444.",
-    "t": 314.55
+    "t": 257.66
    },
    {
     "speaker": "Tom",
     "text": "Ist dieses Telefon wirklich nur für Mütter und Väter da?",
-    "t": 325.81
+    "t": 268.92
    },
    {
     "speaker": "Anna",
     "text": "Nein, es ist für Eltern, für Großeltern und für alle Erwachsenen da, die mit Kindern oder Jugendlichen zu tun haben.",
-    "t": 328.94
+    "t": 272.05
    },
    {
     "speaker": "Anna",
     "text": "Sie können mit einer Erziehungsfrage anrufen, oder wenn eine Situation zu Hause belastend geworden ist.",
-    "t": 336.15
+    "t": 279.26
    },
    {
     "speaker": "Tom",
     "text": "Was kann ein Elternteil von einem solchen Anruf erwarten?",
-    "t": 342.77
+    "t": 285.88
    },
    {
     "speaker": "Anna",
     "text": "Sie können Beratung, Orientierung und Information erwarten.",
-    "t": 346.01
+    "t": 289.12
    },
    {
     "speaker": "Anna",
     "text": "Die Berater greifen nicht an Ihrer Stelle ein.",
-    "t": 349.89
+    "t": 293
    },
    {
     "speaker": "Anna",
     "text": "Sie helfen Ihnen, klarer zu sehen, sie geben praktische Anregungen, und sie können Ihnen sagen, welche anderen Stellen in Luxemburg helfen könnten.",
-    "t": 352.62
-   },
-   {
-    "speaker": "Tom",
-    "text": "Und müssen Eltern für diese Beratung etwas bezahlen?",
-    "t": 360.87
+    "t": 295.73
    },
    {
     "speaker": "Anna",
-    "text": "Nein, das Angebot ist kostenlos, anonym und vertraulich.",
-    "t": 363.73
-   },
-   {
-    "speaker": "Anna",
-    "text": "Die Berater sind ausgebildet, und sie haben regelmäßig Supervision und Weiterbildung.",
-    "t": 367.96
-   },
-   {
-    "speaker": "Tom",
-    "text": "Zu welchen Zeiten können Eltern dieses Telefon erreichen?",
-    "t": 372.95
-   },
-   {
-    "speaker": "Anna",
-    "text": "An Wochentagen, meistens am Vormittag, mit einigen Zeiten später am Tag.",
-    "t": 376.2
-   },
-   {
-    "speaker": "Anna",
-    "text": "Die Website zeigt auch eine Zeit auf Englisch an, und alle Zeiten sind dort aufgelistet.",
-    "t": 381.14
+    "text": "Das Angebot ist kostenlos, anonym und vertraulich, und die Zeiten stehen auf der Website.",
+    "t": 304.02
    },
    {
     "speaker": "Tom",
     "text": "Zwei weitere Angebote haben mit dem Internet zu tun, und sie tragen den Namen BEE SECURE.",
-    "t": 386.24
+    "t": 309.43
    },
    {
     "speaker": "Tom",
     "text": "Das erste ist die BEE SECURE Helpline, mit der Nummer 8002 1234.",
-    "t": 391.65
+    "t": 314.84
    },
    {
     "speaker": "Anna",
     "text": "Ist diese Helpline nur für Kinder da, oder kann ich sie auch als Erwachsene anrufen?",
-    "t": 397.91
+    "t": 321.1
    },
    {
     "speaker": "Tom",
     "text": "Sie ist für jeden Bürger jeden Alters da.",
-    "t": 402.61
+    "t": 325.8
    },
    {
     "speaker": "Tom",
     "text": "Sie können mit Fragen zur Sicherheit im Internet und in den digitalen Medien anrufen.",
-    "t": 405.22
+    "t": 328.41
    },
    {
     "speaker": "Tom",
     "text": "Das Team berät Sie individuell und verweist Sie, wenn nötig, an eine spezialisierte Stelle.",
-    "t": 409.89
-   },
-   {
-    "speaker": "Anna",
-    "text": "Und ist ein Anruf bei dieser Helpline ebenfalls anonym?",
-    "t": 415.48
+    "t": 333.08
    },
    {
     "speaker": "Tom",
-    "text": "Ja, die Anrufe sind kostenlos, anonym und vertraulich.",
-    "t": 418.85
-   },
-   {
-    "speaker": "Tom",
-    "text": "Sie können auch über ein Kontaktformular schreiben, das vertraulich, aber nicht anonym ist.",
-    "t": 422.75
+    "text": "Die Anrufe sind kostenlos, anonym und vertraulich.",
+    "t": 338.21
    },
    {
     "speaker": "Tom",
     "text": "Und hier ist ein Hinweis für Grenzgänger: Laut der Website ist diese Nummer nur aus dem luxemburgischen Netz erreichbar.",
-    "t": 427.91
+    "t": 341.66
    },
    {
     "speaker": "Anna",
     "text": "Und was ist das zweite Angebot, das den Namen BEE SECURE trägt?",
-    "t": 434.8
+    "t": 348.65
    },
    {
     "speaker": "Tom",
     "text": "Das ist die BEE SECURE Stopline.",
-    "t": 438.79
+    "t": 352.64
    },
    {
     "speaker": "Tom",
     "text": "Sie ist keine Telefonnummer, sondern eine Website, auf der Sie illegale Inhalte melden können, die Sie im Internet finden.",
-    "t": 441.07
+    "t": 354.92
    },
    {
     "speaker": "Anna",
     "text": "Welche Arten von Inhalten kann man dort melden?",
-    "t": 448.23
+    "t": 362.08
    },
    {
     "speaker": "Tom",
     "text": "Es gibt drei Arten: Darstellungen von sexuellem Missbrauch von Minderjährigen, rassistische, revisionistische oder diskriminierende Inhalte, wozu auch Hassrede gehört, und Inhalte, die mit Terrorismus zu tun haben.",
-    "t": 451.02
-   },
-   {
-    "speaker": "Anna",
-    "text": "Was passiert, nachdem ich eine solche Meldung abgeschickt habe?",
-    "t": 465.84
+    "t": 364.87
    },
    {
     "speaker": "Tom",
-    "text": "Die Stopline analysiert sie und leitet sie an die zuständigen Dienste der Großherzoglichen Polizei weiter, und die Behörden entscheiden, wie es weitergeht.",
-    "t": 469.34
-   },
-   {
-    "speaker": "Tom",
-    "text": "Das Meldeformular ist Tag und Nacht online, und die Stopline speichert keine Daten, mit denen man Sie erkennen könnte.",
-    "t": 478.56
+    "text": "Die Stopline analysiert jede Meldung und leitet sie an die zuständigen Dienste der Großherzoglichen Polizei weiter, und sie speichert keine Daten, mit denen man Sie erkennen könnte.",
+    "t": 378.82
    },
    {
     "speaker": "Anna",
     "text": "Und was ist mit anderen Problemen im Internet, wie Beleidigungen, Cybermobbing oder Betrug?",
-    "t": 485.37
+    "t": 389.39
    },
    {
     "speaker": "Tom",
     "text": "Diese Fälle sind nichts für die Stopline.",
-    "t": 490.99
+    "t": 395.01
    },
    {
     "speaker": "Tom",
     "text": "Bei solchen Fragen können Sie die BEE SECURE Helpline anrufen, oder Sie wenden sich an die Polizei.",
-    "t": 493.47
+    "t": 397.49
    },
    {
     "speaker": "Anna",
     "text": "Etwas wusste ich nicht, bevor ich die Website gelesen habe: Am KJT arbeiten Ehrenamtliche als Berater.",
-    "t": 499.67
+    "t": 403.69
    },
    {
     "speaker": "Anna",
     "text": "Man findet sie am Kinder- und Jugendtelefon, bei der Online Help und am Elterentelefon, und sie unterstützen auch die BEE SECURE Helpline.",
-    "t": 507.39
+    "t": 411.41
    },
    {
     "speaker": "Tom",
     "text": "Kann sich jeder einfach ans Telefon setzen und anfangen zu antworten?",
-    "t": 514.95
+    "t": 418.97
    },
    {
     "speaker": "Anna",
     "text": "Nein, jeder Ehrenamtliche macht zuerst eine Grundausbildung.",
-    "t": 518.69
+    "t": 422.71
    },
    {
     "speaker": "Anna",
     "text": "Sie steht auf drei Säulen: der Haltung des Beraters und der Gesprächsführung, Wissen aus Psychologie und Pädagogik, und Kenntnissen über die Hilfsangebote, die es in Luxemburg gibt.",
-    "t": 522.44
-   },
-   {
-    "speaker": "Tom",
-    "text": "Und üben sie, bevor sie ihren ersten Anruf allein annehmen?",
-    "t": 533.31
+    "t": 426.46
    },
    {
     "speaker": "Anna",
-    "text": "Ja, es gibt ein Praktikum in zwei Phasen.",
-    "t": 536.89
-   },
-   {
-    "speaker": "Anna",
-    "text": "Zuerst hören sie bei Gesprächen von erfahrenen Beratern zu, und dann führen sie selbst Gespräche, mit einem Mentor an ihrer Seite.",
-    "t": 539.48
-   },
-   {
-    "speaker": "Tom",
-    "text": "Was passiert, wenn die Ausbildung abgeschlossen ist?",
-    "t": 547.47
-   },
-   {
-    "speaker": "Anna",
-    "text": "Die Ehrenamtlichen übernehmen jeden Monat regelmäßig Dienste, und sie treffen sich jeden Monat zur Supervision, die verpflichtend ist.",
-    "t": 550.35
-   },
-   {
-    "speaker": "Anna",
-    "text": "Sie hilft ihnen, über ihre Gespräche nachzudenken und selbst gesund zu bleiben.",
-    "t": 557.95
+    "text": "Dazu kommen ein Praktikum an der Seite von erfahrenen Beratern und danach regelmäßige Supervision.",
+    "t": 437.49
    },
    {
     "speaker": "Tom",
     "text": "Wie kann jemand, der sich dafür interessiert, ehrenamtlich mitarbeiten?",
-    "t": 562.33
+    "t": 443.57
    },
    {
     "speaker": "Anna",
-    "text": "Auf der Website gibt es ein Formular für Interessierte.",
-    "t": 566.22
-   },
-   {
-    "speaker": "Anna",
-    "text": "Eine neue Ausbildung beginnt nicht jedes Jahr, und vor jedem Start gibt es einen Informationsabend.",
-    "t": 569.25
-   },
-   {
-    "speaker": "Tom",
-    "text": "Ist das KJT mit ähnlichen Diensten in anderen Ländern verbunden?",
-    "t": 574.76
-   },
-   {
-    "speaker": "Anna",
-    "text": "Ja, es ist Mitglied in mehreren internationalen Netzwerken.",
-    "t": 578.85
-   },
-   {
-    "speaker": "Anna",
-    "text": "Eines davon ist der weltweite Verband der Kinder- und Jugendtelefone, und andere setzen sich für ein sichereres Internet und gegen illegale Inhalte und Hass im Netz ein.",
-    "t": 582.53
+    "text": "Auf der Website gibt es ein Formular für Interessierte, und vor jeder neuen Ausbildung gibt es einen Informationsabend.",
+    "t": 447.46
    },
    {
     "speaker": "Tom",
     "text": "Die Website kjt Punkt l-u lohnt einen Besuch, auch für Erwachsene.",
-    "t": 592.37
+    "t": 454.25
    },
    {
     "speaker": "Tom",
     "text": "Es gibt sie auf Deutsch, Französisch und Englisch.",
-    "t": 597.67
-   },
-   {
-    "speaker": "Anna",
-    "text": "Was finde ich dort noch, außer den Angeboten?",
-    "t": 600.8
+    "t": 459.55
    },
    {
     "speaker": "Tom",
-    "text": "Es gibt Seiten zu Themen, die Jugendliche beschäftigen: Freundschaft, Konflikte in der Familie, Trennung und Scheidung, Stress und Druck, Cybermobbing und psychische Gesundheit.",
-    "t": 603.48
+    "text": "Es gibt Seiten zu Themen, die Jugendliche beschäftigen, wie Freundschaft, Konflikte in der Familie, Cybermobbing und psychische Gesundheit, und auch zu sehr ernsten Themen, wie Gewalt, sexuellem Missbrauch und Suizid.",
+    "t": 462.55
    },
    {
     "speaker": "Tom",
-    "text": "Es gibt auch sehr ernste Themen, wie Gewalt, sexuellen Missbrauch und Suizid.",
-    "t": 614.55
-   },
-   {
-    "speaker": "Anna",
-    "text": "Eltern oder Lehrkräfte können dort also nachlesen, bevor sie ein schwieriges Gespräch beginnen.",
-    "t": 619.85
-   },
-   {
-    "speaker": "Tom",
-    "text": "Ja, und es gibt eine Toolbox mit Tipps, mit Videos und mit einer Seite, die Ihnen hilft, Beratungsstellen in Luxemburg zu finden.",
-    "t": 625.38
-   },
-   {
-    "speaker": "Tom",
-    "text": "Sie können auch Informationsmaterial des KJT bestellen.",
-    "t": 633.25
+    "text": "Es gibt auch eine Toolbox mit Tipps, Videos und einer Seite, die Ihnen hilft, Beratungsstellen in Luxemburg zu finden.",
+    "t": 476.47
    },
    {
     "speaker": "Anna",
     "text": "Kann ich auch über das Kontaktformular der Website um Rat fragen?",
-    "t": 637.14
+    "t": 483.82
    },
    {
     "speaker": "Tom",
     "text": "Nein, über dieses Formular bietet das KJT keine Beratung an, weil es nicht anonym und vertraulich ist.",
-    "t": 640.76
+    "t": 487.44
    },
    {
     "speaker": "Tom",
     "text": "Für eine Beratung nutzen Sie die Angebote, die wir beschrieben haben.",
-    "t": 647.76
+    "t": 494.44
    },
    {
     "speaker": "Anna",
     "text": "Hier ist noch eine Erinnerung von unserer Seite: Diese Telefone sind zum Zuhören und zum Beraten da, zu bestimmten Zeiten.",
-    "t": 651.41
+    "t": 498.09
    },
    {
     "speaker": "Anna",
     "text": "Wenn jemand in unmittelbarer Gefahr ist, ist die Notrufnummer die 112.",
-    "t": 659.01
+    "t": 505.69
    },
    {
     "speaker": "Tom",
     "text": "Das stimmt, und auch zur 112 gibt es eine Folge in diesem Podcast.",
-    "t": 663.9
+    "t": 510.58
    },
    {
     "speaker": "Tom",
     "text": "Fassen wir zusammen, was wir heute gelernt haben.",
-    "t": 668.67
+    "t": 515.35
    },
    {
     "speaker": "Anna",
     "text": "Erstens: Das KJT, das Kanner-Jugendtelefon, hört Kindern und Jugendlichen seit 1992 zu.",
-    "t": 671.37
+    "t": 518.05
    },
    {
     "speaker": "Anna",
     "text": "Seine Angebote sind kostenlos, anonym und vertraulich.",
-    "t": 678.81
+    "t": 525.49
    },
    {
     "speaker": "Tom",
     "text": "Zweitens: Kinder und Jugendliche können die 116 111 anrufen, an die Online Help schreiben oder den Chat mit ausgebildeten jungen Beratern nutzen.",
-    "t": 682.74
+    "t": 529.42
    },
    {
     "speaker": "Anna",
     "text": "Drittens: Eltern, Großeltern und andere Erwachsene, die sich um Kinder kümmern, können das Elterentelefon unter 8002 4444 anrufen.",
-    "t": 693.59
+    "t": 540.27
    },
    {
     "speaker": "Tom",
     "text": "Viertens: Für Fragen zur Sicherheit im Internet gibt es die BEE SECURE Helpline unter 8002 1234, und illegale Inhalte kann man der BEE SECURE Stopline melden.",
-    "t": 703.64
+    "t": 550.32
    },
    {
     "speaker": "Anna",
     "text": "Sie finden die Zeiten und alle Angebote auf kjt Punkt l-u.",
-    "t": 715.99
+    "t": 562.67
    },
    {
     "speaker": "Tom",
     "text": "Das KJT hat ein Motto, das es sehr gut sagt: Niemand muss alleine bleiben.",
-    "t": 720.31
+    "t": 566.99
    },
    {
     "speaker": "Anna",
     "text": "Und manchmal ist das Hilfreichste, was ein Erwachsener tun kann, eine Telefonnummer weiterzugeben.",
-    "t": 725.14
+    "t": 571.82
    },
    {
     "speaker": "Anna",
     "text": "Das war unsere Folge über das Kanner-Jugendtelefon.",
-    "t": 730.38
+    "t": 577.06
    },
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
-    "t": 733.67
+    "t": 580.35
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
-    "t": 742.83
+    "t": 589.51
    },
    {
     "speaker": "Anna",
     "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
-    "t": 761.16
+    "t": 607.84
    },
    {
     "speaker": "Anna",
     "text": "Und die Aktivitäten sind kostenlos.",
-    "t": 766.86
+    "t": 613.54
    },
    {
     "speaker": "Anna",
     "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
-    "t": 769.11
+    "t": 615.79
    },
    {
     "speaker": "Tom",
     "text": "Danke an alle.",
-    "t": 774
+    "t": 620.68
    },
    {
     "speaker": "Tom",
     "text": "Passen Sie auf sich auf, und bis zum nächsten Mal!",
-    "t": 775.1
+    "t": 621.78
    },
    {
     "speaker": "Anna",
     "text": "Vielen Dank fürs Zuhören.",
-    "t": 777.89
+    "t": 624.57
    }
   ],
   "segments_lb": [
@@ -139963,393 +138613,253 @@ const EPISODES = [
    },
    {
     "speaker": "Tom",
-    "text": "De KJT gouf 1992 gegrënnt, am Kader vun der Kannerrechtskonventioun vun de Vereenten Natiounen. D'Iddi war einfach: all Kand an all Jugendleche soll d'Méiglechkeet hunn, gehéiert ze ginn.",
+    "text": "De KJT gouf 1992 gegrënnt, am Kader vun der Kannerrechtskonventioun vun de Vereenten Natiounen. D'Iddi war einfach: all Kand an all Jugendleche soll d'Méiglechkeet hunn, gehéiert ze ginn. Haut ass de KJT e Service vun enger Associatioun ouni Gewënnzweck mam Numm CJF Lëtzebuerg, an e gëtt am Kader vun enger Konventioun mam Service National de la Jeunesse finanzéiert, deen zum Ministère fir Educatioun, Kanner a Jugend gehéiert.",
     "t": 66.05
    },
    {
     "speaker": "Anna",
-    "text": "A wien steet haut hannert dësem Service?",
-    "t": 78.31
-   },
-   {
-    "speaker": "Tom",
-    "text": "Véier Organisatiounen aus dem soziale Beräich hunn en zesumme gegrënnt. Haut ass de KJT e Service vun enger Associatioun ouni Gewënnzweck mam Numm CJF Lëtzebuerg. Finanzéiert gëtt en am Kader vun enger Konventioun mam Service National de la Jeunesse, dem SNJ, deen zum Ministère fir Educatioun, Kanner a Jugend gehéiert.",
-    "t": 80.7
-   },
-   {
-    "speaker": "Anna",
-    "text": "Den SNJ huet iwwregens eng eegen Episode an dësem Podcast. Wat mécht de KJT konkret, wann ee sech mellt?",
-    "t": 98.06
+    "text": "Wat mécht de KJT konkret, wann ee sech mellt?",
+    "t": 91.68
    },
    {
     "speaker": "Tom",
     "text": "E beréit an ënnerstëtzt Kanner, Jugendlecher an déi Erwuessen ronderëm si, bei alldeegleche Suergen, Ängschten, Problemer a Krisen. D'Beroder lauschteren no a sichen zesumme mat der Persoun eng Léisung, déi bei si passt.",
-    "t": 105.62
+    "t": 95.59
    },
    {
     "speaker": "Anna",
     "text": "Heescht dat, datt de Beroder decidéiert, wat d'Kand duerno maache soll?",
-    "t": 118.72
+    "t": 108.69
    },
    {
     "speaker": "Tom",
-    "text": "Nee, an dat ass ee vun de Prinzippie vum KJT. Et heescht Selbstbestëmmung: nom Gespréich decidéiert all Persoun selwer, wéi eng Schrëtt si mécht. Wa méi Hëllef néideg ass, kënnen d'Beroder op aner Servicer hiweisen.",
-    "t": 122.85
-   },
-   {
-    "speaker": "Anna",
-    "text": "No wéi engen anere Prinzippie schafft de KJT?",
-    "t": 137.27
-   },
-   {
-    "speaker": "Tom",
-    "text": "Um Site vum KJT stinn der am Ganze fënnef. Nieft der Selbstbestëmmung ginn et d'Anonymitéit, d'Schweigepflicht, Toleranz a Respekt, an d'Offenheet, wat heescht, datt ee mat all Fro a mat all Thema komme kann.",
-    "t": 140.39
+    "text": "Nee, an dat ass ee vun de fënnef Prinzippie vum KJT. Et heescht Selbstbestëmmung: nom Gespréich decidéiert all Persoun selwer, wéi eng Schrëtt si mécht. Déi aner Prinzippie sinn d'Anonymitéit, d'Schweigepflicht, Toleranz a Respekt, an d'Offenheet fir all Fro an all Thema.",
+    "t": 112.82
    },
    {
     "speaker": "Anna",
     "text": "Kucke mir eis d'Offeren eng no der anerer un, a fänke mir mat der eelster un: der Telefonsnummer 116 111. Si ass fir Kanner a Jugendlecher do, déi eng Fro oder e Problem hunn, an der Schoul, doheem, mat Frënn, mat den Elteren oder mat Geschwëster.",
-    "t": 152.52
+    "t": 132.15
    },
    {
     "speaker": "Tom",
     "text": "Wat muss e Kand am Ufank vun esou engem Uruff soen?",
-    "t": 168.92
+    "t": 148.55
    },
    {
     "speaker": "Anna",
     "text": "Net vill, well den Uruff ass anonym: et muss een net soen, wien een ass oder wou ee wunnt. En ass och vertraulech, also gëtt soss kee gewuer, iwwer wat geschwat gouf, an den Uruff ass gratis.",
-    "t": 171.92
+    "t": 151.55
    },
    {
     "speaker": "Tom",
     "text": "Kann een dës Nummer zu all Zäit vum Dag a vun der Nuecht uruffen?",
-    "t": 184.46
+    "t": 164.09
    },
    {
     "speaker": "Anna",
-    "text": "Nee, d'Linn ass net ronderëm d'Auer besat. Si ass nomëttes an owes ze erreechen, vu Méindes bis Samschdes, an déi genau Zäite stinn um Site.",
-    "t": 187.09
-   },
-   {
-    "speaker": "Tom",
-    "text": "Lëtzebuerg ass e Land mat ville Sproochen. Gëtt et och eppes fir Kanner, déi Englesch schwätzen?",
-    "t": 196.79
-   },
-   {
-    "speaker": "Anna",
-    "text": "De Site kënnegt un, datt d'Nummer elo op engem Dag an der Woch och op Englesch ze erreechen ass. Esou Detailer kënne sech änneren, dofir kuckt Dir am beschten um Site no.",
-    "t": 202.73
+    "text": "Nee, d'Linn ass net ronderëm d'Auer besat. Si ass nomëttes an owes ze erreechen, vu Méindes bis Samschdes. Déi genau Zäite stinn um Site, an do steet och, wéini een op Englesch uruffe kann.",
+    "t": 166.72
    },
    {
     "speaker": "Tom",
     "text": "Net all Jugendleche schwätze gär um Telefon, an e puer fannen et vill méi einfach ze schreiwen.",
-    "t": 212.76
+    "t": 178.88
    },
    {
     "speaker": "Anna",
-    "text": "Fir si gëtt et d'Online Help. Et schreift ee seng Fro oder seng Suerg um Site vum KJT, an e Beroder schéckt bannent e puer Deeg eng schrëftlech Äntwert.",
-    "t": 217.65
+    "text": "Fir si gëtt et d'Online Help. Et schreift ee seng Fro oder seng Suerg um Site vum KJT, op Lëtzebuergesch, Däitsch, Franséisch oder Englesch, an e Beroder schéckt bannent e puer Deeg eng schrëftlech Äntwert.",
+    "t": 183.77
    },
    {
     "speaker": "Tom",
     "text": "Brauch een eng E-Mail-Adress, fir d'Online Help ze notzen?",
-    "t": 227.86
+    "t": 196.43
    },
    {
     "speaker": "Anna",
     "text": "Nee, et wielt een nëmmen e Benotzernumm an e Passwuert, an et hält ee béides gutt op, well si sinn deen eenzege Schlëssel fir d'Äntwerten. Säi richtegen Numm, seng Adress, seng E-Mail oder seng Telefonsnummer gëtt een net un.",
-    "t": 230.74
-   },
-   {
-    "speaker": "Tom",
-    "text": "An a wéi enge Sprooche kënne Jugendlecher un d'Online Help schreiwen?",
-    "t": 244.34
-   },
-   {
-    "speaker": "Anna",
-    "text": "Si kënnen op Lëtzebuergesch, op Däitsch, op Franséisch oder op Englesch schreiwen.",
-    "t": 247.47
+    "t": 199.31
    },
    {
     "speaker": "Tom",
     "text": "Déi neisten Offer ass d'Chatberodung, déi 2021 ugefaangen huet. Dat ass e Live-Chat fir Jugendlecher, déi léiwer schreiwen an déi direkt iwwer eppes schwätze wëllen.",
-    "t": 251.65
+    "t": 212.91
    },
    {
     "speaker": "Anna",
     "text": "A wien äntwert am Chat, déi selwecht Beroder wéi um Telefon?",
-    "t": 262.13
+    "t": 223.39
    },
    {
     "speaker": "Tom",
-    "text": "Nee, a genau dat mécht de Chat besonnesch. De Site beschreift en als Peer-to-Peer-Offer, well d'Chatberoder si selwer jonk Leit. Si hunn eng Formatioun gemaach, a si bréngen och hir eegen Erfarunge mat.",
-    "t": 266.25
-   },
-   {
-    "speaker": "Anna",
-    "text": "E Jugendleche kann also mat engem schreiwen, deen ongeféier a sengem Alter ass.",
-    "t": 277.54
-   },
-   {
-    "speaker": "Tom",
-    "text": "Jo, dat ass d'Iddi, an och hei mellt ee sech mat engem Benotzernumm an engem Passwuert un, well Anonymitéit a Vertraulechkeet si wichteg. De Chat ass zu feste Zäiten owes op, déi Dir um Site fannt.",
-    "t": 281.63
+    "text": "Nee, a genau dat mécht de Chat besonnesch. De Site beschreift en als Peer-to-Peer-Offer, well d'Chatberoder si selwer jonk Leit. Si hunn eng Formatioun gemaach, a si bréngen och hir eegen Erfarunge mat. De Chat ass zu feste Zäiten owes op, déi Dir um Site fannt.",
+    "t": 227.51
    },
    {
     "speaker": "Anna",
     "text": "Komme mir elo bei déi Erwuessen am Liewe vun engem Kand. Zanter 2007 gëtt et eng Telefonsnummer fir Elteren, den Elterentelefon, a seng Nummer ass 8002 4444.",
-    "t": 293.58
+    "t": 242.9
    },
    {
     "speaker": "Tom",
     "text": "Ass dësen Telefon wierklech nëmme fir Mammen a Pappen do?",
-    "t": 306.38
+    "t": 255.7
    },
    {
     "speaker": "Anna",
     "text": "Nee, en ass fir Elteren, fir Grousselteren a fir all Erwuessenen do, dee mat Kanner oder Jugendlechen ze dinn huet. Dir kënnt mat enger Erzéiungsfro uruffen, oder wann eng Situatioun doheem belaaschtend ginn ass.",
-    "t": 309.1
+    "t": 258.42
    },
    {
     "speaker": "Tom",
     "text": "Wat kënnen Elteren vun esou engem Uruff erwaarden?",
-    "t": 321.83
+    "t": 271.15
    },
    {
     "speaker": "Anna",
-    "text": "Dir kënnt Berodung, Orientéierung an Informatioun erwaarden. D'Beroder gräifen net op Ärer Plaz an. Si hëllefen Iech, méi kloer ze gesinn, si ginn Iech praktesch Iddien, a si kënnen Iech soen, wéi eng aner Servicer zu Lëtzebuerg hëllefe kéinten.",
-    "t": 324.22
-   },
-   {
-    "speaker": "Tom",
-    "text": "A mussen Elteren eppes fir dës Berodung bezuelen?",
-    "t": 339.19
-   },
-   {
-    "speaker": "Anna",
-    "text": "Nee, d'Offer ass gratis, anonym a vertraulech. D'Beroder sinn ausgebilt, a si hu reegelméisseg Supervisioun a Weiderbildung.",
-    "t": 341.65
-   },
-   {
-    "speaker": "Tom",
-    "text": "Zu wéi enge Zäite kënnen Elteren dësen Telefon erreechen?",
-    "t": 349.94
-   },
-   {
-    "speaker": "Anna",
-    "text": "Op de Wochendeeg, meeschtens moies, mat e puer Zäite méi spéit am Dag. De Site weist och eng Zäit op Englesch un, an all d'Zäite stinn do.",
-    "t": 352.31
+    "text": "Dir kënnt Berodung, Orientéierung an Informatioun erwaarden. D'Beroder gräifen net op Ärer Plaz an. Si hëllefen Iech, méi kloer ze gesinn, si ginn Iech praktesch Iddien, a si kënnen Iech soen, wéi eng aner Servicer zu Lëtzebuerg hëllefe kéinten. D'Offer ass gratis, anonym a vertraulech, an d'Zäite stinn um Site.",
+    "t": 273.54
    },
    {
     "speaker": "Tom",
     "text": "Zwou weider Offeren hu mam Internet ze dinn, a si droen den Numm BEE SECURE. Déi éischt ass d'BEE SECURE Helpline, mat der Nummer 8002 1234.",
-    "t": 362.35
+    "t": 294.85
    },
    {
     "speaker": "Anna",
     "text": "Ass dës Helpline nëmme fir Kanner do, oder kann ech se och als Erwuessenen uruffen?",
-    "t": 372.72
+    "t": 305.22
    },
    {
     "speaker": "Tom",
-    "text": "Si ass fir all Bierger an all Alter do. Dir kënnt mat Froen iwwer d'Sécherheet am Internet an an den digitale Medien uruffen. D'Equipe beréit Iech individuell a weist Iech, wann néideg, un e spezialiséierte Service weider.",
-    "t": 377.07
-   },
-   {
-    "speaker": "Anna",
-    "text": "An ass en Uruff bei dëser Helpline och anonym?",
-    "t": 389.06
-   },
-   {
-    "speaker": "Tom",
-    "text": "Jo, d'Uriff si gratis, anonym a vertraulech. Dir kënnt och iwwer e Kontaktformulaire schreiwen, dee vertraulech, awer net anonym ass. An hei ass en Hiweis fir Grenzgänger: laut dem Site ass dës Nummer nëmmen aus dem lëtzebuergeschen Netz ze erreechen.",
-    "t": 392.13
+    "text": "Si ass fir all Bierger an all Alter do. Dir kënnt mat Froen iwwer d'Sécherheet am Internet an an den digitale Medien uruffen. D'Equipe beréit Iech individuell a weist Iech, wann néideg, un e spezialiséierte Service weider. D'Uriff si gratis, anonym a vertraulech. An hei ass en Hiweis fir Grenzgänger: laut dem Site ass dës Nummer nëmmen aus dem lëtzebuergeschen Netz ze erreechen.",
+    "t": 309.57
    },
    {
     "speaker": "Anna",
     "text": "A wat ass déi zweet Offer, déi den Numm BEE SECURE dréit?",
-    "t": 408.21
+    "t": 332.26
    },
    {
     "speaker": "Tom",
     "text": "Dat ass d'BEE SECURE Stopline. Si ass keng Telefonsnummer, mee e Site, op deem Dir illegal Inhalter melle kënnt, déi Dir am Internet fannt.",
-    "t": 412.16
+    "t": 336.21
    },
    {
     "speaker": "Anna",
     "text": "Wéi eng Zorte vun Inhalter kann een do mellen?",
-    "t": 420.25
+    "t": 344.3
    },
    {
     "speaker": "Tom",
-    "text": "Et ginn dräi Zorten: Duerstellunge vu sexuellem Mëssbrauch vu Mannerjäregen, rassistesch, revisionistesch oder diskriminéierend Inhalter, wouzou och Haassried gehéiert, an Inhalter, déi mat Terrorismus ze dinn hunn.",
-    "t": 422.89
-   },
-   {
-    "speaker": "Anna",
-    "text": "Wat geschitt, nodeems ech esou eng Meldung fortgeschéckt hunn?",
-    "t": 433.93
-   },
-   {
-    "speaker": "Tom",
-    "text": "D'Stopline analyséiert se a gëtt se un déi zoustänneg Servicer vun der Groussherzoglecher Police weider, an d'Autoritéiten decidéieren, wéi et weidergeet. De Formulaire ass Dag an Nuecht online, an d'Stopline späichert keng Donnéeën, mat deenen een Iech erkenne kéint.",
-    "t": 436.76
+    "text": "Et ginn dräi Zorten: Duerstellunge vu sexuellem Mëssbrauch vu Mannerjäregen, rassistesch, revisionistesch oder diskriminéierend Inhalter, wouzou och Haassried gehéiert, an Inhalter, déi mat Terrorismus ze dinn hunn. D'Stopline analyséiert all Meldung a gëtt se un déi zoustänneg Servicer vun der Groussherzoglecher Police weider, a si späichert keng Donnéeën, mat deenen een Iech erkenne kéint.",
+    "t": 346.94
    },
    {
     "speaker": "Anna",
     "text": "A wat ass mat anere Problemer am Internet, wéi Beleidegungen, Cybermobbing oder Bedruch?",
-    "t": 451.43
+    "t": 368.52
    },
    {
     "speaker": "Tom",
     "text": "Dës Fäll si näischt fir d'Stopline. Bei esou Froe kënnt Dir d'BEE SECURE Helpline uruffen, oder Dir wennt Iech un d'Police.",
-    "t": 456.15
+    "t": 373.24
    },
    {
     "speaker": "Anna",
     "text": "Eppes wousst ech net, ier ech de Site gelies hunn: beim KJT schaffe Benevoller als Beroder. Et fënnt een se um Kanner-Jugendtelefon, bei der Online Help an um Elterentelefon, a si ënnerstëtzen och d'BEE SECURE Helpline.",
-    "t": 463.04
+    "t": 380.13
    },
    {
     "speaker": "Tom",
     "text": "Kann all Mënsch sech einfach un den Telefon setzen an ufänken ze äntweren?",
-    "t": 478.43
+    "t": 395.52
    },
    {
     "speaker": "Anna",
-    "text": "Nee, all Benevole mécht fir d'éischt eng Grondausbildung. Si steet op dräi Pilieren: der Haltung vum Beroder an der Gespréichsféierung, Wëssen aus der Psychologie an der Pedagogik, a Kenntnisser iwwer d'Hëllefsofferen, déi et zu Lëtzebuerg ginn.",
-    "t": 481.7
-   },
-   {
-    "speaker": "Tom",
-    "text": "An übe si, ier si hiren éischten Uruff eleng unhuelen?",
-    "t": 497.56
-   },
-   {
-    "speaker": "Anna",
-    "text": "Jo, et gëtt e Stage an zwou Phasen. Fir d'éischt lauschtere si bei Gespréicher vun erfuerene Beroder no, an duerno féiere si selwer Gespréicher, mat engem Mentor un hirer Säit.",
-    "t": 500.68
-   },
-   {
-    "speaker": "Tom",
-    "text": "Wat geschitt, wann d'Ausbildung fäerdeg ass?",
-    "t": 510.68
-   },
-   {
-    "speaker": "Anna",
-    "text": "D'Benevoller iwwerhuelen all Mount reegelméisseg Déngschter, a si treffe sech all Mount fir d'Supervisioun, déi obligatoresch ass. Si hëlleft hinnen, iwwer hir Gespréicher nozedenken a selwer gesond ze bleiwen.",
-    "t": 512.77
+    "text": "Nee, all Benevole mécht fir d'éischt eng Grondausbildung. Si steet op dräi Pilieren: der Haltung vum Beroder an der Gespréichsféierung, Wëssen aus der Psychologie an der Pedagogik, a Kenntnisser iwwer d'Hëllefsofferen, déi et zu Lëtzebuerg ginn. Dozou kommen e Stage un der Säit vun erfuerene Beroder an duerno reegelméisseg Supervisioun.",
+    "t": 398.79
    },
    {
     "speaker": "Tom",
     "text": "Wéi kann een, deen interesséiert ass, Benevole ginn?",
-    "t": 523.51
+    "t": 420.88
    },
    {
     "speaker": "Anna",
-    "text": "Um Site gëtt et e Formulaire fir Interesséierter. Eng nei Ausbildung fänkt net all Joer un, a virun all Start gëtt et en Informatiounsowend.",
-    "t": 526.51
+    "text": "Um Site gëtt et e Formulaire fir Interesséierter, a virun all neier Ausbildung gëtt et en Informatiounsowend.",
+    "t": 423.88
    },
    {
     "speaker": "Tom",
-    "text": "Ass de KJT mat ähnleche Servicer an anere Länner verbonnen?",
-    "t": 535.6
-   },
-   {
-    "speaker": "Anna",
-    "text": "Jo, en ass Member a méi internationalen Netzwierker. Ee dovun ass de weltwäite Verband vun de Kanner- a Jugendtelefonen, an anerer setze sech fir e méi sécheren Internet a géint illegal Inhalter an Haass am Netz an.",
-    "t": 539.19
-   },
-   {
-    "speaker": "Tom",
-    "text": "De Site kjt Punkt l-u ass eng Visitt wäert, och fir Erwuessener. Et gëtt en op Däitsch, Franséisch an Englesch.",
-    "t": 553.2
-   },
-   {
-    "speaker": "Anna",
-    "text": "Wat fannen ech do nach, nieft den Offeren?",
-    "t": 559.76
-   },
-   {
-    "speaker": "Tom",
-    "text": "Et gi Säiten iwwer Themen, déi Jugendlecher beschäftegen: Frëndschaft, Konflikter an der Famill, Trennung a Scheedung, Stress an Drock, Cybermobbing a psychesch Gesondheet. Et ginn och ganz eescht Themen, wéi Gewalt, sexuelle Mëssbrauch a Suizid.",
-    "t": 562.6
-   },
-   {
-    "speaker": "Anna",
-    "text": "Elteren oder Enseignante kënnen do also noliesen, ier si e schwieregt Gespréich ufänken.",
-    "t": 579.24
-   },
-   {
-    "speaker": "Tom",
-    "text": "Jo, an et gëtt eng Toolbox mat Tipps, mat Videoen a mat enger Säit, déi Iech hëlleft, Berodungsstellen zu Lëtzebuerg ze fannen. Dir kënnt och Informatiounsmaterial vum KJT bestellen.",
-    "t": 584.04
+    "text": "De Site kjt Punkt l-u ass eng Visitt wäert, och fir Erwuessener. Et gëtt en op Däitsch, Franséisch an Englesch. Et gi Säiten iwwer Themen, déi Jugendlecher beschäftegen, wéi Frëndschaft, Konflikter an der Famill, Cybermobbing a psychesch Gesondheet, an och iwwer ganz eescht Themen, wéi Gewalt, sexuelle Mëssbrauch a Suizid. Et gëtt och eng Toolbox mat Tipps, Videoen an enger Säit, déi Iech hëlleft, Berodungsstellen zu Lëtzebuerg ze fannen.",
+    "t": 430.77
    },
    {
     "speaker": "Anna",
     "text": "Kann ech och iwwer de Kontaktformulaire vum Site ëm Rot froen?",
-    "t": 596.49
+    "t": 458.3
    },
    {
     "speaker": "Tom",
     "text": "Nee, iwwer dëse Formulaire bitt de KJT keng Berodung un, well en net anonym a vertraulech ass. Fir eng Berodung notzt Dir d'Offeren, déi mir beschriwwen hunn.",
-    "t": 600.5
+    "t": 462.31
    },
    {
     "speaker": "Anna",
     "text": "Hei ass nach eng Erënnerung vun eiser Säit: dës Telefone si fir nozelauschteren a fir ze beroden do, zu bestëmmten Zäiten. Wann een an direkter Gefor ass, ass d'Noutruffnummer den 112.",
-    "t": 611.03
+    "t": 472.84
    },
    {
     "speaker": "Tom",
     "text": "Dat stëmmt, an och iwwer den 112 gëtt et eng Episode an dësem Podcast. Faasse mir zesummen, wat mir haut geléiert hunn.",
-    "t": 622.26
+    "t": 484.07
    },
    {
     "speaker": "Anna",
     "text": "Éischtens: de KJT, de Kanner-Jugendtelefon, lauschtert Kanner a Jugendlechen zanter 1992 no. Seng Offere si gratis, anonym a vertraulech.",
-    "t": 629.27
+    "t": 491.08
    },
    {
     "speaker": "Tom",
     "text": "Zweetens: Kanner a Jugendlecher kënnen den 116 111 uruffen, un d'Online Help schreiwen oder de Chat mat ausgebilte jonke Beroder notzen.",
-    "t": 640.36
+    "t": 502.17
    },
    {
     "speaker": "Anna",
     "text": "Drëttens: Elteren, Grousselteren an aner Erwuessener, déi sech ëm Kanner këmmeren, kënnen den Elterentelefon um 8002 4444 uruffen.",
-    "t": 649.66
+    "t": 511.47
    },
    {
     "speaker": "Tom",
     "text": "Véiertens: fir Froen iwwer d'Sécherheet am Internet gëtt et d'BEE SECURE Helpline um 8002 1234, an illegal Inhalter kann een der BEE SECURE Stopline mellen.",
-    "t": 660.09
+    "t": 521.9
    },
    {
     "speaker": "Anna",
     "text": "Dir fannt d'Zäiten an all d'Offeren op kjt Punkt l-u.",
-    "t": 672.43
+    "t": 534.24
    },
    {
     "speaker": "Tom",
     "text": "De KJT huet e Motto, deen et ganz gutt seet: kee muss eleng bleiwen.",
-    "t": 676.85
+    "t": 538.66
    },
    {
     "speaker": "Anna",
     "text": "An heiansdo ass dat Nëtzlechst, wat en Erwuessene maache kann, eng Telefonsnummer weiderzeginn. Dat war eis Episode iwwer de Kanner-Jugendtelefon. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir aner Aktivitéite vum Biergerpakt entdecke wëllt, wéi gefouert Visitten, Online-Informatiounsversammlungen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. En ass fir all Awunner op, Lëtzebuerger an Net-Lëtzebuerger, an och fir d'Grenzgänger. An d'Aktivitéite si gratis. Dir musst just gratis um Biergerpakt matmaachen, op biergerpakt.lu.",
-    "t": 681.55
+    "t": 543.36
    },
    {
     "speaker": "Tom",
     "text": "Merci, alleguer. Passt op Iech op, a bis d'nächst Kéier!",
-    "t": 731.77
+    "t": 593.58
    },
    {
     "speaker": "Anna",
     "text": "Villmools Merci fir d'Nolauschteren.",
-    "t": 735.08
+    "t": 596.89
    }
   ]
  },
