@@ -6,8 +6,8 @@
   <title>Biergerpakt Podcast &ndash; Listen, Learn &amp; Earn Your Certificate</title>
   <link rel="icon" type="image/svg+xml" href="../../favicon.svg">
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
-  <script src="episodes_data.js?v=202611171135" defer></script>
-  <script src="../../app.js?v=202611171135" defer></script>
+  <script src="episodes_data.js?v=202611261454" defer></script>
+  <script src="../../app.js?v=202611261454" defer></script>
   <style>
     :root {
       --orange: #E84600;
@@ -116,6 +116,39 @@
     .filter-select:focus { outline: none; border-color: var(--orange); box-shadow: 0 0 0 3px rgba(232,70,0,0.1); }
     .filter-select.active { border-color: var(--orange); color: var(--orange-dark); }
     .filter-count { font-size: 0.8rem; color: var(--text-muted); }
+    .filter-pick { flex-wrap: wrap; }
+    /* View options: own line under the dropdown, both checkboxes side by side, left-aligned */
+    .view-checks { flex: 1 1 100%; display: flex; flex-wrap: wrap; align-items: center; gap: 4px 28px; }
+    .view-check { display: inline-flex; align-items: center; gap: 8px; font-size: 0.88rem; font-weight: 700; color: var(--dark); cursor: pointer; user-select: none; padding: 6px 2px; }
+    .view-check input { width: 18px; height: 18px; margin: 0; accent-color: var(--orange); cursor: pointer; }
+    .view-check:hover span { color: var(--orange-dark); }
+    /* Grouped-by-topic view */
+    #episode-grid.by-topic { background: none; box-shadow: none; border-radius: 0; overflow: visible; }
+    .topic-group { background: white; border-radius: 12px; box-shadow: 0 2px 12px rgba(0,0,0,0.06); overflow: hidden; margin-bottom: 18px; }
+    .topic-group-head { margin: 0; padding: 12px 18px; font-size: 0.95rem; font-weight: 800; color: var(--orange-dark); background: var(--orange-light); border-bottom: 1px solid var(--border); display: flex; align-items: center; gap: 8px; }
+    .topic-group-count { font-size: 0.75rem; font-weight: 800; color: var(--text-sub); background: white; border-radius: 999px; padding: 2px 8px; }
+
+    .topic-group-dot { flex: none; width: 10px; height: 10px; border-radius: 50%; }
+    /* Topic map: one bubble per theme, one dot per episode */
+    .topic-map-wrap { background: white; border-radius: 12px; box-shadow: 0 2px 12px rgba(0,0,0,0.06); padding: 16px 12px 12px; margin-bottom: 18px; }
+    .topic-map-wrap[hidden] { display: none; }
+    #topic-map { position: relative; width: 100%; }
+    .tm-bubble { position: absolute; border-radius: 50%; border: 1.5px solid; cursor: pointer; transition: opacity 0.15s, box-shadow 0.15s; }
+    .tm-bubble.dimmed { opacity: 0.45; }
+    .tm-bubble.dimmed:hover { opacity: 0.8; }
+    .tm-bubble.selected { box-shadow: 0 0 0 3px var(--c); }
+    .tm-chip { position: absolute; left: 50%; top: 0; transform: translate(-50%, -72%); z-index: 2; width: max-content; background: var(--c); color: white; border: 2px solid white; border-radius: 14px; padding: 4px 11px; font-family: inherit; font-size: 0.74rem; font-weight: 800; line-height: 1.25; text-align: center; cursor: pointer; }
+    .tm-chip:focus-visible { outline: 2px solid var(--c); outline-offset: 2px; }
+    .tm-chip-n { font-weight: 700; opacity: 0.8; margin-left: 3px; }
+    .tm-dot { position: absolute; display: flex; align-items: center; justify-content: center; padding: 0; border-radius: 50%; background: white; border: 1.5px solid var(--c); color: var(--c); font-family: inherit; font-size: 0.8rem; font-weight: 800; font-variant-numeric: tabular-nums; cursor: pointer; transition: transform 0.12s, background 0.12s, color 0.12s; }
+    .tm-dot:hover, .tm-dot:focus-visible { background: var(--c); color: white; outline: none; transform: scale(1.14); z-index: 3; }
+    .tm-dot.in-progress { border-style: dashed; }
+    .tm-tip { position: absolute; z-index: 5; width: max-content; max-width: 240px; transform: translate(-50%, -100%); background: var(--dark); color: white; font-size: 0.8rem; font-weight: 600; line-height: 1.35; padding: 7px 11px; border-radius: 8px; pointer-events: none; box-shadow: 0 4px 14px rgba(0,0,0,0.2); }
+    .tm-tip[hidden] { display: none; }
+    .tm-tip-num { display: block; font-size: 0.68rem; font-weight: 800; letter-spacing: 0.8px; text-transform: uppercase; opacity: 0.7; }
+    .tm-tip-more { display: block; font-size: 0.7rem; font-weight: 600; opacity: 0.7; margin-top: 2px; }
+    .tm-hint { font-size: 0.8rem; color: var(--text-muted); text-align: center; line-height: 1.45; margin-top: 10px; }
+    @media (prefers-reduced-motion: reduce) { .tm-dot, .tm-bubble { transition: none; } }
 
     /* Episode list: one compact row per episode */
     #episode-grid { background: white; border-radius: 12px; box-shadow: 0 2px 12px rgba(0,0,0,0.06); overflow: hidden; }
@@ -234,6 +267,107 @@
     .cert-footer strong { color: #888; }
     .cert-actions { display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; }
 
+    /* ─── PLAYLIST ────────────────────────────────────── */
+    [hidden] { display: none !important; }
+    /* Header button */
+    .pl-head-btn { display: inline-flex; align-items: center; gap: 7px; background: white; border: 1.5px solid var(--border); border-radius: 8px; padding: 5px 10px; font-family: inherit; font-size: 0.78rem; font-weight: 800; color: var(--dark); cursor: pointer; transition: border-color 0.15s, color 0.15s; }
+    .pl-head-btn:hover, .pl-head-btn:focus-visible { border-color: var(--orange); color: var(--orange-dark); outline: none; }
+    .pl-head-btn svg { width: 16px; height: 16px; flex: none; }
+    .pl-head-count { min-width: 20px; padding: 1px 6px; border-radius: 99px; background: var(--border); color: #555; font-size: 0.72rem; text-align: center; font-variant-numeric: tabular-nums; }
+    .pl-head-btn.has-items .pl-head-count { background: var(--orange); color: white; }
+    /* "+" next to each episode in the list */
+    .ep-row-wrap { display: flex; align-items: stretch; border-bottom: 1px solid var(--border); }
+    .ep-row-wrap:last-child { border-bottom: none; }
+    .ep-row-wrap .ep-row { flex: 1; min-width: 0; border-bottom: none; }
+    .ep-row-add { flex: none; width: 52px; display: flex; align-items: center; justify-content: center; background: none; border: none; border-left: 1px solid var(--border); color: var(--text-sub); cursor: pointer; transition: background 0.12s, color 0.12s; }
+    .ep-row-add svg { width: 20px; height: 20px; }
+    .ep-row-add:hover, .ep-row-add:focus-visible { background: var(--orange-light); color: var(--orange); outline: none; }
+    .ep-row-add.added { color: var(--green); background: var(--green-light); }
+    /* Column titles above the episode list */
+    .ep-list-head { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 9px 14px 9px 18px; background: #FAFAF8; border-bottom: 1px solid var(--border); font-size: 0.7rem; font-weight: 800; letter-spacing: 0.6px; text-transform: uppercase; color: var(--text-muted); }
+    .ep-list-head-pl, .topic-group-pl { display: inline-flex; align-items: center; gap: 5px; text-align: right; }
+    .ep-list-head-pl svg, .topic-group-pl svg { flex: none; width: 13px; height: 13px; }
+    .topic-group-pl { margin-left: auto; padding-left: 12px; font-size: 0.7rem; font-weight: 800; letter-spacing: 0.6px; text-transform: uppercase; color: var(--text-muted); }
+    /* Button on the episode page */
+    .pl-detail-btn { margin-top: 14px; padding: 9px 18px; font-size: 0.86rem; }
+    .pl-detail-btn.added { border-color: var(--green); color: var(--green); }
+    .pl-detail-btn.added:hover { background: var(--green); color: white; box-shadow: none; }
+    /* "My playlist" screen */
+    .pl-actions { display: flex; align-items: center; flex-wrap: wrap; gap: 10px 16px; margin-bottom: 16px; }
+    .pl-actions .filter-count { flex: 1; }
+    #pl-list { background: white; border-radius: 12px; box-shadow: 0 2px 12px rgba(0,0,0,0.06); overflow: hidden; }
+    .pl-item { display: flex; align-items: center; gap: 4px; padding: 6px 8px 6px 16px; border-bottom: 1px solid var(--border); }
+    .pl-item:last-child { border-bottom: none; }
+    .pl-item.current { background: var(--orange-light); box-shadow: inset 3px 0 0 var(--orange); }
+    .pl-pos { flex: none; min-width: 1.6em; font-size: 0.85rem; font-weight: 800; color: var(--orange); text-align: right; font-variant-numeric: tabular-nums; }
+    .pl-item-main { flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 2px; padding: 8px 10px; background: none; border: none; border-radius: 8px; font-family: inherit; text-align: left; color: var(--dark); cursor: pointer; }
+    .pl-item-main:hover .pl-item-title, .pl-item-main:focus-visible .pl-item-title { color: var(--orange-dark); }
+    .pl-item-main:focus-visible { outline: 2px solid var(--orange); outline-offset: -2px; }
+    .pl-item-title { font-size: 0.95rem; font-weight: 600; line-height: 1.35; }
+    .pl-item.current .pl-item-title { font-weight: 800; }
+    .pl-item-meta { font-size: 0.76rem; color: var(--text-muted); font-variant-numeric: tabular-nums; }
+    .pl-ic { flex: none; display: inline-flex; align-items: center; justify-content: center; width: 44px; height: 44px; padding: 0; background: none; border: none; border-radius: 50%; color: inherit; cursor: pointer; transition: background 0.12s, color 0.12s; }
+    .pl-ic svg { width: 24px; height: 24px; }
+    .pl-ic:disabled { opacity: 0.3; cursor: default; }
+    .pl-sm { width: 38px; height: 38px; color: var(--text-muted); }
+    .pl-sm svg { width: 20px; height: 20px; }
+    .pl-sm:hover:not(:disabled), .pl-sm:focus-visible { background: var(--border); color: var(--dark); outline: none; }
+    .pl-rm:hover:not(:disabled), .pl-rm:focus-visible { background: var(--red-light); color: var(--red); }
+    .pl-empty { background: white; border-radius: 12px; box-shadow: 0 2px 12px rgba(0,0,0,0.06); padding: 34px 24px; text-align: center; color: var(--text-muted); font-size: 0.95rem; line-height: 1.5; }
+    .pl-note { font-size: 0.82rem; color: var(--text-muted); line-height: 1.55; margin-top: 16px; }
+    .pl-note + .pl-note { margin-top: 6px; }
+    /* Player bar, fixed at the bottom of every screen while a playlist is loaded */
+    body.pl-bar-on { padding-bottom: 96px; }
+    .pl-bar { position: fixed; left: 0; right: 0; bottom: 0; z-index: 200; background: var(--dark); color: white; box-shadow: 0 -4px 18px rgba(0,0,0,0.25); padding: 10px 16px; padding-bottom: max(10px, env(safe-area-inset-bottom)); }
+    .pl-bar-inner { max-width: 920px; margin: 0 auto; display: grid; grid-template-columns: auto minmax(0, 1fr) auto; grid-template-areas: "ctrl title close" "ctrl prog close"; align-items: center; column-gap: 14px; row-gap: 2px; }
+    .pl-bar-ctrl { grid-area: ctrl; display: flex; align-items: center; gap: 2px; }
+    .pl-bar .pl-ic:hover:not(:disabled), .pl-bar .pl-ic:focus-visible { background: rgba(255,255,255,0.14); outline: none; }
+    .pl-bar .pl-ic-main { width: 52px; height: 52px; background: var(--orange); }
+    .pl-bar .pl-ic-main:hover, .pl-bar .pl-ic-main:focus-visible { background: var(--orange-dark); }
+    .pl-bar .pl-ic-main svg { width: 28px; height: 28px; }
+    .pl-bar-title { grid-area: title; min-width: 0; display: flex; align-items: baseline; gap: 8px; padding: 2px 0; background: none; border: none; font-family: inherit; color: white; text-align: left; cursor: pointer; }
+    .pl-bar-title:focus-visible { outline: 2px solid var(--orange); outline-offset: 2px; }
+    .pl-bar-count { flex: none; font-size: 0.72rem; font-weight: 800; letter-spacing: 0.5px; color: #FFB48F; font-variant-numeric: tabular-nums; }
+    .pl-bar-name { min-width: 0; font-size: 0.92rem; font-weight: 700; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    .pl-bar-prog { grid-area: prog; display: flex; align-items: center; gap: 10px; font-size: 0.74rem; font-variant-numeric: tabular-nums; color: rgba(255,255,255,0.75); }
+    .pl-bar-prog input[type=range] { flex: 1; min-width: 0; height: 22px; margin: 0; background: transparent; -webkit-appearance: none; appearance: none; cursor: pointer; --p: 0%; }
+    .pl-bar-prog input[type=range]::-webkit-slider-runnable-track { height: 5px; border-radius: 99px; background: linear-gradient(to right, var(--orange) var(--p), rgba(255,255,255,0.25) var(--p)); }
+    .pl-bar-prog input[type=range]::-moz-range-track { height: 5px; border-radius: 99px; background: rgba(255,255,255,0.25); }
+    .pl-bar-prog input[type=range]::-moz-range-progress { height: 5px; border-radius: 99px; background: var(--orange); }
+    .pl-bar-prog input[type=range]::-webkit-slider-thumb { -webkit-appearance: none; width: 15px; height: 15px; margin-top: -5px; border-radius: 50%; background: white; border: none; }
+    .pl-bar-prog input[type=range]::-moz-range-thumb { width: 15px; height: 15px; border-radius: 50%; background: white; border: none; }
+    .pl-bar-prog input[type=range]:focus-visible { outline: 2px solid var(--orange); outline-offset: 2px; }
+    .pl-bar .pl-ic-close { grid-area: close; width: 40px; height: 40px; color: rgba(255,255,255,0.7); }
+    .pl-bar .pl-ic-close svg { width: 20px; height: 20px; }
+    @media (max-width: 600px) {
+      .pl-head-btn .pl-head-label { display: none; }
+      .pl-head-btn { padding: 5px 8px; gap: 5px; }
+      header { padding: 12px 12px; gap: 8px; }
+      .header-gov { gap: 6px; flex: none; }
+      .logo-wrap { min-width: 0; }
+      .logo-main { font-size: 17px; }
+      .logo-sub { font-size: 8px; letter-spacing: 1.6px; white-space: nowrap; }
+      .lang-btn { padding: 5px 8px; }
+      /* very narrow phones: the topic dropdown must not be wider than the screen */
+      .filter-pick { min-width: 0; max-width: 100%; }
+      .filter-select { min-width: 0; width: 100%; text-overflow: ellipsis; }
+      .ep-row-add { width: 48px; }
+      .ep-list-head { padding: 9px 10px 9px 14px; }
+      .topic-group-head { flex-wrap: wrap; }
+      .pl-item { padding-left: 10px; }
+      .pl-sm { width: 36px; height: 36px; }
+      body.pl-bar-on { padding-bottom: 124px; }
+      .pl-bar { padding: 8px 10px; padding-bottom: max(8px, env(safe-area-inset-bottom)); }
+      .pl-bar-inner { grid-template-columns: auto minmax(0, 1fr) auto; grid-template-areas: "title title close" "ctrl prog prog"; column-gap: 8px; }
+      .pl-bar-prog { gap: 6px; }
+    }
+    @media (prefers-reduced-motion: reduce) { .ep-row-add, .pl-ic, .pl-head-btn { transition: none; } }
+
+    /* ─── ACCESS PASSWORD (temporary) ─────────────────── */
+    body.locked .screen:not(#screen-login), body.locked #pl-bar, body.locked #btn-playlist { display: none !important; }
+    body.locked { padding-bottom: 0 !important; }
+    .login-wrap { max-width: 460px; }
+
     /* ─── UTILITY ─────────────────────────────────────── */
     .hidden { display: none !important; }
 
@@ -258,7 +392,7 @@
     }
   </style>
 </head>
-<body>
+<body data-access="open">
 <div style="background:#b7791f;color:#fff;text-align:center;padding:6px 12px;font:600 13px/1.4 system-ui,sans-serif;">Preview for review — single episode. Please do not share this link.</div>
 
 <header>
@@ -267,6 +401,11 @@
     <div class="logo-sub">Biergerpakt &middot; Podcast</div>
   </a>
   <div class="header-gov">
+    <button type="button" class="pl-head-btn" id="btn-playlist" hidden>
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" d="M4 6h12M4 12h8M4 18h8"/><path fill="currentColor" d="M15.5 11.5v9l7-4.5z"/></svg>
+      <span class="pl-head-label" data-i18n="pl_button">My playlist</span>
+      <span class="pl-head-count" id="pl-head-count">0</span>
+    </button>
     <div class="lang-switch" id="lang-switch-global" role="group" aria-label="Site language">
       <button type="button" class="lang-btn active" data-lang="en">EN</button>
       <button type="button" class="lang-btn" data-lang="fr">FR</button>
@@ -274,6 +413,27 @@
     </div>
   </div>
 </header>
+
+<!-- SCREEN 0 · ACCESS PASSWORD (temporary, while the site is not public; set or remove it with build/set_password.js) -->
+<div id="screen-login" class="screen">
+  <div class="reg-hero">
+    <div class="tag" data-i18n="reg_tag">Biergerpakt &middot; Podcast Programme</div>
+    <h1 data-i18n="podcast_name">The Biergerpakt Podcast</h1>
+    <p data-i18n="login_intro">This site is not open to the public yet. Please enter the password you were given.</p>
+  </div>
+  <div class="reg-form-wrap login-wrap">
+    <form class="card" id="login-form">
+      <div class="card-title" data-i18n="login_title" style="margin-bottom:16px;">Access</div>
+      <div class="form-group">
+        <label for="inp-pass" data-i18n="login_label">Password</label>
+        <input class="form-input" type="password" id="inp-pass" autocomplete="current-password" autocapitalize="none" spellcheck="false">
+        <div class="error-msg" id="err-pass" role="alert" data-i18n="login_err">This password is not correct. Please try again.</div>
+        <div class="form-hint" data-i18n="login_hint">You only need to enter it once on this device.</div>
+      </div>
+      <button class="btn btn-full" type="submit" data-i18n="login_btn">Enter &rarr;</button>
+    </form>
+  </div>
+</div>
 
 <!-- SCREEN 1 · REGISTRATION -->
 <!-- Registration screen disabled for now: visitors go straight to the catalogue.
@@ -326,6 +486,14 @@
         <select class="filter-select" id="filter-select"></select>
       </div>
       <div class="filter-count" id="filter-count"></div>
+      <div class="view-checks">
+        <label class="view-check"><input type="checkbox" id="view-toggle"><span id="view-toggle-label">Show episodes by topic</span></label>
+        <label class="view-check"><input type="checkbox" id="map-toggle"><span id="map-toggle-label">Show the topic map</span></label>
+      </div>
+    </div>
+    <div class="topic-map-wrap" id="topic-map-wrap" hidden>
+      <div id="topic-map" role="group"></div>
+      <p class="tm-hint" id="topic-map-hint"></p>
     </div>
     <div id="episode-grid"></div>
   </div>
@@ -347,6 +515,7 @@
       <div class="ep-card-title"><span data-i18n="listen_title">&#127911; Listen to this episode</span></div>
       <audio id="ep-audio" controls preload="metadata"></audio>
       <p class="player-hint" data-i18n="player_hint">Press play and the script below will highlight along with the audio. Click any line to jump to that point.</p>
+      <button type="button" class="btn btn-outline pl-detail-btn" id="btn-pl-toggle" hidden>+ Add to my playlist</button>
     </div>
 
     <div class="ep-card">
@@ -365,6 +534,26 @@
       <button class="btn btn-white" id="btn-start-quiz" data-i18n="btn_start_quiz">Start the quiz &rarr;</button>
       <div class="quiz-cta-meta" data-i18n="quiz_cta_meta">5 questions &middot; Multiple choice &middot; Wrong answers come back at the end until you get them right</div>
     </div>
+  </div>
+</div>
+
+<!-- SCREEN · MY PLAYLIST (episodes chosen by the listener, played one after the other) -->
+<div id="screen-playlist" class="screen">
+  <div class="episodes-hero">
+    <button class="btn btn-ghost" id="btn-back-episodes-pl" style="margin-bottom:16px; color:rgba(255,255,255,0.7);" data-i18n="btn_all_episodes">&larr; All episodes</button>
+    <h1 data-i18n="pl_h1">My playlist</h1>
+    <p data-i18n="pl_intro">Choose the episodes you want to hear in a row &ndash; in the car, on the train or on a walk. They play one after the other.</p>
+  </div>
+  <div class="episode-grid-wrap">
+    <div class="pl-actions" id="pl-actions" hidden>
+      <button type="button" class="btn" id="pl-play-all" data-i18n="pl_play_all">&#9654; Play all</button>
+      <div class="filter-count" id="pl-summary"></div>
+      <button type="button" class="btn btn-ghost" id="pl-clear" data-i18n="pl_clear">Empty the playlist</button>
+    </div>
+    <div id="pl-list" hidden></div>
+    <p class="pl-empty" id="pl-empty" data-i18n="pl_empty">Your playlist is empty. Use the + button next to an episode to add it.</p>
+    <p class="pl-note" data-i18n="pl_car_hint"></p>
+    <p class="pl-note" data-i18n="pl_storage_note"></p>
   </div>
 </div>
 
@@ -438,6 +627,21 @@
       <button class="btn" id="btn-print" data-i18n="btn_print">&#128424;&#65039; Print / Save as PDF</button>
       <button class="btn btn-outline" id="btn-back-episode" data-i18n="btn_back_episode">&larr; Back to the episode</button>
     </div>
+  </div>
+</div>
+
+<!-- PLAYLIST PLAYER BAR (shown on every screen while a playlist episode is loaded) -->
+<div class="pl-bar no-print" id="pl-bar" hidden>
+  <audio id="pl-audio" preload="none"></audio>
+  <div class="pl-bar-inner">
+    <div class="pl-bar-ctrl">
+      <button type="button" class="pl-ic" id="pl-prev" aria-label="Previous episode"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M6 6h2v12H6zM9.5 12l8.5 6V6z"/></svg></button>
+      <button type="button" class="pl-ic pl-ic-main" id="pl-toggle" aria-label="Play"></button>
+      <button type="button" class="pl-ic" id="pl-next" aria-label="Next episode"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M16 6h2v12h-2zM6 18l8.5-6L6 6z"/></svg></button>
+    </div>
+    <button type="button" class="pl-bar-title" id="pl-bar-title"><span class="pl-bar-count" id="pl-bar-count"></span><span class="pl-bar-name" id="pl-bar-name"></span></button>
+    <div class="pl-bar-prog"><span id="pl-cur">0:00</span><input type="range" id="pl-seek" min="0" max="100" step="1" value="0"><span id="pl-dur">0:00</span></div>
+    <button type="button" class="pl-ic pl-ic-close" id="pl-close" aria-label="Close the player"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" d="M6 6l12 12M18 6L6 18"/></svg></button>
   </div>
 </div>
 

@@ -4,17 +4,17 @@ const EPISODES = [
   "key": "zesumme",
   "number": "Episode 23",
   "title": "Zesumme Vereinfachen – Helping to Simplify Public Services Together",
-  "description": "What the 'Zesumme Vereinfachen' platform is, how citizens and businesses can submit ideas to simplify the State's procedures, who runs it (the Ministry for Digitalisation), how you can take part in one or several phases in any of the four languages, and a real example: improving the MyGuichet app.",
+  "description": "What the 'Zesumme Vereinfachen' platform is, and why it is about administrative steps in general, not only digital ones: how citizens and businesses can submit ideas and take part — online, on paper or in person — in one or several phases, who runs it (the Ministry for Digitalisation), and two real examples: the Guichet.lu on tour bus and the 4th water management plan.",
   "audio": "../../podcast_zesumme.mp3",
-  "duration": 378.1,
+  "duration": 548.94,
   "topics": [
    "What Zesumme Vereinfachen is",
-   "Simplifying procedures together",
+   "Administrative steps in general",
    "Run by the Ministry for Digitalisation",
-   "Submit your ideas",
-   "Join one phase or many",
-   "Available in four languages",
-   "Example: improving MyGuichet",
+   "Submit ideas, join one phase or many",
+   "Online, on paper or in person",
+   "Example: the Guichet.lu bus",
+   "Example: the water management plan",
    "Everyday democracy"
   ],
   "segments": [
@@ -50,448 +50,633 @@ const EPISODES = [
    },
    {
     "speaker": "Tom",
-    "text": "And today we have a topic that, honestly, almost everyone has feelings about... paperwork.",
+    "text": "And today we have a topic that, honestly, almost everyone has feelings about: paperwork.",
     "t": 27.49
    },
    {
     "speaker": "Anna",
     "text": "Yes! Forms, procedures, administrative steps.",
-    "t": 33.05
+    "t": 32.68
    },
    {
     "speaker": "Anna",
     "text": "Sometimes they are simple.",
-    "t": 36.43
+    "t": 36.06
    },
    {
     "speaker": "Anna",
-    "text": "And sometimes... they are not.",
-    "t": 38.13
+    "text": "And sometimes, they are not.",
+    "t": 37.76
    },
    {
     "speaker": "Tom",
     "text": "We have all had that moment.",
-    "t": 40.73
+    "t": 40.22
    },
    {
     "speaker": "Tom",
     "text": "A form that asks the same thing twice.",
-    "t": 42.55
+    "t": 42.04
    },
    {
     "speaker": "Tom",
-    "text": "A step that makes you think... why is this so complicated?",
-    "t": 45.06
+    "text": "A step that makes you think: why is this so complicated?",
+    "t": 44.52
    },
    {
     "speaker": "Anna",
     "text": "Well, today's topic is a project that turns that frustration into something useful.",
-    "t": 49.33
+    "t": 48.37
    },
    {
     "speaker": "Tom",
     "text": "It is called Zesumme Vereinfachen.",
-    "t": 54.12
+    "t": 53.16
    },
    {
     "speaker": "Tom",
     "text": "The name is in Luxembourgish.",
-    "t": 56.08
+    "t": 55.12
    },
    {
     "speaker": "Anna",
     "text": "And it means \"simplifying together\".",
-    "t": 57.78
+    "t": 56.82
    },
    {
     "speaker": "Anna",
     "text": "I love that idea — doing it together.",
-    "t": 60.36
+    "t": 59.4
    },
    {
     "speaker": "Tom",
     "text": "So Anna, what exactly is this project?",
-    "t": 63.45
+    "t": 62.49
    },
    {
     "speaker": "Anna",
-    "text": "It is an online platform where citizens and businesses can help make the State's procedures simpler.",
-    "t": 65.94
+    "text": "It is a participation platform where citizens and businesses can help make the State's procedures, and administrative steps in general, simpler.",
+    "t": 64.98
    },
    {
     "speaker": "Tom",
     "text": "So instead of just complaining about paperwork, you can actually do something about it.",
-    "t": 72.02
+    "t": 74.08
    },
    {
     "speaker": "Anna",
-    "text": "Exactly. Its slogan says it beautifully... public services that make your daily life easier.",
-    "t": 76.31
+    "text": "Exactly. Its slogan says it beautifully: public services that make your daily life easier.",
+    "t": 78.37
    },
    {
     "speaker": "Tom",
     "text": "And who is behind it?",
-    "t": 82.78
+    "t": 84.99
    },
    {
     "speaker": "Anna",
     "text": "It is run by the Ministry for Digitalisation, through a body called the Simplification Council.",
-    "t": 84.11
+    "t": 86.32
    },
    {
     "speaker": "Tom",
     "text": "The platform was launched in 2022, and it is part of a bigger effort to simplify the administration.",
-    "t": 89.95
+    "t": 92.16
    },
    {
     "speaker": "Anna",
-    "text": "That bigger effort even has its own name... \"Einfach Lëtzebuerg\", which means \"Simply Luxembourg\".",
-    "t": 96.11
+    "text": "That bigger effort even has its own name: \"Einfach Lëtzebuerg\", which means \"Simply Luxembourg\".",
+    "t": 98.32
+   },
+   {
+    "speaker": "Tom",
+    "text": "With a Ministry for Digitalisation behind it, I would expect it to be all about apps and websites.",
+    "t": 105.71
+   },
+   {
+    "speaker": "Anna",
+    "text": "Many people think that, but it goes much wider.",
+    "t": 111.03
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is about administrative steps in general: forms, offices, counters, and how close public services are to the people who use them.",
+    "t": 114.12
    },
    {
     "speaker": "Tom",
     "text": "Let's get to the heart of it.",
-    "t": 102.98
+    "t": 122.84
    },
    {
     "speaker": "Tom",
     "text": "How does the platform actually work?",
-    "t": 104.23
+    "t": 124.09
    },
    {
     "speaker": "Anna",
     "text": "The big idea is to put the real experience of citizens and businesses at the centre.",
-    "t": 106.51
+    "t": 126.37
    },
    {
     "speaker": "Tom",
     "text": "Because the people who use a procedure every day often understand its problems best.",
-    "t": 111.27
+    "t": 131.13
    },
    {
     "speaker": "Anna",
     "text": "So citizens and businesses can take the initiative, and submit ideas to simplify the State's procedures.",
-    "t": 115.85
+    "t": 135.71
    },
    {
     "speaker": "Tom",
     "text": "You have noticed something clumsy, something that could be easier?",
-    "t": 122.96
+    "t": 142.82
    },
    {
     "speaker": "Tom",
     "text": "You can suggest how to fix it.",
-    "t": 126.68
+    "t": 146.54
    },
    {
     "speaker": "Anna",
-    "text": "And then the work happens in a participatory, co-creative way... together with the people who proposed it.",
-    "t": 128.51
+    "text": "And then the work happens in a participatory, co-creative way, together with the people who proposed it.",
+    "t": 148.37
    },
    {
     "speaker": "Anna",
     "text": "Ministries and administrations can also post their own projects there, to ask for people's opinions.",
-    "t": 134.93
+    "t": 154.68
    },
    {
     "speaker": "Tom",
     "text": "I think it helps to picture it as a project that moves through phases.",
-    "t": 140.97
+    "t": 160.73
    },
    {
     "speaker": "Anna",
     "text": "Yes. There is a phase for sharing ideas, and then phases for working on a solution and testing it.",
-    "t": 145.12
+    "t": 164.88
    },
    {
     "speaker": "Tom",
     "text": "And here is a detail I really appreciate.",
-    "t": 151.55
+    "t": 171.31
    },
    {
     "speaker": "Tom",
     "text": "You don't have to commit to the whole journey.",
-    "t": 153.76
+    "t": 173.52
    },
    {
     "speaker": "Anna",
     "text": "That's right. You can take part in just one phase, or several, as much as you want.",
-    "t": 156.16
+    "t": 175.92
    },
    {
     "speaker": "Tom",
     "text": "So you are free.",
-    "t": 161.08
+    "t": 180.84
    },
    {
     "speaker": "Tom",
     "text": "You give what you can, when you can.",
-    "t": 162.27
+    "t": 182.03
    },
    {
     "speaker": "Tom",
     "text": "No pressure.",
-    "t": 164.14
+    "t": 183.9
    },
    {
     "speaker": "Anna",
-    "text": "And the platform welcomes everyone, in all four of our languages... Luxembourgish, German, French, and English.",
-    "t": 165.27
+    "text": "And the platform welcomes everyone, in all four of our languages: Luxembourgish, German, French, and English.",
+    "t": 185.03
    },
    {
     "speaker": "Tom",
     "text": "That really matters in a country as multilingual as Luxembourg.",
-    "t": 172.28
+    "t": 192.15
    },
    {
     "speaker": "Tom",
     "text": "Everyone can join in their own language.",
-    "t": 176.12
+    "t": 195.99
+   },
+   {
+    "speaker": "Anna",
+    "text": "And what about people who do not use the internet much?",
+    "t": 197.93
+   },
+   {
+    "speaker": "Anna",
+    "text": "Can they take part too?",
+    "t": 201.05
+   },
+   {
+    "speaker": "Tom",
+    "text": "Yes, they can, because in some projects people could also give their opinion on paper, in workshops, at stands, or at round tables.",
+    "t": 202.97
+   },
+   {
+    "speaker": "Tom",
+    "text": "We will hear two real examples in a moment.",
+    "t": 210.45
    },
    {
     "speaker": "Anna",
     "text": "Let's make this concrete.",
-    "t": 178.06
+    "t": 212.77
    },
    {
     "speaker": "Anna",
     "text": "What kind of thing could be simplified?",
-    "t": 179.59
+    "t": 214.3
    },
    {
     "speaker": "Tom",
     "text": "Imagine a form that asks for information the State already has.",
-    "t": 181.89
+    "t": 216.6
    },
    {
     "speaker": "Tom",
     "text": "Why fill it in again?",
-    "t": 185.26
+    "t": 219.97
    },
    {
     "speaker": "Anna",
     "text": "Or a procedure that involves three different offices, when one would do.",
-    "t": 186.65
+    "t": 221.36
    },
    {
     "speaker": "Tom",
     "text": "Or instructions that are hard to understand, that could be written in plain language.",
-    "t": 191.17
+    "t": 225.88
    },
    {
     "speaker": "Anna",
-    "text": "A good example is digital services.",
-    "t": 195.78
+    "text": "Those are good ideas.",
+    "t": 230.49
    },
    {
     "speaker": "Anna",
-    "text": "The platform has been used to help improve the MyGuichet app.",
-    "t": 198.3
+    "text": "But has the platform already changed something real?",
+    "t": 231.98
    },
    {
     "speaker": "Tom",
-    "text": "And we have talked about MyGuichet in an earlier episode.",
-    "t": 202.35
+    "text": "It has, and my favourite example is about meeting the administration face to face.",
+    "t": 235.13
    },
    {
     "speaker": "Tom",
-    "text": "It's the State's online counter.",
-    "t": 205.15
+    "text": "For a long time, if you wanted help with a procedure in person, you went to the Guichet.lu reception desk in Luxembourg City.",
+    "t": 239.35
    },
    {
     "speaker": "Anna",
-    "text": "So real users gave feedback, and that feedback helped shape a tool that hundreds of procedures pass through.",
-    "t": 207.25
+    "text": "That can be a long trip for some people, depending on where they live.",
+    "t": 247.2
    },
    {
     "speaker": "Tom",
-    "text": "That's the magic.",
-    "t": 213.61
+    "text": "Exactly. The government had promised more reception desks in the regions.",
+    "t": 251.27
    },
    {
     "speaker": "Tom",
-    "text": "One person's small suggestion can improve life for thousands.",
-    "t": 214.71
+    "text": "So the Ministry for Digitalisation asked people what they would need from a reception desk close to home.",
+    "t": 255.79
+   },
+   {
+    "speaker": "Anna",
+    "text": "And how did they ask people: only online, or in other ways too?",
+    "t": 262.07
+   },
+   {
+    "speaker": "Tom",
+    "text": "Not only online, and that is the interesting part.",
+    "t": 266.7
+   },
+   {
+    "speaker": "Tom",
+    "text": "People could answer on the platform, on a paper form, in workshops, and at stands.",
+    "t": 269.55
+   },
+   {
+    "speaker": "Anna",
+    "text": "So even people who rarely go online could give their opinion.",
+    "t": 274.38
+   },
+   {
+    "speaker": "Tom",
+    "text": "That's right. In the end, nearly eight thousand people took part.",
+    "t": 278.07
+   },
+   {
+    "speaker": "Anna",
+    "text": "That is a lot of voices.",
+    "t": 281.83
+   },
+   {
+    "speaker": "Anna",
+    "text": "And what did all those people tell the State?",
+    "t": 283.52
+   },
+   {
+    "speaker": "Tom",
+    "text": "The results clearly showed one need: public services should be closer to people, especially to those who find it hard to do their procedures online.",
+    "t": 286.38
+   },
+   {
+    "speaker": "Anna",
+    "text": "And what came out of it in the end?",
+    "t": 295.27
+   },
+   {
+    "speaker": "Tom",
+    "text": "A bus! It is called Guichet.lu on tour.",
+    "t": 297.5
+   },
+   {
+    "speaker": "Tom",
+    "text": "It is a fully electric bus, fitted out like a reception desk, and it travels to the different regions of the country.",
+    "t": 301.06
+   },
+   {
+    "speaker": "Anna",
+    "text": "So the counter comes to you.",
+    "t": 307.39
+   },
+   {
+    "speaker": "Anna",
+    "text": "And what can you do on board?",
+    "t": 309.1
+   },
+   {
+    "speaker": "Tom",
+    "text": "You can get help with a procedure, or with using MyGuichet.lu.",
+    "t": 311.05
+   },
+   {
+    "speaker": "Tom",
+    "text": "You can find the right service for your question, or apply for a Luxembourg identity card or driving licence.",
+    "t": 315.09
+   },
+   {
+    "speaker": "Anna",
+    "text": "I really like that.",
+    "t": 320.86
+   },
+   {
+    "speaker": "Anna",
+    "text": "People's ideas did not lead to a new app, but to a real bus, with real people to help you.",
+    "t": 322.26
+   },
+   {
+    "speaker": "Tom",
+    "text": "Is there also an example where a ministry asks for people's opinion on a bigger plan?",
+    "t": 328.16
+   },
+   {
+    "speaker": "Anna",
+    "text": "Yes, and it is about water.",
+    "t": 332.51
+   },
+   {
+    "speaker": "Anna",
+    "text": "Every six years, Luxembourg updates its plan for managing its water, as a European directive requires.",
+    "t": 334.48
+   },
+   {
+    "speaker": "Tom",
+    "text": "And what is in a plan like that, exactly?",
+    "t": 341.47
+   },
+   {
+    "speaker": "Anna",
+    "text": "It describes the state of our waters, the main issues, and the measures planned to protect and restore them.",
+    "t": 343.65
+   },
+   {
+    "speaker": "Tom",
+    "text": "And who prepares this plan, and with whom?",
+    "t": 350.33
+   },
+   {
+    "speaker": "Anna",
+    "text": "The Water Management Administration is preparing the fourth plan, for 2027 to 2033.",
+    "t": 352.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is preparing it together with citizens, communes, businesses and experts.",
+    "t": 359.24
+   },
+   {
+    "speaker": "Tom",
+    "text": "And how can ordinary people join in?",
+    "t": 364.3
+   },
+   {
+    "speaker": "Anna",
+    "text": "Through public consultations, and through round tables, seminars and workshops in different places.",
+    "t": 366.42
+   },
+   {
+    "speaker": "Anna",
+    "text": "You can follow all of it on the platform.",
+    "t": 373.23
+   },
+   {
+    "speaker": "Tom",
+    "text": "So simplifying together is not only about forms.",
+    "t": 375.74
+   },
+   {
+    "speaker": "Tom",
+    "text": "It is also about shaping public decisions together, online, on paper, or around a table.",
+    "t": 378.85
    },
    {
     "speaker": "Anna",
     "text": "Let's talk about why this approach matters, beyond the paperwork itself.",
-    "t": 218.19
+    "t": 384.75
    },
    {
     "speaker": "Tom",
     "text": "First, it saves time.",
-    "t": 222.96
+    "t": 389.52
    },
    {
     "speaker": "Tom",
     "text": "Simpler procedures mean less stress, for citizens and for staff.",
-    "t": 224.53
+    "t": 391.09
    },
    {
     "speaker": "Anna",
     "text": "Second, it builds trust.",
-    "t": 228.26
+    "t": 394.82
    },
    {
     "speaker": "Anna",
     "text": "When the State listens, people feel respected, and feel part of things.",
-    "t": 230.56
+    "t": 397.12
    },
    {
     "speaker": "Tom",
     "text": "And third, it is democratic, in a quiet, everyday way.",
-    "t": 235.09
+    "t": 401.65
    },
    {
     "speaker": "Anna",
     "text": "Yes. Democracy is not only voting every few years.",
-    "t": 238.67
+    "t": 405.23
    },
    {
     "speaker": "Anna",
     "text": "It is also helping to shape the services you use.",
-    "t": 242.4
+    "t": 408.96
    },
    {
     "speaker": "Tom",
-    "text": "And that fits the spirit of the Biergerpakt perfectly... citizens and the State, working together.",
-    "t": 245.91
+    "text": "And that fits the spirit of the Biergerpakt perfectly: citizens and the State, working together.",
+    "t": 412.47
    },
    {
     "speaker": "Anna",
     "text": "There is also something hopeful here.",
-    "t": 252.73
+    "t": 418.29
    },
    {
     "speaker": "Anna",
     "text": "Frustration can be turned into improvement.",
-    "t": 254.69
+    "t": 420.25
    },
    {
     "speaker": "Tom",
     "text": "Instead of \"this is annoying\", it becomes \"here is how we could make it better\".",
-    "t": 257.46
+    "t": 423.02
    },
    {
     "speaker": "Anna",
     "text": "So Tom, let's make it practical.",
-    "t": 262
+    "t": 427.56
    },
    {
     "speaker": "Anna",
     "text": "How can someone actually take part?",
-    "t": 264.14
+    "t": 429.7
    },
    {
     "speaker": "Tom",
-    "text": "First... next time a procedure frustrates you, write the idea down instead of just sighing.",
-    "t": 266.54
+    "text": "First, next time a procedure frustrates you, write the idea down instead of just sighing.",
+    "t": 432.1
    },
    {
     "speaker": "Anna",
-    "text": "Second, visit the platform and share your suggestion, in your own language.",
-    "t": 271.9
+    "text": "Second, visit the platform and share your suggestion in your own language, or join a workshop or a round table when a project offers one.",
+    "t": 437.21
    },
    {
     "speaker": "Tom",
-    "text": "Third... if you like, follow it through one or more phases, and help co-create the solution.",
-    "t": 276.91
+    "text": "Third, if you like, follow it through one or more phases, and help co-create the solution.",
+    "t": 445.61
    },
    {
     "speaker": "Anna",
-    "text": "And fourth... remember, even a small idea can make a real difference for many people.",
-    "t": 282.6
+    "text": "And fourth, remember: even a small idea can make a real difference for many people.",
+    "t": 450.55
    },
    {
     "speaker": "Tom",
     "text": "Let's bring it all together.",
-    "t": 287.84
+    "t": 455.8
    },
    {
     "speaker": "Tom",
     "text": "What should people remember about the platform?",
-    "t": 289.24
+    "t": 457.2
    },
    {
     "speaker": "Anna",
-    "text": "First... it is a platform where citizens and businesses help simplify the State's procedures.",
-    "t": 292.04
+    "text": "First, it is a platform where citizens and businesses help simplify the State's procedures, online and offline.",
+    "t": 460
    },
    {
     "speaker": "Tom",
-    "text": "Second... it is run by the Ministry for Digitalisation, and launched in 2022, as part of \"Einfach Lëtzebuerg\".",
-    "t": 297.98
+    "text": "Second, it is run by the Ministry for Digitalisation, and launched in 2022, as part of \"Einfach Lëtzebuerg\".",
+    "t": 466.87
    },
    {
     "speaker": "Anna",
-    "text": "Third... you can submit ideas, join one phase or many, in any of the four languages.",
-    "t": 305.37
+    "text": "Third, you can submit ideas, join one phase or many, in any of the four languages.",
+    "t": 474.29
    },
    {
     "speaker": "Tom",
-    "text": "And fourth... it has already helped improve real services, like the MyGuichet app.",
-    "t": 311.38
+    "text": "And fourth, it has already helped change real services, like the Guichet.lu bus that brings the counter closer to people.",
+    "t": 479.75
    },
    {
     "speaker": "Anna",
     "text": "Paperwork may never be exciting.",
-    "t": 316.47
+    "t": 487.34
    },
    {
     "speaker": "Anna",
     "text": "But the chance to make it simpler, together, is genuinely empowering.",
-    "t": 318.72
+    "t": 489.59
    },
    {
     "speaker": "Tom",
-    "text": "So the next time something feels too complicated, remember... your voice can help fix it.",
-    "t": 323.31
+    "text": "So the next time something feels too complicated, remember: your voice can help fix it.",
+    "t": 494.18
    },
    {
     "speaker": "Anna",
     "text": "That was our episode about this platform for simpler public services.",
-    "t": 328.3
+    "t": 499.14
    },
    {
     "speaker": "Anna",
     "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
-    "t": 332.22
+    "t": 503.06
    },
    {
     "speaker": "Anna",
     "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
-    "t": 341.38
+    "t": 512.22
    },
    {
     "speaker": "Anna",
     "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
-    "t": 359.66
+    "t": 530.5
    },
    {
     "speaker": "Anna",
     "text": "And the activities are free of charge.",
-    "t": 366.41
+    "t": 537.25
    },
    {
     "speaker": "Anna",
     "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
-    "t": 368.61
+    "t": 539.45
    },
    {
     "speaker": "Tom",
     "text": "Thank you, everyone.",
-    "t": 373.3
+    "t": 544.14
    },
    {
     "speaker": "Tom",
     "text": "Take care... and see you next time!",
-    "t": 374.39
+    "t": 545.23
    },
    {
     "speaker": "Anna",
     "text": "Thank you so much for listening.",
-    "t": 376.51
+    "t": 547.35
    }
   ],
   "questions": [
@@ -504,7 +689,7 @@ const EPISODES = [
      "A new tax that companies pay to finance simpler public services"
     ],
     "correct": 2,
-    "explanation": "“Zesumme Vereinfachen” (meaning “simplifying together”) is an online platform where citizens and businesses can submit ideas and help make the State's administrative procedures simpler."
+    "explanation": "“Zesumme Vereinfachen” (meaning “simplifying together”) is a participation platform where citizens and businesses can submit ideas and help make the State's administrative procedures simpler."
    },
    {
     "text": "Who runs the Zesumme Vereinfachen platform?",
@@ -540,15 +725,15 @@ const EPISODES = [
     "explanation": "The platform welcomes contributions in all four languages — Luxembourgish, German, French and English — so everyone in multilingual Luxembourg can take part in their own language."
    },
    {
-    "text": "What is one real example of the platform's impact?",
+    "text": "What came out of the public consultation on local reception desks?",
     "options": [
-     "It built a new road between two communes after a vote",
-     "Citizen feedback helped improve the MyGuichet app",
-     "It lowered income taxes for families with children",
-     "It replaced the government's ministries with citizen panels"
+     "A new mobile app that replaces all the reception desks in the country",
+     "Guichet.lu on tour, a bus that brings help with procedures to the regions",
+     "A phone line that answers questions about procedures at night and on weekends",
+     "A rule that every commune must open its own Guichet.lu office by law"
     ],
     "correct": 1,
-    "explanation": "Citizen feedback through the platform has helped improve the MyGuichet app — the State's online counter — showing how one person's suggestion can improve a service used for millions of procedures."
+    "explanation": "Nearly eight thousand people took part — online, on paper, in workshops and at stands. The results showed that public services should be closer to people, especially to those who find it hard to do their procedures online. The answer was Guichet.lu on tour: a fully electric bus, fitted out like a reception desk, that travels to the regions of the country."
    }
   ],
   "categories": [
@@ -556,15 +741,15 @@ const EPISODES = [
    "civic"
   ],
   "title_fr": "Zesumme Vereinfachen – Simplifier ensemble les services publics",
-  "description_fr": "Ce qu'est la plateforme « Zesumme Vereinfachen », comment les citoyens et les entreprises peuvent soumettre des idées pour simplifier les démarches de l'État, qui la gère (le Ministère de la Digitalisation), comment vous pouvez participer à une ou plusieurs phases dans l'une des quatre langues, et un exemple concret : améliorer l'application MyGuichet.",
+  "description_fr": "Ce qu'est la plateforme « Zesumme Vereinfachen », et pourquoi elle concerne les démarches administratives en général, pas seulement le numérique : comment les citoyens et les entreprises peuvent soumettre des idées et participer — en ligne, sur papier ou en personne — à une ou plusieurs phases, qui la gère (le Ministère de la Digitalisation), et deux exemples concrets : le bus Guichet.lu on tour et le 4e plan de gestion de l'eau.",
   "topics_fr": [
    "Ce qu'est Zesumme Vereinfachen",
-   "Simplifier ensemble les démarches",
+   "Les démarches administratives en général",
    "Géré par le Ministère de la Digitalisation",
-   "Soumettez vos idées",
-   "Participez à une phase ou plusieurs",
-   "Disponible en quatre langues",
-   "Exemple : améliorer MyGuichet",
+   "Soumettre des idées, participer à une phase ou plusieurs",
+   "En ligne, sur papier ou en personne",
+   "Exemple : le bus de Guichet.lu",
+   "Exemple : le plan de gestion de l'eau",
    "La démocratie au quotidien"
   ],
   "questions_fr": [
@@ -577,7 +762,7 @@ const EPISODES = [
      "Une nouvelle taxe que paient les entreprises pour financer des services publics plus simples"
     ],
     "correct": 2,
-    "explanation": "« Zesumme Vereinfachen » (qui signifie « simplifier ensemble ») est une plateforme en ligne où les citoyens et les entreprises peuvent soumettre des idées et aider à rendre les démarches administratives de l'État plus simples."
+    "explanation": "« Zesumme Vereinfachen » (qui signifie « simplifier ensemble ») est une plateforme participative où les citoyens et les entreprises peuvent soumettre des idées et aider à rendre les démarches administratives de l'État plus simples."
    },
    {
     "text": "Qui gère la plateforme Zesumme Vereinfachen ?",
@@ -613,27 +798,27 @@ const EPISODES = [
     "explanation": "La plateforme accueille les contributions dans les quatre langues — luxembourgeois, allemand, français et anglais — afin que chacun, dans le Luxembourg multilingue, puisse participer dans sa propre langue."
    },
    {
-    "text": "Quel est un exemple concret de l'impact de la plateforme ?",
+    "text": "Qu'est-ce qui est sorti de la consultation publique sur les guichets de proximité ?",
     "options": [
-     "Elle a fait construire une route entre deux communes après un vote",
-     "Les retours des citoyens ont contribué à améliorer l'application MyGuichet",
-     "Elle a fait baisser l'impôt sur le revenu des familles avec enfants",
-     "Elle a remplacé les ministères par des panels de citoyens"
+     "Une nouvelle application mobile qui remplace tous les guichets d'accueil du pays",
+     "Guichet.lu on tour, un bus qui apporte de l'aide pour les démarches dans les régions",
+     "Une ligne téléphonique qui répond aux questions sur les démarches la nuit et le week-end",
+     "Une règle qui oblige chaque commune à ouvrir son propre bureau Guichet.lu"
     ],
     "correct": 1,
-    "explanation": "Les retours des citoyens via la plateforme ont contribué à améliorer l'application MyGuichet — le guichet en ligne de l'État — montrant comment la suggestion d'une personne peut améliorer un service utilisé pour des millions de démarches."
+    "explanation": "Près de huit mille personnes ont participé — en ligne, sur papier, lors d'ateliers et à des stands. Les résultats ont montré que les services publics doivent être plus proches des gens, surtout de ceux qui ont du mal à faire leurs démarches en ligne. La réponse : Guichet.lu on tour, un bus cent pour cent électrique, aménagé comme un guichet d'accueil, qui se déplace dans les régions du pays."
    }
   ],
   "title_de": "Zesumme Vereinfachen – gemeinsam öffentliche Dienste vereinfachen",
-  "description_de": "Was die Plattform „Zesumme Vereinfachen“ ist, wie Bürgerinnen, Bürger und Unternehmen Ideen zur Vereinfachung der Verfahren des Staates einreichen können, wer sie betreibt (das Ministerium für Digitalisierung), wie Sie sich an einer oder mehreren Phasen in einer der vier Sprachen beteiligen können, und ein konkretes Beispiel: die Verbesserung der MyGuichet-App.",
+  "description_de": "Was die Plattform „Zesumme Vereinfachen“ ist und warum es um Verwaltungsschritte im Allgemeinen geht, nicht nur um digitale: wie Bürgerinnen, Bürger und Unternehmen Ideen einreichen und mitmachen können – online, auf Papier oder persönlich – in einer oder mehreren Phasen, wer sie betreibt (das Ministerium für Digitalisierung), und zwei konkrete Beispiele: der Bus Guichet.lu on tour und der 4. Wasserbewirtschaftungsplan.",
   "topics_de": [
    "Was Zesumme Vereinfachen ist",
-   "Verfahren gemeinsam vereinfachen",
+   "Verwaltungsschritte im Allgemeinen",
    "Betrieben vom Ministerium für Digitalisierung",
-   "Reichen Sie Ihre Ideen ein",
-   "An einer oder mehreren Phasen teilnehmen",
-   "Verfügbar in vier Sprachen",
-   "Beispiel: MyGuichet verbessern",
+   "Ideen einreichen, an einer oder mehreren Phasen teilnehmen",
+   "Online, auf Papier oder persönlich",
+   "Beispiel: der Bus von Guichet.lu",
+   "Beispiel: der Wasserbewirtschaftungsplan",
    "Demokratie im Alltag"
   ],
   "questions_de": [
@@ -646,7 +831,7 @@ const EPISODES = [
      "Eine neue Steuer, die Firmen zahlen, um einfachere öffentliche Dienste zu finanzieren"
     ],
     "correct": 2,
-    "explanation": "„Zesumme Vereinfachen“ (bedeutet „gemeinsam vereinfachen“) ist eine Online-Plattform, auf der Bürgerinnen, Bürger und Unternehmen Ideen einreichen und dazu beitragen können, die Verwaltungsverfahren des Staates einfacher zu gestalten."
+    "explanation": "„Zesumme Vereinfachen“ (bedeutet „gemeinsam vereinfachen“) ist eine Beteiligungsplattform, auf der Bürgerinnen, Bürger und Unternehmen Ideen einreichen und dazu beitragen können, die Verwaltungsverfahren des Staates einfacher zu gestalten."
    },
    {
     "text": "Wer betreibt die Plattform Zesumme Vereinfachen?",
@@ -682,19 +867,19 @@ const EPISODES = [
     "explanation": "Die Plattform begrüßt Beiträge in allen vier Sprachen – Luxemburgisch, Deutsch, Französisch und Englisch –, damit sich alle im mehrsprachigen Luxemburg in ihrer eigenen Sprache beteiligen können."
    },
    {
-    "text": "Was ist ein konkretes Beispiel für die Wirkung der Plattform?",
+    "text": "Was ist aus der öffentlichen Konsultation zu Schaltern in der Nähe entstanden?",
     "options": [
-     "Sie hat nach einer Abstimmung eine neue Straße zwischen zwei Gemeinden gebaut",
-     "Rückmeldungen von Bürgern haben geholfen, die MyGuichet-App zu verbessern",
-     "Sie hat die Einkommensteuer für Familien mit Kindern gesenkt",
-     "Sie hat die Ministerien durch Bürgergremien ersetzt"
+     "Eine neue mobile App, die alle Empfangsschalter im Land ersetzt",
+     "Guichet.lu on tour, ein Bus, der Hilfe bei Verfahren in die Regionen bringt",
+     "Eine Telefonhotline, die nachts und am Wochenende Fragen zu Verfahren beantwortet",
+     "Eine Regel, nach der jede Gemeinde ein eigenes Guichet.lu-Büro eröffnen muss"
     ],
     "correct": 1,
-    "explanation": "Rückmeldungen von Bürgerinnen und Bürgern über die Plattform haben geholfen, die MyGuichet-App – den Online-Schalter des Staates – zu verbessern und zeigen, wie der Vorschlag einer einzelnen Person einen Dienst verbessern kann, der für Millionen von Verfahren genutzt wird."
+    "explanation": "Fast achttausend Menschen haben mitgemacht – online, auf Papier, in Workshops und an Ständen. Die Ergebnisse zeigten, dass die öffentlichen Dienste näher bei den Menschen sein sollen, vor allem bei denen, denen es schwerfällt, ihre Verfahren online zu erledigen. Die Antwort: Guichet.lu on tour, ein vollelektrischer Bus, eingerichtet wie ein Empfangsschalter, der in die Regionen des Landes fährt."
    }
   ],
   "audio_fr": "../../podcast_zesumme_fr.mp3",
-  "duration_fr": 379.74,
+  "duration_fr": 545.38,
   "segments_fr": [
    {
     "speaker": "Anna",
@@ -728,452 +913,637 @@ const EPISODES = [
    },
    {
     "speaker": "Tom",
-    "text": "Et aujourd'hui, nous avons un sujet qui, honnêtement, touche presque tout le monde... la paperasse.",
+    "text": "Et aujourd'hui, nous avons un sujet qui, honnêtement, touche presque tout le monde : la paperasse.",
     "t": 23.13
    },
    {
     "speaker": "Anna",
     "text": "Oui ! Les formulaires, les procédures, les démarches administratives.",
-    "t": 28.44
+    "t": 28.42
    },
    {
     "speaker": "Anna",
     "text": "Parfois, ils sont simples.",
-    "t": 31.76
+    "t": 32.9
    },
    {
     "speaker": "Anna",
-    "text": "Et parfois... ils ne le sont pas.",
-    "t": 33.08
+    "text": "Et parfois, ils ne le sont pas.",
+    "t": 34.26
    },
    {
     "speaker": "Tom",
     "text": "Nous avons tous vécu ce moment.",
-    "t": 35.1
+    "t": 35.94
    },
    {
     "speaker": "Tom",
     "text": "Un formulaire qui demande deux fois la même chose.",
-    "t": 37.14
+    "t": 37.98
    },
    {
     "speaker": "Tom",
-    "text": "Une étape qui vous fait penser... pourquoi est-ce si compliqué ?",
-    "t": 39.73
+    "text": "Une étape qui vous fait penser : pourquoi est-ce si compliqué ?",
+    "t": 40.6
    },
    {
     "speaker": "Anna",
     "text": "Eh bien, le sujet d'aujourd'hui est un projet qui transforme cette frustration en quelque chose d'utile.",
-    "t": 43.47
+    "t": 44.55
    },
    {
     "speaker": "Tom",
     "text": "Il s'appelle Zesumme Vereinfachen.",
-    "t": 48.33
+    "t": 49.41
    },
    {
     "speaker": "Tom",
     "text": "Le nom est en luxembourgeois.",
-    "t": 50.98
+    "t": 52.06
    },
    {
     "speaker": "Anna",
     "text": "Et cela signifie « simplifier ensemble ».",
-    "t": 52.77
+    "t": 53.85
    },
    {
     "speaker": "Anna",
     "text": "J'adore cette idée — le faire ensemble.",
-    "t": 55.01
+    "t": 56.09
    },
    {
     "speaker": "Tom",
     "text": "Alors Anna, qu'est-ce que Zesumme Vereinfachen exactement ?",
-    "t": 57.21
+    "t": 58.29
    },
    {
     "speaker": "Anna",
-    "text": "C'est une plateforme en ligne où les citoyens et les entreprises peuvent aider à rendre les procédures de l'État plus simples.",
-    "t": 60.7
+    "text": "C'est une plateforme participative où les citoyens et les entreprises peuvent aider à rendre plus simples les procédures de l'État, et les démarches administratives en général.",
+    "t": 61.78
    },
    {
     "speaker": "Tom",
     "text": "Donc, au lieu de simplement se plaindre de la paperasse, on peut vraiment agir.",
-    "t": 66.54
+    "t": 70.34
    },
    {
     "speaker": "Anna",
-    "text": "Exactement. Son slogan le dit magnifiquement... des services publics qui vous facilitent la vie au quotidien.",
-    "t": 71.22
+    "text": "Exactement. Son slogan le dit magnifiquement : des services publics qui vous facilitent la vie au quotidien.",
+    "t": 75.02
    },
    {
     "speaker": "Tom",
     "text": "Et qui est derrière tout cela ?",
-    "t": 76.83
+    "t": 80.63
    },
    {
     "speaker": "Anna",
     "text": "C'est géré par le Ministère de la Digitalisation, à travers un organe appelé le Conseil de simplification.",
-    "t": 78.55
+    "t": 82.35
    },
    {
     "speaker": "Tom",
     "text": "La plateforme a été lancée en 2022, et elle s'inscrit dans un effort plus large de simplification administrative.",
-    "t": 83.91
+    "t": 87.71
    },
    {
     "speaker": "Anna",
-    "text": "Cet effort plus large a même son propre nom... « Einfach Lëtzebuerg », qui signifie « Le Luxembourg en toute simplicité ».",
-    "t": 90.51
+    "text": "Cet effort plus large a même son propre nom : « Einfach Lëtzebuerg », qui signifie « Le Luxembourg en toute simplicité ».",
+    "t": 94.31
+   },
+   {
+    "speaker": "Tom",
+    "text": "Avec le Ministère de la Digitalisation derrière, je m'attendrais à ce que tout tourne autour des applications et des sites internet.",
+    "t": 100.94
+   },
+   {
+    "speaker": "Anna",
+    "text": "Beaucoup de gens le pensent, mais c'est bien plus large.",
+    "t": 107.43
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il s'agit des démarches administratives en général : les formulaires, les bureaux, les guichets, et la proximité des services publics avec les personnes qui les utilisent.",
+    "t": 109.85
    },
    {
     "speaker": "Tom",
     "text": "Allons au cœur du sujet.",
-    "t": 97.63
+    "t": 118.15
    },
    {
     "speaker": "Tom",
     "text": "Comment la plateforme fonctionne-t-elle concrètement ?",
-    "t": 99.17
+    "t": 119.69
    },
    {
     "speaker": "Anna",
     "text": "L'idée maîtresse est de placer l'expérience réelle des citoyens et des entreprises au centre.",
-    "t": 101.98
+    "t": 122.5
    },
    {
     "speaker": "Tom",
     "text": "Parce que les personnes qui utilisent une procédure tous les jours en comprennent souvent le mieux les problèmes.",
-    "t": 106.55
+    "t": 127.07
    },
    {
     "speaker": "Anna",
     "text": "Ainsi, les citoyens et les entreprises peuvent prendre l'initiative et soumettre des idées pour simplifier les procédures de l'État.",
-    "t": 112.16
+    "t": 132.68
    },
    {
     "speaker": "Tom",
     "text": "Vous avez remarqué quelque chose de maladroit, quelque chose qui pourrait être plus simple ?",
-    "t": 118.34
+    "t": 138.86
    },
    {
     "speaker": "Tom",
     "text": "Vous pouvez proposer comment y remédier.",
-    "t": 122.56
+    "t": 143.08
    },
    {
     "speaker": "Anna",
-    "text": "Et ensuite, le travail se déroule de manière participative et co-créative... avec les personnes qui l'ont proposé.",
-    "t": 124.89
+    "text": "Et ensuite, le travail se déroule de manière participative et co-créative, avec les personnes qui l'ont proposé.",
+    "t": 145.41
    },
    {
     "speaker": "Anna",
     "text": "Les ministères et les administrations peuvent aussi y publier leurs propres projets, pour demander l'avis des gens.",
-    "t": 130.92
+    "t": 151.05
    },
    {
     "speaker": "Tom",
     "text": "Je pense qu'il est utile de se le représenter comme un projet qui avance par étapes.",
-    "t": 136.24
+    "t": 156.37
    },
    {
     "speaker": "Anna",
     "text": "Oui. Il y a une phase pour partager les idées, puis des phases pour élaborer une solution et la tester.",
-    "t": 140.97
+    "t": 161.1
    },
    {
     "speaker": "Tom",
     "text": "Et voici un détail que j'apprécie vraiment.",
-    "t": 145.58
+    "t": 166.14
    },
    {
     "speaker": "Tom",
     "text": "Vous n'êtes pas obligé de vous engager pour tout le parcours.",
-    "t": 147.86
+    "t": 168.42
    },
    {
     "speaker": "Anna",
     "text": "C'est exact. Vous pouvez participer à une seule phase, ou à plusieurs, autant que vous le souhaitez.",
-    "t": 151.59
+    "t": 172.15
    },
    {
     "speaker": "Tom",
     "text": "Vous êtes donc libre.",
-    "t": 156.59
+    "t": 177.15
    },
    {
     "speaker": "Tom",
     "text": "Vous donnez ce que vous pouvez, quand vous le pouvez.",
-    "t": 157.89
+    "t": 178.45
    },
    {
     "speaker": "Tom",
     "text": "Sans pression.",
-    "t": 160.28
+    "t": 180.84
    },
    {
     "speaker": "Anna",
-    "text": "Et la plateforme accueille tout le monde, dans nos quatre langues... le luxembourgeois, l'allemand, le français et l'anglais.",
-    "t": 161.49
+    "text": "Et la plateforme accueille tout le monde, dans nos quatre langues : le luxembourgeois, l'allemand, le français et l'anglais.",
+    "t": 182.05
    },
    {
     "speaker": "Tom",
     "text": "Cela compte vraiment dans un pays aussi multilingue que le Luxembourg.",
-    "t": 167.55
+    "t": 188.03
    },
    {
     "speaker": "Tom",
     "text": "Chacun peut participer dans sa propre langue.",
-    "t": 171.19
+    "t": 191.67
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et les personnes qui utilisent peu internet ?",
+    "t": 194.46
+   },
+   {
+    "speaker": "Anna",
+    "text": "Peuvent-elles participer aussi ?",
+    "t": 196.69
+   },
+   {
+    "speaker": "Tom",
+    "text": "Oui, tout à fait, car dans certains projets, on pouvait aussi donner son avis sur papier, lors d'ateliers, à des stands ou lors de tables rondes.",
+    "t": 198.65
+   },
+   {
+    "speaker": "Tom",
+    "text": "Nous allons entendre deux exemples concrets dans un instant.",
+    "t": 206.08
    },
    {
     "speaker": "Anna",
     "text": "Rendons cela concret.",
-    "t": 173.98
+    "t": 209.36
    },
    {
     "speaker": "Anna",
     "text": "Quel genre de chose pourrait être simplifié ?",
-    "t": 175.28
+    "t": 210.66
    },
    {
     "speaker": "Tom",
     "text": "Imaginez un formulaire qui demande une information que l'État possède déjà.",
-    "t": 177.5
+    "t": 212.88
    },
    {
     "speaker": "Tom",
     "text": "Pourquoi la saisir à nouveau ?",
-    "t": 181.41
+    "t": 216.79
    },
    {
     "speaker": "Anna",
     "text": "Ou une procédure qui implique trois bureaux différents, alors qu'un seul suffirait.",
-    "t": 183.21
+    "t": 218.59
    },
    {
     "speaker": "Tom",
     "text": "Ou des instructions difficiles à comprendre, qui pourraient être rédigées dans un langage clair.",
-    "t": 187.26
+    "t": 222.64
    },
    {
     "speaker": "Anna",
-    "text": "Un bon exemple, ce sont les services numériques.",
-    "t": 192.28
+    "text": "Ce sont de bonnes idées.",
+    "t": 227.66
    },
    {
     "speaker": "Anna",
-    "text": "La plateforme a été utilisée pour aider à améliorer l'application MyGuichet.",
-    "t": 194.67
+    "text": "Mais la plateforme a-t-elle déjà changé quelque chose de concret ?",
+    "t": 228.96
    },
    {
     "speaker": "Tom",
-    "text": "Et nous avons parlé de MyGuichet dans un épisode précédent.",
-    "t": 198.5
+    "text": "Oui, et mon exemple préféré concerne le contact en personne avec l'administration.",
+    "t": 232.07
    },
    {
     "speaker": "Tom",
-    "text": "C'est le guichet en ligne de l'État.",
-    "t": 201.55
+    "text": "Pendant longtemps, si vous vouliez de l'aide en personne pour une démarche, vous alliez au guichet d'accueil de Guichet.lu, à Luxembourg-Ville.",
+    "t": 236.7
    },
    {
     "speaker": "Anna",
-    "text": "Ainsi, de vrais utilisateurs ont donné leur avis, et cet avis a aidé à façonner un outil par lequel passent des centaines de démarches.",
-    "t": 203.49
+    "text": "Cela peut faire un long trajet pour certaines personnes, selon l'endroit où elles habitent.",
+    "t": 243.94
    },
    {
     "speaker": "Tom",
-    "text": "C'est ça, la magie.",
-    "t": 210.07
+    "text": "Exactement. Le gouvernement avait promis d'autres guichets d'accueil dans les régions.",
+    "t": 247.95
    },
    {
     "speaker": "Tom",
-    "text": "La petite suggestion d'une seule personne peut améliorer la vie de milliers d'autres.",
-    "t": 211.46
+    "text": "Alors le Ministère de la Digitalisation a demandé aux gens ce dont ils auraient besoin dans un guichet proche de chez eux.",
+    "t": 252.15
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et comment a-t-on interrogé les gens : seulement en ligne, ou autrement aussi ?",
+    "t": 258.92
+   },
+   {
+    "speaker": "Tom",
+    "text": "Pas seulement en ligne, et c'est cela qui est intéressant.",
+    "t": 263.33
+   },
+   {
+    "speaker": "Tom",
+    "text": "On pouvait répondre sur la plateforme, sur un formulaire papier, lors d'ateliers et à des stands.",
+    "t": 266.33
+   },
+   {
+    "speaker": "Anna",
+    "text": "Donc même les personnes qui vont rarement sur internet ont pu donner leur avis.",
+    "t": 271.8
+   },
+   {
+    "speaker": "Tom",
+    "text": "C'est exact. Au final, près de huit mille personnes ont participé.",
+    "t": 275.54
+   },
+   {
+    "speaker": "Anna",
+    "text": "Cela fait beaucoup de voix.",
+    "t": 279.66
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et qu'est-ce que toutes ces personnes ont dit à l'État ?",
+    "t": 281.13
+   },
+   {
+    "speaker": "Tom",
+    "text": "Les résultats ont clairement montré un besoin : les services publics doivent être plus proches des gens, surtout de ceux qui ont du mal à faire leurs démarches en ligne.",
+    "t": 283.57
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et qu'est-ce qui en est sorti, finalement ?",
+    "t": 291.96
+   },
+   {
+    "speaker": "Tom",
+    "text": "Un bus ! Il s'appelle Guichet.lu on tour.",
+    "t": 294.11
+   },
+   {
+    "speaker": "Tom",
+    "text": "C'est un bus cent pour cent électrique, aménagé comme un guichet d'accueil, et il se déplace dans les différentes régions du pays.",
+    "t": 297.4
+   },
+   {
+    "speaker": "Anna",
+    "text": "Donc c'est le guichet qui vient à vous.",
+    "t": 303.88
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et que peut-on faire à bord ?",
+    "t": 305.61
+   },
+   {
+    "speaker": "Tom",
+    "text": "Vous pouvez recevoir de l'aide pour une démarche, ou pour utiliser MyGuichet.lu.",
+    "t": 307.2
+   },
+   {
+    "speaker": "Tom",
+    "text": "Vous pouvez trouver le bon service pour votre question, ou demander une carte d'identité ou un permis de conduire luxembourgeois.",
+    "t": 312
+   },
+   {
+    "speaker": "Anna",
+    "text": "J'aime beaucoup cela.",
+    "t": 318.27
+   },
+   {
+    "speaker": "Anna",
+    "text": "Les idées des gens n'ont pas mené à une nouvelle application, mais à un vrai bus, avec de vraies personnes pour vous aider.",
+    "t": 319.45
+   },
+   {
+    "speaker": "Tom",
+    "text": "Y a-t-il aussi un exemple où un ministère demande l'avis des gens sur un plan plus important ?",
+    "t": 325.43
+   },
+   {
+    "speaker": "Anna",
+    "text": "Oui, et il concerne l'eau.",
+    "t": 330.16
+   },
+   {
+    "speaker": "Anna",
+    "text": "Tous les six ans, le Luxembourg met à jour son plan de gestion de l'eau, comme l'exige une directive européenne.",
+    "t": 331.64
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et que contient un tel plan, exactement ?",
+    "t": 337.01
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il décrit l'état de nos eaux, les principaux enjeux, et les mesures prévues pour les protéger et les restaurer.",
+    "t": 339.44
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et qui prépare ce plan, et avec qui ?",
+    "t": 345.24
+   },
+   {
+    "speaker": "Anna",
+    "text": "L'Administration de la gestion de l'eau prépare le quatrième plan, pour les années 2027 à 2033.",
+    "t": 347.47
+   },
+   {
+    "speaker": "Anna",
+    "text": "Elle le prépare avec les citoyens, les communes, les entreprises et des experts.",
+    "t": 352.51
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et comment les citoyens peuvent-ils y participer ?",
+    "t": 357
+   },
+   {
+    "speaker": "Anna",
+    "text": "Par des consultations publiques, et par des tables rondes, des séminaires et des ateliers dans différents lieux.",
+    "t": 359.75
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vous pouvez tout suivre sur la plateforme.",
+    "t": 364.98
+   },
+   {
+    "speaker": "Tom",
+    "text": "Donc simplifier ensemble, ce n'est pas seulement une affaire de formulaires.",
+    "t": 367.21
+   },
+   {
+    "speaker": "Tom",
+    "text": "C'est aussi construire ensemble des décisions publiques, en ligne, sur papier, ou autour d'une table.",
+    "t": 370.99
    },
    {
     "speaker": "Anna",
     "text": "Parlons de la raison pour laquelle cette approche est importante, au-delà de la paperasse elle-même.",
-    "t": 215.9
+    "t": 376.77
    },
    {
     "speaker": "Tom",
     "text": "Premièrement, elle fait gagner du temps.",
-    "t": 220.28
+    "t": 381.15
    },
    {
     "speaker": "Tom",
     "text": "Des procédures plus simples signifient moins de stress, pour les citoyens comme pour le personnel.",
-    "t": 222.42
+    "t": 383.29
    },
    {
     "speaker": "Anna",
     "text": "Deuxièmement, elle renforce la confiance.",
-    "t": 228.02
+    "t": 388.89
    },
    {
     "speaker": "Anna",
     "text": "Quand l'État écoute, les gens se sentent respectés et se sentent partie prenante.",
-    "t": 230.23
+    "t": 391.1
    },
    {
     "speaker": "Tom",
     "text": "Et troisièmement, c'est démocratique, d'une manière discrète et quotidienne.",
-    "t": 234.36
+    "t": 395.23
    },
    {
     "speaker": "Anna",
     "text": "Oui. La démocratie, ce n'est pas seulement voter tous les quelques années.",
-    "t": 239.01
+    "t": 399.88
    },
    {
     "speaker": "Anna",
     "text": "C'est aussi aider à façonner les services que vous utilisez.",
-    "t": 242.99
+    "t": 403.86
    },
    {
     "speaker": "Tom",
-    "text": "Et cela correspond parfaitement à l'esprit du Biergerpakt... les citoyens et l'État, travaillant ensemble.",
-    "t": 246.32
+    "text": "Et cela correspond parfaitement à l'esprit du Biergerpakt : les citoyens et l'État, travaillant ensemble.",
+    "t": 407.19
    },
    {
     "speaker": "Anna",
     "text": "Il y a aussi quelque chose de porteur d'espoir ici.",
-    "t": 252.27
+    "t": 413.46
    },
    {
     "speaker": "Anna",
     "text": "La frustration peut être transformée en amélioration.",
-    "t": 255.28
+    "t": 416.47
    },
    {
     "speaker": "Tom",
     "text": "Au lieu de « c'est agaçant », cela devient « voici comment nous pourrions faire mieux ».",
-    "t": 258.22
+    "t": 419.41
    },
    {
     "speaker": "Anna",
     "text": "Alors Tom, rendons cela pratique.",
-    "t": 263.29
+    "t": 424.48
    },
    {
     "speaker": "Anna",
     "text": "Comment peut-on concrètement participer ?",
-    "t": 265.3
+    "t": 426.49
    },
    {
     "speaker": "Tom",
-    "text": "D'abord... la prochaine fois qu'une procédure vous frustre, notez l'idée au lieu de simplement soupirer.",
-    "t": 267.57
+    "text": "D'abord, la prochaine fois qu'une procédure vous frustre, notez l'idée au lieu de simplement soupirer.",
+    "t": 428.76
    },
    {
     "speaker": "Anna",
-    "text": "Ensuite... rendez-vous sur la plateforme Zesumme Vereinfachen et partagez votre suggestion, dans votre propre langue.",
-    "t": 273.15
+    "text": "Ensuite, rendez-vous sur la plateforme Zesumme Vereinfachen et partagez votre suggestion dans votre propre langue, ou participez à un atelier ou à une table ronde quand un projet en propose.",
+    "t": 434.15
    },
    {
     "speaker": "Tom",
-    "text": "Troisièmement... si vous le souhaitez, suivez-la à travers une ou plusieurs phases, et aidez à co-créer la solution.",
-    "t": 279.58
+    "text": "Troisièmement, si vous le souhaitez, suivez-la à travers une ou plusieurs phases, et aidez à co-créer la solution.",
+    "t": 443.87
    },
    {
     "speaker": "Anna",
-    "text": "Et quatrièmement... rappelez-vous, même une petite idée peut faire une réelle différence pour de nombreuses personnes.",
-    "t": 286.29
+    "text": "Et quatrièmement, rappelez-vous : même une petite idée peut faire une réelle différence pour de nombreuses personnes.",
+    "t": 450.22
    },
    {
     "speaker": "Tom",
     "text": "Récapitulons tout cela.",
-    "t": 291.87
+    "t": 455.89
    },
    {
     "speaker": "Tom",
     "text": "Que faut-il retenir de Zesumme Vereinfachen ?",
-    "t": 293.48
+    "t": 457.5
    },
    {
     "speaker": "Anna",
-    "text": "Premièrement... c'est une plateforme où les citoyens et les entreprises aident à simplifier les procédures de l'État.",
-    "t": 296.77
+    "text": "Premièrement, c'est une plateforme où les citoyens et les entreprises aident à simplifier les procédures de l'État, en ligne et hors ligne.",
+    "t": 460.79
    },
    {
     "speaker": "Tom",
-    "text": "Deuxièmement... elle est gérée par le Ministère de la Digitalisation, et lancée en 2022, dans le cadre d'« Einfach Lëtzebuerg ».",
-    "t": 302.14
+    "text": "Deuxièmement, elle est gérée par le Ministère de la Digitalisation, et lancée en 2022, dans le cadre d'« Einfach Lëtzebuerg ».",
+    "t": 467.22
    },
    {
     "speaker": "Anna",
-    "text": "Troisièmement... vous pouvez soumettre des idées, participer à une seule phase ou à plusieurs, dans n'importe laquelle des quatre langues.",
-    "t": 310.14
+    "text": "Troisièmement, vous pouvez soumettre des idées, participer à une seule phase ou à plusieurs, dans n'importe laquelle des quatre langues.",
+    "t": 474.41
    },
    {
     "speaker": "Tom",
-    "text": "Et quatrièmement... elle a déjà aidé à améliorer de vrais services, comme l'application MyGuichet.",
-    "t": 316.76
+    "text": "Et quatrièmement, elle a déjà aidé à changer de vrais services, comme le bus de Guichet.lu, qui rapproche le guichet des gens.",
+    "t": 481.11
    },
    {
     "speaker": "Anna",
     "text": "La paperasse ne sera peut-être jamais passionnante.",
-    "t": 322.59
+    "t": 488.27
    },
    {
     "speaker": "Anna",
     "text": "Mais la possibilité de la simplifier, ensemble, est véritablement émancipatrice.",
-    "t": 324.94
+    "t": 490.62
    },
    {
     "speaker": "Tom",
-    "text": "Alors, la prochaine fois que quelque chose vous semble trop compliqué, rappelez-vous... votre voix peut aider à y remédier.",
-    "t": 329.55
+    "text": "Alors, la prochaine fois que quelque chose vous semble trop compliqué, rappelez-vous : votre voix peut aider à y remédier.",
+    "t": 495.23
    },
    {
     "speaker": "Anna",
     "text": "C'était notre épisode sur Zesumme Vereinfachen.",
-    "t": 336.39
+    "t": 502.02
    },
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
-    "t": 339.26
+    "t": 504.89
    },
    {
     "speaker": "Anna",
     "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
-    "t": 347.03
+    "t": 512.66
    },
    {
     "speaker": "Anna",
     "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
-    "t": 363.48
+    "t": 529.11
    },
    {
     "speaker": "Anna",
     "text": "Et les activités sont gratuites.",
-    "t": 368.13
+    "t": 533.76
    },
    {
     "speaker": "Anna",
     "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
-    "t": 369.91
+    "t": 535.54
    },
    {
     "speaker": "Tom",
     "text": "Merci à tous.",
-    "t": 374.29
+    "t": 539.92
    },
    {
     "speaker": "Tom",
     "text": "Prenez soin de vous... et à la prochaine !",
-    "t": 375.52
+    "t": 541.15
    },
    {
     "speaker": "Anna",
     "text": "Merci beaucoup de nous avoir écoutés.",
-    "t": 377.98
+    "t": 543.61
    }
   ],
   "audio_de": "../../podcast_zesumme_de.mp3",
-  "duration_de": 426.11,
+  "duration_de": 616.2,
   "segments_de": [
    {
     "speaker": "Anna",
@@ -1207,448 +1577,633 @@ const EPISODES = [
    },
    {
     "speaker": "Tom",
-    "text": "Und heute haben wir ein Thema, zu dem ehrlich gesagt fast jeder etwas zu sagen hat... der Papierkram.",
+    "text": "Und heute haben wir ein Thema, zu dem ehrlich gesagt fast jeder etwas zu sagen hat: der Papierkram.",
     "t": 27.88
    },
    {
     "speaker": "Anna",
     "text": "Ja! Formulare, Verfahren, behördliche Schritte.",
-    "t": 33.86
+    "t": 33.89
    },
    {
     "speaker": "Anna",
     "text": "Manchmal sind sie einfach.",
-    "t": 37.9
+    "t": 37.93
    },
    {
     "speaker": "Anna",
-    "text": "Und manchmal... sind sie es nicht.",
-    "t": 39.63
+    "text": "Und manchmal sind sie es nicht.",
+    "t": 39.8
    },
    {
     "speaker": "Tom",
     "text": "Wir alle kennen diesen Moment.",
-    "t": 42.66
+    "t": 41.72
    },
    {
     "speaker": "Tom",
     "text": "Ein Formular, das dasselbe zweimal abfragt.",
-    "t": 44.54
+    "t": 43.6
    },
    {
     "speaker": "Tom",
-    "text": "Ein Schritt, bei dem man denkt... warum ist das so kompliziert?",
-    "t": 47.38
+    "text": "Ein Schritt, bei dem man denkt: Warum ist das so kompliziert?",
+    "t": 46.44
    },
    {
     "speaker": "Anna",
     "text": "Nun, das heutige Thema ist ein Projekt, das diesen Frust in etwas Nützliches verwandelt.",
-    "t": 51.31
+    "t": 50.08
    },
    {
     "speaker": "Tom",
     "text": "Es heißt Zesumme Vereinfachen.",
-    "t": 56.96
+    "t": 55.73
    },
    {
     "speaker": "Tom",
     "text": "Der Name ist auf Luxemburgisch.",
-    "t": 58.94
+    "t": 57.71
    },
    {
     "speaker": "Anna",
     "text": "Und es bedeutet „gemeinsam vereinfachen\".",
-    "t": 61.02
+    "t": 59.79
    },
    {
     "speaker": "Anna",
     "text": "Die Idee gefällt mir sehr — es gemeinsam zu machen.",
-    "t": 63.89
+    "t": 62.66
    },
    {
     "speaker": "Tom",
     "text": "Also Anna, was genau ist Zesumme Vereinfachen?",
-    "t": 67.55
+    "t": 66.32
    },
    {
     "speaker": "Anna",
-    "text": "Es ist eine Online-Plattform, auf der Bürger und Unternehmen dabei helfen können, die Verfahren des Staates einfacher zu gestalten.",
-    "t": 70.09
+    "text": "Es ist eine Beteiligungsplattform, auf der Bürger und Unternehmen dabei helfen können, die Verfahren des Staates und die Verwaltungsschritte im Allgemeinen einfacher zu gestalten.",
+    "t": 68.86
    },
    {
     "speaker": "Tom",
     "text": "Anstatt sich also nur über den Papierkram zu beschweren, kann man wirklich etwas dagegen tun.",
-    "t": 77.31
+    "t": 78.45
    },
    {
     "speaker": "Anna",
-    "text": "Genau. Der Slogan bringt es wunderbar auf den Punkt... öffentliche Dienste, die Ihren Alltag einfacher machen.",
-    "t": 82.65
+    "text": "Genau. Der Slogan bringt es wunderbar auf den Punkt: öffentliche Dienste, die Ihren Alltag einfacher machen.",
+    "t": 83.79
    },
    {
     "speaker": "Tom",
     "text": "Und wer steckt dahinter?",
-    "t": 89.63
+    "t": 90.51
    },
    {
     "speaker": "Anna",
     "text": "Sie wird vom Ministerium für Digitalisierung betrieben, über ein Gremium namens Vereinfachungsrat.",
-    "t": 91.16
+    "t": 92.04
    },
    {
     "speaker": "Tom",
     "text": "Die Plattform wurde 2022 gestartet und ist Teil einer größeren Anstrengung zur Verwaltungsvereinfachung.",
-    "t": 97.17
+    "t": 98.05
    },
    {
     "speaker": "Anna",
-    "text": "Diese größere Anstrengung hat sogar einen eigenen Namen... „Einfach Lëtzebuerg\", was „Einfach Luxemburg\" bedeutet.",
-    "t": 104.67
+    "text": "Diese größere Anstrengung hat sogar einen eigenen Namen: „Einfach Lëtzebuerg\", was „Einfach Luxemburg\" bedeutet.",
+    "t": 105.55
+   },
+   {
+    "speaker": "Tom",
+    "text": "Mit dem Ministerium für Digitalisierung dahinter würde ich erwarten, dass sich alles um Apps und Websites dreht.",
+    "t": 112.82
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das denken viele, aber es geht viel weiter.",
+    "t": 119.71
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es geht um Verwaltungsschritte im Allgemeinen: Formulare, Ämter, Schalter, und darum, wie nah die öffentlichen Dienste an den Menschen sind, die sie nutzen.",
+    "t": 122.44
    },
    {
     "speaker": "Tom",
     "text": "Kommen wir zum Kern der Sache.",
-    "t": 112.83
+    "t": 132.2
    },
    {
     "speaker": "Tom",
     "text": "Wie funktioniert die Plattform eigentlich?",
-    "t": 114.62
+    "t": 133.99
    },
    {
     "speaker": "Anna",
     "text": "Die zentrale Idee ist, die tatsächliche Erfahrung der Bürger und Unternehmen in den Mittelpunkt zu stellen.",
-    "t": 116.9
+    "t": 136.27
    },
    {
     "speaker": "Tom",
     "text": "Denn die Menschen, die ein Verfahren täglich nutzen, verstehen dessen Probleme oft am besten.",
-    "t": 122.97
+    "t": 142.34
    },
    {
     "speaker": "Anna",
     "text": "So können Bürger und Unternehmen die Initiative ergreifen und Ideen einreichen, um die Verfahren des Staates zu vereinfachen.",
-    "t": 128.18
+    "t": 147.55
    },
    {
     "speaker": "Tom",
     "text": "Ist Ihnen etwas Umständliches aufgefallen, etwas, das einfacher sein könnte?",
-    "t": 135.95
+    "t": 155.32
    },
    {
     "speaker": "Tom",
     "text": "Sie können vorschlagen, wie man es verbessert.",
-    "t": 141.03
+    "t": 160.4
    },
    {
     "speaker": "Anna",
-    "text": "Und dann erfolgt die Arbeit auf partizipative, ko-kreative Weise... gemeinsam mit denen, die den Vorschlag gemacht haben.",
-    "t": 143.53
+    "text": "Und dann erfolgt die Arbeit auf partizipative, ko-kreative Weise, gemeinsam mit denen, die den Vorschlag gemacht haben.",
+    "t": 162.9
    },
    {
     "speaker": "Anna",
     "text": "Ministerien und Verwaltungen können dort auch eigene Projekte veröffentlichen, um die Meinung der Menschen einzuholen.",
-    "t": 151.24
+    "t": 169.81
    },
    {
     "speaker": "Tom",
     "text": "Ich finde, es hilft, es sich als ein Projekt vorzustellen, das mehrere Phasen durchläuft.",
-    "t": 157.67
+    "t": 176.24
    },
    {
     "speaker": "Anna",
     "text": "Ja. Es gibt eine Phase zum Teilen von Ideen und dann Phasen, in denen an einer Lösung gearbeitet und diese getestet wird.",
-    "t": 162.75
+    "t": 181.32
    },
    {
     "speaker": "Tom",
     "text": "Und hier ist ein Detail, das ich wirklich schätze.",
-    "t": 171.08
+    "t": 189.65
    },
    {
     "speaker": "Tom",
     "text": "Sie müssen sich nicht für den ganzen Weg verpflichten.",
-    "t": 173.83
+    "t": 192.4
    },
    {
     "speaker": "Anna",
     "text": "Genau. Sie können an nur einer Phase teilnehmen oder an mehreren, so viel Sie möchten.",
-    "t": 176.84
+    "t": 195.41
    },
    {
     "speaker": "Tom",
     "text": "Sie sind also frei.",
-    "t": 182.09
+    "t": 200.66
    },
    {
     "speaker": "Tom",
     "text": "Sie geben, was Sie können, wann Sie können.",
-    "t": 183.44
+    "t": 202.01
    },
    {
     "speaker": "Tom",
     "text": "Ohne Druck.",
-    "t": 185.84
+    "t": 204.41
    },
    {
     "speaker": "Anna",
-    "text": "Und die Plattform heißt alle willkommen, in allen vier unserer Sprachen... Luxemburgisch, Deutsch, Französisch und Englisch.",
-    "t": 186.94
+    "text": "Und die Plattform heißt alle willkommen, in allen vier unserer Sprachen: Luxemburgisch, Deutsch, Französisch und Englisch.",
+    "t": 205.51
    },
    {
     "speaker": "Tom",
     "text": "Das ist wirklich wichtig in einem so mehrsprachigen Land wie Luxemburg.",
-    "t": 194.93
+    "t": 213.61
    },
    {
     "speaker": "Tom",
     "text": "Jeder kann in seiner eigenen Sprache mitmachen.",
-    "t": 199.2
+    "t": 217.88
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und was ist mit Menschen, die das Internet kaum nutzen?",
+    "t": 220.53
+   },
+   {
+    "speaker": "Anna",
+    "text": "Können sie auch mitmachen?",
+    "t": 223.58
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ja, das können sie, denn bei manchen Projekten konnte man seine Meinung auch auf Papier abgeben, in Workshops, an Ständen oder an runden Tischen.",
+    "t": 225.27
+   },
+   {
+    "speaker": "Tom",
+    "text": "Gleich hören wir zwei echte Beispiele.",
+    "t": 233.97
    },
    {
     "speaker": "Anna",
     "text": "Machen wir es konkret.",
-    "t": 201.85
+    "t": 236.53
    },
    {
     "speaker": "Anna",
     "text": "Was für eine Sache könnte vereinfacht werden?",
-    "t": 203.39
+    "t": 238.07
    },
    {
     "speaker": "Tom",
     "text": "Stellen Sie sich ein Formular vor, das nach Informationen fragt, die der Staat bereits hat.",
-    "t": 206.15
+    "t": 240.83
    },
    {
     "speaker": "Tom",
     "text": "Warum sie noch einmal eingeben?",
-    "t": 211.41
+    "t": 246.09
    },
    {
     "speaker": "Anna",
     "text": "Oder ein Verfahren, an dem drei verschiedene Ämter beteiligt sind, wo eines genügen würde.",
-    "t": 213.3
+    "t": 247.98
    },
    {
     "speaker": "Tom",
     "text": "Oder Anweisungen, die schwer zu verstehen sind und die in klarer Sprache verfasst werden könnten.",
-    "t": 218.52
+    "t": 253.2
    },
    {
     "speaker": "Anna",
-    "text": "Ein gutes Beispiel sind digitale Dienste.",
-    "t": 223.87
+    "text": "Das sind gute Ideen.",
+    "t": 258.55
    },
    {
     "speaker": "Anna",
-    "text": "Die Plattform wurde genutzt, um die MyGuichet-App zu verbessern.",
-    "t": 226.57
+    "text": "Aber hat die Plattform schon etwas Konkretes verändert?",
+    "t": 260.13
    },
    {
     "speaker": "Tom",
-    "text": "Und wir haben in einer früheren Folge über MyGuichet gesprochen.",
-    "t": 230.15
+    "text": "Ja, und mein Lieblingsbeispiel handelt vom persönlichen Kontakt mit der Verwaltung.",
+    "t": 263.38
    },
    {
     "speaker": "Tom",
-    "text": "Es ist der Online-Schalter des Staates.",
-    "t": 233.83
+    "text": "Lange Zeit musste man, wenn man persönlich Hilfe bei einem Verfahren wollte, zum Empfangsschalter von Guichet.lu in Luxemburg-Stadt gehen.",
+    "t": 268.33
    },
    {
     "speaker": "Anna",
-    "text": "Echte Nutzer gaben also Rückmeldungen, und diese Rückmeldungen halfen, ein Werkzeug zu gestalten, durch das Hunderte von Verfahren laufen.",
-    "t": 236.34
+    "text": "Das kann für manche Menschen ein weiter Weg sein, je nachdem, wo sie wohnen.",
+    "t": 277.75
    },
    {
     "speaker": "Tom",
-    "text": "Das ist das Magische daran.",
-    "t": 244.44
+    "text": "Genau. Die Regierung hatte weitere Empfangsschalter in den Regionen versprochen.",
+    "t": 282.32
    },
    {
     "speaker": "Tom",
-    "text": "Der kleine Vorschlag einer Person kann das Leben für Tausende verbessern.",
-    "t": 246.15
+    "text": "Also fragte das Ministerium für Digitalisierung die Menschen, was sie von einem Schalter in ihrer Nähe brauchen würden.",
+    "t": 287.36
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und wie wurden die Menschen gefragt: nur online, oder auch anders?",
+    "t": 294.2
+   },
+   {
+    "speaker": "Tom",
+    "text": "Nicht nur online, und das ist das Interessante daran.",
+    "t": 298.58
+   },
+   {
+    "speaker": "Tom",
+    "text": "Man konnte auf der Plattform antworten, auf einem Papierformular, in Workshops und an Ständen.",
+    "t": 301.68
+   },
+   {
+    "speaker": "Anna",
+    "text": "Also konnten auch Menschen, die selten online sind, ihre Meinung sagen.",
+    "t": 307.55
+   },
+   {
+    "speaker": "Tom",
+    "text": "Richtig. Am Ende haben fast achttausend Menschen mitgemacht.",
+    "t": 311.71
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das sind viele Stimmen.",
+    "t": 315.45
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und was haben all diese Menschen dem Staat gesagt?",
+    "t": 316.93
+   },
+   {
+    "speaker": "Tom",
+    "text": "Die Ergebnisse zeigten deutlich einen Bedarf: Die öffentlichen Dienste sollen näher bei den Menschen sein, vor allem bei denen, denen es schwerfällt, ihre Verfahren online zu erledigen.",
+    "t": 319.94
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und was ist am Ende dabei herausgekommen?",
+    "t": 330.41
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ein Bus! Er heißt Guichet.lu on tour.",
+    "t": 332.93
+   },
+   {
+    "speaker": "Tom",
+    "text": "Es ist ein vollelektrischer Bus, eingerichtet wie ein Empfangsschalter, und er fährt in die verschiedenen Regionen des Landes.",
+    "t": 336.44
+   },
+   {
+    "speaker": "Anna",
+    "text": "Der Schalter kommt also zu Ihnen.",
+    "t": 343.47
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und was kann man an Bord machen?",
+    "t": 345.45
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sie können Hilfe bei einem Verfahren bekommen, oder bei der Nutzung von MyGuichet.lu.",
+    "t": 347.24
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sie können die richtige Stelle für Ihre Frage finden, oder einen luxemburgischen Personalausweis oder Führerschein beantragen.",
+    "t": 352.85
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das gefällt mir sehr.",
+    "t": 360.32
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die Ideen der Menschen haben nicht zu einer neuen App geführt, sondern zu einem echten Bus, mit echten Menschen, die Ihnen helfen.",
+    "t": 361.78
+   },
+   {
+    "speaker": "Tom",
+    "text": "Gibt es auch ein Beispiel, bei dem ein Ministerium die Menschen zu einem größeren Plan befragt?",
+    "t": 369.06
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ja, und es geht um Wasser.",
+    "t": 374.62
+   },
+   {
+    "speaker": "Anna",
+    "text": "Alle sechs Jahre aktualisiert Luxemburg seinen Plan für die Bewirtschaftung seiner Gewässer, wie es eine europäische Richtlinie verlangt.",
+    "t": 376.51
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und was steht in so einem Plan genau drin?",
+    "t": 384.4
+   },
+   {
+    "speaker": "Anna",
+    "text": "Er beschreibt den Zustand unserer Gewässer, die wichtigsten Herausforderungen und die geplanten Maßnahmen, um sie zu schützen und wiederherzustellen.",
+    "t": 386.93
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und wer bereitet diesen Plan vor, und mit wem?",
+    "t": 395.43
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das Wasserwirtschaftsamt bereitet den vierten Plan vor, für die Jahre 2027 bis 2033.",
+    "t": 398.33
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es bereitet ihn gemeinsam mit Bürgern, Gemeinden, Unternehmen und Fachleuten vor.",
+    "t": 405.21
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und wie können die Menschen mitmachen?",
+    "t": 410.21
+   },
+   {
+    "speaker": "Anna",
+    "text": "Über öffentliche Konsultationen, und über runde Tische, Seminare und Workshops an verschiedenen Orten.",
+    "t": 412.21
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie können alles auf der Plattform verfolgen.",
+    "t": 418.88
+   },
+   {
+    "speaker": "Tom",
+    "text": "Gemeinsam vereinfachen heißt also nicht nur Formulare.",
+    "t": 421.46
+   },
+   {
+    "speaker": "Tom",
+    "text": "Es heißt auch, öffentliche Entscheidungen gemeinsam zu gestalten, online, auf Papier oder an einem Tisch.",
+    "t": 424.94
    },
    {
     "speaker": "Anna",
     "text": "Sprechen wir darüber, warum dieser Ansatz wichtig ist, über den Papierkram selbst hinaus.",
-    "t": 250.43
+    "t": 431.87
    },
    {
     "speaker": "Tom",
     "text": "Erstens spart er Zeit.",
-    "t": 255.42
+    "t": 436.86
    },
    {
     "speaker": "Tom",
     "text": "Einfachere Verfahren bedeuten weniger Stress, für Bürger und für Mitarbeiter.",
-    "t": 257.17
+    "t": 438.61
    },
    {
     "speaker": "Anna",
     "text": "Zweitens schafft er Vertrauen.",
-    "t": 261.88
+    "t": 443.32
    },
    {
     "speaker": "Anna",
     "text": "Wenn der Staat zuhört, fühlen sich die Menschen respektiert und als Teil des Ganzen.",
-    "t": 263.8
+    "t": 445.24
    },
    {
     "speaker": "Tom",
     "text": "Und drittens ist es demokratisch, auf eine stille, alltägliche Weise.",
-    "t": 268.41
+    "t": 449.85
    },
    {
     "speaker": "Anna",
     "text": "Ja. Demokratie ist nicht nur das Wählen alle paar Jahre.",
-    "t": 272.91
+    "t": 454.35
    },
    {
     "speaker": "Anna",
     "text": "Es ist auch das Mitgestalten der Dienste, die Sie nutzen.",
-    "t": 277.19
+    "t": 458.63
    },
    {
     "speaker": "Tom",
-    "text": "Und das passt perfekt zum Geist des Biergerpakt... Bürger und Staat, die zusammenarbeiten.",
-    "t": 280.48
+    "text": "Und das passt perfekt zum Geist des Biergerpakt: Bürger und Staat, die zusammenarbeiten.",
+    "t": 461.92
    },
    {
     "speaker": "Anna",
     "text": "Es gibt hier auch etwas Hoffnungsvolles.",
-    "t": 285.57
+    "t": 467.24
    },
    {
     "speaker": "Anna",
     "text": "Frust kann in Verbesserung verwandelt werden.",
-    "t": 287.81
+    "t": 469.48
    },
    {
     "speaker": "Tom",
     "text": "Statt „das ist ärgerlich\" wird daraus „so könnten wir es besser machen\".",
-    "t": 290.57
+    "t": 472.24
    },
    {
     "speaker": "Anna",
     "text": "Also Tom, machen wir es praktisch.",
-    "t": 295.17
+    "t": 476.84
    },
    {
     "speaker": "Anna",
     "text": "Wie kann man eigentlich teilnehmen?",
-    "t": 297.85
+    "t": 479.52
    },
    {
     "speaker": "Tom",
-    "text": "Erstens... wenn Sie das nächste Mal ein Verfahren frustriert, schreiben Sie die Idee auf, anstatt nur zu seufzen.",
-    "t": 299.85
+    "text": "Erstens: Wenn Sie das nächste Mal ein Verfahren frustriert, schreiben Sie die Idee auf, anstatt nur zu seufzen.",
+    "t": 481.52
    },
    {
     "speaker": "Anna",
-    "text": "Zweitens... besuchen Sie die Plattform Zesumme Vereinfachen und teilen Sie Ihren Vorschlag, in Ihrer eigenen Sprache.",
-    "t": 307.05
+    "text": "Zweitens: Besuchen Sie die Plattform Zesumme Vereinfachen und teilen Sie Ihren Vorschlag in Ihrer eigenen Sprache, oder machen Sie bei einem Workshop oder einem runden Tisch mit, wenn ein Projekt das anbietet.",
+    "t": 488.02
    },
    {
     "speaker": "Tom",
-    "text": "Drittens... wenn Sie möchten, begleiten Sie sie durch eine oder mehrere Phasen und helfen Sie, die Lösung mitzugestalten.",
-    "t": 314.15
+    "text": "Drittens: Wenn Sie möchten, begleiten Sie sie durch eine oder mehrere Phasen und helfen Sie, die Lösung mitzugestalten.",
+    "t": 500.24
    },
    {
     "speaker": "Anna",
-    "text": "Und viertens... denken Sie daran, selbst eine kleine Idee kann für viele Menschen einen echten Unterschied machen.",
-    "t": 321.51
+    "text": "Und viertens: Denken Sie daran, selbst eine kleine Idee kann für viele Menschen einen echten Unterschied machen.",
+    "t": 507.45
    },
    {
     "speaker": "Tom",
     "text": "Fassen wir alles zusammen.",
-    "t": 328.44
+    "t": 514.37
    },
    {
     "speaker": "Tom",
     "text": "Was sollten sich die Leute über Zesumme Vereinfachen merken?",
-    "t": 329.99
+    "t": 515.92
    },
    {
     "speaker": "Anna",
-    "text": "Erstens... es ist eine Plattform, auf der Bürger und Unternehmen helfen, die Verfahren des Staates zu vereinfachen.",
-    "t": 333.28
+    "text": "Erstens: Es ist eine Plattform, auf der Bürger und Unternehmen helfen, die Verfahren des Staates zu vereinfachen, online und offline.",
+    "t": 519.21
    },
    {
     "speaker": "Tom",
-    "text": "Zweitens... sie wird vom Ministerium für Digitalisierung betrieben und wurde 2022 gestartet, als Teil von „Einfach Lëtzebuerg\".",
-    "t": 340.4
+    "text": "Zweitens: Sie wird vom Ministerium für Digitalisierung betrieben und wurde 2022 gestartet, als Teil von „Einfach Lëtzebuerg\".",
+    "t": 527.57
    },
    {
     "speaker": "Anna",
-    "text": "Drittens... Sie können Ideen einreichen, an einer oder mehreren Phasen teilnehmen, in jeder der vier Sprachen.",
-    "t": 350.48
+    "text": "Drittens: Sie können Ideen einreichen, an einer oder mehreren Phasen teilnehmen, in jeder der vier Sprachen.",
+    "t": 537.29
    },
    {
     "speaker": "Tom",
-    "text": "Und viertens... sie hat bereits geholfen, echte Dienste zu verbessern, wie die MyGuichet-App.",
-    "t": 357.44
+    "text": "Und viertens: Sie hat bereits geholfen, echte Dienste zu verändern, wie den Bus von Guichet.lu, der den Schalter näher zu den Menschen bringt.",
+    "t": 544.01
    },
    {
     "speaker": "Anna",
     "text": "Papierkram wird vielleicht nie aufregend sein.",
-    "t": 363.1
+    "t": 553.26
    },
    {
     "speaker": "Anna",
     "text": "Aber die Chance, ihn gemeinsam einfacher zu machen, ist wirklich ermutigend.",
-    "t": 365.55
+    "t": 555.71
    },
    {
     "speaker": "Tom",
-    "text": "Wenn sich also das nächste Mal etwas zu kompliziert anfühlt, denken Sie daran... Ihre Stimme kann helfen, es zu verbessern.",
-    "t": 370.17
+    "text": "Wenn sich also das nächste Mal etwas zu kompliziert anfühlt, denken Sie daran: Ihre Stimme kann helfen, es zu verbessern.",
+    "t": 560.33
    },
    {
     "speaker": "Anna",
     "text": "Das war unsere Folge über Zesumme Vereinfachen.",
-    "t": 377.37
+    "t": 567.45
    },
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
-    "t": 380.25
+    "t": 570.33
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
-    "t": 389.05
+    "t": 579.13
    },
    {
     "speaker": "Anna",
     "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
-    "t": 407.38
+    "t": 597.46
    },
    {
     "speaker": "Anna",
     "text": "Und die Aktivitäten sind kostenlos.",
-    "t": 413.08
+    "t": 603.16
    },
    {
     "speaker": "Anna",
     "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
-    "t": 415.33
+    "t": 605.41
    },
    {
     "speaker": "Tom",
     "text": "Danke an alle.",
-    "t": 420.22
+    "t": 610.3
    },
    {
     "speaker": "Tom",
     "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
-    "t": 421.37
+    "t": 611.45
    },
    {
     "speaker": "Anna",
     "text": "Vielen Dank fürs Zuhören.",
-    "t": 424.58
+    "t": 614.66
    }
   ],
   "segments_lb": [
@@ -1669,293 +2224,413 @@ const EPISODES = [
    },
    {
     "speaker": "Tom",
-    "text": "A haut hu mir en Thema, dat éierlech gesot bal jiddereen ugeet... de Pabeierkrom.",
+    "text": "A haut hu mir en Thema, dat éierlech gesot bal jiddereen ugeet: de Pabeierkrom.",
     "t": 27.49
    },
    {
     "speaker": "Anna",
-    "text": "Jo! Formulairen, Prozeduren, administrativ Schrëtt. Heiansdo sinn se einfach. An heiansdo... sinn se et net.",
-    "t": 33.05
+    "text": "Jo! Formulairen, Prozeduren, administrativ Schrëtt. Heiansdo sinn se einfach. An heiansdo sinn se et net.",
+    "t": 32.68
    },
    {
     "speaker": "Tom",
-    "text": "Mir hunn all dee Moment scho gehat. E Formulaire dee zweemol no derselwechter Saach freet. E Schrëtt deen Iech denke léisst... firwat ass dat esou komplizéiert?",
-    "t": 40.73
+    "text": "Mir hunn all dee Moment scho gehat. E Formulaire dee zweemol no derselwechter Saach freet. E Schrëtt deen Iech denke léisst: firwat ass dat esou komplizéiert?",
+    "t": 40.22
    },
    {
     "speaker": "Anna",
     "text": "Nun, dat haitegt Thema ass e Projet deen dës Frustratioun an eppes Nëtzleches verwandelt.",
-    "t": 49.33
+    "t": 48.37
    },
    {
     "speaker": "Tom",
     "text": "Et heescht Zesumme Vereinfachen. Den Numm ass op Lëtzebuergesch.",
-    "t": 54.12
+    "t": 53.16
    },
    {
     "speaker": "Anna",
     "text": "An et bedeit „zesummen vereinfachen\". D'Iddi gefält mer immens — et zesummen ze maachen.",
-    "t": 57.78
+    "t": 56.82
    },
    {
     "speaker": "Tom",
     "text": "Also Anna, wat genee ass Zesumme Vereinfachen?",
-    "t": 63.45
+    "t": 62.49
    },
    {
     "speaker": "Anna",
-    "text": "Et ass eng Online-Plattform, wou Bierger an Entreprisen kënnen hëllefen, dem Staat seng Prozeduren méi einfach ze maachen.",
-    "t": 65.94
+    "text": "Et ass eng Plattform fir matzemaachen, wou Bierger an Entreprisen kënnen hëllefen, dem Staat seng Prozeduren, an d'administrativ Schrëtt am Allgemengen, méi einfach ze maachen.",
+    "t": 64.98
    },
    {
     "speaker": "Tom",
     "text": "Anstatt sech also nëmmen iwwert de Pabeierkrom ze beschwéieren, kann ee wierklech eppes dogéint maachen.",
-    "t": 72.02
+    "t": 74.08
    },
    {
     "speaker": "Anna",
-    "text": "Genee. Säi Slogan seet et wonnerbar... ëffentlech Servicer déi Iech den Alldag méi einfach maachen.",
-    "t": 76.31
+    "text": "Genee. Säi Slogan seet et wonnerbar: ëffentlech Servicer déi Iech den Alldag méi einfach maachen.",
+    "t": 78.37
    },
    {
     "speaker": "Tom",
     "text": "A wien ass dohannert?",
-    "t": 82.78
+    "t": 84.99
    },
    {
     "speaker": "Anna",
     "text": "Si gëtt vum Ministère fir Digitaliséierung gefouert, iwwert en Organ dat de Vereinfachungsrot heescht.",
-    "t": 84.11
+    "t": 86.32
    },
    {
     "speaker": "Tom",
     "text": "D'Plattform gouf 2022 lancéiert, an si ass Deel vun engem méi groussen Effort fir d'Verwaltungsvereinfachung.",
-    "t": 89.95
+    "t": 92.16
    },
    {
     "speaker": "Anna",
-    "text": "Dee méi groussen Effort huet souguer säin eegenen Numm... „Einfach Lëtzebuerg\", wat „Einfach Lëtzebuerg\" bedeit.",
-    "t": 96.11
+    "text": "Dee méi groussen Effort huet souguer säin eegenen Numm: „Einfach Lëtzebuerg\".",
+    "t": 98.32
+   },
+   {
+    "speaker": "Tom",
+    "text": "Mam Ministère fir Digitaliséierung dohannert géif ech mengen, datt et nëmmen ëm Appen a Websäiten geet.",
+    "t": 105.71
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dat mengen der vill, mä et geet vill méi wäit. Et geet ëm administrativ Schrëtt am Allgemengen: Formulairen, Büroen, Guichetën, a wéi no d'ëffentlech Servicer bei de Leit sinn, déi se benotzen.",
+    "t": 111.03
    },
    {
     "speaker": "Tom",
     "text": "Komme mer zum Häerz vun der Saach. Wéi funktionéiert d'Plattform eigentlech?",
-    "t": 102.98
+    "t": 122.84
    },
    {
     "speaker": "Anna",
     "text": "Déi grouss Iddi ass, déi richteg Erfarung vun de Bierger an Entreprisen an de Mëttelpunkt ze setzen.",
-    "t": 106.51
+    "t": 126.37
    },
    {
     "speaker": "Tom",
     "text": "Well d'Leit déi eng Prozedur all Dag benotzen, verstinn dacks am beschten hir Problemer.",
-    "t": 111.27
+    "t": 131.13
    },
    {
     "speaker": "Anna",
     "text": "Esou kënnen d'Bierger an d'Entreprisen d'Initiativ ergräifen, an Iddien araichen, fir dem Staat seng Prozeduren ze vereinfachen.",
-    "t": 115.85
+    "t": 135.71
    },
    {
     "speaker": "Tom",
     "text": "Dir hutt eppes Ëmständleches gemierkt, eppes dat méi einfach kéint sinn? Dir kënnt virschloen, wéi een et verbessert.",
-    "t": 122.96
+    "t": 142.82
    },
    {
     "speaker": "Anna",
-    "text": "An dann passéiert d'Aarbecht op eng participativ, ko-kreativ Manéier... zesummen mat de Leit déi et virgeschloen hunn. Ministèren an Administratiounen kënnen do och hir eege Projeten publizéieren, fir d'Meenung vun de Leit ze froen.",
-    "t": 128.51
+    "text": "An dann passéiert d'Aarbecht op eng participativ, ko-kreativ Manéier, zesumme mat de Leit déi et virgeschloen hunn. Ministèren an Administratiounen kënnen do och hir eege Projeten publizéieren, fir d'Meenung vun de Leit ze froen.",
+    "t": 148.37
    },
    {
     "speaker": "Tom",
     "text": "Ech mengen, et hëlleft, sech et als e Projet virzestellen deen duerch verschidde Phasen geet.",
-    "t": 140.97
+    "t": 160.73
    },
    {
     "speaker": "Anna",
     "text": "Jo. Et gëtt eng Phas fir Iddien ze deelen, an dann Phasen fir un enger Léisung ze schaffen an se ze testen.",
-    "t": 145.12
+    "t": 164.88
    },
    {
     "speaker": "Tom",
     "text": "An hei ass en Detail deen ech wierklech schätzen. Dir musst Iech net fir de ganze Wee verflichten.",
-    "t": 151.55
+    "t": 171.31
    },
    {
     "speaker": "Anna",
     "text": "Dat stëmmt. Dir kënnt un nëmmen enger Phas deelhuelen, oder un e puer, esou vill wéi Dir wëllt.",
-    "t": 156.16
+    "t": 175.92
    },
    {
     "speaker": "Tom",
     "text": "Dir sidd also fräi. Dir gitt wat Dir kënnt, wann Dir kënnt. Ouni Drock.",
-    "t": 161.08
+    "t": 180.84
    },
    {
     "speaker": "Anna",
-    "text": "An d'Plattform begréisst jiddereen, an all eise véier Sproochen... Lëtzebuergesch, Däitsch, Franséisch an Englesch.",
-    "t": 165.27
+    "text": "An d'Plattform begréisst jiddereen, an all eise véier Sproochen: Lëtzebuergesch, Däitsch, Franséisch an Englesch.",
+    "t": 185.03
    },
    {
     "speaker": "Tom",
     "text": "Dat ass wierklech wichteg an engem Land esou méisproochegt wéi Lëtzebuerg. Jiddereen kann a senger eegener Sprooch matmaachen.",
-    "t": 172.28
+    "t": 192.15
+   },
+   {
+    "speaker": "Anna",
+    "text": "A wat ass mat Leit, déi kaum den Internet benotzen? Kënne si och matmaachen?",
+    "t": 197.93
+   },
+   {
+    "speaker": "Tom",
+    "text": "Jo, dat kënne si, well bei verschiddene Projete konnt een seng Meenung och op Pabeier ginn, an Atelieren, bei Stänn oder bei Ronnen Dëscher. Mir héieren elo gläich zwee richteg Beispiller.",
+    "t": 202.97
    },
    {
     "speaker": "Anna",
     "text": "Loosse mer dat konkret maachen. Wat fir eng Saach kéint vereinfacht ginn?",
-    "t": 178.06
+    "t": 212.77
    },
    {
     "speaker": "Tom",
     "text": "Stellt Iech e Formulaire vir deen no Informatioune freet déi de Staat scho huet. Firwat se nach eng Kéier aginn?",
-    "t": 181.89
+    "t": 216.6
    },
    {
     "speaker": "Anna",
     "text": "Oder eng Prozedur déi dräi verschidde Büroen abezitt, wou een géif duergoen.",
-    "t": 186.65
+    "t": 221.36
    },
    {
     "speaker": "Tom",
     "text": "Oder Instruktiounen déi schwéier ze verstoe sinn, déi an enger kloerer Sprooch kéinte geschriwwe ginn.",
-    "t": 191.17
+    "t": 225.88
    },
    {
     "speaker": "Anna",
-    "text": "E gutt Beispill sinn déi digital Servicer. D'Plattform gouf benotzt fir d'MyGuichet-App ze verbesseren.",
-    "t": 195.78
+    "text": "Dat si gutt Iddien. Mä huet d'Plattform schonn eppes Konkretes verännert?",
+    "t": 230.49
    },
    {
     "speaker": "Tom",
-    "text": "A mir hunn an enger fréierer Episod iwwer MyGuichet geschwat. Et ass dem Staat säin Online-Schalter.",
-    "t": 202.35
+    "text": "Jo, a mäi Liblingsbeispill geet ëm de perséinleche Kontakt mat der Administratioun. Laang Zäit ass een, wann een perséinlech Hëllef bei enger Prozedur wollt, bei de Guichet vu Guichet.lu an der Stad gaangen.",
+    "t": 235.13
    },
    {
     "speaker": "Anna",
-    "text": "Esou hunn richteg Benotzer Réckmeldung ginn, an déi Réckmeldung huet gehollef en Outil ze gestalten, duerch deen Honnerte Prozeduren goen.",
-    "t": 207.25
+    "text": "Dat ka fir verschidde Leit e wäite Wee sinn, jee nodeem wou se wunnen.",
+    "t": 247.2
    },
    {
     "speaker": "Tom",
-    "text": "Dat ass d'Magie. Dem klenge Virschlag vun enger Persoun kann d'Liewe fir Dausende verbesseren.",
-    "t": 213.61
+    "text": "Genee. D'Regierung hat weider Guichetën an de Regiounen versprach. Dofir huet de Ministère fir Digitaliséierung d'Leit gefrot, wat si vun engem Guichet no bei hinnen doheem bräichten.",
+    "t": 251.27
+   },
+   {
+    "speaker": "Anna",
+    "text": "A wéi goufen d'Leit gefrot: nëmmen online, oder och anescht?",
+    "t": 262.07
+   },
+   {
+    "speaker": "Tom",
+    "text": "Net nëmmen online, an dat ass dat Interessant. Ee konnt op der Plattform äntweren, op engem Pabeierformulaire, an Atelieren a bei Stänn.",
+    "t": 266.7
+   },
+   {
+    "speaker": "Anna",
+    "text": "Also konnten och Leit, déi selten online sinn, hir Meenung soen.",
+    "t": 274.38
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dat stëmmt. Um Enn hu bal aachtdausend Leit matgemaach.",
+    "t": 278.07
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dat si vill Stëmmen. A wat hunn all déi Leit dem Staat gesot?",
+    "t": 281.83
+   },
+   {
+    "speaker": "Tom",
+    "text": "D'Resultater hunn däitlech e Besoin gewisen: d'ëffentlech Servicer solle méi no bei de Leit sinn, virun allem bei deenen, deenen et schwéier fält, hir Prozeduren online ze maachen.",
+    "t": 286.38
+   },
+   {
+    "speaker": "Anna",
+    "text": "A wat ass um Enn dobäi erauskomm?",
+    "t": 295.27
+   },
+   {
+    "speaker": "Tom",
+    "text": "E Bus! En heescht Guichet.lu on tour. Et ass e ganz elektresche Bus, ageriicht wéi e Guichet, an e fiert an déi verschidde Regioune vum Land.",
+    "t": 297.5
+   },
+   {
+    "speaker": "Anna",
+    "text": "De Guichet kënnt also bei Iech. A wat kann een u Bord maachen?",
+    "t": 307.39
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dir kritt Hëllef bei enger Prozedur, oder fir MyGuichet.lu ze benotzen. Dir fannt de richtege Service fir Är Fro, oder Dir kënnt eng lëtzebuergesch Identitéitskaart oder e Führerschäin ufroen.",
+    "t": 311.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dat gefält mer immens. D'Iddie vun de Leit hunn net zu enger neier App gefouert, mä zu engem richtege Bus, mat richtege Leit, déi Iech hëllefen.",
+    "t": 320.86
+   },
+   {
+    "speaker": "Tom",
+    "text": "Gëtt et och e Beispill, wou e Ministère d'Leit zu engem gréissere Plang freet?",
+    "t": 328.16
+   },
+   {
+    "speaker": "Anna",
+    "text": "Jo, an et geet ëm d'Waasser. All sechs Joer aktualiséiert Lëtzebuerg säi Plang fir d'Gestioun vu sengem Waasser, esou wéi eng europäesch Direktiv et verlaangt.",
+    "t": 332.51
+   },
+   {
+    "speaker": "Tom",
+    "text": "A wat steet genee an esou engem Plang?",
+    "t": 341.47
+   },
+   {
+    "speaker": "Anna",
+    "text": "E beschreift den Zoustand vun eise Gewässer, déi wichtegst Erausfuerderungen, an d'Moossname fir se ze schützen an ze restauréieren.",
+    "t": 343.65
+   },
+   {
+    "speaker": "Tom",
+    "text": "A wie preparéiert dëse Plang, a mat wiem?",
+    "t": 350.33
+   },
+   {
+    "speaker": "Anna",
+    "text": "D'Waasserwirtschaftsamt preparéiert de véierte Plang, fir d'Joren 2027 bis 2033. Et preparéiert en zesumme mat Bierger, Gemengen, Entreprisen an Experten.",
+    "t": 352.64
+   },
+   {
+    "speaker": "Tom",
+    "text": "A wéi kënnen d'Leit matmaachen?",
+    "t": 364.3
+   },
+   {
+    "speaker": "Anna",
+    "text": "Iwwer ëffentlech Konsultatiounen, an iwwer Ronn Dëscher, Seminairen an Atelieren op verschiddenen Plazen. Dir kënnt alles op der Plattform verfollegen.",
+    "t": 366.42
+   },
+   {
+    "speaker": "Tom",
+    "text": "Zesumme vereinfachen heescht also net nëmme Formulairen. Et heescht och, ëffentlech Decisiounen zesummen ze gestalten, online, op Pabeier, oder ronderëm en Dësch.",
+    "t": 375.74
    },
    {
     "speaker": "Anna",
     "text": "Loosse mer doriwwer schwätzen, firwat dëse Wee wichteg ass, iwwert de Pabeierkrom selwer eraus.",
-    "t": 218.19
+    "t": 384.75
    },
    {
     "speaker": "Tom",
     "text": "Éischtens spuert en Zäit. Méi einfach Prozeduren bedeite manner Stress, fir Bierger a fir d'Personal.",
-    "t": 222.96
+    "t": 389.52
    },
    {
     "speaker": "Anna",
     "text": "Zweetens schaaft en Vertrauen. Wann de Staat nolauschtert, fille sech d'Leit respektéiert, a fille sech als Deel vun de Saachen.",
-    "t": 228.26
+    "t": 394.82
    },
    {
     "speaker": "Tom",
     "text": "An drëttens ass et demokratesch, op eng roueg, alldeeglech Manéier.",
-    "t": 235.09
+    "t": 401.65
    },
    {
     "speaker": "Anna",
     "text": "Jo. Demokratie ass net nëmmen all puer Joer wielen. Et ass och hëllefen, déi Servicer ze gestalten déi Dir benotzt.",
-    "t": 238.67
+    "t": 405.23
    },
    {
     "speaker": "Tom",
-    "text": "An dat passt perfekt zum Geescht vum Biergerpakt... Bierger an de Staat, déi zesummeschaffen.",
-    "t": 245.91
+    "text": "An dat passt perfekt zum Geescht vum Biergerpakt: Bierger an de Staat, déi zesummeschaffen.",
+    "t": 412.47
    },
    {
     "speaker": "Anna",
     "text": "Et gëtt och eppes Hoffnungsvolles hei. Frustratioun kann an Verbesserung verwandelt ginn.",
-    "t": 252.73
+    "t": 418.29
    },
    {
     "speaker": "Tom",
     "text": "Anstatt „dat ass nerveg\", gëtt et „hei ass wéi mir et besser kéinte maachen\".",
-    "t": 257.46
+    "t": 423.02
    },
    {
     "speaker": "Anna",
     "text": "Also Tom, loosse mer dat praktesch maachen. Wéi kann ee wierklech deelhuelen?",
-    "t": 262
+    "t": 427.56
    },
    {
     "speaker": "Tom",
-    "text": "Éischtens... d'nächst Kéier wann eng Prozedur Iech frustréiert, schreift d'Iddi op anstatt nëmmen ze sëfzen.",
-    "t": 266.54
+    "text": "Éischtens, d'nächst Kéier wann eng Prozedur Iech frustréiert, schreift d'Iddi op anstatt nëmmen ze sëfzen.",
+    "t": 432.1
    },
    {
     "speaker": "Anna",
-    "text": "Zweetens... besicht d'Plattform Zesumme Vereinfachen an deelt Äre Virschlag, a senger eegener Sprooch.",
-    "t": 271.9
+    "text": "Zweetens, besicht d'Plattform Zesumme Vereinfachen an deelt Äre Virschlag an Ärer eegener Sprooch, oder maacht bei engem Atelier oder engem Ronnen Dësch mat, wann e Projet dat ubitt.",
+    "t": 437.21
    },
    {
     "speaker": "Tom",
-    "text": "Drëttens... wann Dir wëllt, verfollegt en duerch eng oder méi Phasen, an hëlleft d'Léisung mat ze gestalten.",
-    "t": 276.91
+    "text": "Drëttens, wann Dir wëllt, verfollegt en duerch eng oder méi Phasen, an hëlleft d'Léisung mat ze gestalten.",
+    "t": 445.61
    },
    {
     "speaker": "Anna",
-    "text": "A véiertens... denkt drun, souguer eng kleng Iddi kann e richtegen Ënnerscheed fir vill Leit maachen.",
-    "t": 282.6
+    "text": "A véiertens, denkt drun: souguer eng kleng Iddi kann e richtegen Ënnerscheed fir vill Leit maachen.",
+    "t": 450.55
    },
    {
     "speaker": "Tom",
     "text": "Loosse mer alles zesummebréngen. Wat sollten d'Leit sech iwwer Zesumme Vereinfachen mierken?",
-    "t": 287.84
+    "t": 455.8
    },
    {
     "speaker": "Anna",
-    "text": "Éischtens... et ass eng Plattform wou Bierger an Entreprisen hëllefen, dem Staat seng Prozeduren ze vereinfachen.",
-    "t": 292.04
+    "text": "Éischtens, et ass eng Plattform wou Bierger an Entreprisen hëllefen, dem Staat seng Prozeduren ze vereinfachen, online an offline.",
+    "t": 460
    },
    {
     "speaker": "Tom",
-    "text": "Zweetens... si gëtt vum Ministère fir Digitaliséierung gefouert, a gouf 2022 lancéiert, als Deel vun „Einfach Lëtzebuerg\".",
-    "t": 297.98
+    "text": "Zweetens, si gëtt vum Ministère fir Digitaliséierung gefouert, a gouf 2022 lancéiert, als Deel vun „Einfach Lëtzebuerg\".",
+    "t": 466.87
    },
    {
     "speaker": "Anna",
-    "text": "Drëttens... Dir kënnt Iddien araichen, un enger Phas oder ville matmaachen, an all eenzel vun de véier Sproochen.",
-    "t": 305.37
+    "text": "Drëttens, Dir kënnt Iddien araichen, un enger Phas oder ville matmaachen, an all eenzel vun de véier Sproochen.",
+    "t": 474.29
    },
    {
     "speaker": "Tom",
-    "text": "A véiertens... si huet schonn gehollef richteg Servicer ze verbesseren, wéi d'MyGuichet-App.",
-    "t": 311.38
+    "text": "A véiertens, si huet schonn gehollef richteg Servicer ze veränneren, wéi de Bus vu Guichet.lu, deen de Guichet méi no bei d'Leit bréngt.",
+    "t": 479.75
    },
    {
     "speaker": "Anna",
     "text": "De Pabeierkrom gëtt vläicht ni spannend. Mä d'Chance fir en ze vereinfachen, zesummen, ass wierklech stäerkend.",
-    "t": 316.47
+    "t": 487.34
    },
    {
     "speaker": "Tom",
-    "text": "Also d'nächst Kéier wann eppes ze komplizéiert schéngt, denkt drun... Är Stëmm kann hëllefen, et ze verbesseren.",
-    "t": 323.31
+    "text": "Also d'nächst Kéier wann eppes ze komplizéiert schéngt, denkt drun: Är Stëmm kann hëllefen, et ze verbesseren.",
+    "t": 494.18
    },
    {
     "speaker": "Anna",
     "text": "Dat war eis Episod iwwer Zesumme Vereinfachen. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
-    "t": 328.3
+    "t": 499.14
    },
    {
     "speaker": "Tom",
     "text": "Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!",
-    "t": 373.3
+    "t": 544.14
    },
    {
     "speaker": "Anna",
     "text": "Villmools Merci fir d'Nolauschteren.",
-    "t": 376.51
+    "t": 547.35
    }
   ]
  }
