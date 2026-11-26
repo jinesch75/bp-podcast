@@ -1405,7 +1405,7 @@ function plInit() {
 //  - Partner review pages stay open: pages generated earlier have no #screen-login, and
 //    build/make_review.js marks new ones with <body data-access="open">.
 //  - It does not protect the files themselves (mp3, episodes_data.js) or the public GitHub repository.
-const ACCESS_HASH = '248eb6e7da758637cd2ed2b8726651d00ce3dd462933626e3a1a7b5563a572fe';
+const ACCESS_HASH = '6d782e5f17599f1b34d5cb35ea83655e4c11f8c1a2485190746adb2e62bc5fd2';
 var ACCESS_KEY = 'bp_access_v1';
 var ACCESS_SALT = 'bp-podcast-access:';
 var accessOk = false;
