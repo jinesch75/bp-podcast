@@ -1,70 +1,42 @@
 T: Today, we start with a telephone number. It has six digits: 116 111. In Luxembourg, a child or a teenager who dials this number reaches someone who has time to listen.
 A: Behind this number is a service that most people simply call the KJT. Its full name is Luxembourgish, Kanner-Jugendtelefon, and the English version of its website calls it the Children and Youth Helpline. Even if you are an adult, it is good to know this service: one day, a child in your family or in your neighbourhood may need it, and there are services for parents too. So tell us, how did this whole story begin?
-T: The KJT was founded in 1992, in connection with the United Nations Convention on the Rights of the Child. The idea was simple: every child and every young person should have the chance to be heard.
-A: And who stands behind the service today?
-T: Four organisations from the social sector founded it together. Today, the KJT is a service of a non-profit association called CJF Lëtzebuerg. It is financed through an agreement with the National Youth Service, the SNJ, which comes under the Ministry of Education, Children and Youth.
-A: The SNJ has its own episode in this podcast, by the way. What does the KJT actually do when someone gets in touch?
+T: The KJT was founded in 1992, in connection with the United Nations Convention on the Rights of the Child. The idea was simple: every child and every young person should have the chance to be heard. Today, the KJT is a service of a non-profit association called CJF Lëtzebuerg, and it is financed through an agreement with the National Youth Service, which comes under the Ministry of Education, Children and Youth.
+A: What does the KJT actually do when someone gets in touch?
 T: It advises and supports children, young people and the adults around them, with everyday worries, fears, problems and crises. The counsellors listen, and together with the person they look for a solution that fits.
 A: Does that mean that the counsellor decides what a child should do next?
-T: No, and that is one of the principles of the KJT. It is called self-determination: after the conversation, each person decides alone which steps to take. If more help is needed, the counsellors can point to other services.
-A: Which other principles does the KJT work with?
-T: The website names five of them. Besides self-determination, there is anonymity, confidentiality, tolerance and respect, and openness, which means that you can come with any question and any subject.
+T: No, and that is one of the five principles of the KJT. It is called self-determination: after the conversation, each person decides alone which steps to take. The other principles are anonymity, confidentiality, tolerance and respect, and openness to any question and any subject.
 A: Let us look at the services one by one, starting with the oldest: the telephone line 116 111. It is for children and young people who have a question or a problem, at school, at home, with friends, with parents, or with brothers and sisters.
 T: What does a child have to say at the beginning of such a call?
 A: Not much, because the call is anonymous: you do not have to say who you are or where you live. It is also confidential, so nobody else learns what you talked about, and the call is free of charge.
 T: Can you call this number at any time of the day or night?
-A: No, the line is not open around the clock. It is open in the afternoon and in the evening, from Monday to Saturday, and the exact hours are on the website.
-T: Luxembourg is a country of many languages. Is there also something for children who speak English?
-A: The website announces that the line can now also be reached in English on one day of the week. Details like this can change, so it is best to check the website.
+A: No, the line is not open around the clock. It is open in the afternoon and in the evening, from Monday to Saturday. The exact hours are on the website, and so are the times when you can call in English.
 T: Not every young person likes to speak on the phone, and some find it much easier to write.
-A: For them, there is the Online Help. You write your question or your worry on the website of the KJT, and a counsellor sends you a written answer within a few days.
+A: For them, there is the Online Help. You write your question or your worry on the website of the KJT, in Luxembourgish, German, French or English, and a counsellor sends you a written answer within a few days.
 T: Do you need an email address to use the Online Help?
 A: No, you only choose a username and a password, and you keep them safe, because they are the only key to your answers. You do not give your real name, your address, your email or your phone number.
-T: And in which languages can young people write to the Online Help?
-A: They can write in Luxembourgish, in German, in French or in English.
 T: The newest service is the chat counselling, which started in 2021. It is a live chat for young people who prefer writing, and who want to talk about something straight away.
 A: And who answers in the chat, the same counsellors as on the telephone?
-T: No, and that is what makes the chat special. The website describes it as peer-to-peer, because the chat counsellors are young people themselves. They have been trained, and they also bring in their own experience.
-A: So a young person can talk with someone who is close to their own age.
-T: Yes, that is the idea, and here too you log in with a username and a password, because anonymity and confidentiality are important. The chat is open at fixed times in the evening, which you find on the website.
+T: No, and that is what makes the chat special. The website describes it as peer-to-peer, because the chat counsellors are young people themselves. They have been trained, and they also bring in their own experience. The chat is open at fixed times in the evening, which you find on the website.
 A: Now we come to the adults in a child's life. Since 2007, there has been a telephone line for parents, called the Elterentelefon, and its number is 8002 4444.
 T: Is this line really only for mothers and fathers?
 A: No, it is for parents, for grandparents and for every adult who is responsible for children or teenagers. You can call with a question about bringing up children, or when a situation at home has become stressful.
 T: What can a parent expect from such a call?
-A: You can expect counselling, orientation and information. The counsellors do not step in and act in your place. They help you to see more clearly, they give practical suggestions, and they can tell you which other services in Luxembourg could help.
-T: And does a parent have to pay for this advice?
-A: No, the service is free, anonymous and confidential. The counsellors are trained, and they have regular supervision and further training.
-T: At which times can parents reach this line?
-A: On weekdays, mostly in the morning, with some time slots later in the day. The website also shows a time slot in English, and all the hours are listed there.
+A: You can expect counselling, orientation and information. The counsellors do not step in and act in your place. They help you to see more clearly, they give practical suggestions, and they can tell you which other services in Luxembourg could help. The service is free, anonymous and confidential, and the hours are on the website.
 T: Two more services have to do with the internet, and they carry the name BEE SECURE. The first one is the BEE SECURE Helpline, with the number 8002 1234.
 A: Is that helpline for children only, or can I call it as an adult?
-T: It is for every citizen, of any age. You can call with questions about safety on the internet and in digital media. The team gives individual advice, and if necessary it points you to a specialised service.
-A: And is a call to this helpline anonymous as well?
-T: Yes, the calls are free, anonymous and confidential. You can also write through a contact form, which is confidential but not anonymous. And here is one detail for cross-border workers: the website says that this number can only be reached from the Luxembourg network.
+T: It is for every citizen, of any age. You can call with questions about safety on the internet and in digital media. The team gives individual advice, and if necessary it points you to a specialised service. The calls are free, anonymous and confidential. And here is one detail for cross-border workers: the website says that this number can only be reached from the Luxembourg network.
 A: And what is the second service that carries the name BEE SECURE?
 T: It is the BEE SECURE Stopline. It is not a telephone line, but a website where you can report illegal content that you find on the internet.
 A: What kind of content can be reported there?
-T: There are three kinds: images that show the sexual abuse of minors, content that is racist, revisionist or discriminatory, which includes hate speech, and content linked to terrorism.
-A: What happens after I have sent such a report?
-T: The Stopline analyses it and passes it on to the competent services of the Grand Ducal Police, and the authorities decide what happens next. The report form is online day and night, and the Stopline does not store data that could identify you.
+T: There are three kinds: images that show the sexual abuse of minors, content that is racist, revisionist or discriminatory, which includes hate speech, and content linked to terrorism. The Stopline analyses each report and passes it on to the competent services of the Grand Ducal Police, and it does not store data that could identify you.
 A: And what about other problems online, such as insults, cyberbullying or fraud?
 T: Those cases are not for the Stopline. For such questions, you can call the BEE SECURE Helpline, or you can go to the police.
 A: Here is something that I did not know before reading the website: volunteers work as counsellors at the KJT. You find them on the line for children and young people, in the Online Help and on the Elterentelefon, and they also support the BEE SECURE Helpline.
 T: Can anybody simply sit down at the telephone and start answering?
-A: No, every volunteer first follows a basic training. It rests on three pillars: the attitude of a counsellor and the way to lead a conversation, knowledge about psychology and education, and knowledge of the help services that exist in Luxembourg.
-T: And do they practise before they take their first call alone?
-A: Yes, there is an internship in two phases. First they listen in while experienced counsellors talk, and then they lead conversations themselves, with a mentor at their side.
-T: What happens once the training is finished?
-A: The volunteers take regular shifts every month, and they meet every month for supervision, which is obligatory. It helps them to think about their conversations, and to stay well themselves.
+A: No, every volunteer first follows a basic training. It rests on three pillars: the attitude of a counsellor and the way to lead a conversation, knowledge about psychology and education, and knowledge of the help services that exist in Luxembourg. There is also an internship at the side of experienced counsellors, and afterwards regular supervision.
 T: How can someone who is interested become a volunteer?
-A: There is a form on the website for people who are interested. A new training does not start every year, and there is an information evening before each one.
-T: Is the KJT connected with similar services in other countries?
-A: Yes, it is a member of several international networks. One is the worldwide association of helplines for children and young people, and others work for a safer internet and against illegal content and hate online.
-T: The website kjt dot l-u is worth a visit, also for adults. It exists in German, French and English.
-A: What else can I find there, besides the services?
-T: There are pages on subjects that matter to young people: friendship, conflicts in the family, separation and divorce, stress and pressure, cyberbullying and mental health. There are also very serious subjects, such as violence, sexual abuse and suicide.
-A: So a parent or a teacher can read there before starting a difficult conversation.
-T: Yes, and there is a toolbox with tips, with videos, and with a page that helps you to find counselling centres in Luxembourg. You can also order information material of the KJT.
+A: There is a form on the website for people who are interested, and there is an information evening before each new training.
+T: The website kjt dot l-u is worth a visit, also for adults. It exists in German, French and English. There are pages on subjects that matter to young people, such as friendship, conflicts in the family, cyberbullying and mental health, and also on very serious subjects, such as violence, sexual abuse and suicide. There is also a toolbox with tips, videos and a page that helps you to find counselling centres in Luxembourg.
 A: Can I also ask for advice through the contact form of the website?
 T: No, the KJT gives no counselling through that form, because it is not anonymous and confidential. For advice, you use the services that we have described.
 A: Here is one reminder from our side: these lines are there to listen and to advise, at certain hours. When someone is in immediate danger, the emergency number is 112.
