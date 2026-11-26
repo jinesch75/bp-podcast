@@ -678,3 +678,14 @@ Jacques: "a playlist on the webapp so that people can select episodes … so tha
 - **Tested** in Chrome (desktop and phone-size window): add/remove, reorder, play all, auto-advance, previous/next, language switch, reload/resume, one player at a time, single-episode page, old index.html with the new app.js. **Not yet tested on a real iPhone or in a car** (Safari can refuse to start the next episode with the screen locked — check this before announcing the feature).
 - Also fixed on the way: on very narrow phones (320 px) the topic dropdown was wider than the screen.
 - **Column titles (26 Nov 2026, Jacques: the "+" was not clear to users):** the full list starts with a header row "Episode … + Add to my playlist" (`.ep-list-head`, built in `renderEpisodeList()`); in the "by topic" view the same label sits at the right of each topic heading (`.topic-group-pl`). Both come from `plColLabel()` and use the `pl_add` string, so they follow the site language and disappear where the playlist is off.
+
+## Temporary access password (26 Nov 2026)
+
+Jacques: "For the moment, I want to limit access" — main site only, partner review pages stay open.
+
+- **What it does:** the main site shows a password screen (`#screen-login`, EN/FR/DE) before anything else. After a correct entry the device remembers it (`localStorage` key `bp_access_v1`); changing the password asks everyone again.
+- **Set / change / remove:** `node build/set_password.js "<password>"` (at least 8 characters) or `node build/set_password.js --off`, then commit and push. The script writes only a SHA-256 fingerprint to `ACCESS_HASH` in `app.js` and bumps the asset version. **Never write the password into a file — the repository is public.**
+- **Review pages are not locked:** pages generated before this date have no `#screen-login`; `build/make_review.js` now marks new ones with `<body data-access="open">`. `video/letzprepare/` is a standalone page and is not locked either.
+- **Limits:** this is a curtain, not a vault. The check runs in the browser; the mp3 files and `episodes_data.js` can still be opened by their direct address, and everything is in the public GitHub repository. A real lock needs a password at server level on Railway (and a private repository).
+- **Code:** `app.js` section "Access password" (`accessInit`, `accessLocked`, `sha256`), guard at the top of `showScreen()`; CSS `body.locked` in `index.html`.
+- Tested in Chrome: locked state, wrong / right password, reload, password change, existing review page, regenerated review page.

@@ -23,6 +23,8 @@ html = html
   .replace('href="favicon.svg"', 'href="../../favicon.svg"')
   .replace(/src="app\.js(\?v=[^"]*)?"/, 'src="../../app.js$1"')
   .replace(/src="gov-light\.svg"/g, 'src="../../gov-light.svg"');
+// Review pages stay open while the main site asks for the temporary access password (see app.js).
+html = html.replace('<body>', '<body data-access="open">');
 // Small review banner just after <body...>
 html = html.replace(/(<body[^>]*>)/, '$1\n<div style="background:#b7791f;color:#fff;text-align:center;padding:6px 12px;font:600 13px/1.4 system-ui,sans-serif;">Preview for review — single episode. Please do not share this link.</div>');
 

@@ -406,6 +406,7 @@ function applyLang() {
 
 // ── Helpers ──────────────────────────────────────────────
 function showScreen(id) {
+  if (accessLocked()) id = 'screen-login';   // temporary access password: nothing else is shown until it is entered
   // Stop audio playback whenever we leave the episode page (logo, back buttons, quiz, etc.).
   if (id !== 'screen-episode') {
     var a = document.getElementById('ep-audio');
@@ -1393,11 +1394,105 @@ function plInit() {
   // The quiz is taken without audio in the background.
   document.getElementById('btn-start-quiz').addEventListener('click', function () { a.pause(); });
 
-  plRestore();
+  if (!accessLocked()) plRestore();   // behind the access password: restored after it is entered
+}
+
+// ── Access password (temporary, while the site is not public) ────────────
+// A simple curtain, not a vault: the page asks for a password before it shows anything.
+//  - ACCESS_HASH is written by `node build/set_password.js "<password>"` (`--off` opens the site again).
+//    Only a fingerprint (SHA-256) of the password is stored here, never the password itself.
+//  - Remembered on the device after the first correct entry; changing the password asks everyone again.
+//  - Partner review pages stay open: pages generated earlier have no #screen-login, and
+//    build/make_review.js marks new ones with <body data-access="open">.
+//  - It does not protect the files themselves (mp3, episodes_data.js) or the public GitHub repository.
+const ACCESS_HASH = '248eb6e7da758637cd2ed2b8726651d00ce3dd462933626e3a1a7b5563a572fe';
+var ACCESS_KEY = 'bp_access_v1';
+var ACCESS_SALT = 'bp-podcast-access:';
+var accessOk = false;
+Object.assign(I18N.en, {
+  login_intro: 'This site is not open to the public yet. Please enter the password you were given.',
+  login_title: 'Access', login_label: 'Password', login_btn: 'Enter →',
+  login_err: 'This password is not correct. Please try again.',
+  login_hint: 'You only need to enter it once on this device.'
+});
+Object.assign(I18N.fr, {
+  login_intro: 'Ce site n’est pas encore ouvert au public. Veuillez saisir le mot de passe qui vous a été communiqué.',
+  login_title: 'Accès', login_label: 'Mot de passe', login_btn: 'Entrer →',
+  login_err: 'Ce mot de passe n’est pas correct. Veuillez réessayer.',
+  login_hint: 'Vous ne devez le saisir qu’une seule fois sur cet appareil.'
+});
+Object.assign(I18N.de, {
+  login_intro: 'Diese Website ist noch nicht öffentlich zugänglich. Bitte geben Sie das Passwort ein, das Sie erhalten haben.',
+  login_title: 'Zugang', login_label: 'Passwort', login_btn: 'Weiter →',
+  login_err: 'Dieses Passwort ist nicht korrekt. Bitte versuchen Sie es erneut.',
+  login_hint: 'Sie müssen es auf diesem Gerät nur einmal eingeben.'
+});
+function accessOn() {
+  return !!ACCESS_HASH && !!document.getElementById('screen-login') && document.body.getAttribute('data-access') !== 'open';
+}
+function accessLocked() { return accessOn() && !accessOk; }
+function accessInit() {
+  if (!accessOn()) return;
+  try { accessOk = localStorage.getItem(ACCESS_KEY) === ACCESS_HASH; } catch (e) {}
+  document.body.classList.toggle('locked', !accessOk);
+  document.getElementById('login-form').addEventListener('submit', function (e) {
+    e.preventDefault();
+    var inp = document.getElementById('inp-pass'), err = document.getElementById('err-pass');
+    if (sha256(unescape(encodeURIComponent(ACCESS_SALT + inp.value.trim()))) !== ACCESS_HASH) {
+      inp.classList.add('error'); err.style.display = 'block'; inp.select();
+      return;
+    }
+    accessOk = true;
+    try { localStorage.setItem(ACCESS_KEY, ACCESS_HASH); } catch (e2) {}
+    inp.value = ''; inp.classList.remove('error'); err.style.display = 'none';
+    document.body.classList.remove('locked');
+    if (plEnabled()) plRestore();
+    renderEpisodeList();
+    plRefreshUI();
+    showScreen('screen-episodes');
+  });
+}
+// SHA-256 of a byte string, as hex (small standalone version, so the check also works without https).
+function sha256(ascii) {
+  function rr(v, a) { return (v >>> a) | (v << (32 - a)); }
+  var maxWord = Math.pow(2, 32), i, j, result = '', words = [], bitLen = ascii.length * 8;
+  var hash = sha256.h = sha256.h || [], k = sha256.k = sha256.k || [], primes = k.length, comp = {};
+  for (var c = 2; primes < 64; c++) {
+    if (!comp[c]) {
+      for (i = 0; i < 313; i += c) comp[i] = c;
+      hash[primes] = (Math.pow(c, 0.5) * maxWord) | 0;
+      k[primes++] = (Math.pow(c, 1 / 3) * maxWord) | 0;
+    }
+  }
+  ascii += '\x80';
+  while (ascii.length % 64 - 56) ascii += '\x00';
+  for (i = 0; i < ascii.length; i++) {
+    j = ascii.charCodeAt(i);
+    if (j >> 8) return '';
+    words[i >> 2] |= j << ((3 - i) % 4) * 8;
+  }
+  words[words.length] = (bitLen / maxWord) | 0;
+  words[words.length] = bitLen;
+  for (j = 0; j < words.length;) {
+    var w = words.slice(j, j += 16), old = hash;
+    hash = hash.slice(0, 8);
+    for (i = 0; i < 64; i++) {
+      var w15 = w[i - 15], w2 = w[i - 2], a = hash[0], e = hash[4];
+      var t1 = hash[7] + (rr(e, 6) ^ rr(e, 11) ^ rr(e, 25)) + ((e & hash[5]) ^ ((~e) & hash[6])) + k[i] +
+        (w[i] = (i < 16) ? w[i] : (w[i - 16] + (rr(w15, 7) ^ rr(w15, 18) ^ (w15 >>> 3)) + w[i - 7] + (rr(w2, 17) ^ rr(w2, 19) ^ (w2 >>> 10))) | 0);
+      var t2 = (rr(a, 2) ^ rr(a, 13) ^ rr(a, 22)) + ((a & hash[1]) ^ (a & hash[2]) ^ (hash[1] & hash[2]));
+      hash = [(t1 + t2) | 0].concat(hash);
+      hash[4] = (hash[4] + t1) | 0;
+    }
+    for (i = 0; i < 8; i++) hash[i] = (hash[i] + old[i]) | 0;
+  }
+  for (i = 0; i < 8; i++) for (j = 3; j + 1; j--) { var b = (hash[i] >> (j * 8)) & 255; result += (b < 16 ? '0' : '') + b.toString(16); }
+  return result;
 }
 
 // ── Wire up ──────────────────────────────────────────────
 document.addEventListener('DOMContentLoaded', function () {
+  accessInit();   // temporary access password (does nothing when no password is set)
   // Registration screen is disabled for now - go straight to the catalogue.
   showScreen('screen-episodes');
   document.getElementById('btn-register').addEventListener('click', doRegister);

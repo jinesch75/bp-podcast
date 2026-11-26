@@ -6,8 +6,8 @@
   <title>Biergerpakt Podcast &ndash; Listen, Learn &amp; Earn Your Certificate</title>
   <link rel="icon" type="image/svg+xml" href="favicon.svg">
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
-  <script src="episodes_data.js?v=202611260912" defer></script>
-  <script src="app.js?v=202611260912" defer></script>
+  <script src="episodes_data.js?v=202611260920" defer></script>
+  <script src="app.js?v=202611260920" defer></script>
   <style>
     :root {
       --orange: #E84600;
@@ -361,6 +361,11 @@
     }
     @media (prefers-reduced-motion: reduce) { .ep-row-add, .pl-ic, .pl-head-btn { transition: none; } }
 
+    /* ─── ACCESS PASSWORD (temporary) ─────────────────── */
+    body.locked .screen:not(#screen-login), body.locked #pl-bar, body.locked #btn-playlist { display: none !important; }
+    body.locked { padding-bottom: 0 !important; }
+    .login-wrap { max-width: 460px; }
+
     /* ─── UTILITY ─────────────────────────────────────── */
     .hidden { display: none !important; }
 
@@ -405,6 +410,27 @@
     </div>
   </div>
 </header>
+
+<!-- SCREEN 0 · ACCESS PASSWORD (temporary, while the site is not public; set or remove it with build/set_password.js) -->
+<div id="screen-login" class="screen">
+  <div class="reg-hero">
+    <div class="tag" data-i18n="reg_tag">Biergerpakt &middot; Podcast Programme</div>
+    <h1 data-i18n="podcast_name">The Biergerpakt Podcast</h1>
+    <p data-i18n="login_intro">This site is not open to the public yet. Please enter the password you were given.</p>
+  </div>
+  <div class="reg-form-wrap login-wrap">
+    <form class="card" id="login-form">
+      <div class="card-title" data-i18n="login_title" style="margin-bottom:16px;">Access</div>
+      <div class="form-group">
+        <label for="inp-pass" data-i18n="login_label">Password</label>
+        <input class="form-input" type="password" id="inp-pass" autocomplete="current-password" autocapitalize="none" spellcheck="false">
+        <div class="error-msg" id="err-pass" role="alert" data-i18n="login_err">This password is not correct. Please try again.</div>
+        <div class="form-hint" data-i18n="login_hint">You only need to enter it once on this device.</div>
+      </div>
+      <button class="btn btn-full" type="submit" data-i18n="login_btn">Enter &rarr;</button>
+    </form>
+  </div>
+</div>
 
 <!-- SCREEN 1 · REGISTRATION -->
 <!-- Registration screen disabled for now: visitors go straight to the catalogue.
