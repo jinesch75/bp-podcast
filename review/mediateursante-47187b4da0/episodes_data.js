@@ -6,7 +6,7 @@ const EPISODES = [
   "title": "The Health Mediator – Your Rights as a Patient",
   "description": "A treatment nobody explained, a bill you do not understand, the feeling that a mistake was made: discover the Médiateur santé, Luxembourg's National Health Information and Mediation Service, and its website mediateursante.public.lu: your rights as a patient, how a health mediation works, and who helps with care across borders.",
   "audio": "../../podcast_mediateursante.mp3",
-  "duration": 616.62,
+  "duration": 618.58,
   "topics": [
    "What the health mediator is",
    "Rights and obligations of patients",
@@ -110,583 +110,578 @@ const EPISODES = [
    },
    {
     "speaker": "Anna",
-    "text": "There are three main tasks.",
+    "text": "It has three main tasks, and the first one is to be an information centre about rights in health care.",
     "t": 83.36
    },
    {
     "speaker": "Anna",
-    "text": "It is an information centre about rights in health care.",
-    "t": 85.18
-   },
-   {
-    "speaker": "Anna",
     "text": "It is a mediation centre for conflicts between a patient and a healthcare provider.",
-    "t": 88.51
+    "t": 89.55
    },
    {
     "speaker": "Anna",
     "text": "And it is a contact point for cross-border health care.",
-    "t": 93.45
+    "t": 94.49
    },
    {
     "speaker": "Tom",
     "text": "And does the service stand on the side of the patient?",
-    "t": 96.75
+    "t": 97.79
    },
    {
     "speaker": "Anna",
-    "text": "No, and that is important to understand.",
-    "t": 99.46
+    "text": "No, it does not, and that is important to understand.",
+    "t": 100.5
    },
    {
     "speaker": "Anna",
     "text": "The service is neutral, independent and impartial, so it listens to patients and to healthcare providers in the same way.",
-    "t": 101.79
+    "t": 103.74
    },
    {
     "speaker": "Tom",
     "text": "Let us begin with information, because many people simply have a question, and not a conflict.",
-    "t": 108.99
+    "t": 111.21
    },
    {
     "speaker": "Tom",
     "text": "You can contact the service just to understand your rights and your obligations as a patient.",
-    "t": 114.43
+    "t": 116.65
    },
    {
     "speaker": "Anna",
     "text": "Which rights are we talking about here?",
-    "t": 119.29
+    "t": 121.51
    },
    {
     "speaker": "Tom",
     "text": "They are written in the law of 2014.",
-    "t": 121.4
+    "t": 123.62
    },
    {
     "speaker": "Tom",
     "text": "Its basic principle is mutual respect, dignity and loyalty between the patient and the provider.",
-    "t": 123.86
+    "t": 126.08
    },
    {
     "speaker": "Tom",
     "text": "Then come the free choice of your provider and access to health care.",
-    "t": 130.2
+    "t": 132.42
    },
    {
     "speaker": "Anna",
     "text": "What does the law say about information and decisions?",
-    "t": 133.81
+    "t": 136.03
    },
    {
     "speaker": "Tom",
     "text": "The provider has a duty to inform you, to talk with you, and to involve you in the decisions about your care.",
-    "t": 137.18
+    "t": 139.4
    },
    {
     "speaker": "Tom",
     "text": "Your consent matters, and that is why the website groups information, consent and decision-making together.",
-    "t": 144.16
+    "t": 146.38
    },
    {
     "speaker": "Anna",
     "text": "I have also heard about a person of trust.",
-    "t": 150.69
+    "t": 152.91
    },
    {
     "speaker": "Anna",
     "text": "Is that part of the same law?",
-    "t": 153.19
+    "t": 155.41
    },
    {
     "speaker": "Tom",
     "text": "Yes, the law takes the wishes of the patient more strongly into account.",
-    "t": 155.14
+    "t": 157.36
    },
    {
     "speaker": "Tom",
     "text": "You can name a person of trust, and you can be accompanied by a person that you choose.",
-    "t": 159.42
+    "t": 161.64
    },
    {
     "speaker": "Anna",
     "text": "And what about the file that my doctor keeps about me?",
-    "t": 163.78
+    "t": 166
    },
    {
     "speaker": "Tom",
     "text": "The law wants every patient to have a patient file, and it wants this file to be accessible to the patient.",
-    "t": 166.81
+    "t": 169.03
    },
    {
     "speaker": "Tom",
     "text": "It also insists on confidentiality and on professional secrecy.",
-    "t": 173
+    "t": 175.22
    },
    {
     "speaker": "Anna",
     "text": "Now imagine that there really is a problem.",
-    "t": 177.16
+    "t": 179.38
    },
    {
     "speaker": "Anna",
     "text": "The first advice on the website may surprise you: talk to your provider directly, because a direct conversation very often solves a disagreement.",
-    "t": 179.69
+    "t": 181.91
    },
    {
     "speaker": "Tom",
     "text": "That is not always easy in the middle of a normal appointment.",
-    "t": 189.07
+    "t": 191.29
    },
    {
     "speaker": "Anna",
     "text": "I agree, and the website says so too.",
-    "t": 192.04
+    "t": 194.26
    },
    {
     "speaker": "Anna",
     "text": "It suggests that you ask for a separate appointment, only for this subject, and you can bring someone with you if you wish.",
-    "t": 194.74
+    "t": 196.96
    },
    {
     "speaker": "Tom",
     "text": "And who can I talk to when the problem happened in a hospital?",
-    "t": 201.62
+    "t": 203.84
    },
    {
     "speaker": "Anna",
     "text": "Hospitals, and many other providers, have a person or a service in charge of complaints and of relations with patients.",
-    "t": 204.46
+    "t": 206.68
    },
    {
     "speaker": "Anna",
     "text": "Your feedback helps them to understand your point of view, and it is used to improve quality.",
-    "t": 211.32
+    "t": 213.54
    },
    {
     "speaker": "Tom",
     "text": "What can I do if this conversation is difficult, or if it brings no solution?",
-    "t": 217.06
+    "t": 219.28
    },
    {
     "speaker": "Anna",
     "text": "Then health mediation can be the next step.",
-    "t": 221.46
+    "t": 223.68
    },
    {
     "speaker": "Tom",
     "text": "Mediation is a structured process.",
-    "t": 224.15
+    "t": 226.12
    },
    {
     "speaker": "Tom",
     "text": "The people in a conflict try, of their own free will, to find an agreement themselves, and a mediator helps them to do so.",
-    "t": 226.38
+    "t": 228.35
    },
    {
     "speaker": "Anna",
     "text": "So is it the mediator who decides who is right in the end?",
-    "t": 232.69
+    "t": 234.66
    },
    {
     "speaker": "Tom",
     "text": "No, the mediator is not a judge, and not an expert who gives a verdict.",
-    "t": 236.15
+    "t": 238.12
    },
    {
     "speaker": "Tom",
     "text": "The mediator has no power to decide.",
-    "t": 240.56
+    "t": 242.53
    },
    {
     "speaker": "Tom",
     "text": "The role is to listen to all sides equally, to open a dialogue, and to guide everyone through the process.",
-    "t": 243.05
+    "t": 245.02
    },
    {
     "speaker": "Anna",
     "text": "Suppose that I say something during a mediation.",
-    "t": 249.18
+    "t": 251.15
    },
    {
     "speaker": "Anna",
     "text": "Could it be used against me afterwards?",
-    "t": 252.04
+    "t": 254.01
    },
    {
     "speaker": "Tom",
     "text": "Mediation is confidential, and every person who takes part is bound by secrecy, so that everyone can speak openly about the conflict.",
-    "t": 254.34
+    "t": 256.31
    },
    {
     "speaker": "Anna",
     "text": "Here is how it works in practice.",
-    "t": 263.59
+    "t": 265.56
    },
    {
     "speaker": "Anna",
     "text": "You contact the service by phone, by email, or with the contact form on its website.",
-    "t": 265.75
+    "t": 267.72
    },
    {
     "speaker": "Tom",
     "text": "Who is allowed to ask for a mediation?",
-    "t": 271.44
+    "t": 273.41
    },
    {
     "speaker": "Anna",
     "text": "Patients, their family and their representatives can ask, and healthcare providers can ask too.",
-    "t": 273.68
+    "t": 275.65
    },
    {
     "speaker": "Anna",
     "text": "The request can come from one side alone, or from everyone together.",
-    "t": 279.54
+    "t": 281.51
    },
    {
     "speaker": "Tom",
     "text": "What happens when I am the only one who asks?",
-    "t": 283.82
+    "t": 285.79
    },
    {
     "speaker": "Anna",
     "text": "Then the service contacts the other side and asks whether they agree to a mediation.",
-    "t": 286.51
+    "t": 288.48
    },
    {
     "speaker": "Anna",
     "text": "It can only take place when both sides say yes.",
-    "t": 291.76
+    "t": 293.73
    },
    {
     "speaker": "Tom",
     "text": "And how does the mediation itself begin?",
-    "t": 295.03
+    "t": 297
    },
    {
     "speaker": "Anna",
     "text": "Most often with a preliminary interview.",
-    "t": 297.34
+    "t": 299.31
    },
    {
     "speaker": "Anna",
     "text": "The mediator meets each side individually, explains the rules, and listens to your point of view.",
-    "t": 299.79
+    "t": 301.76
    },
    {
     "speaker": "Anna",
     "text": "Together, you check whether mediation is the right way for your situation.",
-    "t": 305.96
+    "t": 307.93
    },
    {
     "speaker": "Tom",
     "text": "Then comes the moment when everybody sits at the same table.",
-    "t": 310.32
+    "t": 312.29
    },
    {
     "speaker": "Anna",
     "text": "Yes, and this meeting normally takes place in the meeting room of the service.",
-    "t": 313.42
+    "t": 315.39
    },
    {
     "speaker": "Anna",
     "text": "The mediator recalls the rules, and then each person explains how they see the situation, with the facts and also with the feelings.",
-    "t": 317.57
+    "t": 319.54
    },
    {
     "speaker": "Tom",
     "text": "May I bring somebody with me to this meeting?",
-    "t": 326.68
+    "t": 328.65
    },
    {
     "speaker": "Anna",
     "text": "In principle, you can be accompanied by one or several persons of your choice, for example a relative, and a lawyer can advise and assist you.",
-    "t": 328.67
+    "t": 330.64
    },
    {
     "speaker": "Anna",
     "text": "You must tell the mediator and the other side in advance who will come with you.",
-    "t": 337.58
+    "t": 339.55
    },
    {
     "speaker": "Tom",
     "text": "And what happens when the two sides find a solution?",
-    "t": 342.84
+    "t": 344.81
    },
    {
     "speaker": "Anna",
     "text": "Then the agreement can be written down.",
-    "t": 345.39
+    "t": 347.36
    },
    {
     "speaker": "Anna",
     "text": "It can be complete or partial, it is dated and signed by everyone, it describes what each side promises to do, and it binds them.",
-    "t": 347.64
+    "t": 349.61
    },
    {
     "speaker": "Tom",
     "text": "The website tells a real story, made anonymous.",
-    "t": 356.22
+    "t": 358.19
    },
    {
     "speaker": "Tom",
     "text": "A patient went to the emergency department of a hospital.",
-    "t": 359.04
+    "t": 361.01
    },
    {
     "speaker": "Tom",
     "text": "An important remark in the report of an X-ray was only seen much later, because the patient had already gone home.",
-    "t": 362.18
+    "t": 364.15
    },
    {
     "speaker": "Anna",
     "text": "And how did the mediation help in this case?",
-    "t": 368.5
+    "t": 370.47
    },
    {
     "speaker": "Tom",
     "text": "Everyone could say what they felt and explain what had happened.",
-    "t": 371.45
+    "t": 373.42
    },
    {
     "speaker": "Tom",
     "text": "Regrets and apologies were expressed, and they were accepted.",
-    "t": 375.42
+    "t": 377.39
    },
    {
     "speaker": "Tom",
     "text": "The hospital changed its internal procedure, and the patient received compensation without going to court.",
-    "t": 379.01
+    "t": 380.98
    },
    {
     "speaker": "Anna",
     "text": "Does a mediation always end with an agreement?",
-    "t": 385.31
+    "t": 387.28
    },
    {
     "speaker": "Tom",
     "text": "No, the result is open, and nobody can guarantee a solution.",
-    "t": 388.27
+    "t": 390.24
    },
    {
     "speaker": "Tom",
     "text": "Mediation needs two sides who look for a solution in good faith.",
-    "t": 392.25
+    "t": 394.22
    },
    {
     "speaker": "Anna",
     "text": "And what can I do when there is no agreement?",
-    "t": 396.07
+    "t": 398.04
    },
    {
     "speaker": "Tom",
     "text": "Then the courts remain open to you.",
-    "t": 398.68
+    "t": 400.65
    },
    {
     "speaker": "Tom",
     "text": "The website recommends that you consult a lawyer before you start a court action.",
-    "t": 400.71
+    "t": 402.68
    },
    {
     "speaker": "Anna",
     "text": "Are there situations where the health mediator is not the right address?",
-    "t": 404.76
+    "t": 406.73
    },
    {
     "speaker": "Tom",
     "text": "Yes, the website names several.",
-    "t": 409.26
+    "t": 411.23
    },
    {
     "speaker": "Tom",
     "text": "One of them is a decision of a social security body, for example when you disagree with the National Health Fund about a reimbursement.",
-    "t": 411.49
+    "t": 413.46
    },
    {
     "speaker": "Tom",
     "text": "For this, you can turn to the Ombudsman, and there is an episode about the Ombudsman in this podcast.",
-    "t": 419.19
+    "t": 421.16
    },
    {
     "speaker": "Anna",
     "text": "The third task of the service is interesting for many of our listeners: cross-border health care.",
-    "t": 425.52
+    "t": 427.49
    },
    {
     "speaker": "Anna",
     "text": "That means care which is given or prescribed in another country than the one where you are insured.",
-    "t": 431.1
+    "t": 433.07
    },
    {
     "speaker": "Tom",
     "text": "What is the role of the service in this field?",
-    "t": 437.8
+    "t": 439.77
    },
    {
     "speaker": "Anna",
     "text": "European countries have national contact points for patients with questions about care in another country.",
-    "t": 440.2
+    "t": 442.17
    },
    {
     "speaker": "Anna",
     "text": "Luxembourg has two of them: the health mediation service and the National Health Fund, the CNS.",
-    "t": 446.41
+    "t": 448.38
    },
    {
     "speaker": "Tom",
     "text": "How do I know which of the two I should contact?",
-    "t": 453.2
+    "t": 455.17
    },
    {
     "speaker": "Anna",
     "text": "Imagine that you are insured in another country and you want to be treated in Luxembourg.",
-    "t": 455.83
+    "t": 457.8
    },
    {
     "speaker": "Anna",
     "text": "The health mediation service informs you about the health system here, about providers, about your rights, and about what to do in a disagreement.",
-    "t": 461.05
+    "t": 463.02
    },
    {
     "speaker": "Tom",
     "text": "And what about a person who is insured in Luxembourg and receives care abroad?",
-    "t": 469.57
+    "t": 471.54
    },
    {
     "speaker": "Anna",
     "text": "For general questions and for a conflict, this person can contact the health mediation service.",
-    "t": 473.85
+    "t": 475.82
    },
    {
     "speaker": "Anna",
     "text": "For the reimbursement itself, and for a prior authorisation, the contact point is the CNS.",
-    "t": 479.64
+    "t": 481.61
    },
    {
     "speaker": "Tom",
     "text": "You can reach the service by phone, by email and with the contact form.",
-    "t": 486
+    "t": 487.97
    },
    {
     "speaker": "Tom",
     "text": "Its office is in Luxembourg City, and the hours of the secretariat are shown on the website.",
-    "t": 489.65
+    "t": 491.62
    },
    {
     "speaker": "Anna",
     "text": "In which languages can I speak with the team?",
-    "t": 495.17
+    "t": 497.14
    },
    {
     "speaker": "Tom",
     "text": "The team works in several languages, among them Luxembourgish, French, German and English.",
-    "t": 497.83
+    "t": 499.8
    },
    {
     "speaker": "Anna",
     "text": "What can people find on the website of the service?",
-    "t": 503.48
+    "t": 505.45
    },
    {
     "speaker": "Tom",
     "text": "The website exists in French and in German.",
-    "t": 506.47
+    "t": 508.44
    },
    {
     "speaker": "Tom",
     "text": "It has sections about mediation and disputes, about your rights and obligations, about care in Luxembourg, and about cross-border care.",
-    "t": 508.95
+    "t": 510.92
    },
    {
     "speaker": "Anna",
     "text": "Time to sum up the most important points.",
-    "t": 517.38
+    "t": 519.35
    },
    {
     "speaker": "Anna",
     "text": "First: as a patient in Luxembourg, you have rights and obligations, and they are written in the law of 2014.",
-    "t": 519.93
+    "t": 521.9
    },
    {
     "speaker": "Tom",
     "text": "Second: when there is a problem, speak with your provider first, or with the complaints service of the hospital.",
-    "t": 527.52
+    "t": 529.49
    },
    {
     "speaker": "Anna",
     "text": "Third: if that does not help, the health mediator can organise a mediation.",
-    "t": 534.05
+    "t": 536.02
    },
    {
     "speaker": "Anna",
     "text": "It is voluntary, confidential and neutral, and the solution comes from the people themselves.",
-    "t": 539.18
+    "t": 541.15
    },
    {
     "speaker": "Tom",
     "text": "Fourth: the service also answers questions about care across borders, together with the CNS.",
-    "t": 545.13
+    "t": 547.1
    },
    {
     "speaker": "Anna",
     "text": "You find all the information on mediateursante dot public dot l-u.",
-    "t": 551.5
+    "t": 553.47
    },
    {
     "speaker": "Tom",
     "text": "A conflict about your health is never pleasant, but in Luxembourg you do not have to face it alone.",
-    "t": 556.34
+    "t": 558.31
    },
    {
     "speaker": "Anna",
     "text": "And a good conversation is very often the best start.",
-    "t": 561.89
+    "t": 563.86
    },
    {
     "speaker": "Anna",
     "text": "That was our episode about the health mediator and your rights as a patient.",
-    "t": 565.24
+    "t": 567.21
    },
    {
     "speaker": "Anna",
     "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
-    "t": 569.57
+    "t": 571.54
    },
    {
     "speaker": "Anna",
     "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
-    "t": 579.79
+    "t": 581.76
    },
    {
     "speaker": "Anna",
     "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
-    "t": 598.07
+    "t": 600.04
    },
    {
     "speaker": "Anna",
     "text": "And the activities are free of charge.",
-    "t": 604.82
+    "t": 606.79
    },
    {
     "speaker": "Anna",
     "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
-    "t": 607.02
+    "t": 608.99
    },
    {
     "speaker": "Tom",
     "text": "Thank you, everyone.",
-    "t": 611.71
+    "t": 613.68
    },
    {
     "speaker": "Tom",
     "text": "Take care, and see you next time!",
-    "t": 612.88
+    "t": 614.85
    },
    {
     "speaker": "Anna",
     "text": "Thank you so much for listening.",
-    "t": 615.02
+    "t": 616.99
    }
   ],
   "questions": [
@@ -2296,332 +2291,332 @@ const EPISODES = [
    {
     "speaker": "Tom",
     "text": "A steet de Service op der Säit vum Patient?",
-    "t": 96.75
+    "t": 97.79
    },
    {
     "speaker": "Anna",
     "text": "Neen, an dat ass wichteg ze verstoen. De Service ass neutral, onofhängeg an onparteiesch, e lauschtert also de Patienten an de Gesondheetsdéngschtleeschter op déi selwecht Manéier no.",
-    "t": 99.46
+    "t": 100.5
    },
    {
     "speaker": "Tom",
     "text": "Fänke mir mat der Informatioun un, well vill Leit hunn einfach eng Fro, a kee Konflikt. Dir kënnt de Service och just kontaktéieren, fir Är Rechter an Är Flichten als Patient ze verstoen.",
-    "t": 108.99
+    "t": 111.21
    },
    {
     "speaker": "Anna",
     "text": "Vu wéi enge Rechter schwätze mir hei?",
-    "t": 119.29
+    "t": 121.51
    },
    {
     "speaker": "Tom",
     "text": "Si stinn am Gesetz vun 2014. Säi Grondprinzip ass de géigesäitege Respekt, d'Dignitéit an d'Loyalitéit tëscht dem Patient an dem Déngschtleeschter. Da kommen déi fräi Wiel vun Ärem Déngschtleeschter an den Zougang zu der Gesondheetsversuergung.",
-    "t": 121.4
+    "t": 123.62
    },
    {
     "speaker": "Anna",
     "text": "Wat seet d'Gesetz iwwer Informatioun an Decisiounen?",
-    "t": 133.81
+    "t": 136.03
    },
    {
     "speaker": "Tom",
     "text": "Den Déngschtleeschter huet d'Flicht, Iech z'informéieren, mat Iech ze schwätzen an Iech un den Decisiounen iwwer Är Behandlung ze bedeelegen. Ären Accord zielt, an dofir stellt den Internetsite Informatioun, Accord an Decisioun zesummen duer.",
-    "t": 137.18
+    "t": 139.4
    },
    {
     "speaker": "Anna",
     "text": "Ech hunn och vun enger Vertrauenspersoun héieren. Gehéiert dat zum selwechte Gesetz?",
-    "t": 150.69
+    "t": 152.91
    },
    {
     "speaker": "Tom",
     "text": "Jo, d'Gesetz hëlt de Wëlle vum Patient méi staark a Betruecht. Dir kënnt eng Vertrauenspersoun bestëmmen, an Dir kënnt Iech vun enger Persoun vun Ärer Wiel begleede loossen.",
-    "t": 155.14
+    "t": 157.36
    },
    {
     "speaker": "Anna",
     "text": "A wéi ass et mam Dossier, deen mäin Dokter iwwer mech féiert?",
-    "t": 163.78
+    "t": 166
    },
    {
     "speaker": "Tom",
     "text": "D'Gesetz wëll, datt all Patient en Patientendossier huet, an datt dësen Dossier fir de Patient zougänglech ass. Et besteet och op der Vertraulechkeet an um Beruffsgeheimnis.",
-    "t": 166.81
+    "t": 169.03
    },
    {
     "speaker": "Anna",
     "text": "Stellt Iech elo vir, datt et wierklech e Problem gëtt. Den éischte Rot um Internetsite iwwerrascht Iech vläicht: Schwätzt direkt mat Ärem Déngschtleeschter, well en direkt Gespréich léist ganz dacks eng Meenungsverschiddenheet.",
-    "t": 177.16
+    "t": 179.38
    },
    {
     "speaker": "Tom",
     "text": "Dat ass matzen an engem normale Rendez-vous net ëmmer einfach.",
-    "t": 189.07
+    "t": 191.29
    },
    {
     "speaker": "Anna",
     "text": "Do sinn ech averstanen, an den Internetsite seet dat och. E proposéiert, en eegene Rendez-vous ze froen, just fir dëst Thema, an Dir kënnt een matbréngen, wann Dir dat wëllt.",
-    "t": 192.04
+    "t": 194.26
    },
    {
     "speaker": "Tom",
     "text": "A mat wiem kann ech schwätzen, wann de Problem an engem Spidol geschitt ass?",
-    "t": 201.62
+    "t": 203.84
    },
    {
     "speaker": "Anna",
     "text": "D'Spideeler, a vill aner Déngschtleeschter, hunn eng Persoun oder e Service, dee fir d'Reklamatiounen a fir d'Relatioune mat de Patienten zoustänneg ass. Äre Feedback hëlleft hinnen, Äre Standpunkt ze verstoen, an e gëtt genotzt, fir d'Qualitéit ze verbesseren.",
-    "t": 204.46
+    "t": 206.68
    },
    {
     "speaker": "Tom",
     "text": "Wat kann ech maachen, wann dëst Gespréich schwiereg ass, oder wann et keng Léisung bréngt?",
-    "t": 217.06
+    "t": 219.28
    },
    {
     "speaker": "Anna",
     "text": "Da kann d'Mediatioun am Gesondheetsberäich deen nächste Schrëtt sinn.",
-    "t": 221.46
+    "t": 223.68
    },
    {
     "speaker": "Tom",
     "text": "D'Mediatioun ass e strukturéierte Prozess. D'Leit an engem Konflikt probéieren aus fräie Stécker, selwer en Accord ze fannen, an e Mediateur hëlleft hinnen dobäi.",
-    "t": 224.15
+    "t": 226.12
    },
    {
     "speaker": "Anna",
     "text": "Decidéiert also um Enn de Mediateur, wie Recht huet?",
-    "t": 232.69
+    "t": 234.66
    },
    {
     "speaker": "Tom",
     "text": "Neen, de Mediateur ass kee Riichter, an och keen Expert, deen en Urteel ofgëtt. De Mediateur huet keng Decisiounsmuecht. Seng Roll ass et, alle Säite gläich nozelauschteren, en Dialog opzemaachen an jiddereen duerch de Prozess ze begleeden.",
-    "t": 236.15
+    "t": 238.12
    },
    {
     "speaker": "Anna",
     "text": "Huele mir un, ech soen eppes während enger Mediatioun. Kéint dat méi spéit géint mech benotzt ginn?",
-    "t": 249.18
+    "t": 251.15
    },
    {
     "speaker": "Tom",
     "text": "D'Mediatioun ass vertraulech, an all Persoun, déi dorun deelhëlt, ass un d'Geheimnis gebonnen, fir datt jiddereen oppen iwwer de Konflikt schwätze kann.",
-    "t": 254.34
+    "t": 256.31
    },
    {
     "speaker": "Anna",
     "text": "Esou funktionéiert et an der Praxis. Dir kontaktéiert de Service per Telefon, per E-Mail oder mam Kontaktformulaire op sengem Internetsite.",
-    "t": 263.59
+    "t": 265.56
    },
    {
     "speaker": "Tom",
     "text": "Wien däerf eng Mediatioun froen?",
-    "t": 271.44
+    "t": 273.41
    },
    {
     "speaker": "Anna",
     "text": "Patienten, hir Famill an hir Vertrieder kënnen se froen, an d'Gesondheetsdéngschtleeschter kënnen dat och. D'Ufro ka vun enger Säit eleng kommen, oder vun alleguer zesummen.",
-    "t": 273.68
+    "t": 275.65
    },
    {
     "speaker": "Tom",
     "text": "Wat geschitt, wann ech deen Eenzegen sinn, deen ufreet?",
-    "t": 283.82
+    "t": 285.79
    },
    {
     "speaker": "Anna",
     "text": "Da kontaktéiert de Service déi aner Säit a freet, ob si mat enger Mediatioun averstanen ass. Déi ka just stattfannen, wann déi zwou Säite Jo soen.",
-    "t": 286.51
+    "t": 288.48
    },
    {
     "speaker": "Tom",
     "text": "A wéi fänkt d'Mediatioun selwer un?",
-    "t": 295.03
+    "t": 297
    },
    {
     "speaker": "Anna",
     "text": "Meeschtens mat engem Virgespréich. De Mediateur begéint all Säit eenzel, erkläert d'Reegelen a lauschtert Äre Standpunkt. Zesumme kuckt Dir, ob d'Mediatioun dee richtege Wee fir Är Situatioun ass.",
-    "t": 297.34
+    "t": 299.31
    },
    {
     "speaker": "Tom",
     "text": "Da kënnt de Moment, wou jiddereen um selwechten Dësch sëtzt.",
-    "t": 310.32
+    "t": 312.29
    },
    {
     "speaker": "Anna",
     "text": "Jo, an dës Reunioun fënnt normalerweis am Reuniounssall vum Service statt. De Mediateur erënnert un d'Reegelen, an dann erkläert all Persoun, wéi si d'Situatioun gesäit, mat de Fakten an och mat de Gefiller.",
-    "t": 313.42
+    "t": 315.39
    },
    {
     "speaker": "Tom",
     "text": "Däerf ech een op dës Reunioun matbréngen?",
-    "t": 326.68
+    "t": 328.65
    },
    {
     "speaker": "Anna",
     "text": "Am Prinzip kënnt Dir Iech vun enger oder méi Persoune vun Ärer Wiel begleede loossen, zum Beispill vun engem Familljemember, an en Affekot kann Iech beroden an ënnerstëtzen. Dir musst dem Mediateur an der anerer Säit am Viraus soen, wie mat Iech kënnt.",
-    "t": 328.67
+    "t": 330.64
    },
    {
     "speaker": "Tom",
     "text": "A wat geschitt, wann déi zwou Säiten eng Léisung fannen?",
-    "t": 342.84
+    "t": 344.81
    },
    {
     "speaker": "Anna",
     "text": "Da kann den Accord schrëftlech festgehale ginn. E ka komplett oder deelweis sinn, e gëtt datéiert a vun alleguer ënnerschriwwen, e beschreift, wozou sech all Säit engagéiert, an e bënnt d'Bedeelegt.",
-    "t": 345.39
+    "t": 347.36
    },
    {
     "speaker": "Tom",
     "text": "Den Internetsite erzielt eng wouer Geschicht, déi anonymiséiert gouf. E Patient koum an d'Urgence vun engem Spidol. Eng wichteg Bemierkung am Rapport vun enger Radiographie gouf eréischt vill méi spéit gesinn, well de Patient scho heemgaange war.",
-    "t": 356.22
+    "t": 358.19
    },
    {
     "speaker": "Anna",
     "text": "A wéi huet d'Mediatioun an dësem Fall gehollef?",
-    "t": 368.5
+    "t": 370.47
    },
    {
     "speaker": "Tom",
     "text": "Jiddereen konnt soen, wat e gefillt huet, an erklären, wat geschitt war. Bedaueren an Entschëllegunge goufen ausgedréckt, a si goufen ugeholl. D'Spidol huet seng intern Prozedur geännert, an de Patient krut eng Entschiedegung, ouni viru Geriicht ze goen.",
-    "t": 371.45
+    "t": 373.42
    },
    {
     "speaker": "Anna",
     "text": "Hält eng Mediatioun ëmmer mat engem Accord op?",
-    "t": 385.31
+    "t": 387.28
    },
    {
     "speaker": "Tom",
     "text": "Neen, d'Resultat ass oppen, a kee kann eng Léisung garantéieren. D'Mediatioun brauch zwou Säiten, déi a guddem Glawen no enger Léisung sichen.",
-    "t": 388.27
+    "t": 390.24
    },
    {
     "speaker": "Anna",
     "text": "A wat kann ech maachen, wann et keen Accord gëtt?",
-    "t": 396.07
+    "t": 398.04
    },
    {
     "speaker": "Tom",
     "text": "Da bleift Iech de Wee bei d'Geriichter op. Den Internetsite recommandéiert, en Affekot ze consultéieren, ier Dir eng Klo areecht.",
-    "t": 398.68
+    "t": 400.65
    },
    {
     "speaker": "Anna",
     "text": "Gëtt et Situatiounen, wou de Médiateur santé net dee richtegen Uspriechpartner ass?",
-    "t": 404.76
+    "t": 406.73
    },
    {
     "speaker": "Tom",
     "text": "Jo, den Internetsite nennt der e puer. Eng dovun ass eng Decisioun vun enger Institutioun vun der Sécurité sociale, zum Beispill wann Dir mat der Gesondheetskeess iwwer e Remboursement net averstane sidd. Dofir kënnt Dir Iech un den Ombudsman wenden, an et gëtt an dësem Podcast eng Episode iwwer den Ombudsman.",
-    "t": 409.26
+    "t": 411.23
    },
    {
     "speaker": "Anna",
     "text": "Déi drëtt Aufgab vum Service ass fir vill vun eisen Nolauschterer interessant: déi grenziwwerschreidend Gesondheetsversuergung. Dat ass eng Versuergung, déi an engem anere Land gemaach oder verschriwwe gëtt wéi an deem, wou Dir verséchert sidd.",
-    "t": 425.52
+    "t": 427.49
    },
    {
     "speaker": "Tom",
     "text": "Wéi eng Roll huet de Service an dësem Beräich?",
-    "t": 437.8
+    "t": 439.77
    },
    {
     "speaker": "Anna",
     "text": "Déi europäesch Länner hunn national Kontaktstelle fir Patienten, déi Froen iwwer d'Versuergung an engem anere Land hunn. Lëtzebuerg huet der zwou: de Service vum Médiateur santé an d'Gesondheetskeess, d'CNS.",
-    "t": 440.2
+    "t": 442.17
    },
    {
     "speaker": "Tom",
     "text": "Wéi weess ech, wéi eng vun deenen zwou ech kontaktéiere soll?",
-    "t": 453.2
+    "t": 455.17
    },
    {
     "speaker": "Anna",
     "text": "Stellt Iech vir, Dir sidd an engem anere Land verséchert an Dir wëllt Iech zu Lëtzebuerg behandele loossen. De Service vum Médiateur santé informéiert Iech iwwer de Gesondheetssystem hei, iwwer d'Déngschtleeschter, iwwer Är Rechter, an doriwwer, wat bei enger Meenungsverschiddenheet ze maachen ass.",
-    "t": 455.83
+    "t": 457.8
    },
    {
     "speaker": "Tom",
     "text": "A wéi ass et bei enger Persoun, déi zu Lëtzebuerg verséchert ass an am Ausland behandelt gëtt?",
-    "t": 469.57
+    "t": 471.54
    },
    {
     "speaker": "Anna",
     "text": "Bei allgemenge Froen a bei engem Konflikt kann dës Persoun sech un de Service vum Médiateur santé wenden. Fir de Remboursement selwer, a fir eng Autorisatioun am Viraus, ass d'CNS d'Kontaktstell.",
-    "t": 473.85
+    "t": 475.82
    },
    {
     "speaker": "Tom",
     "text": "Dir erreecht de Service per Telefon, per E-Mail a mam Kontaktformulaire. Säi Büro ass an der Stad Lëtzebuerg, an d'Ëffnungszäite vum Sekretariat stinn um Internetsite.",
-    "t": 486
+    "t": 487.97
    },
    {
     "speaker": "Anna",
     "text": "A wéi enge Sprooche kann ech mat der Equipe schwätzen?",
-    "t": 495.17
+    "t": 497.14
    },
    {
     "speaker": "Tom",
     "text": "D'Equipe schafft a méi Sproochen, dorënner Lëtzebuergesch, Franséisch, Däitsch an Englesch.",
-    "t": 497.83
+    "t": 499.8
    },
    {
     "speaker": "Anna",
     "text": "Wat fënnt een um Internetsite vum Service?",
-    "t": 503.48
+    "t": 505.45
    },
    {
     "speaker": "Tom",
     "text": "Den Internetsite gëtt et op Franséisch an op Däitsch. En huet Rubriken iwwer Mediatioun a Sträitfäll, iwwer Är Rechter a Flichten, iwwer d'Versuergung zu Lëtzebuerg an iwwer déi grenziwwerschreidend Versuergung.",
-    "t": 506.47
+    "t": 508.44
    },
    {
     "speaker": "Anna",
     "text": "Zäit, fir déi wichtegst Punkten zesummenzefaassen. Éischtens: Als Patient zu Lëtzebuerg hutt Dir Rechter a Flichten, a si stinn am Gesetz vun 2014.",
-    "t": 517.38
+    "t": 519.35
    },
    {
     "speaker": "Tom",
     "text": "Zweetens: Wann et e Problem gëtt, schwätzt fir d'éischt mat Ärem Déngschtleeschter, oder mam Reklamatiounsservice vum Spidol.",
-    "t": 527.52
+    "t": 529.49
    },
    {
     "speaker": "Anna",
     "text": "Drëttens: Wann dat net hëlleft, kann de Médiateur santé eng Mediatioun organiséieren. Si ass fräiwëlleg, vertraulech an neutral, an d'Léisung kënnt vun de Leit selwer.",
-    "t": 534.05
+    "t": 536.02
    },
    {
     "speaker": "Tom",
     "text": "Véiertens: De Service äntwert och op Froen iwwer d'Versuergung iwwer d'Grenzen eraus, zesumme mat der CNS.",
-    "t": 545.13
+    "t": 547.1
    },
    {
     "speaker": "Anna",
     "text": "All d'Informatioune fannt Dir op mediateursante Punkt public Punkt l-u.",
-    "t": 551.5
+    "t": 553.47
    },
    {
     "speaker": "Tom",
     "text": "E Konflikt ronderëm Är Gesondheet ass ni agreabel, mee zu Lëtzebuerg musst Dir net eleng domat eens ginn.",
-    "t": 556.34
+    "t": 558.31
    },
    {
     "speaker": "Anna",
     "text": "An e gutt Gespréich ass ganz dacks dee beschten Ufank. Dat war eis Episode iwwer de Médiateur santé an Är Rechter als Patient. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir aner Aktivitéite vum Biergerpakt entdecke wëllt, wéi gefouert Visitten, Online-Informatiounsversammlungen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. En ass fir all Awunner op, Lëtzebuerger an Net-Lëtzebuerger, an och fir d'Grenzgänger. An d'Aktivitéite si gratis. Dir musst just gratis um Biergerpakt matmaachen, op biergerpakt.lu.",
-    "t": 561.89
+    "t": 563.86
    },
    {
     "speaker": "Tom",
     "text": "Merci, alleguer. Passt op Iech op, a bis d'nächst Kéier!",
-    "t": 611.71
+    "t": 613.68
    },
    {
     "speaker": "Anna",
     "text": "Villmools Merci fir d'Nolauschteren.",
-    "t": 615.02
+    "t": 616.99
    }
   ]
  }

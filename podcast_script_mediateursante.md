@@ -16,9 +16,9 @@
 **TOM:** So what kind of service is it?
 **ANNA:** It is an independent service of the State. It was created by a law of 24 July 2014, the law on the rights and obligations of the patient, and it has been working since 2015.
 **TOM:** Which tasks did this law give to the service?
-**ANNA:** There are three main tasks. It is an information centre about rights in health care. It is a mediation centre for conflicts between a patient and a healthcare provider. And it is a contact point for cross-border health care.
+**ANNA:** It has three main tasks, and the first one is to be an information centre about rights in health care. It is a mediation centre for conflicts between a patient and a healthcare provider. And it is a contact point for cross-border health care.
 **TOM:** And does the service stand on the side of the patient?
-**ANNA:** No, and that is important to understand. The service is neutral, independent and impartial, so it listens to patients and to healthcare providers in the same way.
+**ANNA:** No, it does not, and that is important to understand. The service is neutral, independent and impartial, so it listens to patients and to healthcare providers in the same way.
 **TOM:** Let us begin with information, because many people simply have a question, and not a conflict. You can contact the service just to understand your rights and your obligations as a patient.
 **ANNA:** Which rights are we talking about here?
 **TOM:** They are written in the law of 2014. Its basic principle is mutual respect, dignity and loyalty between the patient and the provider. Then come the free choice of your provider and access to health care.
