@@ -686,6 +686,7 @@ function renderEpisodeList() {
 // ── Select episode ───────────────────────────────────────
 function selectEpisode(id) {
   selectedEpisode = EPISODES.find(function (e) { return e.id === id; });
+  statHit('open', selectedEpisode, currentLang);
   renderEpisodeDetail();
   showScreen('screen-episode');
 }
@@ -1343,12 +1344,14 @@ function plInit() {
   if (!plEnabled()) return;
   var a = plAudio(), epA = document.getElementById('ep-audio');
   a.addEventListener('play', function () {
+    statHit('play', plEp(plCurId), plLang);
     if (epA) epA.pause();
     plMediaSession(true);
     plUpdateBar();
     if (plScreenActive()) renderPlaylist();
   });
   a.addEventListener('pause', function () { plUpdateBar(); plStore(); if (plScreenActive()) renderPlaylist(); });
+  a.addEventListener('ended', function () { statHit('done', plEp(plCurId), plLang); });   // before plOnEnded loads the next track
   a.addEventListener('ended', plOnEnded);
   a.addEventListener('loadedmetadata', function () {
     if (plPendingSeek != null) {
@@ -1443,6 +1446,7 @@ function accessInit() {
       return;
     }
     accessOk = true;
+    statHit('visit');
     try { localStorage.setItem(ACCESS_KEY, ACCESS_HASH); } catch (e2) {}
     inp.value = ''; inp.classList.remove('error'); err.style.display = 'none';
     document.body.classList.remove('locked');
@@ -1490,9 +1494,34 @@ function sha256(ascii) {
   return result;
 }
 
+// ── Anonymous counter (admin statistics) ────────────────
+// Sends only what happened ('visit', 'open', 'play', 'done'), the episode key and the language, to /api/hit
+// (server.js), which adds 1 to that day's counter. No cookie, no identifier, nothing about the listener.
+// Each event is sent once per episode and language per page load. Off on review/video pages, on single-episode
+// pages, when the page is opened as a file, and in a browser where the admin ticked "Don't count my own visits".
+var statSent = {};
+function statOn() {
+  if (location.protocol !== 'https:' && location.protocol !== 'http:') return false;
+  if (/\/(review|video)\//.test(location.pathname) || EPISODES.length <= 1) return false;
+  try { if (localStorage.getItem('bp_nocount') === '1') return false; } catch (e) {}
+  return true;
+}
+function statHit(ev, ep, lang) {
+  if (ev !== 'visit' && !ep) return;
+  var k = ep ? ep.key : '';
+  var id = ev + '|' + k + '|' + (lang || '');
+  if (statSent[id] || !statOn()) return;
+  statSent[id] = 1;
+  try {
+    fetch('/api/hit', { method: 'POST', body: JSON.stringify({ e: ev, k: k, l: lang || 'en' }),
+      credentials: 'omit', keepalive: true, cache: 'no-store', referrerPolicy: 'no-referrer' }).catch(function () {});
+  } catch (e) {}
+}
+
 // ── Wire up ──────────────────────────────────────────────
 document.addEventListener('DOMContentLoaded', function () {
   accessInit();   // temporary access password (does nothing when no password is set)
+  if (!accessLocked()) statHit('visit');
   // Registration screen is disabled for now - go straight to the catalogue.
   showScreen('screen-episodes');
   document.getElementById('btn-register').addEventListener('click', doRegister);
@@ -1519,6 +1548,8 @@ document.addEventListener('DOMContentLoaded', function () {
   var audio = document.getElementById('ep-audio');
   audio.addEventListener('timeupdate', onTimeUpdate);
   audio.addEventListener('seeked', onTimeUpdate);
+  audio.addEventListener('play', function () { if (selectedEpisode) statHit('play', selectedEpisode, audioLangFor(selectedEpisode)); });
+  audio.addEventListener('ended', function () { if (selectedEpisode) statHit('done', selectedEpisode, audioLangFor(selectedEpisode)); });
 
   document.getElementById('follow-chk').addEventListener('change', function () {
     if (this.checked) {

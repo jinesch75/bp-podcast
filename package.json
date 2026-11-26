@@ -1,0 +1,11 @@
+{
+  "name": "bp-podcast",
+  "private": true,
+  "description": "Biergerpakt Podcast website (static site + anonymous counters + admin space). No dependencies.",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

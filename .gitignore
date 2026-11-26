@@ -13,3 +13,6 @@ Biergerpakt_Podcast_Contacts_relecture.xlsx
 
 # Partner review documents (internal)
 Relecture partenaires/
+
+# Local admin data when server.js runs on this computer (on Railway it lives in the volume)
+.data/

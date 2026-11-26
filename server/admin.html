@@ -1,0 +1,486 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Admin · Biergerpakt Podcast</title>
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<style>
+  :root {
+    --orange: #E84600; --orange-light: #FFF4EE; --orange-dark: #c73a00; --dark: #111; --navy: #1A3C5E;
+    --bg: #F6F6F4; --border: #E2E2E0; --green: #2A7A3B; --green-light: #E8F5E9; --red: #C0392B;
+    --text-2: #555; --text-3: #777; --grid: #ECECEA; --series: #1A3C5E;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--dark); font-family: 'Inter', 'Segoe UI', Arial, sans-serif; font-size: 15px; }
+  a { color: var(--navy); }
+  button, select, input { font: inherit; }
+
+  header { background: #fff; border-bottom: 1px solid var(--border); position: sticky; top: 0; z-index: 5; }
+  .bar { max-width: 1120px; margin: 0 auto; padding: 0 20px; display: flex; align-items: center; gap: 24px; height: 60px; }
+  .brand { font-weight: 800; white-space: nowrap; }
+  .brand span { color: var(--orange); }
+  nav { display: flex; gap: 4px; flex: 1; }
+  nav button { background: none; border: 0; padding: 8px 14px; border-radius: 8px; font-weight: 600; color: var(--text-2); cursor: pointer; }
+  nav button.on { background: var(--orange-light); color: var(--orange-dark); }
+  .link-btn { background: none; border: 1px solid var(--border); border-radius: 8px; padding: 7px 12px; cursor: pointer; color: var(--text-2); white-space: nowrap; }
+  .link-btn:hover { border-color: #bbb; }
+
+  main { max-width: 1120px; margin: 0 auto; padding: 24px 20px 60px; }
+  .tab { display: none; } .tab.on { display: block; }
+  body.loading .tab { display: none !important; }
+  h1 { font-size: 1.4rem; margin: 0; }
+  .sub { color: var(--text-3); font-size: .85rem; margin: 4px 0 0; }
+  .head { display: flex; align-items: flex-end; justify-content: space-between; gap: 16px; flex-wrap: wrap; margin-bottom: 18px; }
+  .controls { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; }
+  select, input[type=search], input[type=text] { border: 1px solid var(--border); border-radius: 8px; padding: 8px 10px; background: #fff; }
+  select:focus, input:focus { outline: 2px solid var(--orange); outline-offset: -1px; }
+
+  .card { background: #fff; border: 1px solid var(--border); border-radius: 12px; padding: 18px 20px; margin-bottom: 16px; }
+  .card h2 { font-size: 1rem; margin: 0 0 12px; display: flex; justify-content: space-between; align-items: center; gap: 10px; }
+  .tiles { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; margin-bottom: 16px; }
+  .tile { background: #fff; border: 1px solid var(--border); border-radius: 12px; padding: 14px 16px; }
+  .tile .lbl { color: var(--text-2); font-size: .82rem; font-weight: 600; }
+  .tile .val { font-size: 1.9rem; font-weight: 800; margin-top: 4px; font-variant-numeric: tabular-nums; }
+  .tile .hint { color: var(--text-3); font-size: .78rem; margin-top: 2px; }
+
+  .chart-wrap { position: relative; }
+  svg text { font-family: inherit; font-size: 11px; fill: var(--text-3); }
+  .tip { position: absolute; pointer-events: none; background: #fff; border: 1px solid var(--border); border-radius: 8px; padding: 6px 10px;
+         box-shadow: 0 4px 14px rgba(0,0,0,.08); font-size: .82rem; white-space: nowrap; display: none; transform: translate(-50%, -100%); }
+  .tip b { font-variant-numeric: tabular-nums; }
+  .empty { color: var(--text-3); padding: 30px 0; text-align: center; }
+
+  table { width: 100%; border-collapse: collapse; font-size: .9rem; }
+  th { text-align: left; font-size: .78rem; text-transform: uppercase; letter-spacing: .04em; color: var(--text-3); font-weight: 700;
+       padding: 8px 8px; border-bottom: 1px solid var(--border); white-space: nowrap; }
+  th.sort { cursor: pointer; user-select: none; } th.sort:hover { color: var(--dark); }
+  th.sort.on::after { content: ' ↓'; } th.sort.on.asc::after { content: ' ↑'; }
+  td { padding: 8px 8px; border-bottom: 1px solid #F0F0EE; vertical-align: middle; }
+  td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; }
+  td.n { color: var(--text-3); width: 36px; font-variant-numeric: tabular-nums; }
+  tr.total td { font-weight: 700; border-top: 2px solid var(--border); border-bottom: 0; }
+  .lang { color: var(--text-2); }
+  .scroll { overflow-x: auto; }
+
+  .privacy { background: #FAFAF8; border: 1px dashed var(--border); border-radius: 12px; padding: 14px 18px; font-size: .85rem; color: var(--text-2); line-height: 1.5; }
+  .privacy b { color: var(--dark); }
+  .privacy ul { margin: 6px 0 0; padding-left: 18px; }
+  .chk { display: flex; align-items: center; gap: 8px; margin-top: 10px; color: var(--dark); cursor: pointer; }
+  .chk input { width: 17px; height: 17px; accent-color: var(--orange); }
+
+  .progress { height: 8px; background: #EEE; border-radius: 6px; overflow: hidden; margin-top: 10px; max-width: 360px; }
+  .progress div { height: 100%; background: var(--green); border-radius: 6px; transition: width .3s; }
+  .fin { display: inline-flex; align-items: center; gap: 8px; cursor: pointer; font-weight: 600; }
+  .fin input { width: 18px; height: 18px; accent-color: var(--green); cursor: pointer; }
+  .fin.yes { color: var(--green); }
+  .fin.no { color: var(--text-3); font-weight: 500; }
+  tr.done td.title { color: var(--text-2); }
+  td.note input { width: 100%; min-width: 180px; }
+  .saved { font-size: .75rem; color: var(--green); margin-left: 6px; opacity: 0; transition: opacity .3s; }
+  .saved.show { opacity: 1; }
+  .saved.bad { color: var(--red); }
+  .date { color: var(--text-3); white-space: nowrap; font-size: .85rem; }
+  .seg { display: inline-flex; border: 1px solid var(--border); border-radius: 8px; overflow: hidden; background: #fff; }
+  .seg button { border: 0; background: none; padding: 7px 12px; cursor: pointer; color: var(--text-2); }
+  .seg button + button { border-left: 1px solid var(--border); }
+  .seg button.on { background: var(--navy); color: #fff; }
+  .msg { padding: 40px; text-align: center; color: var(--text-3); }
+
+  @media (max-width: 760px) {
+    .tiles { grid-template-columns: repeat(2, 1fr); }
+    .bar { gap: 10px; } .brand { font-size: .9rem; }
+    nav button { padding: 8px 8px; }
+    .hide-sm { display: none; }
+  }
+</style>
+</head>
+<body class="loading">
+<header>
+  <div class="bar">
+    <div class="brand">Biergerpakt Podcast <span>· Admin</span></div>
+    <nav>
+      <button data-tab="audience" class="on">Audience</button>
+      <button data-tab="episodes">Episodes</button>
+    </nav>
+    <button class="link-btn" id="logout">Sign out</button>
+  </div>
+</header>
+
+<main>
+  <div class="msg" id="loading">Loading…</div>
+
+  <!-- ── Audience ─────────────────────────── -->
+  <section class="tab on" id="tab-audience">
+    <div class="head">
+      <div>
+        <h1>Audience</h1>
+        <p class="sub" id="since"></p>
+      </div>
+      <div class="controls">
+        <label for="period" class="sub" style="margin:0">Period</label>
+        <select id="period">
+          <option value="7">Last 7 days</option>
+          <option value="30" selected>Last 30 days</option>
+          <option value="90">Last 90 days</option>
+          <option value="365">Last 12 months</option>
+          <option value="all">Since counting started</option>
+        </select>
+      </div>
+    </div>
+
+    <div class="tiles">
+      <div class="tile"><div class="lbl">Site visits</div><div class="val" id="k-visit">0</div><div class="hint">times the podcast site was opened</div></div>
+      <div class="tile"><div class="lbl">Episodes opened</div><div class="val" id="k-open">0</div><div class="hint">episode pages viewed</div></div>
+      <div class="tile"><div class="lbl">Listens</div><div class="val" id="k-play">0</div><div class="hint">times an episode started playing</div></div>
+      <div class="tile"><div class="lbl">Listened to the end</div><div class="val" id="k-done">0</div><div class="hint" id="k-done-hint">&nbsp;</div></div>
+    </div>
+
+    <div class="card">
+      <h2 id="chart-title">Listens per day</h2>
+      <div class="chart-wrap" id="chart"></div>
+    </div>
+
+    <div class="card">
+      <h2>Listens by episode <button class="link-btn" id="csv">Download CSV</button></h2>
+      <div class="scroll">
+        <table>
+          <thead><tr>
+            <th class="sort" data-sort="number">#</th>
+            <th class="sort" data-sort="title">Episode</th>
+            <th class="sort num" data-sort="open">Opened</th>
+            <th class="sort num" data-sort="play">Listens</th>
+            <th class="sort num" data-sort="done">To the end</th>
+            <th class="sort num hide-sm" data-sort="en">EN</th>
+            <th class="sort num hide-sm" data-sort="fr">FR</th>
+            <th class="sort num hide-sm" data-sort="de">DE</th>
+          </tr></thead>
+          <tbody id="aud-body"></tbody>
+        </table>
+      </div>
+      <p class="sub">EN / FR / DE: listens in each language.</p>
+    </div>
+
+    <div class="privacy">
+      <b>What is counted — and what is not.</b>
+      <ul>
+        <li>Only numbers: each site visit, episode opened, listen started or listened to the end adds 1 to that day's counter, per episode and language.</li>
+        <li>Nothing about the listener is received or stored: no IP address, no cookie, no device or browser, no time of day, no registration. Listeners cannot be told apart, so these are numbers of <i>listens</i>, not of <i>people</i>.</li>
+        <li>A listen is counted once per episode and language each time the page is loaded; reloading the page counts again. Partner review pages are not counted.</li>
+      </ul>
+      <label class="chk"><input type="checkbox" id="nocount"> Don't count my own visits and listens on this browser</label>
+    </div>
+  </section>
+
+  <!-- ── Episodes ─────────────────────────── -->
+  <section class="tab" id="tab-episodes">
+    <div class="head">
+      <div>
+        <h1>Episodes</h1>
+        <p class="sub" id="fin-sum"></p>
+        <div class="progress"><div id="fin-bar" style="width:0"></div></div>
+      </div>
+      <div class="controls">
+        <div class="seg" id="fin-filter">
+          <button data-f="all" class="on">All</button>
+          <button data-f="todo">Not finished</button>
+          <button data-f="done">Finished</button>
+        </div>
+        <input type="search" id="q" placeholder="Search episodes">
+      </div>
+    </div>
+    <div class="card">
+      <div class="scroll">
+        <table>
+          <thead><tr>
+            <th>#</th><th>Episode</th><th>Review page</th><th>Status</th><th class="hide-sm">Finished on</th><th>Note</th>
+          </tr></thead>
+          <tbody id="ep-body"></tbody>
+        </table>
+      </div>
+      <p class="sub">"Finished" means the partner's review has come back and the changes are made. This status is only visible here; it does not change the public site.</p>
+    </div>
+  </section>
+</main>
+
+<script>
+(function () {
+  'use strict';
+  var D = null;                       // data from /api/admin/data
+  var sort = { key: 'play', asc: false };
+  var finFilter = 'all';
+  var NF = new Intl.NumberFormat('en-GB');
+  var MONTHS = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+
+  function $(id) { return document.getElementById(id); }
+  function esc(s) { return String(s == null ? '' : s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;'); }
+  function nf(n) { return NF.format(n); }
+  function parseDay(s) { var p = s.split('-'); return new Date(Date.UTC(+p[0], +p[1] - 1, +p[2])); }
+  function fmtDay(d) { return d.toISOString().slice(0, 10); }
+  function niceDay(s) { var d = parseDay(s); return d.getUTCDate() + ' ' + MONTHS[d.getUTCMonth()] + ' ' + d.getUTCFullYear(); }
+  function shortDay(s) { var d = parseDay(s); return d.getUTCDate() + ' ' + MONTHS[d.getUTCMonth()]; }
+
+  // ── Load ───────────────────────────────
+  function load() {
+    fetch('/api/admin/data', { credentials: 'same-origin', cache: 'no-store' })
+      .then(function (r) { if (r.status === 401) { location.reload(); throw 0; } return r.json(); })
+      .then(function (j) {
+        D = j; $('loading').hidden = true; document.body.classList.remove('loading');
+        renderAudience(); renderEpisodes();
+      })
+      .catch(function (e) { if (e !== 0) $('loading').textContent = 'The data could not be loaded. Reload the page to try again.'; });
+  }
+
+  // ── Tabs ───────────────────────────────
+  document.querySelectorAll('nav button').forEach(function (b) {
+    b.addEventListener('click', function () {
+      document.querySelectorAll('nav button').forEach(function (x) { x.classList.toggle('on', x === b); });
+      document.querySelectorAll('.tab').forEach(function (t) { t.classList.toggle('on', t.id === 'tab-' + b.getAttribute('data-tab')); });
+      try { history.replaceState(null, '', '#' + b.getAttribute('data-tab')); } catch (e) {}
+    });
+  });
+  if (location.hash === '#episodes') document.querySelector('nav button[data-tab=episodes]').click();
+
+  $('logout').addEventListener('click', function () {
+    fetch('/api/admin/logout', { method: 'POST', credentials: 'same-origin' }).then(function () { location.reload(); });
+  });
+
+  // ── Audience ───────────────────────────
+  function periodDays() {
+    var v = $('period').value, end = parseDay(D.today), start;
+    var first = D.since;
+    Object.keys(D.days).forEach(function (k) { if (k < first) first = k; });
+    if (v === 'all') start = parseDay(first);
+    else { start = new Date(end); start.setUTCDate(start.getUTCDate() - (Number(v) - 1)); }
+    var out = [];
+    for (var d = new Date(start); d <= end; d.setUTCDate(d.getUTCDate() + 1)) out.push(fmtDay(d));
+    return out;
+  }
+
+  function aggregate(days) {
+    var per = {}, tot = { visit: 0, open: 0, play: 0, done: 0 }, series = [];
+    D.episodes.forEach(function (e) { per[e.key] = { open: 0, play: 0, done: 0, en: 0, fr: 0, de: 0 }; });
+    days.forEach(function (day) {
+      var rec = D.days[day] || {}, dayPlays = 0;
+      tot.visit += rec._v || 0;
+      Object.keys(rec).forEach(function (k) {
+        if (k === '_v' || !per[k]) return;
+        var a = rec[k], p = per[k];
+        p.open += a[0] + a[1] + a[2];
+        p.play += a[3] + a[4] + a[5];
+        p.done += a[6] + a[7] + a[8];
+        p.en += a[3]; p.fr += a[4]; p.de += a[5];
+        dayPlays += a[3] + a[4] + a[5];
+      });
+      series.push({ day: day, v: dayPlays });
+    });
+    Object.keys(per).forEach(function (k) { tot.open += per[k].open; tot.play += per[k].play; tot.done += per[k].done; });
+    return { per: per, tot: tot, series: series };
+  }
+
+  function renderAudience() {
+    $('since').textContent = 'Counting since ' + niceDay(D.since) + ' · today ' + niceDay(D.today);
+    var days = periodDays(), A = aggregate(days);
+    $('k-visit').textContent = nf(A.tot.visit);
+    $('k-open').textContent = nf(A.tot.open);
+    $('k-play').textContent = nf(A.tot.play);
+    $('k-done').textContent = nf(A.tot.done);
+    $('k-done-hint').textContent = A.tot.play ? Math.round(A.tot.done / A.tot.play * 100) + '% of listens' : 'no listens yet';
+
+    // Chart: per day up to ~3 months, per month beyond.
+    var pts = A.series, monthly = pts.length > 92;
+    if (monthly) {
+      var m = {}, order = [];
+      pts.forEach(function (p) { var k = p.day.slice(0, 7); if (!(k in m)) { m[k] = 0; order.push(k); } m[k] += p.v; });
+      pts = order.map(function (k) { return { day: k, v: m[k] }; });
+    }
+    $('chart-title').textContent = monthly ? 'Listens per month' : 'Listens per day';
+    drawChart(pts, monthly);
+
+    // Table
+    var rows = D.episodes.map(function (e) { var p = A.per[e.key]; return Object.assign({ number: e.number, title: e.title, key: e.key }, p); });
+    rows.sort(function (a, b) {
+      var x = a[sort.key], y = b[sort.key], r;
+      if (typeof x === 'string') r = x.localeCompare(y); else r = x - y;
+      if (r === 0) r = a.number - b.number;
+      return sort.asc ? r : -r;
+    });
+    document.querySelectorAll('th.sort').forEach(function (th) {
+      th.classList.toggle('on', th.getAttribute('data-sort') === sort.key);
+      th.classList.toggle('asc', th.getAttribute('data-sort') === sort.key && sort.asc);
+    });
+    var t = { open: 0, play: 0, done: 0, en: 0, fr: 0, de: 0 };
+    var html = rows.map(function (r) {
+      ['open', 'play', 'done', 'en', 'fr', 'de'].forEach(function (k) { t[k] += r[k]; });
+      return '<tr><td class="n">' + r.number + '</td><td>' + esc(r.title) + '</td>' +
+        '<td class="num">' + nf(r.open) + '</td><td class="num"><b>' + nf(r.play) + '</b></td><td class="num">' + nf(r.done) + '</td>' +
+        '<td class="num lang hide-sm">' + nf(r.en) + '</td><td class="num lang hide-sm">' + nf(r.fr) + '</td><td class="num lang hide-sm">' + nf(r.de) + '</td></tr>';
+    }).join('');
+    html += '<tr class="total"><td></td><td>Total</td><td class="num">' + nf(t.open) + '</td><td class="num">' + nf(t.play) + '</td><td class="num">' + nf(t.done) +
+      '</td><td class="num hide-sm">' + nf(t.en) + '</td><td class="num hide-sm">' + nf(t.fr) + '</td><td class="num hide-sm">' + nf(t.de) + '</td></tr>';
+    $('aud-body').innerHTML = html;
+    lastRows = rows; lastDays = days;
+  }
+  var lastRows = [], lastDays = [];
+
+  function niceMax(v) {
+    if (v <= 4) return 4;
+    var p = Math.pow(10, Math.floor(Math.log10(v))), f = v / p;
+    var n = f <= 1 ? 1 : f <= 2 ? 2 : f <= 2.5 ? 2.5 : f <= 5 ? 5 : 10;
+    return n * p;
+  }
+  function drawChart(pts, monthly) {
+    var box = $('chart');
+    var total = pts.reduce(function (s, p) { return s + p.v; }, 0);
+    if (!total) { box.innerHTML = '<div class="empty">No listens counted in this period yet.</div>'; return; }
+    var W = Math.max(320, box.clientWidth), H = 220, L = 40, R = 8, T = 10, B = 26;
+    var iw = W - L - R, ih = H - T - B;
+    var max = niceMax(Math.max.apply(null, pts.map(function (p) { return p.v; })));
+    var step = iw / pts.length, gap = Math.min(2, step * 0.25), bw = Math.max(1, step - gap);
+    var s = '<svg width="' + W + '" height="' + H + '" role="img" aria-label="' + (monthly ? 'Listens per month' : 'Listens per day') + '">';
+    for (var g = 0; g <= 4; g++) {
+      var val = max * g / 4, y = T + ih - ih * g / 4;
+      s += '<line x1="' + L + '" x2="' + (W - R) + '" y1="' + y + '" y2="' + y + '" stroke="' + (g ? 'var(--grid)' : '#BDBDBA') + '"/>';
+      s += '<text x="' + (L - 6) + '" y="' + (y + 4) + '" text-anchor="end">' + (val % 1 ? val.toFixed(1) : nf(val)) + '</text>';
+    }
+    var every = Math.max(1, Math.ceil(pts.length / Math.max(2, Math.floor(iw / 70))));
+    pts.forEach(function (p, i) {
+      var x = L + i * step + gap / 2, h = p.v ? Math.max(2, ih * p.v / max) : 0, y = T + ih - h, r = Math.min(4, bw / 2, h);
+      if (h) s += '<path fill="var(--series)" d="M' + x + ',' + (T + ih) + 'V' + (y + r) + 'Q' + x + ',' + y + ' ' + (x + r) + ',' + y +
+        'H' + (x + bw - r) + 'Q' + (x + bw) + ',' + y + ' ' + (x + bw) + ',' + (y + r) + 'V' + (T + ih) + 'Z"/>';
+      s += '<rect class="hit" data-i="' + i + '" x="' + (L + i * step) + '" y="' + T + '" width="' + step + '" height="' + ih + '" fill="transparent"/>';
+      if (i % every === 0 || i === pts.length - 1 && pts.length < 40) {
+        var lab = monthly ? MONTHS[+p.day.slice(5, 7) - 1] + ' ' + p.day.slice(2, 4) : shortDay(p.day);
+        s += '<text x="' + (L + i * step + step / 2) + '" y="' + (H - 8) + '" text-anchor="middle">' + lab + '</text>';
+      }
+    });
+    s += '</svg><div class="tip" id="tip"></div>';
+    box.innerHTML = s;
+    var tip = $('tip');
+    box.querySelectorAll('.hit').forEach(function (r) {
+      r.addEventListener('mouseenter', function () {
+        var p = pts[+r.getAttribute('data-i')];
+        var lab = monthly ? MONTHS[+p.day.slice(5, 7) - 1] + ' ' + p.day.slice(0, 4) : niceDay(p.day);
+        tip.innerHTML = lab + ' · <b>' + nf(p.v) + '</b> listen' + (p.v === 1 ? '' : 's');
+        var x = +r.getAttribute('x') + +r.getAttribute('width') / 2;
+        var h = p.v ? Math.max(2, ih * p.v / max) : 0;
+        tip.style.left = Math.min(Math.max(x, 70), W - 70) + 'px';
+        tip.style.top = (T + ih - h - 6) + 'px';
+        tip.style.display = 'block';
+        r.setAttribute('fill', 'rgba(26,60,94,.06)');
+      });
+      r.addEventListener('mouseleave', function () { tip.style.display = 'none'; r.setAttribute('fill', 'transparent'); });
+    });
+  }
+
+  $('period').addEventListener('change', renderAudience);
+  document.querySelectorAll('th.sort').forEach(function (th) {
+    th.addEventListener('click', function () {
+      var k = th.getAttribute('data-sort');
+      if (sort.key === k) sort.asc = !sort.asc; else { sort.key = k; sort.asc = k === 'number' || k === 'title'; }
+      renderAudience();
+    });
+  });
+  var rt; window.addEventListener('resize', function () { clearTimeout(rt); rt = setTimeout(function () { if (D) renderAudience(); }, 150); });
+
+  $('csv').addEventListener('click', function () {
+    var lines = [['Number', 'Episode', 'Key', 'Opened', 'Listens', 'Listened to the end', 'Listens EN', 'Listens FR', 'Listens DE'].join(';')];
+    lastRows.slice().sort(function (a, b) { return a.number - b.number; }).forEach(function (r) {
+      lines.push([r.number, '"' + String(r.title).replace(/"/g, '""') + '"', r.key, r.open, r.play, r.done, r.en, r.fr, r.de].join(';'));
+    });
+    var blob = new Blob(['﻿' + lines.join('\r\n')], { type: 'text/csv;charset=utf-8' });
+    var a = document.createElement('a');
+    a.href = URL.createObjectURL(blob);
+    a.download = 'biergerpakt-podcast-listens_' + lastDays[0] + '_' + lastDays[lastDays.length - 1] + '.csv';
+    document.body.appendChild(a); a.click(); a.remove();
+  });
+
+  // "Don't count me" — a flag kept in this browser only; the podcast pages read it and send nothing.
+  var NOCOUNT = 'bp_nocount';
+  try { $('nocount').checked = localStorage.getItem(NOCOUNT) === '1'; } catch (e) { $('nocount').disabled = true; }
+  $('nocount').addEventListener('change', function () {
+    try { if (this.checked) localStorage.setItem(NOCOUNT, '1'); else localStorage.removeItem(NOCOUNT); } catch (e) {}
+  });
+
+  // ── Episodes ───────────────────────────
+  function st(key) { return D.status[key] || { finished: false, finishedOn: '', note: '' }; }
+  function renderEpisodes() {
+    var q = $('q').value.trim().toLowerCase();
+    var nDone = D.episodes.filter(function (e) { return st(e.key).finished; }).length;
+    $('fin-sum').textContent = nDone + ' of ' + D.episodes.length + ' episodes finished';
+    $('fin-bar').style.width = (D.episodes.length ? nDone / D.episodes.length * 100 : 0) + '%';
+    var rows = D.episodes.filter(function (e) {
+      var f = st(e.key).finished;
+      if (finFilter === 'done' && !f) return false;
+      if (finFilter === 'todo' && f) return false;
+      if (q && (e.title + ' ' + e.title_fr + ' ' + e.key + ' ' + e.number + ' ' + st(e.key).note).toLowerCase().indexOf(q) < 0) return false;
+      return true;
+    });
+    $('ep-body').innerHTML = rows.length ? rows.map(function (e) {
+      var s = st(e.key);
+      return '<tr class="' + (s.finished ? 'done' : '') + '" data-key="' + esc(e.key) + '">' +
+        '<td class="n">' + e.number + '</td>' +
+        '<td class="title">' + esc(e.title) + '</td>' +
+        '<td>' + (e.review ? '<a href="' + esc(e.review) + '" target="_blank" rel="noopener">Open ↗</a>' : '<span class="date">—</span>') + '</td>' +
+        '<td><label class="fin ' + (s.finished ? 'yes' : 'no') + '"><input type="checkbox" class="f-chk"' + (s.finished ? ' checked' : '') + '>' +
+          (s.finished ? 'Finished' : 'Not finished') + '</label><span class="saved"></span></td>' +
+        '<td class="date hide-sm">' + (s.finishedOn ? niceDay(s.finishedOn) : '') + '</td>' +
+        '<td class="note"><input type="text" class="f-note" maxlength="1000" placeholder="Add a note" value="' + esc(s.note) + '"></td>' +
+        '</tr>';
+    }).join('') : '<tr><td colspan="6" class="empty">No episodes match.</td></tr>';
+  }
+
+  function saveStatus(key, patch, tr) {
+    var flag = tr.querySelector('.saved');
+    patch.key = key;
+    return fetch('/api/admin/status', {
+      method: 'POST', credentials: 'same-origin',
+      headers: { 'Content-Type': 'application/json', 'X-BP-Admin': '1' }, body: JSON.stringify(patch)
+    }).then(function (r) {
+      if (r.status === 401) { location.reload(); throw 0; }
+      if (!r.ok) throw 1;
+      return r.json();
+    }).then(function (j) {
+      D.status[key] = j.status;
+      return true;
+    }).catch(function () {
+      if (flag) { flag.textContent = 'Not saved'; flag.classList.add('show', 'bad'); }
+      return false;
+    });
+  }
+
+  $('ep-body').addEventListener('change', function (ev) {
+    var tr = ev.target.closest('tr'); if (!tr) return;
+    var key = tr.getAttribute('data-key');
+    if (ev.target.classList.contains('f-chk')) {
+      saveStatus(key, { finished: ev.target.checked }, tr).then(function (ok) {
+        if (ok) { renderEpisodes(); flash(key, 'Saved'); } else ev.target.checked = !ev.target.checked;
+      });
+    } else if (ev.target.classList.contains('f-note')) {
+      saveStatus(key, { note: ev.target.value }, tr).then(function (ok) { if (ok) flash(key, 'Saved'); });
+    }
+  });
+  $('ep-body').addEventListener('keydown', function (ev) {
+    if (ev.key === 'Enter' && ev.target.classList.contains('f-note')) ev.target.blur();
+  });
+  function flash(key, txt) {
+    var tr = $('ep-body').querySelector('tr[data-key="' + key + '"]');
+    var f = tr && tr.querySelector('.saved'); if (!f) return;
+    f.textContent = txt; f.classList.remove('bad'); f.classList.add('show');
+    setTimeout(function () { f.classList.remove('show'); }, 1500);
+  }
+  document.querySelectorAll('#fin-filter button').forEach(function (b) {
+    b.addEventListener('click', function () {
+      finFilter = b.getAttribute('data-f');
+      document.querySelectorAll('#fin-filter button').forEach(function (x) { x.classList.toggle('on', x === b); });
+      renderEpisodes();
+    });
+  });
+  $('q').addEventListener('input', renderEpisodes);
+
+  load();
+})();
+</script>
+</body>
+</html>

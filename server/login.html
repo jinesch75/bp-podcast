@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Admin · Biergerpakt Podcast</title>
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<style>
+  :root { --orange: #E84600; --orange-dark: #c73a00; --dark: #111; --bg: #F6F6F4; --border: #E2E2E0; --red: #C0392B; --muted: #666; }
+  * { box-sizing: border-box; }
+  body { margin: 0; min-height: 100vh; display: flex; align-items: center; justify-content: center; background: var(--bg);
+         font-family: 'Inter', 'Segoe UI', Arial, sans-serif; color: var(--dark); padding: 20px; }
+  .card { background: #fff; border: 1px solid var(--border); border-radius: 14px; padding: 32px 28px; width: 100%; max-width: 380px;
+          box-shadow: 0 6px 24px rgba(0,0,0,.05); }
+  .brand { font-size: .78rem; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; color: var(--orange); margin: 0 0 6px; }
+  h1 { font-size: 1.35rem; margin: 0 0 22px; }
+  label { display: block; font-size: .85rem; font-weight: 600; margin-bottom: 6px; }
+  input { width: 100%; padding: 11px 14px; border: 2px solid var(--border); border-radius: 9px; font: inherit; font-size: .95rem; outline: none; }
+  input:focus { border-color: var(--orange); }
+  button { margin-top: 16px; width: 100%; padding: 12px; border: 0; border-radius: 9px; background: var(--orange); color: #fff;
+           font: inherit; font-weight: 700; font-size: .95rem; cursor: pointer; }
+  button:hover { background: var(--orange-dark); }
+  button:disabled { opacity: .6; cursor: default; }
+  .err { display: none; color: var(--red); font-size: .85rem; margin: 10px 0 0; }
+  .note { color: var(--muted); font-size: .8rem; margin: 18px 0 0; line-height: 1.45; }
+</style>
+</head>
+<body>
+<form class="card" id="f">
+  <p class="brand">Biergerpakt Podcast</p>
+  <h1>Admin space</h1>
+  <label for="pw">Password</label>
+  <input id="pw" type="password" autocomplete="current-password" required autofocus>
+  <button id="b" type="submit">Sign in</button>
+  <p class="err" id="err"></p>
+  <!--NOPASS-->
+  <p class="note">You stay signed in for 12 hours on this browser, or until the site is redeployed.</p>
+</form>
+<script>
+document.getElementById('f').addEventListener('submit', function (e) {
+  e.preventDefault();
+  var b = document.getElementById('b'), err = document.getElementById('err');
+  b.disabled = true; err.style.display = 'none';
+  fetch('/api/admin/login', { method: 'POST', headers: { 'Content-Type': 'application/json' }, credentials: 'same-origin',
+    body: JSON.stringify({ password: document.getElementById('pw').value }) })
+    .then(function (r) { return r.json().then(function (j) { return { s: r.status, j: j }; }); })
+    .then(function (x) {
+      if (x.s === 200) { location.reload(); return; }
+      err.textContent = x.s === 429 ? 'Too many wrong attempts. Try again in ' + x.j.minutes + ' minutes.' : 'This password is not correct.';
+      err.style.display = 'block'; b.disabled = false; document.getElementById('pw').select();
+    })
+    .catch(function () { err.textContent = 'The server could not be reached.'; err.style.display = 'block'; b.disabled = false; });
+});
+</script>
+</body>
+</html>
