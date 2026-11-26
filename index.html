@@ -6,8 +6,8 @@
   <title>Biergerpakt Podcast &ndash; Listen, Learn &amp; Earn Your Certificate</title>
   <link rel="icon" type="image/svg+xml" href="favicon.svg">
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
-  <script src="episodes_data.js?v=202611260904" defer></script>
-  <script src="app.js?v=202611260904" defer></script>
+  <script src="episodes_data.js?v=202611260912" defer></script>
+  <script src="app.js?v=202611260912" defer></script>
   <style>
     :root {
       --orange: #E84600;
@@ -281,6 +281,11 @@
     .ep-row-add svg { width: 20px; height: 20px; }
     .ep-row-add:hover, .ep-row-add:focus-visible { background: var(--orange-light); color: var(--orange); outline: none; }
     .ep-row-add.added { color: var(--green); background: var(--green-light); }
+    /* Column titles above the episode list */
+    .ep-list-head { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 9px 14px 9px 18px; background: #FAFAF8; border-bottom: 1px solid var(--border); font-size: 0.7rem; font-weight: 800; letter-spacing: 0.6px; text-transform: uppercase; color: var(--text-muted); }
+    .ep-list-head-pl, .topic-group-pl { display: inline-flex; align-items: center; gap: 5px; text-align: right; }
+    .ep-list-head-pl svg, .topic-group-pl svg { flex: none; width: 13px; height: 13px; }
+    .topic-group-pl { margin-left: auto; padding-left: 12px; font-size: 0.7rem; font-weight: 800; letter-spacing: 0.6px; text-transform: uppercase; color: var(--text-muted); }
     /* Button on the episode page */
     .pl-detail-btn { margin-top: 14px; padding: 9px 18px; font-size: 0.86rem; }
     .pl-detail-btn.added { border-color: var(--green); color: var(--green); }
@@ -345,6 +350,8 @@
       .filter-pick { min-width: 0; max-width: 100%; }
       .filter-select { min-width: 0; width: 100%; text-overflow: ellipsis; }
       .ep-row-add { width: 48px; }
+      .ep-list-head { padding: 9px 10px 9px 14px; }
+      .topic-group-head { flex-wrap: wrap; }
       .pl-item { padding-left: 10px; }
       .pl-sm { width: 36px; height: 36px; }
       body.pl-bar-on { padding-bottom: 124px; }

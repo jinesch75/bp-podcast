@@ -650,6 +650,13 @@ function renderEpisodeList() {
   var shown = EPISODES.filter(episodeMatchesFilter);
   var cnt = document.getElementById('filter-count');
   if (!viewByTopic) {
+    if (plEnabled()) {   // column titles, so the + column explains itself
+      var head = document.createElement('div');
+      head.className = 'ep-list-head';
+      head.setAttribute('aria-hidden', 'true');   // the buttons carry their own labels
+      head.innerHTML = '<span>' + esc(t('episode_word')) + '</span>' + plColLabel('ep-list-head-pl');
+      grid.appendChild(head);
+    }
     shown.forEach(function (ep) { grid.appendChild(episodeRow(ep)); });
     if (cnt) cnt.textContent = t('eps_count', { n: shown.length, total: EPISODES.length });
     return;
@@ -666,6 +673,7 @@ function renderEpisodeList() {
     var h = document.createElement('h2');
     h.className = 'topic-group-head';
     h.innerHTML = '<span class="topic-group-dot" style="background:' + c.color + '"></span>' + esc(themeLabel(c)) + ' <span class="topic-group-count">' + eps.length + '</span>';
+    if (plEnabled()) h.insertAdjacentHTML('beforeend', plColLabel('topic-group-pl'));
     sec.appendChild(h);
     eps.forEach(function (ep) { sec.appendChild(episodeRow(ep)); });
     grid.appendChild(sec);
@@ -1226,6 +1234,10 @@ function plPaintAddBtn(b) {
   b.setAttribute('aria-pressed', added ? 'true' : 'false');
   b.title = t(added ? 'pl_remove' : 'pl_add');
   b.setAttribute('aria-label', t(added ? 'pl_remove' : 'pl_add') + ': ' + epField(ep, 'title'));
+}
+// Title of the + column in the episode list ("+ Add to my playlist").
+function plColLabel(cls) {
+  return '<span class="' + cls + '" aria-hidden="true">' + PL_ICONS.plus + esc(t('pl_add')) + '</span>';
 }
 function plWrapRow(row, ep) {
   if (!plEnabled()) return row;   // review pages etc.: the row exactly as before
