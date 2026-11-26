@@ -37,7 +37,8 @@ EMPHASIS = {"en": ["NOT", "AND"], "fr": ["PAS", "ET"], "de": ["NICHT", "UND"]}
 # Luxembourgish names: phonetic spellings chosen by Jacques from the A/B test (2026-09-30).
 # Everything not listed here was judged fine as written.
 NAMES = {
-    "en": [(r"(?i)\bZukunftskeess\b", "Tsoo-koonfts-kehs"),                   # A/B choice C, closer to German (2026-11-16; was "Tsoo-koonfts-kayss")
+    "en": [(r"\b23 August 2023\b", "the twenty-third of August, twenty twenty-three"),   # SIMPA ep: Jacques 2026-11-26, the date was garbled
+           (r"(?i)\bZukunftskeess\b", "Tsoo-koonfts-kehs"),                   # A/B choice C, closer to German (2026-11-16; was "Tsoo-koonfts-kayss")
            (r"(?i)\ballocation de rentrée scolaire\b", "allo-cah-syon de ron-tray sko-lair"),  # A/B choice B (2026-11-16)
            (r"(?i)\bPensiounskeess\b", "Pen-si-yons-kees"),
            (r"\banalyses (them|it|what|the)\b", r"analyzes \1"),            # verb, not the noun "an-AL-uh-seez" (govcert, 2026-11-19)
@@ -61,7 +62,8 @@ NAMES = {
            (r"\bHowald\b", "Hoh-wald"),   # consommateurs ep: Jacques 2026-11-24 "HO-WALD", Wald as in Waldorf (A/B build/el_test/pron_howald_en_AB.mp3, B used)
            (r"(?i)\bokaju\b", "Oka-joo")],   # ombudsman ep: Jacques 2026-11-23 "OKA-JUU", J as in "juice" (was "Oh-kah-yoo")
     #jepeuxvoter ep (2026-11-20)                         # website said the French way, A/B choice A (2026-11-13)
-    "fr": [(r"\bÄddi\b", "Addi"),                                             # no "Ä" in French
+    "fr": [(r"\b23 août 2023\b", "vingt-trois août deux mille vingt-trois"),   # SIMPA ep (2026-11-26)
+           (r"\bÄddi\b", "Addi"),                                             # no "Ä" in French
            (r"(?i)\bZukunftskeess\b", "Tsoukounftskéss"),                     # FR 1B
            (r"(?i)\bPensiounskeess\b", "Pènnsiounskéss"),                     # FR 2B
            (r"(?i)\bEltereforum\b", "Eltèreu-forum"),                         # FR 3B
@@ -78,7 +80,8 @@ NAMES = {
            (r"(?i)\bclubaktivplus\b", "Club Aktiv Plus"),
            (r"(?i)\bokaju\b", "Okadjou")],   # ombudsman ep: Jacques 2026-11-23 "OKA-JUU", J as in "juice" (was "Okayou")
     #jepeuxvoter ep (2026-11-20)
-    "de": [(r"(?i)\bl[ëe]tz ?prepare\b", "Lets pripär"),                    # Lëtz prepare ep (2026-11-14), check by ear
+    "de": [(r"\bvom 23\. August 2023\b", "vom dreiundzwanzigsten August zweitausenddreiundzwanzig"),   # SIMPA ep (2026-11-26), was slow
+           (r"(?i)\bl[ëe]tz ?prepare\b", "Lets pripär"),                    # Lëtz prepare ep (2026-11-14), check by ear
            (r"\bLëtz\b", "Lets"),
            (r"\binfocrise\b", "Info-Kriis"),
            (r"(?i)\bdon ?du ?sang\b", "Don dü Sang"),                       # dondusang ep (2026-11-20), check by ear
