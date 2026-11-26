@@ -1303,7 +1303,7 @@ const EPISODES = [
    }
   ],
   "audio_de": "../../podcast_kjt_de.mp3",
-  "duration_de": 626.65,
+  "duration_de": 626.99,
   "segments_de": [
    {
     "speaker": "Anna",
@@ -1378,472 +1378,472 @@ const EPISODES = [
    {
     "speaker": "Tom",
     "text": "Die Idee war einfach: Jedes Kind und jeder Jugendliche soll die Möglichkeit haben, gehört zu werden.",
-    "t": 72.12
+    "t": 72.45
    },
    {
     "speaker": "Tom",
     "text": "Heute ist das KJT ein Dienst einer Vereinigung ohne Gewinnzweck mit dem Namen CJF Lëtzebuerg, und es wird im Rahmen einer Konvention mit dem Service National de la Jeunesse finanziert, der zum Ministerium für Bildung, Kinder und Jugend gehört.",
-    "t": 78.11
+    "t": 78.44
    },
    {
     "speaker": "Anna",
     "text": "Was macht das KJT konkret, wenn sich jemand meldet?",
-    "t": 94.04
+    "t": 94.37
    },
    {
     "speaker": "Tom",
     "text": "Es berät und unterstützt Kinder, Jugendliche und die Erwachsenen in ihrem Umfeld, bei alltäglichen Sorgen, Ängsten, Problemen und Krisen.",
-    "t": 97.69
+    "t": 98.02
    },
    {
     "speaker": "Tom",
     "text": "Die Beraterinnen und Berater hören zu und suchen gemeinsam mit der Person nach einer Lösung, die zu ihr passt.",
-    "t": 106.26
+    "t": 106.59
    },
    {
     "speaker": "Anna",
     "text": "Heißt das, dass der Berater entscheidet, was das Kind als Nächstes tun soll?",
-    "t": 112.67
+    "t": 113
    },
    {
     "speaker": "Tom",
     "text": "Nein, und das ist eines der fünf Prinzipien des KJT.",
-    "t": 116.79
+    "t": 117.12
    },
    {
     "speaker": "Tom",
     "text": "Es heißt Selbstbestimmung: Nach dem Gespräch entscheidet jede Person selbst, welche Schritte sie geht.",
-    "t": 121.08
+    "t": 121.41
    },
    {
     "speaker": "Tom",
     "text": "Die anderen Prinzipien sind die Anonymität, die Schweigepflicht, Toleranz und Respekt, und die Offenheit für jede Frage und jedes Thema.",
-    "t": 127.32
+    "t": 127.65
    },
    {
     "speaker": "Anna",
     "text": "Schauen wir uns die Angebote der Reihe nach an, und beginnen wir mit dem ältesten: der Telefonnummer 116 111.",
-    "t": 136.09
+    "t": 136.42
    },
    {
     "speaker": "Anna",
     "text": "Sie ist für Kinder und Jugendliche da, die eine Frage oder ein Problem haben, in der Schule, zu Hause, mit Freunden, mit den Eltern oder mit Geschwistern.",
-    "t": 145.08
+    "t": 145.41
    },
    {
     "speaker": "Tom",
     "text": "Was muss ein Kind am Anfang eines solchen Anrufs sagen?",
-    "t": 154.02
+    "t": 154.35
    },
    {
     "speaker": "Anna",
     "text": "Nicht viel, denn der Anruf ist anonym: Man muss nicht sagen, wer man ist oder wo man wohnt.",
-    "t": 157.23
+    "t": 157.56
    },
    {
     "speaker": "Anna",
     "text": "Er ist auch vertraulich, also erfährt niemand sonst, worüber gesprochen wurde, und der Anruf ist kostenlos.",
-    "t": 163.24
+    "t": 163.57
    },
    {
     "speaker": "Tom",
     "text": "Kann man diese Nummer zu jeder Tages- und Nachtzeit anrufen?",
-    "t": 169.48
+    "t": 169.81
    },
    {
     "speaker": "Anna",
     "text": "Nein, die Leitung ist nicht rund um die Uhr besetzt.",
-    "t": 172.82
+    "t": 173.15
    },
    {
     "speaker": "Anna",
     "text": "Sie ist nachmittags und abends erreichbar, von Montag bis Samstag.",
-    "t": 176.3
+    "t": 176.63
    },
    {
     "speaker": "Anna",
     "text": "Die genauen Zeiten stehen auf der Website, und dort steht auch, wann man auf Englisch anrufen kann.",
-    "t": 180.74
+    "t": 181.07
    },
    {
     "speaker": "Tom",
     "text": "Nicht alle Jugendlichen sprechen gern am Telefon, und manchen fällt das Schreiben viel leichter.",
-    "t": 185.85
+    "t": 186.18
    },
    {
     "speaker": "Anna",
     "text": "Für sie gibt es die Online Help.",
-    "t": 191.14
+    "t": 191.47
    },
    {
     "speaker": "Anna",
     "text": "Man schreibt seine Frage oder seine Sorge auf der Website des KJT, auf Luxemburgisch, Deutsch, Französisch oder Englisch, und ein Berater schickt innerhalb weniger Tage eine schriftliche Antwort.",
-    "t": 193.02
+    "t": 193.35
    },
    {
     "speaker": "Tom",
     "text": "Braucht man eine E-Mail-Adresse, um die Online Help zu nutzen?",
-    "t": 205.21
+    "t": 205.54
    },
    {
     "speaker": "Anna",
     "text": "Nein, man wählt nur einen Benutzernamen und ein Passwort und bewahrt beides gut auf, denn sie sind der einzige Schlüssel zu den Antworten.",
-    "t": 208.48
+    "t": 208.81
    },
    {
     "speaker": "Anna",
     "text": "Den echten Namen, die Adresse, die E-Mail oder die Telefonnummer gibt man nicht an.",
-    "t": 218.33
+    "t": 218.66
    },
    {
     "speaker": "Tom",
     "text": "Das neueste Angebot ist die Chatberatung, die 2021 gestartet ist.",
-    "t": 223.23
+    "t": 223.56
    },
    {
     "speaker": "Tom",
     "text": "Das ist ein Live-Chat für Jugendliche, die lieber schreiben und die sofort über etwas sprechen möchten.",
-    "t": 228.33
+    "t": 228.66
    },
    {
     "speaker": "Anna",
     "text": "Und wer antwortet im Chat, dieselben Berater wie am Telefon?",
-    "t": 233.56
+    "t": 233.89
    },
    {
     "speaker": "Tom",
     "text": "Nein, und genau das macht den Chat besonders.",
-    "t": 237.16
+    "t": 237.49
    },
    {
     "speaker": "Tom",
     "text": "Die Website beschreibt ihn als Peer-to-Peer-Angebot, denn die Chatberater sind selbst junge Menschen.",
-    "t": 240.07
+    "t": 240.4
    },
    {
     "speaker": "Tom",
     "text": "Sie haben eine Ausbildung gemacht, und sie bringen auch ihre eigenen Erfahrungen mit.",
-    "t": 245.62
+    "t": 245.95
    },
    {
     "speaker": "Tom",
     "text": "Der Chat ist zu festen Zeiten am Abend geöffnet, die Sie auf der Website finden.",
-    "t": 250.06
+    "t": 250.39
    },
    {
     "speaker": "Anna",
     "text": "Kommen wir jetzt zu den Erwachsenen im Leben eines Kindes.",
-    "t": 254.62
+    "t": 254.95
    },
    {
     "speaker": "Anna",
     "text": "Seit 2007 gibt es eine Telefonnummer für Eltern, das Elterentelefon, und seine Nummer ist die 8002 4444.",
-    "t": 257.63
+    "t": 257.96
    },
    {
     "speaker": "Tom",
     "text": "Ist dieses Telefon wirklich nur für Mütter und Väter da?",
-    "t": 268.89
+    "t": 269.22
    },
    {
     "speaker": "Anna",
     "text": "Nein, es ist für Eltern, für Großeltern und für alle Erwachsenen da, die mit Kindern oder Jugendlichen zu tun haben.",
-    "t": 272.02
+    "t": 272.35
    },
    {
     "speaker": "Anna",
     "text": "Sie können mit einer Erziehungsfrage anrufen, oder wenn eine Situation zu Hause belastend geworden ist.",
-    "t": 279.23
+    "t": 279.56
    },
    {
     "speaker": "Tom",
     "text": "Was kann ein Elternteil von einem solchen Anruf erwarten?",
-    "t": 285.85
+    "t": 286.18
    },
    {
     "speaker": "Anna",
     "text": "Sie können Beratung, Orientierung und Information erwarten.",
-    "t": 289.09
+    "t": 289.42
    },
    {
     "speaker": "Anna",
     "text": "Die Berater greifen nicht an Ihrer Stelle ein.",
-    "t": 292.97
+    "t": 293.3
    },
    {
     "speaker": "Anna",
     "text": "Sie helfen Ihnen, klarer zu sehen, sie geben praktische Anregungen, und sie können Ihnen sagen, welche anderen Stellen in Luxemburg helfen könnten.",
-    "t": 295.7
+    "t": 296.03
    },
    {
     "speaker": "Anna",
     "text": "Das Angebot ist kostenlos, anonym und vertraulich, und die Zeiten stehen auf der Website.",
-    "t": 303.99
+    "t": 304.32
    },
    {
     "speaker": "Tom",
     "text": "Zwei weitere Angebote haben mit dem Internet zu tun, und sie tragen den Namen BEE SECURE.",
-    "t": 309.4
+    "t": 309.73
    },
    {
     "speaker": "Tom",
     "text": "Das erste ist die BEE SECURE Helpline, mit der Nummer 8002 1234.",
-    "t": 314.81
+    "t": 315.14
    },
    {
     "speaker": "Anna",
     "text": "Ist diese Helpline nur für Kinder da, oder kann ich sie auch als Erwachsene anrufen?",
-    "t": 321.07
+    "t": 321.4
    },
    {
     "speaker": "Tom",
     "text": "Sie ist für jeden Bürger jeden Alters da.",
-    "t": 325.97
+    "t": 326.3
    },
    {
     "speaker": "Tom",
     "text": "Sie können mit Fragen zur Sicherheit im Internet und in den digitalen Medien anrufen.",
-    "t": 328.58
+    "t": 328.91
    },
    {
     "speaker": "Tom",
     "text": "Das Team berät Sie individuell und verweist Sie, wenn nötig, an eine spezialisierte Stelle.",
-    "t": 333.25
+    "t": 333.58
    },
    {
     "speaker": "Tom",
     "text": "Die Anrufe sind kostenlos, anonym und vertraulich.",
-    "t": 338.38
+    "t": 338.71
    },
    {
     "speaker": "Tom",
     "text": "Und hier ist ein Hinweis für Grenzgänger: Laut der Website ist diese Nummer nur aus dem luxemburgischen Netz erreichbar.",
-    "t": 341.83
+    "t": 342.16
    },
    {
     "speaker": "Anna",
     "text": "Und was ist das zweite Angebot, das den Namen BEE SECURE trägt?",
-    "t": 348.82
+    "t": 349.15
    },
    {
     "speaker": "Tom",
     "text": "Das ist die BEE SECURE Stopline.",
-    "t": 352.81
+    "t": 353.14
    },
    {
     "speaker": "Tom",
     "text": "Sie ist keine Telefonnummer, sondern eine Website, auf der Sie illegale Inhalte melden können, die Sie im Internet finden.",
-    "t": 355.09
+    "t": 355.42
    },
    {
     "speaker": "Anna",
     "text": "Welche Arten von Inhalten kann man dort melden?",
-    "t": 362.28
+    "t": 362.61
    },
    {
     "speaker": "Tom",
     "text": "Es gibt drei Arten: Darstellungen von sexuellem Missbrauch von Minderjährigen, rassistische, revisionistische oder diskriminierende Inhalte, wozu auch Hassrede gehört, und Inhalte, die mit Terrorismus zu tun haben.",
-    "t": 365.07
+    "t": 365.4
    },
    {
     "speaker": "Tom",
     "text": "Die Stopline analysiert jede Meldung und leitet sie an die zuständigen Dienste der Großherzoglichen Polizei weiter, und sie speichert keine Daten, mit denen man Sie erkennen könnte.",
-    "t": 379.02
+    "t": 379.35
    },
    {
     "speaker": "Anna",
     "text": "Und was ist mit anderen Problemen im Internet, wie Beleidigungen, Cybermobbing oder Betrug?",
-    "t": 389.59
+    "t": 389.92
    },
    {
     "speaker": "Tom",
     "text": "Diese Fälle sind nichts für die Stopline.",
-    "t": 395.36
+    "t": 395.69
    },
    {
     "speaker": "Tom",
     "text": "Bei solchen Fragen können Sie die BEE SECURE Helpline anrufen, oder Sie wenden sich an die Polizei.",
-    "t": 397.84
+    "t": 398.17
    },
    {
     "speaker": "Anna",
     "text": "Etwas wusste ich nicht, bevor ich die Website gelesen habe: Am KJT arbeiten Ehrenamtliche als Berater.",
-    "t": 404.04
+    "t": 404.37
    },
    {
     "speaker": "Anna",
     "text": "Man findet sie am Kinder- und Jugendtelefon, bei der Online Help und am Elterentelefon, und sie unterstützen auch die BEE SECURE Helpline.",
-    "t": 411.76
+    "t": 412.09
    },
    {
     "speaker": "Tom",
     "text": "Kann sich jeder einfach ans Telefon setzen und anfangen zu antworten?",
-    "t": 419.32
+    "t": 419.65
    },
    {
     "speaker": "Anna",
     "text": "Nein, jeder Ehrenamtliche macht zuerst eine Grundausbildung.",
-    "t": 423.06
+    "t": 423.39
    },
    {
     "speaker": "Anna",
     "text": "Sie steht auf drei Säulen: der Haltung des Beraters und der Gesprächsführung, Wissen aus Psychologie und Pädagogik, und Kenntnissen über die Hilfsangebote, die es in Luxemburg gibt.",
-    "t": 427.02
+    "t": 427.35
    },
    {
     "speaker": "Anna",
     "text": "Dazu kommen ein Praktikum an der Seite von erfahrenen Beratern und danach regelmäßige Supervision.",
-    "t": 438.05
+    "t": 438.38
    },
    {
     "speaker": "Tom",
     "text": "Wie kann jemand, der sich dafür interessiert, ehrenamtlich mitarbeiten?",
-    "t": 444.13
+    "t": 444.46
    },
    {
     "speaker": "Anna",
     "text": "Auf der Website gibt es ein Formular für Interessierte, und vor jeder neuen Ausbildung gibt es einen Informationsabend.",
-    "t": 448.02
+    "t": 448.35
    },
    {
     "speaker": "Tom",
     "text": "Die Website kjt Punkt l-u lohnt einen Besuch, auch für Erwachsene.",
-    "t": 454.81
+    "t": 455.14
    },
    {
     "speaker": "Tom",
     "text": "Es gibt sie auf Deutsch, Französisch und Englisch.",
-    "t": 460.11
+    "t": 460.44
    },
    {
     "speaker": "Tom",
     "text": "Es gibt Seiten zu Themen, die Jugendliche beschäftigen, wie Freundschaft, Konflikte in der Familie, Cybermobbing und psychische Gesundheit, und auch zu sehr ernsten Themen, wie Gewalt, sexuellem Missbrauch und Suizid.",
-    "t": 463.11
+    "t": 463.44
    },
    {
     "speaker": "Tom",
     "text": "Es gibt auch eine Toolbox mit Tipps, Videos und einer Seite, die Ihnen hilft, Beratungsstellen in Luxemburg zu finden.",
-    "t": 477.03
+    "t": 477.36
    },
    {
     "speaker": "Anna",
     "text": "Kann ich auch über das Kontaktformular der Website um Rat fragen?",
-    "t": 484.38
+    "t": 484.71
    },
    {
     "speaker": "Tom",
     "text": "Nein, über dieses Formular bietet das KJT keine Beratung an, weil es nicht anonym und vertraulich ist.",
-    "t": 487.98
+    "t": 488.31
    },
    {
     "speaker": "Tom",
     "text": "Für eine Beratung nutzen Sie die Angebote, die wir beschrieben haben.",
-    "t": 494.98
+    "t": 495.31
    },
    {
     "speaker": "Anna",
     "text": "Hier ist noch eine Erinnerung von unserer Seite: Diese Telefone sind zum Zuhören und zum Beraten da, zu bestimmten Zeiten.",
-    "t": 498.63
+    "t": 498.96
    },
    {
     "speaker": "Anna",
     "text": "Wenn jemand in unmittelbarer Gefahr ist, ist die Notrufnummer die 112.",
-    "t": 506.23
+    "t": 506.56
    },
    {
     "speaker": "Tom",
     "text": "Das stimmt, und auch zur 112 gibt es eine Folge in diesem Podcast.",
-    "t": 511.12
+    "t": 511.45
    },
    {
     "speaker": "Tom",
     "text": "Fassen wir zusammen, was wir heute gelernt haben.",
-    "t": 515.89
+    "t": 516.22
    },
    {
     "speaker": "Anna",
     "text": "Erstens: Das KJT, das Kanner-Jugendtelefon, hört Kindern und Jugendlichen seit 1992 zu.",
-    "t": 518.59
+    "t": 518.92
    },
    {
     "speaker": "Anna",
     "text": "Seine Angebote sind kostenlos, anonym und vertraulich.",
-    "t": 526.03
+    "t": 526.36
    },
    {
     "speaker": "Tom",
     "text": "Zweitens: Kinder und Jugendliche können die 116 111 anrufen, an die Online Help schreiben oder den Chat mit ausgebildeten jungen Beratern nutzen.",
-    "t": 529.96
+    "t": 530.29
    },
    {
     "speaker": "Anna",
     "text": "Drittens: Eltern, Großeltern und andere Erwachsene, die sich um Kinder kümmern, können das Elterentelefon unter 8002 4444 anrufen.",
-    "t": 540.81
+    "t": 541.14
    },
    {
     "speaker": "Tom",
     "text": "Viertens: Für Fragen zur Sicherheit im Internet gibt es die BEE SECURE Helpline unter 8002 1234, und illegale Inhalte kann man der BEE SECURE Stopline melden.",
-    "t": 550.86
+    "t": 551.19
    },
    {
     "speaker": "Anna",
     "text": "Sie finden die Zeiten und alle Angebote auf kjt Punkt l-u.",
-    "t": 563.21
+    "t": 563.54
    },
    {
     "speaker": "Tom",
     "text": "Das KJT hat ein Motto, das es sehr gut sagt: Niemand muss alleine bleiben.",
-    "t": 567.53
+    "t": 567.86
    },
    {
     "speaker": "Anna",
     "text": "Und manchmal ist das Hilfreichste, was ein Erwachsener tun kann, eine Telefonnummer weiterzugeben.",
-    "t": 572.36
+    "t": 572.69
    },
    {
     "speaker": "Anna",
     "text": "Das war unsere Folge über das Kanner-Jugendtelefon.",
-    "t": 577.6
+    "t": 577.93
    },
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
-    "t": 580.89
+    "t": 581.22
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
-    "t": 590.05
+    "t": 590.38
    },
    {
     "speaker": "Anna",
     "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
-    "t": 608.38
+    "t": 608.71
    },
    {
     "speaker": "Anna",
     "text": "Und die Aktivitäten sind kostenlos.",
-    "t": 614.08
+    "t": 614.41
    },
    {
     "speaker": "Anna",
     "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
-    "t": 616.33
+    "t": 616.66
    },
    {
     "speaker": "Tom",
     "text": "Danke an alle.",
-    "t": 621.22
+    "t": 621.55
    },
    {
     "speaker": "Tom",
     "text": "Passen Sie auf sich auf, und bis zum nächsten Mal!",
-    "t": 622.32
+    "t": 622.65
    },
    {
     "speaker": "Anna",
     "text": "Vielen Dank fürs Zuhören.",
-    "t": 625.11
+    "t": 625.44
    }
   ],
   "segments_lb": [

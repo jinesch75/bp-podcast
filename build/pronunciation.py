@@ -80,7 +80,8 @@ NAMES = {
            (r"(?i)\bclubaktivplus\b", "Club Aktiv Plus"),
            (r"(?i)\bokaju\b", "Okadjou")],   # ombudsman ep: Jacques 2026-11-23 "OKA-JUU", J as in "juice" (was "Okayou")
     #jepeuxvoter ep (2026-11-20)
-    "de": [(r"\bvom 23\. August 2023\b", "vom dreiundzwanzigsten August zweitausenddreiundzwanzig"),   # SIMPA ep (2026-11-26), was slow
+    "de": [(r"\bwurde 1992 gegründet\b", "wurde neunzehnhundertzweiundneunzig gegründet"),   # KJT ep: Jacques 2026-11-26, Tom said "1990"
+           (r"\bvom 23\. August 2023\b", "vom dreiundzwanzigsten August zweitausenddreiundzwanzig"),   # SIMPA ep (2026-11-26), was slow
            (r"(?i)\bl[ëe]tz ?prepare\b", "Lets pripär"),                    # Lëtz prepare ep (2026-11-14), check by ear
            (r"\bLëtz\b", "Lets"),
            (r"\binfocrise\b", "Info-Kriis"),
