@@ -2,6 +2,8 @@
 
 This file is the single source of truth for continuing work on this project in a new session.
 
+**Start with `CLAUDE.md`** (standing rules + definition of done). Every new or changed episode is finished with `python3 build/finish_episode.py <key> en,fr,de` — see the section "Finishing an episode: one command" at the end.
+
 ## What this project is
 
 A static website for the **Biergerpakt Podcast**: short, friendly audio episodes (hosts **Anna** + **Tom**) explaining Luxembourg public services / initiatives in simple English, with a **synced read-along transcript**, a **language switcher (EN / FR / DE / LB)**, and a **5-question quiz** per episode that yields a printable certificate.
@@ -760,3 +762,14 @@ Jacques: an admin space to see how many people listened to each episode — "not
 - **Run locally:** `ADMIN_PASSWORD=test node server.js` → http://localhost:8080/ and /admin/. Do not run `npm install` in this folder (it would remove the build tools' packages in `node_modules`, which are not listed in package.json).
 - **If the site shows "Application failed to respond" after the switch:** Railway → service → Settings → Networking: the domain's port must be the one the server uses (`PORT`, set by Railway; 8080 if none).
 - Tested locally (Chrome): counts for visit/open/play/end/language switch, pause+resume not counted twice, review page not counted, no cookie sent, "don't count me", wrong/right password, status and note saved across reloads, Range/416/304/gzip, blocked paths.
+
+## Finishing an episode: one command (26 Nov 2026)
+
+Jacques: he had to keep asking for the same steps (pitch check, review page, Word file…). Now `CLAUDE.md` holds the standing rules and a "definition of done", and `build/finish_episode.py` chains every finishing step so none can be skipped:
+
+`python3 build/finish_episode.py <key> [en,fr,de] [--new] [--no-retakes | --check-only] [--max-retakes 15] [--budget 160 | 0] [--from STEP] [--reset] [-m "commit message"]`
+
+- Steps: setup (finds or installs faster-whisper + librosa and a whisper model cache; private `EL_TMP`/`EL_STATE`/`EL_ASR_FILE` in `/tmp/fin_<key>` or `$FINISH_DIR`, listening-check cache seeded from `build/el_cache/asr.json`) → record (`el_run_batch.py`, cached = 0 credits) → qc1 (`voice_qc.py`, languages in parallel, numba warmed with one run first) → pick (pitch |z| ≥ 2.5, pitch spread ≥ 2.6, rising end on a statement ≥ 2.2, pace/loudness/voicing > 3.5; standard intro/outro = first 6 / last 5 sentences skipped; at most `--max-retakes` per language, worst first) → retake (`best_take.py`, 3 sentences per call, one language at a time; the choices are recorded and re-applied to the shared `build/el_cache/reseed.json` before the rebuild) → rebuild (changed languages only) → qc2 → golive (`inject_<key>.js` if the key is not in `episodes_data.js`; `replace_audio_elevenlabs.js` only for languages whose mp3 differs from the live one — the rebuild is byte-identical when nothing changed) → publish (`balance_quiz_answers.js --write` with `--new`, `bump_version.js` if something went live, `make_review.js`, `make_review_doc.js`, `node --check app.js`, durations vs ffprobe) → report (`/tmp/fin_<key>/report.md`: durations, lines still worth a listen, listening-check notes, review link, git push commands).
+- Resumable: stops before `--budget` seconds (default 160 for the Cowork 180 s shell limit) and prints RUN AGAIN; re-run the same command. `--budget 0` = no limit (on the Mac / Claude Code). Log: `/tmp/fin_<key>/log.txt`.
+- `--check-only`: measure + report, nothing changed (for "check the pitch" when Jacques only wants to know).
+- Tested 26 Nov 2026 on `culture en` (`--check-only`, then `--no-retakes`): recording identical to live, nothing replaced; flagged EN #12, #16, #24. (The culture review page was regenerated — it predated the playlist/password changes.)
