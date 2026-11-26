@@ -1,0 +1,65 @@
+# Script du podcast — « Le SIMPA – information et médiation pour les personnes âgées »
+
+**Dans le cadre du programme Biergerpakt**
+**Animateurs :** Anna (femme) et Tom (homme)
+**Durée :** environ 9 minutes — parlé lentement, dans un français simple
+
+---
+
+**ANNA:** Bonjour et bienvenue ! C'est vraiment un plaisir de vous avoir avec nous aujourd'hui.
+**TOM:** Bonjour à tous !
+**ANNA:** Ce podcast fait partie du Biergerpakt. C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil. L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.
+**TOM:** Beaucoup de familles connaissent ce moment. Quelqu'un à table dit que maman a du mal avec les escaliers, ou que grand-père aurait peut-être besoin d'un peu d'aide à la maison, et tout à coup il y a beaucoup de questions, et personne ne sait vraiment par où commencer.
+**ANNA:** Et très souvent, ces questions viennent avec des inquiétudes : quel service choisir, quels sont nos droits, et que faire si quelque chose se passe mal plus tard ? Alors aujourd'hui, nous parlons d'un service public créé exactement pour ces moments-là. Il s'appelle le SIMPA.
+**TOM:** Le SIMPA, c'est le Service national d'information et de médiation pour les personnes âgées. Il s'occupe des services pour personnes âgées, comme les aides et soins à domicile ou une place dans une structure d'hébergement. Son nom complet est long, alors tout le monde dit simplement le SIMPA.
+**ANNA:** Qui est responsable de ce service, et depuis quand existe-t-il ?
+**TOM:** C'est un service public du Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil. Il a été créé par la loi du 23 août 2023 sur la qualité des services pour personnes âgées, et il a été présenté au public en mars 2025.
+**ANNA:** Qu'est-ce qu'une loi sur la qualité change pour une personne âgée ou pour une famille ?
+**TOM:** Quand le SIMPA présente son travail, il résume la loi en quatre idées : plus d'information, plus de transparence, plus de qualité, et plus de participation pour les personnes qui utilisent les services.
+**ANNA:** Le SIMPA aide à faire vivre ces idées pour tous les services pour personnes âgées agréés par le ministère. D'abord, les lieux où vivent les personnes âgées : les structures d'hébergement, avec du personnel jour et nuit, et les logements encadrés, où l'on a son propre logement, avec de l'aide à proximité, et ensuite les centres de jour.
+**TOM:** Et pour les personnes qui veulent rester chez elles, ces services sont-ils aussi concernés ?
+**ANNA:** Oui, ils le sont : les aides et soins à domicile, les repas sur roues, et la téléalarme, qui envoie de l'aide en cas d'urgence, jour et nuit. Et aussi les activités seniors et le Club Aktiv Plus, qui a son propre épisode dans ce podcast.
+**TOM:** Qui peut exactement s'adresser au SIMPA, et combien cela coûte-t-il ?
+**ANNA:** La personne âgée qui utilise l'un de ces services, sa famille et son entourage, et même les organismes qui gèrent les services. Les aidants, les professionnels et toutes les personnes intéressées sont aussi les bienvenus. Et cela ne coûte rien : tous les services du SIMPA sont entièrement gratuits.
+**TOM:** Le SIMPA décrit son travail avec trois idées simples : écouter, comprendre et expliquer, et renforcer le dialogue. Expliquer, c'est donner une information claire sur les services, et sur les droits et les obligations des résidents, des usagers et des organismes, car les connaître évite beaucoup de malentendus.
+**ANNA:** Et pour écouter, le SIMPA a une ligne téléphonique plus ancienne que le service lui-même : le Seniorentelefon, qui existe depuis 1999. On peut l'appeler pour toute question ou toute préoccupation liée à l'âge, ou simplement parce qu'on a besoin d'être écouté. Le numéro est le 247-86000.
+**TOM:** Qui répond quand on appelle, et à qui la ligne s'adresse-t-elle ?
+**ANNA:** C'est un membre de l'équipe du SIMPA qui répond, en luxembourgeois, français, allemand, portugais ou anglais. La ligne est ouverte le matin, du lundi au vendredi, pour les personnes âgées, leurs proches aidants, et les professionnels. Et quand une question relève d'un autre service, l'équipe vous dit à qui vous adresser.
+**TOM:** La troisième idée, c'est le dialogue : le SIMPA veut une bonne communication entre les résidents ou usagers et les organismes, pour qu'un petit problème puisse être réglé avant de devenir un vrai conflit.
+**ANNA:** Et s'il y a malgré tout un désaccord, que faut-il faire en premier ?
+**TOM:** D'abord, parler directement avec l'organisme qui fournit le service. Chaque organisme doit avoir un dispositif de réclamation, et ses coordonnées figurent dans le projet d'établissement du service, que l'on peut consulter sur infosenior point l-u. Ce site a d'ailleurs son propre épisode dans ce podcast.
+**ANNA:** Et que se passe-t-il quand le dialogue direct ne fonctionne pas, ou devient trop difficile ?
+**TOM:** Alors le SIMPA peut proposer une médiation, si toutes les personnes concernées sont d'accord. Les personnes en désaccord essaient, volontairement, de trouver un accord, avec l'aide d'un médiateur indépendant, impartial et compétent.
+**ANNA:** Quel type de différend peut faire l'objet d'une médiation, et qui peut la demander ?
+**TOM:** Il doit porter sur un service pour personnes âgées : par exemple les aides et les soins, les repas, l'hygiène, la situation de logement, ou la relation entre une famille et un service. La personne qui utilise le service, son entourage, ou le personnel de l'organisme peuvent la demander, par téléphone, par e-mail ou avec le formulaire de contact du site.
+**ANNA:** Et la personne qui mène la médiation, de quel côté est-elle ?
+**TOM:** Elle est du côté de tout le monde. Le site dit même qu'elle est « omni-partiale », c'est-à-dire qu'elle est là pour toutes les personnes en même temps. Elle n'a aucun pouvoir de décision : elle aide les personnes à trouver leur propre accord, et ce qui est dit reste confidentiel.
+**ANNA:** Est-ce qu'un fils ou une fille peut demander au SIMPA de parler au nom de sa mère pendant une médiation ?
+**TOM:** Ce n'est pas possible, car le SIMPA ne représente personne. La personne âgée reste au centre : elle doit donner son accord pour participer, et la médiation respecte son autonomie, sa dignité et ses besoins, et veille à ce qu'elle soit pleinement entendue.
+**ANNA:** Les étapes sont bien décrites sur le site. Cela commence souvent par des entretiens individuels : la médiatrice reçoit chaque partie séparément, explique les règles, et vérifie si une médiation a du sens. Ensuite, tout le monde signe un accord écrit en vue de la médiation.
+**TOM:** Où se déroulent les rencontres, sachant que tout le monde ne peut pas se déplacer facilement ?
+**ANNA:** Surtout dans la salle de réunion du service, à Luxembourg-ville. Mais une rencontre peut aussi avoir lieu dans la structure d'hébergement, ou un rendez-vous peut être organisé à l'extérieur. On peut aussi venir avec un proche, un conseiller juridique ou un expert, si on l'annonce à l'avance.
+**TOM:** Et comment se termine une médiation, quand elle se passe bien ?
+**ANNA:** Elle se termine par un accord, total ou partiel. La médiatrice peut proposer de le mettre par écrit, avec la date, la signature de tous et les engagements concrets de chacun.
+**TOM:** Le site donne un exemple qui rend tout cela très concret. Monsieur Muller a quatre-vingt-deux ans et vit dans une structure d'hébergement, et sa fille Sophie et lui ne sont pas d'accord sur ses activités sociales et sur la façon dont il est pris en charge.
+**ANNA:** Et quel est le but de la médiation dans un cas comme celui-là ?
+**TOM:** Le but est de trouver un équilibre entre trois choses : l'autonomie de Monsieur Muller, le cadre professionnel des soignants, et les inquiétudes de sa fille.
+**ANNA:** J'aime bien qu'il ne s'agisse pas de savoir qui a raison, mais de trouver une solution avec laquelle tout le monde peut vivre. Y a-t-il des situations où le SIMPA n'est pas la bonne adresse ?
+**TOM:** Il y a trois situations de ce genre. D'abord, les décisions administratives, par exemple ce que paie un organisme de sécurité sociale : là, on peut s'adresser à l'Ombudsman ou aux juridictions sociales. Ensuite, les questions de soins de santé, qui relèvent du médiateur de la santé. Enfin, les conflits de travail entre membres du personnel.
+**ANNA:** L'Ombudsman et le médiateur de la santé ont chacun leur propre épisode dans ce podcast. Beaucoup de familles se posent aussi des questions d'argent, et le site du SIMPA donne un aperçu des aides publiques, par exemple l'assurance dépendance, un complément appelé COMPA, ou les aides au logement.
+**TOM:** Est-ce que l'équipe remplit aussi les formulaires de demande pour vous ?
+**ANNA:** Cela ne fait pas partie de son travail : le SIMPA ne gère pas lui-même les démarches, mais il vous indique le service compétent. Et pour voir tous les services agréés au même endroit, il y a le registre public sur infosenior point l-u.
+**TOM:** Comment peut-on joindre le SIMPA, pour une question ou pour prendre rendez-vous ?
+**ANNA:** Par téléphone, par e-mail, ou avec le formulaire de contact du site, et on peut aussi rencontrer l'équipe en personne, sur rendez-vous. Le site est simpa point l-u, et il existe en français et en allemand.
+**TOM:** Quand le SIMPA se présente, il termine par trois choses à retenir. On les reprend ensemble ?
+**ANNA:** Premièrement, celui qu'il faut appeler : le Seniorentelefon, au 247-86000, pour une information, pour un conseil, ou simplement pour être écouté.
+**TOM:** Deuxièmement : le SIMPA écoute, oriente, et propose une médiation quand il y a un désaccord avec un service. Il est neutre, confidentiel et gratuit.
+**ANNA:** Troisièmement : vous trouvez tous les services agréés en un coup d'œil sur infosenior point l-u.
+**TOM:** Et encore un conseil de notre part : si quelque chose ne va pas, parlez-en tôt. Une bonne conversation règle souvent plus qu'une longue dispute.
+**ANNA:** Parce que vieillir ne devrait jamais vouloir dire rester seul avec ses questions. C'était notre épisode sur le SIMPA, le service d'information et de médiation pour les personnes âgées. Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes. Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées. Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers. Et les activités sont gratuites. Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.
+**TOM:** Merci à tous. Prenez soin de vous, et à la prochaine !
+**ANNA:** Merci beaucoup de nous avoir écoutés.
+
+---
+
+*Sources : simpa.public.lu (SIMPA – Service national d'information et de médiation dans le domaine des services pour personnes âgées, Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil), consulté le 26 novembre 2026 en français et en allemand — page d'accueil, « Information », « Seniorentelefon » (depuis 1999, Année internationale des personnes âgées ; langues ; du lundi au vendredi, le matin), « Registre public des services pour personnes âgées », « Aides », « Médiation » (principes ; services concernés ; situations hors compétence), « Déroulement de la médiation » (entretiens individuels préalables, accord en vue de médiation, réunions, accompagnants, accord de médiation, exemple de Monsieur Muller), « Demander une médiation », « Autres instances de règlement de conflits », « Alternatives à la médiation », « Qui sommes-nous ? » / « Nos missions » / « Nos valeurs », « FAQ » (services entièrement gratuits ; pas de représentation des parties ; confidentialité ; rendez-vous), « Législation » (loi du 23 août 2023 sur la qualité des services pour personnes âgées) ; mfsva.gouvernement.lu (page SIMPA) ; communiqué du gouvernement du 25 mars 2025 (présentation du SIMPA, intégration du Seniorentelefon) ; présentation du SIMPA « Lunchtalk – de l'information et de l'accompagnement à la médiation » (novembre 2026 : écouter, comprendre et expliquer, renforcer le dialogue ; les quatre idées de la loi qualité de 2023 ; thèmes des médiations ; trois choses à retenir). Formulations durables uniquement : pas de noms de l'équipe, pas d'adresse, pas de numéro général, pas d'horaires exacts, pas de statistiques. Le numéro du Seniorentelefon, 247-86000, est celui indiqué sur simpa.public.lu (pages française et allemande) et sur guichet.public.lu. La scène d'ouverture et le conseil final des animateurs sont des illustrations des animateurs. Informations générales uniquement. Exact en novembre 2026.*

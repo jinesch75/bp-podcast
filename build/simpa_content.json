@@ -1,0 +1,215 @@
+{
+ "en": {
+  "title": "SIMPA – Information and Mediation for Older People",
+  "description": "When an older person needs help at home or a place in a residential facility, families have many questions. Discover SIMPA, the national information and mediation service for older people: the Seniorentelefon, free advice about the approved services, and a neutral and confidential mediation when there is a disagreement with a service.",
+  "topics": [
+   "What SIMPA is",
+   "The 2023 law on quality",
+   "Services for older people",
+   "The Seniorentelefon",
+   "Listening, explaining, dialogue",
+   "How a mediation works",
+   "When SIMPA is not the right address",
+   "Financial help & infosenior.lu"
+  ],
+  "questions": [
+   {
+    "text": "Which telephone line is now part of SIMPA?",
+    "options": [
+     "The Seniorentelefon, for questions about ageing",
+     "The emergency number 112, for ambulances and firefighters",
+     "The Kanner-Jugendtelefon, for teenagers",
+     "The helpline of the National Health Fund, for patients"
+    ],
+    "correct": 0,
+    "explanation": "SIMPA includes the Seniorentelefon, a line for any question or worry linked to ageing, which has existed since 1999. Its number is 247-86000."
+   },
+   {
+    "text": "How much does it cost to ask SIMPA for advice or a mediation?",
+    "options": [
+     "Nothing: all of its services are free of charge",
+     "A small fee for each telephone call",
+     "A yearly membership fee for each family",
+     "A fee that is paid only if the mediation succeeds"
+    ],
+    "correct": 0,
+    "explanation": "The SIMPA website says it clearly: all of its services are free of charge."
+   },
+   {
+    "text": "You are unhappy with a service for older people. What does SIMPA recommend as the first step?",
+    "options": [
+     "Speak directly with the organisation that runs it",
+     "Go straight to court together with a lawyer",
+     "Write to the ministry and ask it to close the service",
+     "Ask the Ombudsman to decide who is right"
+    ],
+    "correct": 0,
+    "explanation": "SIMPA first recommends a direct conversation with the organisation. Every organisation must have a way to handle complaints; its contact details are in the establishment plan on infosenior.lu."
+   },
+   {
+    "text": "In a mediation organised by SIMPA, who decides on the solution?",
+    "options": [
+     "The people involved find their own agreement",
+     "The mediator decides which side is right",
+     "The ministry decides after the last meeting",
+     "The family of the older person decides alone"
+    ],
+    "correct": 0,
+    "explanation": "The mediator is neutral and has no power to decide. She helps the people to find their own agreement, with the older person at the centre."
+   },
+   {
+    "text": "Which of these situations is NOT handled by SIMPA?",
+    "options": [
+     "A disagreement with a doctor about health care",
+     "A problem with the meals in a residential facility",
+     "A conflict about home care between a family and a service",
+     "A disagreement about the activities in a day centre"
+    ],
+    "correct": 0,
+    "explanation": "Questions about health care belong to the health mediator. Administrative decisions of social security bodies go to the Ombudsman or the social courts, and conflicts between staff members are also outside SIMPA's remit."
+   }
+  ]
+ },
+ "fr": {
+  "title": "Le SIMPA – information et médiation pour les personnes âgées",
+  "description": "Quand une personne âgée a besoin d'aide à domicile ou d'une place dans une structure d'hébergement, les familles se posent beaucoup de questions. Découvrez le SIMPA, le Service national d'information et de médiation pour les personnes âgées : le Seniorentelefon, des conseils gratuits sur les services agréés, et une médiation neutre et confidentielle en cas de désaccord avec un service.",
+  "topics": [
+   "Ce qu'est le SIMPA",
+   "La loi de 2023 sur la qualité",
+   "Les services pour personnes âgées",
+   "Le Seniorentelefon",
+   "Écouter, expliquer, dialoguer",
+   "Le déroulement d'une médiation",
+   "Quand le SIMPA n'est pas la bonne adresse",
+   "Aides financières & infosenior.lu"
+  ],
+  "questions": [
+   {
+    "text": "Quelle ligne téléphonique fait aujourd'hui partie du SIMPA ?",
+    "options": [
+     "Le Seniorentelefon, pour les questions liées à l'âge",
+     "Le numéro d'urgence 112, pour les ambulances et les pompiers",
+     "Le Kanner-Jugendtelefon, pour les adolescents",
+     "La ligne d'aide de la Caisse nationale de santé"
+    ],
+    "correct": 0,
+    "explanation": "Le SIMPA comprend le Seniorentelefon, une ligne pour toute question ou préoccupation liée à l'âge, qui existe depuis 1999. Son numéro est le 247-86000."
+   },
+   {
+    "text": "Combien coûte un conseil ou une médiation du SIMPA ?",
+    "options": [
+     "Rien : tous ses services sont entièrement gratuits",
+     "Une petite somme pour chaque appel téléphonique",
+     "Une cotisation annuelle pour chaque famille",
+     "Des frais payés seulement si la médiation réussit"
+    ],
+    "correct": 0,
+    "explanation": "Le site du SIMPA le dit clairement : tous ses services sont entièrement gratuits."
+   },
+   {
+    "text": "Vous n'êtes pas satisfait d'un service pour personnes âgées. Quelle première étape le SIMPA recommande-t-il ?",
+    "options": [
+     "Parler directement avec l'organisme qui le gère",
+     "Aller tout de suite au tribunal avec un avocat",
+     "Écrire au ministère pour demander la fermeture du service",
+     "Demander à l'Ombudsman de dire qui a raison"
+    ],
+    "correct": 0,
+    "explanation": "Le SIMPA recommande d'abord un échange direct avec l'organisme. Chaque organisme doit avoir un dispositif de réclamation ; ses coordonnées figurent dans le projet d'établissement, sur infosenior.lu."
+   },
+   {
+    "text": "Dans une médiation du SIMPA, qui décide de la solution ?",
+    "options": [
+     "Les personnes concernées trouvent leur propre accord",
+     "La médiatrice décide laquelle des deux parties a raison",
+     "Le ministère décide après la dernière rencontre",
+     "La famille de la personne âgée décide seule"
+    ],
+    "correct": 0,
+    "explanation": "La médiatrice est neutre et n'a aucun pouvoir de décision. Elle aide les personnes à trouver leur propre accord, avec la personne âgée au centre."
+   },
+   {
+    "text": "Laquelle de ces situations n'est PAS traitée par le SIMPA ?",
+    "options": [
+     "Un désaccord avec un médecin sur des soins de santé",
+     "Un problème avec les repas dans une structure d'hébergement",
+     "Un conflit sur les soins à domicile entre une famille et un service",
+     "Un désaccord sur les activités dans un centre de jour"
+    ],
+    "correct": 0,
+    "explanation": "Les questions de soins de santé relèvent du médiateur de la santé. Les décisions administratives des organismes de sécurité sociale relèvent de l'Ombudsman ou des juridictions sociales, et les conflits entre membres du personnel ne sont pas non plus de la compétence du SIMPA."
+   }
+  ]
+ },
+ "de": {
+  "title": "Der SIMPA – Information und Mediation für ältere Menschen",
+  "description": "Wenn ein älterer Mensch Hilfe zu Hause oder einen Platz in einer Wohnstruktur braucht, haben Familien viele Fragen. Lernen Sie den SIMPA kennen, den Nationalen Dienst für Information und Mediation im Bereich der Dienstleistungen für ältere Menschen: das Seniorentelefon, kostenlose Beratung zu den zugelassenen Diensten und eine neutrale, vertrauliche Mediation bei Streit mit einem Dienst.",
+  "topics": [
+   "Was der SIMPA ist",
+   "Das Qualitätsgesetz von 2023",
+   "Dienste für ältere Menschen",
+   "Das Seniorentelefon",
+   "Zuhören, erklären, Dialog",
+   "Wie eine Mediation abläuft",
+   "Wann der SIMPA nicht zuständig ist",
+   "Finanzielle Hilfen & infosenior.lu"
+  ],
+  "questions": [
+   {
+    "text": "Welche Telefonlinie gehört heute zum SIMPA?",
+    "options": [
+     "Das Seniorentelefon, für Fragen rund ums Älterwerden",
+     "Die Notrufnummer 112, für Rettungswagen und Feuerwehr",
+     "Das Kanner-Jugendtelefon, für Jugendliche",
+     "Die Hotline der Nationalen Gesundheitskasse für Patienten"
+    ],
+    "correct": 0,
+    "explanation": "Zum SIMPA gehört das Seniorentelefon, eine Linie für jede Frage und jede Sorge rund ums Älterwerden, die es seit 1999 gibt. Die Nummer lautet 247-86000."
+   },
+   {
+    "text": "Was kostet eine Beratung oder eine Mediation beim SIMPA?",
+    "options": [
+     "Nichts: Alle seine Angebote sind kostenlos",
+     "Eine kleine Gebühr für jeden Telefonanruf",
+     "Einen Jahresbeitrag für jede Familie",
+     "Eine Gebühr, nur wenn die Mediation gelingt"
+    ],
+    "correct": 0,
+    "explanation": "Die Website des SIMPA sagt es klar: Alle seine Angebote sind kostenlos."
+   },
+   {
+    "text": "Sie sind mit einem Dienst für ältere Menschen unzufrieden. Welchen ersten Schritt empfiehlt der SIMPA?",
+    "options": [
+     "Direkt mit der Trägerorganisation sprechen",
+     "Sofort mit einem Anwalt vor Gericht gehen",
+     "Dem Ministerium schreiben, um den Dienst zu schließen",
+     "Den Ombudsman bitten, zu entscheiden, wer recht hat"
+    ],
+    "correct": 0,
+    "explanation": "Der SIMPA empfiehlt zuerst ein direktes Gespräch mit der Trägerorganisation. Jede Organisation muss ein Beschwerdeverfahren haben; wie man es erreicht, steht im Einrichtungskonzept auf infosenior.lu."
+   },
+   {
+    "text": "Wer entscheidet bei einer Mediation des SIMPA über die Lösung?",
+    "options": [
+     "Die Beteiligten finden ihre eigene Einigung",
+     "Die Mediatorin entscheidet, welche Seite recht hat",
+     "Das Ministerium entscheidet nach dem letzten Treffen",
+     "Die Familie des älteren Menschen entscheidet allein"
+    ],
+    "correct": 0,
+    "explanation": "Die Mediatorin ist neutral und hat keine Entscheidungsmacht. Sie hilft den Beteiligten, ihre eigene Einigung zu finden, mit dem älteren Menschen im Mittelpunkt."
+   },
+   {
+    "text": "Welche dieser Situationen behandelt der SIMPA NICHT?",
+    "options": [
+     "Einen Streit mit einem Arzt über die Behandlung",
+     "Ein Problem mit dem Essen in einer Wohnstruktur",
+     "Einen Konflikt um die Pflege zu Hause zwischen Familie und Dienst",
+     "Einen Streit über die Aktivitäten in einer Tagesstätte"
+    ],
+    "correct": 0,
+    "explanation": "Fragen zur Gesundheitsversorgung gehören zum Mediator für das Gesundheitswesen. Verwaltungsentscheidungen der Sozialversicherung gehören zum Ombudsman oder zu den Sozialgerichten, und Konflikte zwischen Mitarbeitenden sind ebenfalls nicht Sache des SIMPA."
+   }
+  ]
+ }
+}

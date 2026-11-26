@@ -56,6 +56,7 @@ NAMES = {
            (r"(?i)\bdon ?du ?sang\b", "dawn dew sahn"),                     # dondusang ep: Jacques's A/B choice B (2026-11-20)
            (r"(?i)\bicanvote\b", "I can vote"),
            (r"(?i)\bclubaktivplus\b", "Club Aktiv Plus"),
+           (r"\bSeniorentelefon\b", "Senioren-Telefon"),   # SIMPA ep (2026-11-26), as written "Senioren-Telefon" in the Info-Seniors episode; check by ear
            (r"\bKanner-Jugendtelefon\b", "Kanner-Yoogunt-telefon"),   # KJT ep (2026-11-24), not A/B tested: check by ear
            (r"\bHowald\b", "Hoh-wald"),   # consommateurs ep: Jacques 2026-11-24 "HO-WALD", Wald as in Waldorf (A/B build/el_test/pron_howald_en_AB.mp3, B used)
            (r"(?i)\bokaju\b", "Oka-joo")],   # ombudsman ep: Jacques 2026-11-23 "OKA-JUU", J as in "juice" (was "Oh-kah-yoo")
@@ -71,6 +72,7 @@ NAMES = {
            (r"\bBass du prett\b", "Bass dou prèt"),
            (r"\bKanner-Jugendtelefon\b", "Kanneur-Youguènnt-téléfone"),   # KJT ep (2026-11-24), not A/B tested: check by ear
            (r"\bElterentelefon\b", "Elteurènn-téléfone"),
+           (r"\bSeniorentelefon\b", "Séniorènn-téléfone"),   # SIMPA ep (2026-11-26), not A/B tested: check by ear
            (r"(?i)\bdondusang\b", "don du sang"),                           # dondusang ep (2026-11-20)
            (r"(?i)\bjepeuxvoter\b", "je peux voter"),
            (r"(?i)\bclubaktivplus\b", "Club Aktiv Plus"),
