@@ -117,6 +117,8 @@
     .filter-select.active { border-color: var(--orange); color: var(--orange-dark); }
     .filter-count { font-size: 0.8rem; color: var(--text-muted); }
     .filter-pick { flex-wrap: wrap; }
+    /* View options: own line under the dropdown, both checkboxes side by side, left-aligned */
+    .view-checks { flex: 1 1 100%; display: flex; flex-wrap: wrap; align-items: center; gap: 4px 28px; }
     .view-check { display: inline-flex; align-items: center; gap: 8px; font-size: 0.88rem; font-weight: 700; color: var(--dark); cursor: pointer; user-select: none; padding: 6px 2px; }
     .view-check input { width: 18px; height: 18px; margin: 0; accent-color: var(--orange); cursor: pointer; }
     .view-check:hover span { color: var(--orange-dark); }
@@ -481,10 +483,12 @@
       <div class="filter-pick">
         <label class="filter-head" id="filter-heading" for="filter-select" data-i18n="filter_heading">Topic</label>
         <select class="filter-select" id="filter-select"></select>
+      </div>
+      <div class="filter-count" id="filter-count"></div>
+      <div class="view-checks">
         <label class="view-check"><input type="checkbox" id="view-toggle"><span id="view-toggle-label">Show episodes by topic</span></label>
         <label class="view-check"><input type="checkbox" id="map-toggle"><span id="map-toggle-label">Show the topic map</span></label>
       </div>
-      <div class="filter-count" id="filter-count"></div>
     </div>
     <div class="topic-map-wrap" id="topic-map-wrap" hidden>
       <div id="topic-map" role="group"></div>
