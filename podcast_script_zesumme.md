@@ -25,20 +25,20 @@
 **ANNA:** That bigger effort even has its own name: "Einfach Lëtzebuerg", which means "Simply Luxembourg".
 **TOM:** With a Ministry for Digitalisation behind it, I would expect it to be all about apps and websites.
 **ANNA:** Many people think that, but it goes much wider. It is about administrative steps in general: forms, offices, counters, and how close public services are to the people who use them.
-**TOM:** Let's get to the heart of it. How does the platform actually work?
+**TOM:** Let's get to the heart of it: how does the platform actually work?
 **ANNA:** The big idea is to put the real experience of citizens and businesses at the centre.
 **TOM:** Because the people who use a procedure every day often understand its problems best.
 **ANNA:** So citizens and businesses can take the initiative, and submit ideas to simplify the State's procedures.
-**TOM:** You have noticed something clumsy, something that could be easier? You can suggest how to fix it.
+**TOM:** If you have noticed something clumsy, something that could be easier, you can suggest how to fix it.
 **ANNA:** And then the work happens in a participatory, co-creative way, together with the people who proposed it. Ministries and administrations can also post their own projects there, to ask for people's opinions.
 **TOM:** I think it helps to picture it as a project that moves through phases.
 **ANNA:** Yes. There is a phase for sharing ideas, and then phases for working on a solution and testing it.
 **TOM:** And here is a detail I really appreciate. You don't have to commit to the whole journey.
 **ANNA:** That's right. You can take part in just one phase, or several, as much as you want.
-**TOM:** So you are free. You give what you can, when you can. No pressure.
+**TOM:** So you are free. You give what you can, when you can, with no pressure.
 **ANNA:** And the platform welcomes everyone, in all four of our languages: Luxembourgish, German, French, and English.
 **TOM:** That really matters in a country as multilingual as Luxembourg. Everyone can join in their own language.
-**ANNA:** And what about people who do not use the internet much? Can they take part too?
+**ANNA:** And what about people who do not use the internet much, can they take part too?
 **TOM:** Yes, they can, because in some projects people could also give their opinion on paper, in workshops, at stands, or at round tables. We will hear two real examples in a moment.
 **ANNA:** Let's make this concrete. What kind of thing could be simplified?
 **TOM:** Imagine a form that asks for information the State already has. Why fill it in again?
@@ -67,9 +67,9 @@
 **ANNA:** The Water Management Administration is preparing the fourth plan, for 2027 to 2033. It is preparing it together with citizens, communes, businesses and experts.
 **TOM:** And how can ordinary people join in?
 **ANNA:** Through public consultations, and through round tables, seminars and workshops in different places. You can follow all of it on the platform.
-**TOM:** So simplifying together is not only about forms. It is also about shaping public decisions together, online, on paper, or around a table.
+**TOM:** So simplifying together is not only about forms: it is also about shaping public decisions together, online, on paper, or around a table.
 **ANNA:** Let's talk about why this approach matters, beyond the paperwork itself.
-**TOM:** First, it saves time. Simpler procedures mean less stress, for citizens and for staff.
+**TOM:** First, it saves time: simpler procedures mean less stress, for citizens and for staff.
 **ANNA:** Second, it builds trust. When the State listens, people feel respected, and feel part of things.
 **TOM:** And third, it is democratic, in a quiet, everyday way.
 **ANNA:** Yes. Democracy is not only voting every few years. It is also helping to shape the services you use.
@@ -81,7 +81,7 @@
 **ANNA:** Second, visit the platform and share your suggestion in your own language, or join a workshop or a round table when a project offers one.
 **TOM:** Third, if you like, follow it through one or more phases, and help co-create the solution.
 **ANNA:** And fourth, remember: even a small idea can make a real difference for many people.
-**TOM:** Let's bring it all together. What should people remember about the platform?
+**TOM:** Let's bring it all together: what should people remember about the platform?
 **ANNA:** First, it is a platform where citizens and businesses help simplify the State's procedures, online and offline.
 **TOM:** Second, it is run by the Ministry for Digitalisation, and launched in 2022, as part of "Einfach Lëtzebuerg".
 **ANNA:** Third, you can submit ideas, join one phase or many, in any of the four languages.
