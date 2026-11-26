@@ -72,13 +72,19 @@
 
   .progress { height: 8px; background: #EEE; border-radius: 6px; overflow: hidden; margin-top: 10px; max-width: 360px; }
   .progress div { height: 100%; background: var(--green); border-radius: 6px; transition: width .3s; }
-  .fin { display: inline-flex; align-items: center; gap: 8px; cursor: pointer; font-weight: 600; }
-  .fin input { width: 18px; height: 18px; accent-color: var(--green); cursor: pointer; }
-  .fin.yes { color: var(--green); }
-  .fin.no { color: var(--text-3); font-weight: 500; }
+  th.lc, td.lc { text-align: center; width: 62px; padding-left: 4px; padding-right: 4px; }
+  th.lc { text-transform: none; letter-spacing: 0; font-weight: 600; font-size: .75rem; }
+  th.grp { text-align: center; border-bottom: 2px solid var(--border); padding-bottom: 4px; color: var(--dark); }
+  td.lc.first, th.lc.first { border-left: 1px solid #EEE; }
+  .fin { display: inline-flex; flex-direction: column; align-items: center; gap: 2px; cursor: pointer; }
+  .fin input { width: 19px; height: 19px; accent-color: var(--green); cursor: pointer; margin: 0; }
+  .fin small { font-size: .72rem; color: var(--green); white-space: nowrap; min-height: 1em; }
   tr.done td.title { color: var(--text-2); }
+  tr.done td.title::after { content: ' ✓'; color: var(--green); font-weight: 700; }
+  .counts { display: flex; gap: 14px; flex-wrap: wrap; margin-top: 8px; font-size: .85rem; color: var(--text-2); }
+  .counts b { color: var(--dark); font-variant-numeric: tabular-nums; }
   td.note input { width: 100%; min-width: 180px; }
-  .saved { font-size: .75rem; color: var(--green); margin-left: 6px; opacity: 0; transition: opacity .3s; }
+  .saved { font-size: .75rem; color: var(--green); margin-left: 6px; opacity: 0; transition: opacity .3s; white-space: nowrap; }
   .saved.show { opacity: 1; }
   .saved.bad { color: var(--red); }
   .date { color: var(--text-3); white-space: nowrap; font-size: .85rem; }
@@ -90,7 +96,7 @@
 
   @media (max-width: 760px) {
     .tiles { grid-template-columns: repeat(2, 1fr); }
-    .bar { gap: 10px; } .brand { font-size: .9rem; }
+    .bar { gap: 10px; } .brand { display: none; }
     nav button { padding: 8px 8px; }
     .hide-sm { display: none; }
   }
@@ -180,8 +186,20 @@
         <h1>Episodes</h1>
         <p class="sub" id="fin-sum"></p>
         <div class="progress"><div id="fin-bar" style="width:0"></div></div>
+        <div class="counts" id="fin-counts"></div>
       </div>
       <div class="controls">
+        <select id="fin-part" aria-label="Script or audio">
+          <option value="both">Script and audio</option>
+          <option value="script">Script</option>
+          <option value="audio">Audio</option>
+        </select>
+        <select id="fin-lang" aria-label="Language">
+          <option value="all">All languages</option>
+          <option value="en">English</option>
+          <option value="fr">French</option>
+          <option value="de">German</option>
+        </select>
         <div class="seg" id="fin-filter">
           <button data-f="all" class="on">All</button>
           <button data-f="todo">Not finished</button>
@@ -193,13 +211,16 @@
     <div class="card">
       <div class="scroll">
         <table>
-          <thead><tr>
-            <th>#</th><th>Episode</th><th>Review page</th><th>Status</th><th class="hide-sm">Finished on</th><th>Note</th>
-          </tr></thead>
+          <thead>
+            <tr><th></th><th></th><th class="hide-sm"></th><th colspan="2" class="grp">EN</th><th colspan="2" class="grp">FR</th><th colspan="2" class="grp">DE</th><th></th></tr>
+            <tr><th>#</th><th>Episode</th><th class="hide-sm">Review page</th>
+              <th class="lc first">Script</th><th class="lc">Audio</th><th class="lc first">Script</th><th class="lc">Audio</th><th class="lc first">Script</th><th class="lc">Audio</th>
+              <th>Note</th></tr>
+          </thead>
           <tbody id="ep-body"></tbody>
         </table>
       </div>
-      <p class="sub">"Finished" means the partner's review has come back and the changes are made. This status is only visible here; it does not change the public site.</p>
+      <p class="sub">Tick <b>Script</b> when the text in that language is final (partner review back, changes made) and <b>Audio</b> when the recording in that language is checked (voices, pronunciation). Each tick records its date. A ✓ after the title means script and audio are finished in all three languages. This status is only visible here; it does not change the public site.</p>
     </div>
   </section>
 </main>
@@ -326,6 +347,7 @@
 
   function niceMax(v) {
     if (v <= 4) return 4;
+    if (v <= 20) return Math.ceil(v / 4) * 4;
     var p = Math.pow(10, Math.floor(Math.log10(v))), f = v / p;
     var n = f <= 1 ? 1 : f <= 2 ? 2 : f <= 2.5 ? 2.5 : f <= 5 ? 5 : 10;
     return n * p;
@@ -404,14 +426,26 @@
   });
 
   // ── Episodes ───────────────────────────
-  function st(key) { return D.status[key] || { finished: false, finishedOn: '', note: '' }; }
+  var LANGS = ['en', 'fr', 'de'], LNAME = { en: 'English', fr: 'French', de: 'German' };
+  var PARTS = ['script', 'audio'], PNAME = { script: 'script', audio: 'audio' };
+  function st(key) { return D.status[key] || { note: '' }; }
+  function item(key, l, part) { var s = st(key); return (s[l] && s[l][part]) || {}; }
+  // Is this episode finished for the chosen language(s) and part(s)?
+  function isDone(key, lang, part) {
+    var ls = lang === 'all' ? LANGS : [lang], ps = part === 'both' ? PARTS : [part];
+    return ls.every(function (l) { return ps.every(function (p) { return !!item(key, l, p).finished; }); });
+  }
   function renderEpisodes() {
-    var q = $('q').value.trim().toLowerCase();
-    var nDone = D.episodes.filter(function (e) { return st(e.key).finished; }).length;
-    $('fin-sum').textContent = nDone + ' of ' + D.episodes.length + ' episodes finished';
-    $('fin-bar').style.width = (D.episodes.length ? nDone / D.episodes.length * 100 : 0) + '%';
+    var q = $('q').value.trim().toLowerCase(), lang = $('fin-lang').value, part = $('fin-part').value, N = D.episodes.length;
+    var nAll = D.episodes.filter(function (e) { return isDone(e.key, 'all', 'both'); }).length, nItems = 0;
+    function cnt(l, p) { var n = D.episodes.filter(function (e) { return isDone(e.key, l, p); }).length; nItems += n; return n; }
+    $('fin-counts').innerHTML = LANGS.map(function (l) {
+      return '<span>' + l.toUpperCase() + ': script <b>' + cnt(l, 'script') + '</b> · audio <b>' + cnt(l, 'audio') + '</b></span>';
+    }).join('') + '<span>(of ' + N + ')</span>';
+    $('fin-sum').textContent = nAll + ' of ' + N + ' episodes fully finished (script and audio, all three languages)';
+    $('fin-bar').style.width = (N ? nItems / (N * 6) * 100 : 0) + '%';
     var rows = D.episodes.filter(function (e) {
-      var f = st(e.key).finished;
+      var f = isDone(e.key, lang, part);
       if (finFilter === 'done' && !f) return false;
       if (finFilter === 'todo' && f) return false;
       if (q && (e.title + ' ' + e.title_fr + ' ' + e.key + ' ' + e.number + ' ' + st(e.key).note).toLowerCase().indexOf(q) < 0) return false;
@@ -419,16 +453,21 @@
     });
     $('ep-body').innerHTML = rows.length ? rows.map(function (e) {
       var s = st(e.key);
-      return '<tr class="' + (s.finished ? 'done' : '') + '" data-key="' + esc(e.key) + '">' +
+      return '<tr class="' + (isDone(e.key, 'all', 'both') ? 'done' : '') + '" data-key="' + esc(e.key) + '">' +
         '<td class="n">' + e.number + '</td>' +
         '<td class="title">' + esc(e.title) + '</td>' +
-        '<td>' + (e.review ? '<a href="' + esc(e.review) + '" target="_blank" rel="noopener">Open ↗</a>' : '<span class="date">—</span>') + '</td>' +
-        '<td><label class="fin ' + (s.finished ? 'yes' : 'no') + '"><input type="checkbox" class="f-chk"' + (s.finished ? ' checked' : '') + '>' +
-          (s.finished ? 'Finished' : 'Not finished') + '</label><span class="saved"></span></td>' +
-        '<td class="date hide-sm">' + (s.finishedOn ? niceDay(s.finishedOn) : '') + '</td>' +
-        '<td class="note"><input type="text" class="f-note" maxlength="1000" placeholder="Add a note" value="' + esc(s.note) + '"></td>' +
+        '<td class="hide-sm">' + (e.review ? '<a href="' + esc(e.review) + '" target="_blank" rel="noopener">Open ↗</a>' : '<span class="date">—</span>') + '</td>' +
+        LANGS.map(function (l) {
+          return PARTS.map(function (p, i) {
+            var v = item(e.key, l, p), name = LNAME[l] + ' ' + PNAME[p];
+            return '<td class="lc' + (i ? '' : ' first') + '"><label class="fin" title="' + name + (v.finished ? ' finished on ' + niceDay(v.finishedOn) : ' not finished') + '">' +
+              '<input type="checkbox" class="f-chk" data-lang="' + l + '" data-part="' + p + '" aria-label="' + name + ' finished"' + (v.finished ? ' checked' : '') + '>' +
+              '<small>' + (v.finished && v.finishedOn ? shortDay(v.finishedOn) : '') + '</small></label></td>';
+          }).join('');
+        }).join('') +
+        '<td class="note"><input type="text" class="f-note" maxlength="1000" placeholder="Add a note" value="' + esc(s.note) + '"><span class="saved"></span></td>' +
         '</tr>';
-    }).join('') : '<tr><td colspan="6" class="empty">No episodes match.</td></tr>';
+    }).join('') : '<tr><td colspan="10" class="empty">No episodes match.</td></tr>';
   }
 
   function saveStatus(key, patch, tr) {
@@ -454,7 +493,7 @@
     var tr = ev.target.closest('tr'); if (!tr) return;
     var key = tr.getAttribute('data-key');
     if (ev.target.classList.contains('f-chk')) {
-      saveStatus(key, { finished: ev.target.checked }, tr).then(function (ok) {
+      saveStatus(key, { lang: ev.target.getAttribute('data-lang'), part: ev.target.getAttribute('data-part'), finished: ev.target.checked }, tr).then(function (ok) {
         if (ok) { renderEpisodes(); flash(key, 'Saved'); } else ev.target.checked = !ev.target.checked;
       });
     } else if (ev.target.classList.contains('f-note')) {
@@ -478,6 +517,8 @@
     });
   });
   $('q').addEventListener('input', renderEpisodes);
+  $('fin-lang').addEventListener('change', renderEpisodes);
+  $('fin-part').addEventListener('change', renderEpisodes);
 
   load();
 })();

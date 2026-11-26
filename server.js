@@ -136,8 +136,30 @@ async function handleHit(req, res) {
 }
 
 // ── Episode status (admin) ───────────────────────────────
-// admin.episodes[key] = { finished: true|false, finishedOn: "YYYY-MM-DD", note: "" }
+// admin.episodes[key] = { note: "", en: { script: { finished, finishedOn }, audio: { finished, finishedOn } }, fr: {…}, de: {…} }
+// finishedOn = "YYYY-MM-DD". Older formats are read as: one status for the episode / per language → applies to script and audio.
+const PARTS = ['script', 'audio'];
 const adminData = readJson(ADMIN_FILE, null) || { episodes: {} };
+function epStatus(key) {
+  const cur = adminData.episodes[key] || {};
+  const out = { note: typeof cur.note === 'string' ? cur.note : '' };
+  const legacyEp = typeof cur.finished === 'boolean' ? { finished: cur.finished, finishedOn: cur.finishedOn || '' } : null;
+  LANGS.forEach((l) => {
+    const cl = cur[l] || null;
+    const legacyLang = cl && typeof cl.finished === 'boolean' ? { finished: cl.finished, finishedOn: cl.finishedOn || '' } : null;
+    out[l] = {};
+    PARTS.forEach((part) => {
+      const v = (cl && cl[part]) || legacyLang || legacyEp;
+      out[l][part] = { finished: !!(v && v.finished), finishedOn: (v && v.finished && v.finishedOn) || '' };
+    });
+  });
+  return out;
+}
+function allStatus() {
+  const o = {};
+  EPISODES.forEach((e) => { o[e.key] = epStatus(e.key); });
+  return o;
+}
 function saveAdmin() { writeJsonAtomic(ADMIN_FILE, adminData); }
 
 // ── Admin login ──────────────────────────────────────────
@@ -214,7 +236,7 @@ async function handleAdminApi(req, res, p) {
     return sendJson(res, 200, {
       today: today(), since: stats.since, days: stats.days,
       episodes: EPISODES.map((e) => Object.assign({}, e, { review: REVIEW[e.key] || null })),
-      status: adminData.episodes
+      status: allStatus()
     });
   }
   if (req.method === 'POST' && p === '/api/admin/status') {
@@ -222,11 +244,13 @@ async function handleAdminApi(req, res, p) {
     let m = null;
     try { m = JSON.parse(await readBody(req, 8192)); } catch (e) { return sendJson(res, 400, { error: 'json' }); }
     if (!m || !EP_KEYS.has(m.key)) return sendJson(res, 400, { error: 'key' });
-    const cur = adminData.episodes[m.key] || { finished: false, finishedOn: '', note: '' };
+    const cur = epStatus(m.key);
     if (typeof m.finished === 'boolean') {
-      if (m.finished && !cur.finished) cur.finishedOn = today();
-      if (!m.finished) cur.finishedOn = '';
-      cur.finished = m.finished;
+      if (!LANGS.includes(m.lang) || !PARTS.includes(m.part)) return sendJson(res, 400, { error: 'lang/part' });
+      const st = cur[m.lang][m.part];
+      if (m.finished && !st.finished) st.finishedOn = today();
+      if (!m.finished) st.finishedOn = '';
+      st.finished = m.finished;
     }
     if (typeof m.note === 'string') cur.note = m.note.slice(0, 1000);
     adminData.episodes[m.key] = cur;
