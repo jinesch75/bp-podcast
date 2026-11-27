@@ -55,7 +55,7 @@ Site: static `index.html` + `app.js` + `episodes_data.js`, served by `server.js`
 - `.lu` addresses always as letters: EN "dot L U", FR "point L U", DE "Punkt L U". cae.lu = "C-A-E dot L-U".
 - Dates or years said wrongly: write them out in `pronunciation.py` (see the SIMPA/KJT examples).
 - Settled by Jacques's ear: OKaJu "OKA-JUU", GERO "Jero", Howald "HO-WALD", Zukunftskeess as in the German version,
-  lycée "leessay", Maison de l'Orientation as written. A new hard name → A/B test, Jacques chooses.
+  lycée "leessay", Maison de l'Orientation as written, Findel "Finndel" (EN). A new hard name → A/B test, Jacques chooses.
 
 ## Partner review
 

@@ -6,7 +6,7 @@ const EPISODES = [
   "title": "Luxembourg Air Rescue – Rescue Helicopters and Repatriation",
   "description": "When every minute counts, a rescue helicopter brings a doctor straight to the scene. Discover Luxembourg Air Rescue (LAR): how its helicopters are sent through the emergency number 112, who is on board, how members are brought home from abroad after a medical emergency, and what the individual and family memberships cover.",
   "audio": "../../podcast_lar.mp3",
-  "duration": 616.1,
+  "duration": 615.65,
   "topics": [
    "What LAR is",
    "Rescue helicopters and the 112",
@@ -66,467 +66,467 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "Today we talk about this organisation: its rescue helicopters, its ambulance aircraft, and what it can do for you when you are ill or injured far from home.",
-    "t": 47.99
+    "t": 48.01
    },
    {
     "speaker": "Tom",
     "text": "LAR is a non-profit association.",
-    "t": 58.37
+    "t": 58.39
    },
    {
     "speaker": "Tom",
     "text": "It was founded in 1988 by a group of firefighters, and today it flies rescue helicopters and ambulance aircraft, day and night, all year round, in Luxembourg, in the Greater Region and around the world.",
-    "t": 61.01
+    "t": 61.03
    },
    {
     "speaker": "Anna",
     "text": "Is LAR a public service run by the State, or is it something different?",
-    "t": 73.83
+    "t": 73.85
    },
    {
     "speaker": "Tom",
     "text": "It is something different: LAR describes itself as a private non-profit organisation of public utility, which means that it works for the common good.",
-    "t": 78.83
+    "t": 78.85
    },
    {
     "speaker": "Tom",
     "text": "It is not an insurance company: it relies on the fees of its members and on donations, and it has well over one hundred thousand members.",
-    "t": 88.9
+    "t": 88.92
    },
    {
     "speaker": "Anna",
     "text": "Let's start with the helicopters: when there is a serious accident in Luxembourg, you do not call the helicopter yourself.",
-    "t": 97.19
+    "t": 97.21
    },
    {
     "speaker": "Anna",
     "text": "You call the emergency number 112, and the emergency control centre decides whether the helicopter is the best help, depending on how serious the situation is, how easy the place is to reach, and which teams are available.",
-    "t": 104.95
+    "t": 104.97
    },
    {
     "speaker": "Tom",
     "text": "The emergency number and the fire and rescue services have their own episode in this podcast.",
-    "t": 119.32
+    "t": 119.34
    },
    {
     "speaker": "Tom",
     "text": "Once the decision is made, how quickly does the helicopter take off?",
-    "t": 124.84
+    "t": 124.86
    },
    {
     "speaker": "Anna",
     "text": "Very quickly: the crew is in the air about two minutes after the alert.",
-    "t": 129.06
+    "t": 129.08
    },
    {
     "speaker": "Anna",
     "text": "The helicopter bases are on permanent standby, and LAR says that any place in Luxembourg can be reached in about ten minutes.",
-    "t": 133.3
+    "t": 133.32
    },
    {
     "speaker": "Tom",
     "text": "And who is on board when the helicopter lands at the scene of an accident?",
-    "t": 140.98
+    "t": 141
    },
    {
     "speaker": "Anna",
     "text": "Next to the pilot, every helicopter carries an emergency doctor and an intensive care nurse from LAR.",
-    "t": 145.31
+    "t": 145.33
    },
    {
     "speaker": "Anna",
     "text": "During the flight, the nurse also assists the pilot.",
-    "t": 152.29
+    "t": 152.31
    },
    {
     "speaker": "Anna",
     "text": "So the treatment starts right where the accident happened.",
-    "t": 155.64
+    "t": 155.66
    },
    {
     "speaker": "Tom",
     "text": "What kind of emergencies does the helicopter fly to, most of the time?",
-    "t": 159.03
+    "t": 159.05
    },
    {
     "speaker": "Anna",
     "text": "Mainly road accidents, accidents during leisure activities, and strokes.",
-    "t": 162.91
+    "t": 162.93
    },
    {
     "speaker": "Anna",
     "text": "A seriously injured patient is flown to the hospital that is best equipped to treat them, and the medical team then hands the patient over to the hospital staff.",
-    "t": 167.17
+    "t": 167.19
    },
    {
     "speaker": "Tom",
     "text": "The helicopters also carry patients from one hospital to another, for example within the Greater Region, or from a hospital in Luxembourg to a specialist clinic abroad.",
-    "t": 176.91
+    "t": 176.93
    },
    {
     "speaker": "Tom",
     "text": "And for many years, one helicopter has also flown emergency missions in two neighbouring German states, Saarland and Rhineland-Palatinate, under agreements with them.",
-    "t": 186.48
+    "t": 186.5
    },
    {
     "speaker": "Anna",
     "text": "What happens when the place is very hard to reach, for example a cliff or a steep forest?",
-    "t": 197.66
+    "t": 197.68
    },
    {
     "speaker": "Tom",
     "text": "Then the helicopter can use a rescue hoist, a cable that lowers a rescuer and lifts the patient up.",
-    "t": 202.78
+    "t": 202.8
    },
    {
     "speaker": "Tom",
     "text": "LAR trains for this together with the specialists of the fire and rescue services, and they have already worked together on real rescues on cliffs.",
-    "t": 208.51
+    "t": 208.53
    },
    {
     "speaker": "Anna",
     "text": "Here is a question that many people ask: does the helicopter only come for members of LAR?",
-    "t": 217.85
+    "t": 217.87
    },
    {
     "speaker": "Tom",
     "text": "No, it does not: LAR is part of the emergency system in Luxembourg, so it also carries out rescue missions for people who are not members.",
-    "t": 224.13
+    "t": 224.15
    },
    {
     "speaker": "Tom",
     "text": "The membership fees help to keep this service available for everyone.",
-    "t": 234.03
+    "t": 234.05
    },
    {
     "speaker": "Anna",
     "text": "And if a helicopter lands close to where I am, what should I do?",
-    "t": 238.09
+    "t": 238.11
    },
    {
     "speaker": "Tom",
     "text": "The website gives some simple safety rules.",
-    "t": 242.13
+    "t": 242.15
    },
    {
     "speaker": "Tom",
     "text": "Never walk towards the helicopter without permission from the crew, keep a safe distance, and stay where the pilot can see you.",
-    "t": 244.55
+    "t": 244.57
    },
    {
     "speaker": "Tom",
     "text": "Crouch down when it comes close, and hold on to loose things such as scarves or umbrellas.",
-    "t": 251.66
+    "t": 251.68
    },
    {
     "speaker": "Anna",
     "text": "That is good to know, and it brings us to the second big activity, bringing people home from abroad.",
-    "t": 257.22
+    "t": 257.24
    },
    {
     "speaker": "Anna",
     "text": "Imagine that you fall seriously ill on holiday, or that you are badly injured during a business trip: what can LAR do then?",
-    "t": 263.27
+    "t": 263.29
    },
    {
     "speaker": "Tom",
     "text": "If you are a member, LAR can bring you home.",
-    "t": 271.24
+    "t": 271.26
    },
    {
     "speaker": "Tom",
     "text": "It organises the whole journey, from the hospital bed abroad to a hospital bed at home or near your home.",
-    "t": 273.94
+    "t": 273.96
    },
    {
     "speaker": "Tom",
     "text": "This is called a medical repatriation, and it is possible after holidays, studies and business trips.",
-    "t": 280
+    "t": 280.02
    },
    {
     "speaker": "Anna",
     "text": "What is the very first thing to do in a situation like that?",
-    "t": 285.9
+    "t": 285.92
    },
    {
     "speaker": "Tom",
     "text": "Call the alert centre of LAR.",
-    "t": 289.54
+    "t": 289.56
    },
    {
     "speaker": "Tom",
     "text": "Its number is on the membership card, and the centre is open day and night, every day of the year.",
-    "t": 291.55
+    "t": 291.57
    },
    {
     "speaker": "Tom",
     "text": "The team asks where you are, what happened, and how to reach the doctor who is treating you.",
-    "t": 296.85
+    "t": 296.87
    },
    {
     "speaker": "Anna",
     "text": "And who decides whether the person can travel, and in what way?",
-    "t": 301.66
+    "t": 301.68
    },
    {
     "speaker": "Tom",
     "text": "A doctor from LAR speaks directly with the doctor abroad.",
-    "t": 305.62
+    "t": 305.64
    },
    {
     "speaker": "Tom",
     "text": "Together they look at the treatment on site and the risks of the journey, and then LAR's medical team decides whether, when and how the patient can travel safely.",
-    "t": 309.3
+    "t": 309.32
    },
    {
     "speaker": "Anna",
     "text": "So the journey home does not always mean an ambulance plane?",
-    "t": 319.57
+    "t": 319.59
    },
    {
     "speaker": "Tom",
     "text": "No, not always: depending on the patient, it can be a road ambulance, a normal scheduled flight with or without a medical escort, a helicopter, or one of LAR's own ambulance jets, with a doctor and a nurse on board.",
-    "t": 322.96
+    "t": 322.98
    },
    {
     "speaker": "Anna",
     "text": "And for a member, how much does all of this cost?",
-    "t": 337.41
+    "t": 337.43
    },
    {
     "speaker": "Tom",
     "text": "For members, LAR covers the costs of the repatriation from abroad, within the limits of its general conditions.",
-    "t": 340.67
+    "t": 340.69
    },
    {
     "speaker": "Tom",
     "text": "And there are some conditions that are worth knowing before you travel.",
-    "t": 347.67
+    "t": 347.69
    },
    {
     "speaker": "Anna",
     "text": "Then let's go through them together: which ones are the most important?",
-    "t": 351.44
+    "t": 351.46
    },
    {
     "speaker": "Tom",
     "text": "First, the cover starts one month after LAR receives the first membership fee.",
-    "t": 356.28
+    "t": 356.3
    },
    {
     "speaker": "Tom",
     "text": "Second, a stay abroad must not last more than a hundred days in a row, except with the plan for young people.",
-    "t": 361.29
+    "t": 361.31
    },
    {
     "speaker": "Tom",
     "text": "And third, a repatriation is not possible from countries at war or in serious unrest, when the safety of the patient and the crew cannot be guaranteed.",
-    "t": 367.39
+    "t": 367.41
    },
    {
     "speaker": "Anna",
     "text": "Are there also medical situations that are not covered at all?",
-    "t": 376.72
+    "t": 376.74
    },
    {
     "speaker": "Tom",
     "text": "Yes, for example a minor illness or injury that can be treated well on the spot, complications after a planned operation abroad, or an illness that was already known before you left and was likely to need a repatriation.",
-    "t": 380.71
+    "t": 380.73
    },
    {
     "speaker": "Tom",
     "text": "The full list is in the general conditions on the website.",
-    "t": 393.33
+    "t": 393.35
    },
    {
     "speaker": "Anna",
     "text": "Now, how do you become a member?",
-    "t": 396.52
+    "t": 396.54
    },
    {
     "speaker": "Anna",
     "text": "There are two main kinds of membership: an individual membership for one person, and a family membership.",
-    "t": 398.55
+    "t": 398.57
    },
    {
     "speaker": "Anna",
     "text": "You join online on the website, and you pay a fee once a year; the amount is shown on the website.",
-    "t": 405.31
+    "t": 405.33
    },
    {
     "speaker": "Tom",
     "text": "Who exactly counts as family in a family membership?",
-    "t": 411.66
+    "t": 411.68
    },
    {
     "speaker": "Anna",
     "text": "A couple who officially live at the same address, married or not, and the children of the household up to the age of eighteen.",
-    "t": 414.7
+    "t": 414.72
    },
    {
     "speaker": "Anna",
     "text": "There is also a cheaper plan for young people between eighteen and twenty-five, and a membership for companies that want to protect their employees abroad.",
-    "t": 422.4
+    "t": 422.42
    },
    {
     "speaker": "Tom",
     "text": "Can cross-border workers become members too, or only people who live in Luxembourg?",
-    "t": 430.94
+    "t": 430.96
    },
    {
     "speaker": "Anna",
     "text": "What counts is your main residence: you can join if you live in Luxembourg or in one of several European countries, among them France, Belgium and Germany.",
-    "t": 435.27
+    "t": 435.29
    },
    {
     "speaker": "Anna",
     "text": "The full list of countries is on the website.",
-    "t": 444.82
+    "t": 444.84
    },
    {
     "speaker": "Tom",
     "text": "Do I need to carry my membership card with me all the time?",
-    "t": 447.55
+    "t": 447.57
    },
    {
     "speaker": "Anna",
     "text": "No, you do not, because the alert centre can find you with your personal details.",
-    "t": 450.33
+    "t": 450.35
    },
    {
     "speaker": "Anna",
     "text": "But here is one piece of advice from us: before you travel, save the number of the alert centre in your phone.",
-    "t": 454.94
+    "t": 454.96
    },
    {
     "speaker": "Anna",
     "text": "And remember that the membership must be renewed every year.",
-    "t": 461.85
+    "t": 461.87
    },
    {
     "speaker": "Tom",
     "text": "Is the membership fee a kind of donation that I can deduct from my taxes?",
-    "t": 465.71
+    "t": 465.73
    },
    {
     "speaker": "Anna",
     "text": "In principle, it is not, because the fee is not a donation.",
-    "t": 469.89
+    "t": 469.91
    },
    {
     "speaker": "Anna",
     "text": "Donations go to the Luxembourg Air Rescue Foundation, which supports LAR with money and technical equipment, and a donation like that can be deducted.",
-    "t": 473.55
+    "t": 473.57
    },
    {
     "speaker": "Tom",
     "text": "Besides rescue and repatriation, LAR also helps in humanitarian crises, for example after earthquakes, together with the Ministry of Foreign and European Affairs.",
-    "t": 483.47
+    "t": 483.49
    },
    {
     "speaker": "Tom",
     "text": "It describes itself as an official partner of the United Nations and of NATO.",
-    "t": 495.84
+    "t": 495.86
    },
    {
     "speaker": "Tom",
     "text": "And its aircraft also carry organs for transplant centres in France.",
-    "t": 500.17
+    "t": 500.19
    },
    {
     "speaker": "Anna",
     "text": "And for people who would like to learn first aid, is there something on offer as well?",
-    "t": 504.1
+    "t": 504.12
    },
    {
     "speaker": "Tom",
     "text": "Yes, there is the LAR Academy, a training centre at the airport in Findel.",
-    "t": 508.83
+    "t": 508.85
    },
    {
     "speaker": "Tom",
     "text": "It offers first aid courses and other training for individuals, for groups and associations, and for companies and professionals.",
-    "t": 513.54
+    "t": 513.56
    },
    {
     "speaker": "Tom",
     "text": "LAR also offers guided tours of its base, and it sometimes opens its doors to the public.",
-    "t": 521.25
+    "t": 520.81
    },
    {
     "speaker": "Anna",
     "text": "You find all of this on the website, lar dot l-u, which exists in English, French and German.",
-    "t": 526.92
+    "t": 526.48
    },
    {
     "speaker": "Anna",
     "text": "So, what should our listeners remember from this episode?",
-    "t": 533.02
+    "t": 532.58
    },
    {
     "speaker": "Tom",
     "text": "First, in an emergency in Luxembourg, call 112: the helicopter comes when it is the best help, whether you are a member or not.",
-    "t": 536.15
+    "t": 535.71
    },
    {
     "speaker": "Tom",
     "text": "Second, when they are abroad, members call the alert centre of LAR, and an LAR doctor decides how to bring them home safely.",
-    "t": 544.8
+    "t": 544.36
    },
    {
     "speaker": "Anna",
     "text": "And third, check your membership and its conditions before you travel.",
-    "t": 553.02
+    "t": 552.58
    },
    {
     "speaker": "Anna",
     "text": "Because help from the sky is only really useful when you know how to ask for it.",
-    "t": 557.54
+    "t": 557.1
    },
    {
     "speaker": "Anna",
     "text": "That was our episode about Luxembourg Air Rescue, the air rescue service with helicopters and ambulance aircraft.",
-    "t": 562.21
+    "t": 561.77
    },
    {
     "speaker": "Anna",
     "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
-    "t": 569.29
+    "t": 568.85
    },
    {
     "speaker": "Anna",
     "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
-    "t": 579.27
+    "t": 578.83
    },
    {
     "speaker": "Anna",
     "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
-    "t": 597.55
+    "t": 597.11
    },
    {
     "speaker": "Anna",
     "text": "And the activities are free of charge.",
-    "t": 604.3
+    "t": 603.86
    },
    {
     "speaker": "Anna",
     "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
-    "t": 606.5
+    "t": 606.06
    },
    {
     "speaker": "Tom",
     "text": "Thank you, everyone.",
-    "t": 611.19
+    "t": 610.75
    },
    {
     "speaker": "Tom",
     "text": "Take care, and see you next time!",
-    "t": 612.36
+    "t": 611.92
    },
    {
     "speaker": "Anna",
     "text": "Thank you so much for listening.",
-    "t": 614.5
+    "t": 614.06
    }
   ],
   "questions": [
@@ -1786,242 +1786,242 @@ const EPISODES = [
    {
     "speaker": "Tom",
     "text": "D'LAR ass eng Associatioun ouni Gewënnzweck. Si gouf 1988 vun enger Grupp vu Pompjeeë gegrënnt, an haut flitt si Rettungshelikopteren an Ambulanzfligeren, Dag an Nuecht, dat ganzt Joer iwwer, zu Lëtzebuerg, an der Groussregioun an op der ganzer Welt.",
-    "t": 58.37
+    "t": 58.39
    },
    {
     "speaker": "Anna",
     "text": "Ass d'LAR en ëffentlechen Déngscht, deen de Staat féiert, oder ass si eppes anescht?",
-    "t": 73.83
+    "t": 73.85
    },
    {
     "speaker": "Tom",
     "text": "Si ass eppes anescht: D'LAR beschreift sech als privat Organisatioun ouni Gewënnzweck, déi dem Allgemengwuel déngt. Si ass keng Versécherung: Si lieft vun de Cotisatioune vun hire Memberen a vu Spenden, a si huet wäit iwwer honnertdausend Memberen.",
-    "t": 78.83
+    "t": 78.85
    },
    {
     "speaker": "Anna",
     "text": "Fänke mir mat den Helikopteren un: Wann et zu Lëtzebuerg e schwéieren Accident gëtt, rifft een den Helikopter net selwer. Een rifft d'Noutruffnummer 112 un, an d'Noutruffzentral decidéiert, ob den Helikopter déi bescht Hëllef ass, jee nodeem wéi eescht d'Situatioun ass, wéi gutt een op d'Plaz kënnt a wéi eng Ekippen disponibel sinn.",
-    "t": 97.19
+    "t": 97.21
    },
    {
     "speaker": "Tom",
     "text": "D'Noutruffnummer an d'Pompjeeën- a Rettungsdéngschter hunn hir eegen Episod an dësem Podcast. Wann d'Decisioun gefall ass, wéi séier hieft den Helikopter dann of?",
-    "t": 119.32
+    "t": 119.34
    },
    {
     "speaker": "Anna",
     "text": "Ganz séier: D'Crew ass ongeféier zwou Minutten no der Alarméierung an der Loft. D'Helikopterbase sinn ëmmer asazbereet, an no der LAR kann een all Plaz zu Lëtzebuerg an ongeféier zéng Minutten erreechen.",
-    "t": 129.06
+    "t": 129.08
    },
    {
     "speaker": "Tom",
     "text": "A wien ass u Bord, wann den Helikopter op enger Accidentsplaz landt?",
-    "t": 140.98
+    "t": 141
    },
    {
     "speaker": "Anna",
     "text": "Nieft dem Pilot huet all Helikopter en Noutdokter an eng Intensivpfleegekraaft vun der LAR u Bord. Wärend dem Fluch ënnerstëtzt d'Pfleegekraaft och de Pilot. D'Behandlung fänkt also direkt do un, wou den Accident geschitt ass.",
-    "t": 145.31
+    "t": 145.33
    },
    {
     "speaker": "Tom",
     "text": "Fir wéi eng Zort vun Noutfäll flitt den Helikopter meeschtens?",
-    "t": 159.03
+    "t": 159.05
    },
    {
     "speaker": "Anna",
     "text": "Virun allem fir Verkéiersaccidenter, Accidenter an der Fräizäit a Schlaganfäll. E schwéier blesséierte Patient gëtt an d'Spidol geflunn, dat am beschten ausgestatt ass, fir hien ze behandelen, an d'medezinescht Team iwwergëtt en do dem Spidolspersonal.",
-    "t": 162.91
+    "t": 162.93
    },
    {
     "speaker": "Tom",
     "text": "D'Helikopteren bréngen och Patiente vun engem Spidol an en anert, zum Beispill bannent der Groussregioun, oder vun engem Spidol zu Lëtzebuerg an eng Spezialklinik am Ausland. An zënter ville Joren flitt een Helikopter och Noutasätz an zwee däitschen Nopeschbundeslänner, am Saarland an a Rheinland-Pfalz, op Basis vun Accorde mat hinnen.",
-    "t": 176.91
+    "t": 176.93
    },
    {
     "speaker": "Anna",
     "text": "Wat geschitt, wann d'Plaz ganz schwéier z'erreechen ass, zum Beispill e Fiels oder e steile Bësch?",
-    "t": 197.66
+    "t": 197.68
    },
    {
     "speaker": "Tom",
     "text": "Dann kann den Helikopter eng Rettungswan asetzen, e Seel, un deem e Retter erofgelooss an de Patient eropgezu gëtt. D'LAR übt dat zesumme mat de Spezialiste vun de Pompjeeën- a Rettungsdéngschter, a si hu scho bei richtege Rettungen u Fielsen zesummegeschafft.",
-    "t": 202.78
+    "t": 202.8
    },
    {
     "speaker": "Anna",
     "text": "Hei ass eng Fro, déi vill Leit sech stellen: Kënnt den Helikopter nëmme fir Membere vun der LAR?",
-    "t": 217.85
+    "t": 217.87
    },
    {
     "speaker": "Tom",
     "text": "Nee, guer net: D'LAR ass Deel vum Rettungssystem zu Lëtzebuerg, si flitt also och Rettungsasätz fir Leit, déi keng Membere sinn. D'Cotisatioune vun de Membere hëllefen, dësen Déngscht fir jiddereen disponibel ze halen.",
-    "t": 224.13
+    "t": 224.15
    },
    {
     "speaker": "Anna",
     "text": "A wann en Helikopter no bei mir landt, wat soll ech dann maachen?",
-    "t": 238.09
+    "t": 238.11
    },
    {
     "speaker": "Tom",
     "text": "De Site nennt e puer einfach Sécherheetsreegelen. Gitt ni ouni Erlaabnes vun der Crew op den Helikopter duer, haalt e séchere Ofstand a bleift do, wou de Pilot Iech gesi kann. Gitt an d'Hock, wann en no kënnt, an haalt lass Saache wéi Schalen oder Prabbelien gutt fest.",
-    "t": 242.13
+    "t": 242.15
    },
    {
     "speaker": "Anna",
     "text": "Dat ass gutt ze wëssen, an domat komme mir zur zweeter grousser Aufgab, Leit aus dem Ausland heemzebréngen. Stelle mir eis vir, Dir gitt an der Vakanz schwéier krank, oder Dir gitt op enger Geschäftsrees schwéier blesséiert: Wat kann d'LAR dann maachen?",
-    "t": 257.22
+    "t": 257.24
    },
    {
     "speaker": "Tom",
     "text": "Wann Dir Member sidd, kann d'LAR Iech heembréngen. Si organiséiert déi ganz Rees, vum Spidolsbett am Ausland bis bei e Spidolsbett doheem oder no bei Ärem Doheem. Dat nennt een e medezinesche Rapatriement, an et ass méiglech no der Vakanz, wärend de Studien an op Geschäftsreesen.",
-    "t": 271.24
+    "t": 271.26
    },
    {
     "speaker": "Anna",
     "text": "Wat ass an esou enger Situatioun dat Alleréischt, wat ee maache soll?",
-    "t": 285.9
+    "t": 285.92
    },
    {
     "speaker": "Tom",
     "text": "D'Alarmzentral vun der LAR uruffen. Hir Nummer steet op der Memberskaart, an d'Zentral ass Dag an Nuecht erreechbar, all Dag vum Joer. D'Team freet, wou Dir sidd, wat geschitt ass a wéi een den Dokter erreecht, deen Iech behandelt.",
-    "t": 289.54
+    "t": 289.56
    },
    {
     "speaker": "Anna",
     "text": "A wien decidéiert, ob d'Persoun reese kann, an op wéi eng Manéier?",
-    "t": 301.66
+    "t": 301.68
    },
    {
     "speaker": "Tom",
     "text": "En Dokter vun der LAR schwätzt direkt mam behandelnden Dokter am Ausland. Zesumme kucken si sech d'Behandlung op der Plaz an d'Risike vun der Rees un, an dann decidéiert d'medezinescht Team vun der LAR, ob, wéini a wéi de Patient sécher reese kann.",
-    "t": 305.62
+    "t": 305.64
    },
    {
     "speaker": "Anna",
     "text": "D'Heemrees heescht also net ëmmer en Ambulanzfliger?",
-    "t": 319.57
+    "t": 319.59
    },
    {
     "speaker": "Tom",
     "text": "Nee, net ëmmer: Jee no Patient kann et eng Ambulanz sinn, en normale Linnefluch mat oder ouni medezinesch Begleedung, en Helikopter oder ee vun den Ambulanzfligere vun der LAR, mat engem Dokter an enger Pfleegekraaft u Bord.",
-    "t": 322.96
+    "t": 322.98
    },
    {
     "speaker": "Anna",
     "text": "A wat kascht dat alles fir e Member?",
-    "t": 337.41
+    "t": 337.43
    },
    {
     "speaker": "Tom",
     "text": "Fir Membere iwwerhëlt d'LAR d'Käschte vum Rapatriement aus dem Ausland, am Kader vun hiren allgemenge Konditiounen. An et gëtt e puer Konditiounen, déi een virun der Rees kenne sollt.",
-    "t": 340.67
+    "t": 340.69
    },
    {
     "speaker": "Anna",
     "text": "Da gi mir se zesummen duerch: Wéi eng sinn déi wichtegst?",
-    "t": 351.44
+    "t": 351.46
    },
    {
     "speaker": "Tom",
     "text": "Éischtens fänkt de Schutz ee Mount un, nodeems d'LAR déi éischt Cotisatioun kritt huet. Zweetens däerf en Openthalt am Ausland net méi laang wéi honnert Deeg um Stéck daueren, ausser mam Angebot fir jonk Leit. An drëttens ass e Rapatriement aus Länner am Krich oder mat schlëmmen Onrouen net méiglech, wann d'Sécherheet vum Patient an der Crew net garantéiert ka ginn.",
-    "t": 356.28
+    "t": 356.3
    },
    {
     "speaker": "Anna",
     "text": "Gëtt et och medezinesch Situatiounen, déi guer net ofgedeckt sinn?",
-    "t": 376.72
+    "t": 376.74
    },
    {
     "speaker": "Tom",
     "text": "Jo, zum Beispill eng liicht Krankheet oder Blessur, déi op der Plaz gutt behandelt ka ginn, Komplikatiounen no enger geplangter Operatioun am Ausland, oder eng Krankheet, déi een scho virun der Ofrees kannt huet an bei där ee mat engem Rapatriement rechne musst. Déi komplett Lëscht steet an den allgemenge Konditiounen um Site.",
-    "t": 380.71
+    "t": 380.73
    },
    {
     "speaker": "Anna",
     "text": "A wéi gëtt ee Member? Et gëtt zwou Haaptformen: d'Eenzelmemberschaft fir eng Persoun an d'Familljememberschaft. Ee mellt sech online um Site un a bezilt eemol am Joer eng Cotisatioun; de Montant steet um Site.",
-    "t": 396.52
+    "t": 396.54
    },
    {
     "speaker": "Tom",
     "text": "Wien zielt bei enger Familljememberschaft genee zur Famill?",
-    "t": 411.66
+    "t": 411.68
    },
    {
     "speaker": "Anna",
     "text": "E Koppel, dat offiziell op der selwechter Adress wunnt, bestuet oder net, an d'Kanner aus dem Stot bis uechtzéng Joer. Et gëtt och e méi bëllegt Angebot fir jonk Leit tëscht uechtzéng a fënnefanzwanzeg, an eng Firmememberschaft fir Betriber, déi hir Mataarbechter am Ausland schütze wëllen.",
-    "t": 414.7
+    "t": 414.72
    },
    {
     "speaker": "Tom",
     "text": "Kënnen och Grenzgänger Member ginn, oder nëmme Leit, déi zu Lëtzebuerg wunnen?",
-    "t": 430.94
+    "t": 430.96
    },
    {
     "speaker": "Anna",
     "text": "Wat zielt, ass Ären Haaptwunnsëtz: Dir kënnt Member ginn, wann Dir zu Lëtzebuerg wunnt oder an engem vu verschiddenen europäesche Länner, dorënner Frankräich, d'Belsch an Däitschland. Déi komplett Lëscht vun de Länner steet um Site.",
-    "t": 435.27
+    "t": 435.29
    },
    {
     "speaker": "Tom",
     "text": "Muss ech meng Memberskaart ëmmer bei mir hunn?",
-    "t": 447.55
+    "t": 447.57
    },
    {
     "speaker": "Anna",
     "text": "Nee, dat ass net néideg, well d'Alarmzentral Iech iwwer Är perséinlech Donnéeë fënnt. Mee hei ass e Rot vun eis: Späichert virun der Rees d'Nummer vun der Alarmzentral an Ärem Telefon. A denkt drun, datt d'Memberschaft all Joer erneiert muss ginn.",
-    "t": 450.33
+    "t": 450.35
    },
    {
     "speaker": "Tom",
     "text": "Ass d'Cotisatioun eng Zort Spend, déi ech vun de Steiere kann ofsetzen?",
-    "t": 465.71
+    "t": 465.73
    },
    {
     "speaker": "Anna",
     "text": "Am Prinzip net, well d'Cotisatioun keng Spend ass. Spende ginn un d'Fondation Luxembourg Air Rescue, déi d'LAR mat Suen an technescher Ausrüstung ënnerstëtzt, an esou eng Spend kann ee vun de Steieren ofsetzen.",
-    "t": 469.89
+    "t": 469.91
    },
    {
     "speaker": "Tom",
     "text": "Nieft Rettung a Rapatriement hëlleft d'LAR och bei humanitäre Krisen, zum Beispill no Äerdbiewen, zesumme mam Ministère fir auswäerteg an europäesch Affären. Si beschreift sech als offizielle Partner vun de Vereenten Natiounen an der NATO. An hir Fligeren transportéieren och Organer fir Transplantatiounszentren a Frankräich.",
-    "t": 483.47
+    "t": 483.49
    },
    {
     "speaker": "Anna",
     "text": "A gëtt et och en Angebot fir Leit, déi gär Éischt Hëllef léiere wëllen?",
-    "t": 504.1
+    "t": 504.12
    },
    {
     "speaker": "Tom",
     "text": "Jo, et gëtt d'LAR Akademie, en Ausbildungszentrum um Flughafen um Findel. Si bitt Éischt-Hëllef-Coursen an aner Formatiounen un, fir Eenzelpersounen, fir Gruppen a Veräiner a fir Betriber a Fachleit. D'LAR bitt och Visitte vun hirer Basis un, an heiansdo mécht si hir Dieren op fir de Public.",
-    "t": 508.83
+    "t": 508.85
    },
    {
     "speaker": "Anna",
     "text": "Dat alles fannt Dir um Site lar Punkt l-u, deen et op Englesch, Franséisch an Däitsch gëtt. Wat sollen eis Nolauschterer also aus dëser Episod mathuelen?",
-    "t": 526.92
+    "t": 526.48
    },
    {
     "speaker": "Tom",
     "text": "Éischtens: Rufft bei engem Noutfall zu Lëtzebuerg d'112 un; den Helikopter kënnt, wann en déi bescht Hëllef ass, ob Dir Member sidd oder net. Zweetens: Wa si am Ausland sinn, ruffen d'Memberen d'Alarmzentral vun der LAR un, an en Dokter vun der LAR decidéiert, wéi si sécher heemkommen.",
-    "t": 536.15
+    "t": 535.71
    },
    {
     "speaker": "Anna",
     "text": "An drëttens: Kontrolléiert Är Memberschaft an hir Konditiounen virun der Rees. Well Hëllef aus der Loft nëmmen dann wierklech eppes notzt, wann ee weess, wéi ee se ufrot. Dat war eis Episod iwwer Luxembourg Air Rescue, de Loftrettungsdéngscht mat Helikopteren an Ambulanzfligeren. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir aner Aktivitéite vum Biergerpakt entdecke wëllt, wéi gefouert Visitten, Online-Informatiounsversammlungen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. En ass fir all Awunner op, Lëtzebuerger an Net-Lëtzebuerger, an och fir d'Grenzgänger. An d'Aktivitéite si gratis. Dir musst just gratis um Biergerpakt matmaachen, op biergerpakt.lu.",
-    "t": 553.02
+    "t": 552.58
    },
    {
     "speaker": "Tom",
     "text": "Merci, alleguer. Passt op Iech op, a bis d'nächst Kéier!",
-    "t": 611.19
+    "t": 610.75
    },
    {
     "speaker": "Anna",
     "text": "Villmools Merci fir d'Nolauschteren.",
-    "t": 614.5
+    "t": 614.06
    }
   ]
  }
