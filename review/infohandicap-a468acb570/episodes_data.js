@@ -754,7 +754,7 @@ const EPISODES = [
    }
   ],
   "audio_fr": "../../podcast_infohandicap_fr.mp3",
-  "duration_fr": 619.31,
+  "duration_fr": 618.4,
   "segments_fr": [
    {
     "speaker": "Anna",
@@ -884,412 +884,412 @@ const EPISODES = [
    {
     "speaker": "Tom",
     "text": "Cette devise vient du Forum européen des personnes handicapées, où Info-Handicap représente le Luxembourg.",
-    "t": 122.8
+    "t": 122.56
    },
    {
     "speaker": "Tom",
     "text": "Et les personnes en situation de handicap participent activement au travail d'Info-Handicap lui-même.",
-    "t": 128.89
+    "t": 128.65
    },
    {
     "speaker": "Anna",
     "text": "Pourquoi un pays a-t-il besoin d'un tel conseil ?",
-    "t": 134.63
+    "t": 134.39
    },
    {
     "speaker": "Anna",
     "text": "Y a-t-il vraiment autant de personnes concernées ?",
-    "t": 136.91
+    "t": 136.67
    },
    {
     "speaker": "Tom",
     "text": "Plus qu'on ne le pense : selon le recensement de 2021, environ une personne sur sept au Luxembourg vit avec un handicap.",
-    "t": 139.38
+    "t": 139.14
    },
    {
     "speaker": "Tom",
     "text": "Les plus fréquents sont les handicaps visuels, moteurs et auditifs, et beaucoup de handicaps ne se voient pas du tout.",
-    "t": 146.48
+    "t": 146.24
    },
    {
     "speaker": "Tom",
     "text": "Info-Handicap souligne aussi que les personnes handicapées sont plus souvent au chômage que les autres.",
-    "t": 152.51
+    "t": 152.36
    },
    {
     "speaker": "Anna",
     "text": "Il s'agit donc de droits, mais aussi de la vie de tous les jours, et Info-Handicap travaille dans quatre grands domaines : l'information et le conseil, l'accessibilité, la formation, et la sensibilisation.",
-    "t": 157.98
+    "t": 157.83
    },
    {
     "speaker": "Anna",
     "text": "Prenons-les l'un après l'autre.",
-    "t": 168.38
+    "t": 168.23
    },
    {
     "speaker": "Tom",
     "text": "Commençons par l'information et le conseil : qui peut s'adresser à Info-Handicap avec une question ?",
-    "t": 170.02
+    "t": 169.87
    },
    {
     "speaker": "Anna",
     "text": "Tout le monde : les personnes en situation de handicap ou non, leurs familles et leurs amis, les employeurs, les personnes qui travaillent avec des personnes handicapées, et toute personne simplement intéressée.",
-    "t": 175.54
+    "t": 175.39
    },
    {
     "speaker": "Anna",
     "text": "Son service Info-Conseil est le point de contact pour toutes les questions liées au handicap.",
-    "t": 185.85
+    "t": 185.7
    },
    {
     "speaker": "Tom",
     "text": "Quel genre de questions les gens posent-ils le plus souvent à ce service ?",
-    "t": 190.42
+    "t": 190.27
    },
    {
     "speaker": "Anna",
     "text": "Très souvent, les questions portent sur le travail, sur l'école et l'éducation, et sur l'accessibilité.",
-    "t": 194.03
+    "t": 193.88
    },
    {
     "speaker": "Anna",
     "text": "Dans certains cas, Info-Handicap peut aussi organiser une consultation juridique.",
-    "t": 198.9
+    "t": 198.75
    },
    {
     "speaker": "Anna",
     "text": "Et elle est habilitée à intervenir comme partie civile devant les tribunaux, c'est-à-dire à participer elle-même à la procédure.",
-    "t": 202.78
+    "t": 202.63
    },
    {
     "speaker": "Tom",
     "text": "C'est bon à savoir, et comment nos auditeurs peuvent-ils contacter le service d'information et de conseil ?",
-    "t": 208.81
+    "t": 208.66
    },
    {
     "speaker": "Anna",
     "text": "Vous pouvez appeler le 366 466, ou écrire un e-mail à info@iha.lu.",
-    "t": 214.43
+    "t": 214.28
    },
    {
     "speaker": "Anna",
     "text": "Un entretien avec un conseiller se fait sur rendez-vous, et le bureau se trouve à Luxembourg-ville, ouvert du lundi au vendredi.",
-    "t": 220.76
+    "t": 220.61
    },
    {
     "speaker": "Tom",
     "text": "Avant d'appeler, y a-t-il quelque chose que l'on peut lire chez soi pour s'orienter ?",
-    "t": 226.98
+    "t": 226.83
    },
    {
     "speaker": "Anna",
     "text": "Oui : Info-Handicap publie le Guide du Handicap, en six parties, que l'on peut télécharger sur son site.",
-    "t": 231.05
+    "t": 230.9
    },
    {
     "speaker": "Anna",
     "text": "Elles portent sur la petite enfance, l'école et l'éducation, le travail et les revenus, les mesures spéciales et les aides financières, les transports et la mobilité, et enfin les droits et l'aide juridique.",
-    "t": 236.95
+    "t": 236.8
    },
    {
     "speaker": "Tom",
     "text": "Le deuxième grand domaine est l'accessibilité.",
-    "t": 248.86
+    "t": 248.71
    },
    {
     "speaker": "Tom",
     "text": "L'accessibilité veut dire que tout le monde, avec ou sans handicap, a les mêmes chances de participer à la vie quotidienne : dans les bâtiments, sur internet, dans les transports, dans le tourisme, dans la culture et dans la communication.",
-    "t": 251.47
+    "t": 251.32
    },
    {
     "speaker": "Tom",
     "text": "Le Luxembourg a des lois sur l'accessibilité, et notre épisode sur l'accessibilité les explique.",
-    "t": 264.85
+    "t": 264.7
    },
    {
     "speaker": "Anna",
     "text": "Et que fait Info-Handicap, concrètement, pour rendre les lieux plus accessibles ?",
-    "t": 270.31
+    "t": 270.16
    },
    {
     "speaker": "Tom",
     "text": "Elle informe et conseille, par exemple sur le langage facile à lire et à comprendre et sur la langue des signes.",
-    "t": 274.43
+    "t": 274.28
    },
    {
     "speaker": "Tom",
     "text": "Elle forme de futurs contrôleurs techniques en accessibilité, les personnes qui vérifient si un lieu respecte les règles, et pendant cette formation, ils rencontrent aussi des personnes handicapées et découvrent leurs besoins.",
-    "t": 280.74
+    "t": 280.59
    },
    {
     "speaker": "Tom",
     "text": "Et elle fait connaître un label de qualité pour le tourisme accessible, appelé EureWelcome.",
-    "t": 292.83
+    "t": 292.68
    },
    {
     "speaker": "Anna",
     "text": "À qui s'adresse ce label : seulement aux personnes handicapées ?",
-    "t": 298.18
+    "t": 298.03
    },
    {
     "speaker": "Tom",
     "text": "Non, pas seulement : il suit l'idée de la conception pour tous.",
-    "t": 301.27
+    "t": 301.12
    },
    {
     "speaker": "Tom",
     "text": "Le label distingue des lieux et des événements accessibles à tous : aux personnes handicapées, mais aussi aux seniors, aux familles, et aux personnes à mobilité temporairement réduite, par exemple après un accident.",
-    "t": 304.84
+    "t": 304.69
    },
    {
     "speaker": "Tom",
     "text": "Vous trouvez plus d'informations sur eurewelcome point l-u.",
-    "t": 316.91
+    "t": 316.76
    },
    {
     "speaker": "Anna",
     "text": "Une autre partie de l'accessibilité concerne les déplacements.",
-    "t": 320.34
+    "t": 320.19
    },
    {
     "speaker": "Anna",
     "text": "Info-Handicap gère un service appelé SAMT, qui aide les personnes en situation de handicap à apprendre à utiliser les transports publics de manière autonome et en toute sécurité.",
-    "t": 323.35
+    "t": 323.2
    },
    {
     "speaker": "Tom",
     "text": "Comment cela se passe-t-il concrètement ?",
-    "t": 332.3
+    "t": 332.15
    },
    {
     "speaker": "Tom",
     "text": "Est-ce que quelqu'un voyage avec vous ?",
-    "t": 334.45
+    "t": 334.3
    },
    {
     "speaker": "Anna",
     "text": "Oui : tout commence par un premier entretien sur vos objectifs, sur ce que vous savez déjà faire, et sur l'aide dont vous avez encore besoin.",
-    "t": 336.62
+    "t": 336.47
    },
    {
     "speaker": "Anna",
     "text": "Ensuite, vous recevez un plan d'apprentissage personnalisé, et vous vous entraînez au trajet étape par étape avec un formateur, avec des cartes ou des images pour vous aider à trouver votre chemin.",
-    "t": 343.87
+    "t": 343.72
    },
    {
     "speaker": "Tom",
     "text": "Et que se passe-t-il si quelque chose ne va pas en route : un bus qui ne vient pas, ou un arrêt qui a été déplacé ?",
-    "t": 353.44
+    "t": 353.29
    },
    {
     "speaker": "Anna",
     "text": "Cela fait aussi partie de la formation : vous vous préparez aux imprévus, comme un bus supprimé, un train en retard, un arrêt modifié, ou un malaise.",
-    "t": 359.82
+    "t": 359.67
    },
    {
     "speaker": "Anna",
     "text": "Et vous choisissez ce que vous voulez apprendre : tous les transports publics, un seul trajet, ou un seul moyen de transport, comme le tram.",
-    "t": 367.55
+    "t": 367.4
    },
    {
     "speaker": "Tom",
     "text": "Pour les personnes qui ne peuvent pas du tout utiliser les transports publics à cause d'un handicap grave et durable, il existe aussi Adapto, un service de transport spécial.",
-    "t": 374.68
+    "t": 374.53
    },
    {
     "speaker": "Tom",
     "text": "Le site d'Info-Handicap explique qui peut utiliser Adapto et comment réserver des trajets avec son application.",
-    "t": 384.32
+    "t": 383.4
    },
    {
     "speaker": "Anna",
     "text": "Passons au troisième domaine, la formation.",
-    "t": 390.63
+    "t": 389.71
    },
    {
     "speaker": "Anna",
     "text": "À qui s'adressent ces cours ?",
-    "t": 392.89
+    "t": 391.97
    },
    {
     "speaker": "Tom",
     "text": "Surtout aux entreprises, aux services publics et aux associations.",
-    "t": 394.51
+    "t": 393.59
    },
    {
     "speaker": "Tom",
     "text": "Info-Handicap est reconnue par le ministère de l'Éducation comme centre de formation.",
-    "t": 398.21
+    "t": 397.29
    },
    {
     "speaker": "Tom",
     "text": "Elle propose des demi-journées de sensibilisation, des cours pour rencontrer les personnes handicapées et communiquer avec elles, un cours qui prépare une équipe à accueillir un nouveau collègue en situation de handicap, et des formations sur mesure.",
-    "t": 402.91
+    "t": 401.99
    },
    {
     "speaker": "Anna",
     "text": "Il y a aussi de courts ateliers pour le personnel, d'environ deux heures, en petits groupes.",
-    "t": 416.33
+    "t": 415.41
    },
    {
     "speaker": "Anna",
     "text": "Ils peuvent avoir lieu en luxembourgeois, en français, en allemand ou en anglais, et des personnes en situation de handicap y participent pour partager leur expérience.",
-    "t": 420.55
+    "t": 419.63
    },
    {
     "speaker": "Tom",
     "text": "Revenons au tournesol du début de cet épisode : Info-Handicap est le membre luxembourgeois du réseau international du tournesol pour les handicaps invisibles.",
-    "t": 428.81
+    "t": 427.89
    },
    {
     "speaker": "Tom",
     "text": "Le symbole du tournesol se trouve sur une lanière que l'on porte autour du cou, avec une carte que l'on remplit soi-même.",
-    "t": 437.65
+    "t": 436.73
    },
    {
     "speaker": "Tom",
     "text": "Sur la carte, on peut noter ce dont on a besoin, par exemple plus de temps ou de l'aide pour s'orienter, sans devoir expliquer son handicap en détail.",
-    "t": 443.92
+    "t": 443
    },
    {
     "speaker": "Anna",
     "text": "Et où peut-on en obtenir une, et faut-il un certificat médical ou une autre preuve ?",
-    "t": 451.97
+    "t": 451.05
    },
    {
     "speaker": "Tom",
     "text": "Non, ce n'est pas nécessaire : Info-Handicap donne gratuitement la lanière et la carte à toute personne qui le demande, sans inscription et sans justificatif.",
-    "t": 456.24
+    "t": 455.32
    },
    {
     "speaker": "Tom",
     "text": "Il suffit de se rendre à son bureau à Luxembourg-ville, un jour de semaine, le matin ou l'après-midi.",
-    "t": 465.07
+    "t": 464.15
    },
    {
     "speaker": "Anna",
     "text": "Le quatrième domaine est la sensibilisation.",
-    "t": 470.5
+    "t": 469.58
    },
    {
     "speaker": "Anna",
     "text": "Toute l'année, Info-Handicap mène des campagnes pour que les gens comprennent mieux le handicap.",
-    "t": 472.94
+    "t": 472.02
    },
    {
     "speaker": "Anna",
     "text": "Elle coordonne aussi MOSAIK, un réseau d'organisations sociales et culturelles pour une culture inclusive : des artistes avec et sans handicap sur la même scène, et des spectacles avec audiodescription, sous-titres ou langue des signes.",
-    "t": 477.68
+    "t": 476.76
    },
    {
     "speaker": "Tom",
     "text": "Et Info-Handicap porte aussi la voix des personnes handicapées auprès des ministères et des partis politiques.",
-    "t": 490.34
+    "t": 489.42
    },
    {
     "speaker": "Tom",
     "text": "Le Luxembourg s'est engagé à respecter la Convention des Nations unies relative aux droits des personnes handicapées, et Info-Handicap suit de près les plans d'action nationaux qui mettent cette convention en pratique.",
-    "t": 496.53
+    "t": 495.61
    },
    {
     "speaker": "Anna",
     "text": "J'ai lu qu'Info-Handicap travaille aussi sur les élections : que fait-elle dans ce domaine ?",
-    "t": 508.47
+    "t": 507.55
    },
    {
     "speaker": "Tom",
     "text": "Oui, elle veut des élections accessibles à tout le monde.",
-    "t": 513.21
+    "t": 512.29
    },
    {
     "speaker": "Tom",
     "text": "Depuis une modification de la loi en 2023, les personnes sous tutelle peuvent elles aussi voter.",
-    "t": 516.2
+    "t": 515.28
    },
    {
     "speaker": "Tom",
     "text": "Info-Handicap organise des ateliers sur le déroulement du vote, sur le chemin jusqu'au bureau de vote et sur les aides qui existent.",
-    "t": 522.11
+    "t": 521.19
    },
    {
     "speaker": "Tom",
     "text": "Et ce podcast a un épisode sur le vote dans votre commune, appelé « Je peux voter ».",
-    "t": 529.47
+    "t": 528.55
    },
    {
     "speaker": "Anna",
     "text": "Avant de terminer, le site internet est info-handicap point l-u, en allemand et en français.",
-    "t": 534.42
+    "t": 533.5
    },
    {
     "speaker": "Anna",
     "text": "Quels sont les points principaux à retenir de cet épisode ?",
-    "t": 540.38
+    "t": 539.46
    },
    {
     "speaker": "Tom",
     "text": "Premièrement, Info-Handicap répond à toutes les questions sur le handicap, pour les personnes avec ou sans handicap, leurs familles et leurs employeurs : vous pouvez appeler le 366 466.",
-    "t": 543.22
+    "t": 542.3
    },
    {
     "speaker": "Tom",
     "text": "Deuxièmement, elle travaille pour l'accessibilité, de la formation des contrôleurs jusqu'à l'aide pour apprendre à prendre seul le bus, le train et le tram.",
-    "t": 555.55
+    "t": 554.63
    },
    {
     "speaker": "Anna",
     "text": "Et troisièmement, si vous avez un handicap qui ne se voit pas, vous pouvez obtenir gratuitement une lanière et une carte tournesol à son bureau.",
-    "t": 563.58
+    "t": 562.66
    },
    {
     "speaker": "Anna",
     "text": "Parce qu'une société fonctionne mieux pour tout le monde quand rien ne se décide sur nous sans nous.",
-    "t": 570.25
+    "t": 569.33
    },
    {
     "speaker": "Anna",
     "text": "C'était notre épisode sur Info-Handicap, le Conseil national des personnes handicapées.",
-    "t": 574.27
+    "t": 573.35
    },
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
-    "t": 578.63
+    "t": 577.71
    },
    {
     "speaker": "Anna",
     "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
-    "t": 586.7
+    "t": 585.78
    },
    {
     "speaker": "Anna",
     "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
-    "t": 603.15
+    "t": 602.23
    },
    {
     "speaker": "Anna",
     "text": "Et les activités sont gratuites.",
-    "t": 607.8
+    "t": 606.88
    },
    {
     "speaker": "Anna",
     "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
-    "t": 609.62
+    "t": 608.7
    },
    {
     "speaker": "Tom",
     "text": "Merci à tous.",
-    "t": 614
+    "t": 613.08
    },
    {
     "speaker": "Tom",
     "text": "Prenez soin de vous, et à la prochaine !",
-    "t": 615.25
+    "t": 614.33
    },
    {
     "speaker": "Anna",
     "text": "Merci beaucoup de nous avoir écoutés.",
-    "t": 617.54
+    "t": 616.62
    }
   ],
   "audio_de": "../../podcast_infohandicap_de.mp3",

@@ -50,6 +50,11 @@ Site: static `index.html` + `app.js` + `episodes_data.js`, served by `server.js`
   - Don't put an English line straight after a French name (the accent carries over).
 - The Eltereforum episode was validated by the Eltereforum: keep its content unchanged in fact-checks.
 
+## Voices
+
+- Keep the current voices (Jacques, 27 Nov 2026, after a French A/B test): EN Elizabeth/James, FR Lucie/Marcel
+  ("Marcel - Warm and Conversational"), DE Lola/Benjamin. They are pinned by voice id in `.env` (`ANNA_VOICE_ID_FR` etc.).
+
 ## Pronunciation (rules live in `build/pronunciation.py`; transcripts keep the written form)
 
 - `.lu` addresses always as letters: EN "dot L U", FR "point L U", DE "Punkt L U". cae.lu = "C-A-E dot L-U".
