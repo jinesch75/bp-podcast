@@ -43,9 +43,11 @@ File names never change, so browsers may keep playing/using an old cached copy a
 - EN `.md` scripts of ALL other episodes got the new intro/outro applied (scripts + Word doc only — their audio/segments/translations are NOT yet updated; do this per-episode later like eps 1–5).
 - **Review pages**: `node build/make_review.js key1,key2` generates fully isolated per-episode pages under `review/<key>-<token>/` (one-episode `episodes_data.js` slice; app.js/svg/audio referenced from root via `../../`; tokens persist in `build/review_tokens.json`). Live at `https://bp-podcast-production.up.railway.app/review/<slug>/` after push.
 
-## Episodes (57 so far)
+## Episodes (56 on the site)
 
 (Clarvia (ex-42) was removed from the site on 30 Sept 2026 at Jacques's request; its scripts and build files are kept in `archive/clarvia/` — the audio there is git-ignored.)
+
+("Who Does What for Seniors?" (`activitesseniors`, ex-48) was taken down on 27 Nov 2026 at Jacques's request; scripts, build files, audio and review page are kept in `archive/activitesseniors/`. The other episodes keep their numbers, so the list goes 47 → 49.)
 
 (+ 40:lll — lifelong-learning.lu, a longer ~10-min episode, tagged `work`. + 41:cnap — Pensiounskeess/CNAP pension system, ~16-min, tagged `seniors,social,crossborder`, native EN/FR/DE audio + LB read-along.)
 
@@ -803,3 +805,9 @@ New episode (Jacques: "Do a new episode about info handicap in Luxembourg. The o
 - Shortened before FR/DE were finished: first EN take was 11:35 → removed the membership/donation exchange and the hidden-disabilities workshop exchange (sunflower network moved into Tom's next line), plus a few tail sentences (contact details on the website, guides updated, certificate, "the way to work").
 - `pronunciation.py`: `iha` before dot/point/Punkt → "I-H-A"; "366 466" digit by digit in two groups (like the KJT numbers); WORDS "SAMT" → "Samt", "MOSAIK" → "Mosaik"; DE years written out pre-emptively ("seit 1993 für", "Volkszählung von 2021", "im Jahr 2023 dürfen"). **Not A/B tested — check by ear:** "Samt", "Mosaik", "EureWelcome", "Info-Handicap" in the three voices, the phone number in FR.
 - Recorded with `finish_episode.py infohandicap en,fr,de --new` (≈ 33,000 credits incl. the first, longer EN take and ≈ 5,700 for retakes), then three short lines joined in all four languages (A "…everyday life, and Info-Handicap works in four big areas…", A "And where can I get one, and do I need…?", A "I have read that Info-Handicap also works on elections: what does it do there?") and `--reset` (≈ 1,800 credits for retakes). **Durations: EN 10:45, FR 10:19, DE 11:35.** Review page review/infohandicap-a468acb570/. Content `build/infohandicap_content.json`, injector `build/inject_infohandicap.js`. Backup: `episodes_data.pre_infohandicap.js`.
+
+## Episode 48 "Who Does What for Seniors?" taken down (27 Nov 2026)
+
+Jacques: "take down episode 48 who does what for seniors". The `activitesseniors` entry was removed from `episodes_data.js` (backup `episodes_data.pre_remove_activitesseniors.js`) and the files were moved, not deleted, to `archive/activitesseniors/`: the four scripts, `build/activitesseniors_content.json` + `build/inject_activitesseniors.js`, the three mp3 files (git-ignored there) and the review page `review/activitesseniors-7f6bba3acf/` (offline: `server.js` never serves `archive/`). The partner Word file stays in `Relecture partenaires/`, its review token in `build/review_tokens.json` (so the same link comes back if the episode is restored) and the GERO pronunciation rules in `pronunciation.py`. `bump_version.js` run. Listeners' playlists drop the missing id by themselves (`plLoad` filters unknown ids). No other script points to this episode (SIMPA FR only says "les activités seniors" in general).
+- Numbers unchanged: episodes 49–57 keep their numbers. To renumber, change `id`/`number` in `episodes_data.js`, then `make_review.js` + `make_review_doc.js` for the episodes concerned (playlists are stored by id).
+- To restore: move the files back, `node build/inject_activitesseniors.js`, then `replace_audio_elevenlabs.js activitesseniors en,fr,de` (cached audio, 0 credits) and `make_review.js activitesseniors`; the injector adds it as the last episode, so set `id`/`number` back to 48 and its place in the array if it should return in place.
