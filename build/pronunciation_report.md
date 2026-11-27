@@ -7,183 +7,295 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 
 | Language | Sentences changed |
 |---|---|
-| EN | 561 |
-| FR | 562 |
-| DE | 534 |
+| EN | 904 |
+| FR | 871 |
+| DE | 842 |
 
 ## Most frequent changes
 
 | Lang | Written | Spoken | Count |
 |---|---|---|---|
-| EN | biergerpakt.lu | biergerpakt dot L-U | 84 |
-| FR | biergerpakt.lu | biergerpakt point L-U | 84 |
-| DE | biergerpakt.lu | biergerpakt Punkt L-U | 84 |
-| DE | ADEM | Adem | 48 |
-| EN | ADEM | Adem | 45 |
-| FR | l'ADEM | l'Adem | 40 |
+| EN | biergerpakt.lu | biergerpakt dot L-U | 114 |
+| FR | biergerpakt.lu | biergerpakt point L-U | 114 |
+| DE | biergerpakt.lu | biergerpakt Punkt L-U | 114 |
+| EN | l-u | L-U | 82 |
+| FR | l-u | L-U | 82 |
+| DE | l-u | L-U | 82 |
+| DE | ADEM | Adem | 59 |
+| EN | ADEM | Addem | 54 |
+| FR | l'ADEM | l'Adem | 50 |
 | EN | REVIS | Revis | 28 |
 | FR | REVIS | Revis | 28 |
-| EN | l-u | L-U | 27 |
-| FR | l-u | L-U | 27 |
-| DE | l-u | L-U | 27 |
+| EN | CET | C-E-T | 25 |
+| FR | CET | C-E-T | 25 |
 | DE | REVIS | Revis | 25 |
-| EN | lu | L-U | 23 |
-| FR | lu | L-U | 23 |
-| DE | lu | L-U | 23 |
-| EN | MyGuichet.lu | MyGuichet dot L-U | 19 |
-| EN | FNS | F-N-S | 19 |
-| FR | MyGuichet.lu | MyGuichet point L-U | 19 |
-| FR | FNS | F-N-S | 19 |
-| DE | MyGuichet.lu | MyGuichet Punkt L-U | 19 |
-| DE | FNS | F-N-S | 19 |
-| DE | ONIS | Onis | 19 |
-| EN | ONIS | Onis | 18 |
+| EN | lu | L-U | 24 |
+| FR | lu | L-U | 24 |
+| DE | lu | L-U | 24 |
+| DE | CET | C-E-T | 24 |
+| EN | MyGuichet.lu | MyGuichet dot L-U | 23 |
+| EN | CNS | C-N-S | 23 |
+| FR | MyGuichet.lu | MyGuichet point L-U | 23 |
+| FR | CNS | C-N-S | 23 |
+| FR | LAR | L-A-R | 23 |
+| DE | MyGuichet.lu | MyGuichet Punkt L-U | 23 |
+| DE | CNS | C-N-S | 23 |
+| DE | LAR | L-A-R | 23 |
+| FR | SIMPA | Simpa | 22 |
+| DE | SIMPA | Simpa | 22 |
+| EN | SIMPA | Simpa | 21 |
+| EN | LAR | L-A-R | 21 |
+| DE | ONIS | Onis | 21 |
+| EN | FNS | F-N-S | 20 |
+| EN | ONIS | Onis | 20 |
+| FR | CNPD | C-N-P-D | 20 |
+| FR | FNS | F-N-S | 20 |
+| DE | EBL | E-B-L | 20 |
+| DE | FNS | F-N-S | 20 |
+| EN | CNPD | C-N-P-D | 19 |
+| EN | EBL | E-B-L | 19 |
+| EN | Klima-Agence | Clima-Agence | 19 |
+| EN | OKaJu | Oka-joo | 19 |
+| FR | STATEC | Statec | 19 |
+| DE | CNPD | C-N-P-D | 19 |
+| DE | STATEC | Statec | 19 |
+| DE | OKaJu | Okadschuh | 19 |
 | EN | SYVICOL | Syvicol | 18 |
+| FR | SNJ | S-N-J | 18 |
 | FR | SYVICOL | Syvicol | 18 |
+| DE | SNJ | S-N-J | 18 |
 | DE | SYVICOL | Syvicol | 18 |
-| EN | CNS | C-N-S | 17 |
-| FR | CNS | C-N-S | 17 |
-| FR | SNJ | S-N-J | 17 |
-| FR | STATEC | Statec | 17 |
-| DE | CNS | C-N-S | 17 |
-| DE | SNJ | S-N-J | 17 |
-| DE | STATEC | Statec | 17 |
+| EN | STATEC | Statek | 17 |
+| EN | SNJ | S-N-J | 17 |
+| FR | Zukunftskeess | Tsoukounftskéss | 17 |
 | EN | CNAP | C-N-A-P | 16 |
-| EN | SNJ | S-N-J | 16 |
-| EN | Zukunftskeess | Tsoo-koonfts-kayss | 16 |
+| EN | CAE | C-A-E | 16 |
 | FR | CNAP | C-N-A-P | 16 |
-| FR | Zukunftskeess | Tsoukounftskéss | 16 |
+| FR | l'ONIS | l'Onis | 16 |
 | DE | CNAP | C-N-A-P | 16 |
-| EN | CGDIS | C-G-D-I-S | 15 |
-| EN | STATEC | Statec | 15 |
-| FR | CGDIS | C-G-D-I-S | 15 |
-| DE | CGDIS | C-G-D-I-S | 15 |
-| DE | ONE | O-N-E | 14 |
-| FR | l'ONIS | l'Onis | 13 |
-| EN | ONE | O-N-E | 12 |
+| EN | ULC | U-L-C | 15 |
+| DE | ONE | O-N-E | 15 |
+| DE | ULC | U-L-C | 15 |
+| FR | l'OKaJu | l'Okadjou | 14 |
+| EN | ONE | O-N-E | 13 |
+| FR | l'ULC | l'U-L-C | 13 |
+| FR | l'EBL | l'E-B-L | 13 |
+| EN | ID | I-D | 12 |
+| EN | LU-Alert | L-U Alert | 12 |
+| EN | BEE SECURE | Bee Secure | 12 |
+| FR | l'ONE | l'O-N-E | 12 |
+| FR | BEE SECURE | Bee Secure | 12 |
+| FR | LU-Alert | L-U Alert | 12 |
 | DE | AAA | A-A-A | 12 |
-| EN | AAA | A-A-A | 11 |
-| FR | l'ONE | l'O-N-E | 11 |
-| EN | ID | I-D | 10 |
-| EN | LU-Alert | L-U Alert | 9 |
-| EN | SMS | S-M-S | 9 |
+| DE | BEE SECURE | Bee Secure | 12 |
+| FR | SMS | S-M-S | 11 |
+| DE | SMS | S-M-S | 11 |
+| DE | LU-Alert | L-U Alert | 11 |
+| EN | AAA | A-A-A | 10 |
+| EN | KJT | K-J-T | 10 |
+| EN | SMS | S-M-S | 10 |
+| FR | L'ADEM | L'Adem | 10 |
+| FR | KJT | K-J-T | 10 |
+| DE | KJT | K-J-T | 10 |
+| EN | DSP | D-S-P | 9 |
 | FR | l'AAA | l'A-A-A | 9 |
-| FR | L'ADEM | L'Adem | 9 |
-| FR | SMS | S-M-S | 9 |
-| DE | SMS | S-M-S | 9 |
-| FR | LU-Alert | L-U Alert | 8 |
+| FR | DSP | D-S-P | 9 |
+| DE | DSP | D-S-P | 9 |
+| EN | Guichet.lu | Guichet dot L-U | 8 |
+| FR | Guichet.lu | Guichet point L-U | 8 |
+| DE | Guichet.lu | Guichet Punkt L-U | 8 |
+| EN | GERO | Jero | 7 |
 | EN | benevolat.lu | benevolat dot L-U | 7 |
 | EN | 1-1-2 | one-one-two | 7 |
-| EN | DSP | D-S-P | 7 |
 | EN | GOVCERT.LU | Gov-Cert dot L-U | 7 |
 | FR | benevolat.lu | benevolat point L-U | 7 |
 | FR | 1-1-2 | cent-douze | 7 |
-| FR | DSP | D-S-P | 7 |
 | FR | GOVCERT.LU | Gov-Cert point L-U | 7 |
 | DE | benevolat.lu | benevolat Punkt L-U | 7 |
 | DE | 1-1-2 | eins-eins-zwei | 7 |
-| DE | DSP | D-S-P | 7 |
 | DE | GOVCERT.LU | Gov-Cert Punkt L-U | 7 |
-| DE | LU-Alert | L-U Alert | 7 |
+| EN | ADEM's | Addem's | 6 |
 | EN | CV | C-V | 6 |
-| EN | LISER | Liser | 6 |
+| EN | 112 | one-one-two | 6 |
+| EN | LISER | Lyser | 6 |
 | FR | CV | C-V | 6 |
+| FR | 112 | cent-douze | 6 |
+| FR | L'EBL | L'E-B-L | 6 |
 | FR | LISER | Liser | 6 |
+| DE | 112 | eins-eins-zwei | 6 |
 | DE | LISER | Liser | 6 |
-| EN | accessibilite.lu | accessibilite dot L-U | 5 |
-| EN | ADEM's | Adem's | 5 |
+| EN | accessibilite.lu | accessibilité dot L-U | 5 |
+| EN | workinluxembourg.com | workinluxembourg dot com | 5 |
+| EN | EU | E-U | 5 |
 | EN | lu-alert | L-U dash Alert | 5 |
 | FR | accessibilite.lu | accessibilite point L-U | 5 |
 | FR | lu-alert | L-U tiret Alert | 5 |
+| FR | L'OKaJu | L'Okadjou | 5 |
 | FR | Zesumme Vereinfachen | Tsézoumeu Fèraïnnfarènn | 5 |
 | DE | accessibilite.lu | accessibilite Punkt L-U | 5 |
+| DE | workinluxembourg.com | workinluxembourg Punkt com | 5 |
 | DE | EU | E-U | 5 |
 | DE | lu-alert | L-U Bindestrich Alert | 5 |
-| EN | Guichet.lu | Guichet dot L-U | 4 |
-| EN | fns.lu | fns dot L-U | 4 |
-| EN | EU | E-U | 4 |
-| EN | BEE SECURE | Bee Secure | 4 |
-| EN | workinluxembourg.com | workinluxembourg dot com | 4 |
-| EN | cae.lu | cae dot L-U | 4 |
-| FR | Guichet.lu | Guichet point L-U | 4 |
+| EN | CGDIS | C-G-D-I-S | 4 |
+| EN | clubaktivplus | Club Aktiv Plus | 4 |
+| EN | f-n-s | F-N-S | 4 |
+| EN | fns.lu | F-N-S dot L-U | 4 |
+| EN | Lëtz | Let's | 4 |
+| EN | cae.lu | C-A-E dot L-U | 4 |
+| FR | CGDIS | C-G-D-I-S | 4 |
+| FR | clubaktivplus | Club Aktiv Plus | 4 |
 | FR | L'Eltereforum | L'Eltèreu-forum | 4 |
-| FR | fns.lu | fns point L-U | 4 |
-| FR | BEE SECURE | Bee Secure | 4 |
-| FR | cae.lu | cae point L-U | 4 |
-| DE | Guichet.lu | Guichet Punkt L-U | 4 |
-| DE | fns.lu | fns Punkt L-U | 4 |
-| DE | BEE SECURE | Bee Secure | 4 |
-| DE | workinluxembourg.com | workinluxembourg Punkt com | 4 |
-| DE | cae.lu | cae Punkt L-U | 4 |
+| FR | f-n-s | F-N-S | 4 |
+| FR | fns.lu | F-N-S point L-U | 4 |
+| FR | l'UE | l'U-E | 4 |
+| FR | Lëtz prepare | Lets pri-pair | 4 |
+| FR | cae.lu | C-A-E point L-U | 4 |
+| DE | CGDIS | C-G-D-I-S | 4 |
+| DE | clubaktivplus | Club Aktiv Plus | 4 |
+| DE | f-n-s | F-N-S | 4 |
+| DE | fns.lu | F-N-S Punkt L-U | 4 |
+| DE | Lëtz prepare | Lets pripär | 4 |
+| DE | cae.lu | C-A-E Punkt L-U | 4 |
 | EN | ASTA | Asta | 3 |
-| EN | clarvia.org | clarvia dot org | 3 |
-| EN | Pensiounskeess | Pen-see-ouns-kayss | 3 |
+| EN | ccss | C-C-S-S | 3 |
+| EN | cet | C-E-T | 3 |
+| EN | Pensiounskeess | Pen-si-yons-kees | 3 |
 | EN | c-n-a-p | C-N-A-P | 3 |
-| EN | f-n-s | F-N-S | 3 |
+| EN | dondusang | dawn dew sahn | 3 |
+| EN | COMPA | Compa | 3 |
+| EN | 247-86000 | two four seven eight six zero zero zero | 3 |
+| EN | 116 111 | one one six, one one one | 3 |
+| EN | Kanner-Jugendtelefon | Kanner-Yoogunt-telefon | 3 |
 | EN | luxtrust.com | luxtrust dot com | 3 |
 | EN | FNR | F-N-R | 3 |
-| FR | clarvia.org | clarvia point org | 3 |
+| FR | ccss | C-C-S-S | 3 |
+| FR | cet | C-E-T | 3 |
 | FR | Pensiounskeess | Pènnsiounskéss | 3 |
 | FR | c-n-a-p | C-N-A-P | 3 |
+| FR | L'ULC | L'U-L-C | 3 |
+| FR | dondusang | don du sang | 3 |
 | FR | Eltereforum | Eltèreu-forum | 3 |
 | FR | L'ONE | L'O-N-E | 3 |
-| FR | f-n-s | F-N-S | 3 |
-| FR | l'UE | l'U-E | 3 |
+| FR | COMPA | Compa | 3 |
+| FR | 247-86000 | deux quatre sept huit six zéro zéro zéro | 3 |
+| FR | 116 111 | cent seize, cent onze | 3 |
+| FR | Kanner-Jugendtelefon | Kanneur-Youguènnt-téléfone | 3 |
 | FR | luxtrust.com | luxtrust point com | 3 |
-| FR | L'ONIS | L'Onis | 3 |
 | FR | FNR | F-N-R | 3 |
 | DE | ASTA | Asta | 3 |
-| DE | clarvia.org | clarvia Punkt org | 3 |
+| DE | ccss | C-C-S-S | 3 |
+| DE | cet | C-E-T | 3 |
 | DE | c-n-a-p | C-N-A-P | 3 |
-| DE | f-n-s | F-N-S | 3 |
+| DE | dondusang | Don dü Sang | 3 |
+| DE | COMPA | Compa | 3 |
+| DE | 247-86000 | zwei vier sieben acht sechs null null null | 3 |
+| DE | 116 111 | eins eins sechs, eins eins eins | 3 |
 | DE | luxtrust.com | luxtrust Punkt com | 3 |
 | DE | FNR | F-N-R | 3 |
+| EN | accessibilite | accessibilité | 2 |
 | EN | OSAPS | Osaps | 2 |
 | EN | NOT | not | 2 |
+| EN | CCSS | C-C-S-S | 2 |
+| EN | QR | Q-R | 2 |
+| EN | lycée | leessay | 2 |
+| EN | GDPR | G-D-P-R | 2 |
+| EN | cnpd | C-N-P-D | 2 |
+| EN | ulc | U-L-C | 2 |
+| EN | cecluxembourg | C-E-C Luxembourg | 2 |
 | EN | IT | I-T | 2 |
+| EN | AI | A-I | 2 |
 | EN | digital-inclusion.lu | digital-inclusion dot L-U | 2 |
+| EN | e-b-l | E-B-L | 2 |
 | EN | eltereforum.lu | eltereforum dot L-U | 2 |
 | EN | ONE's | O-N-E's | 2 |
+| EN | 366 466 | three six six, four six six | 2 |
 | EN | infosenior.lu | infosenior dot L-U | 2 |
+| EN | icanvote | I can vote | 2 |
+| EN | 8002 4444 | eight zero zero two, four four four four | 2 |
+| EN | 8002 1234 | eight zero zero two, one two three four | 2 |
+| EN | kjt | K-J-T | 2 |
+| EN | LAR's | L-A-R's | 2 |
+| EN | letzprepare | Let's prepare | 2 |
+| EN | infocrise | info-creeze | 2 |
 | EN | INFPC | I-N-F-P-C | 2 |
 | EN | PIN | Pin | 2 |
 | EN | 8002, 8181 | eight zero zero two, eight one eight one | 2 |
+| EN | lycées | leessay | 2 |
+| EN | okaju | Oka-joo | 2 |
 | EN | LIST | List | 2 |
+| EN | Seniorentelefon | Senioren-Telefon | 2 |
 | EN | SES | S-E-S | 2 |
-| EN | STATEC's | Statec's | 2 |
+| EN | STATEC's | Statek's | 2 |
 | EN | GDP | G-D-P | 2 |
+| EN | Zukunftskeess | Tsoo-koonfts-kehs | 2 |
 | EN | c-a-e | C-A-E | 2 |
 | FR | L'AAA | L'A-A-A | 2 |
 | FR | OSAPS | Osaps | 2 |
 | FR | PAS | pas | 2 |
+| FR | CCSS | C-C-S-S | 2 |
+| FR | QR | Q-R | 2 |
+| FR | RGPD | R-G-P-D | 2 |
+| FR | cnpd | C-N-P-D | 2 |
+| FR | ulc | U-L-C | 2 |
+| FR | cecluxembourg | C-E-C Luxembourg | 2 |
 | FR | digital-inclusion.lu | digital-inclusion point L-U | 2 |
+| FR | e-b-l | E-B-L | 2 |
 | FR | l'Eltereforum | l'Eltèreu-forum | 2 |
 | FR | eltereforum.lu | Eltèreu-forum point L-U | 2 |
 | FR | FEDER | Féder | 2 |
+| FR | 366 466 | trois six six, quatre six six | 2 |
 | FR | infosenior.lu | infosenior point L-U | 2 |
+| FR | jepeuxvoter | je peux voter | 2 |
+| FR | 8002 4444 | huit zéro zéro deux, quatre quatre quatre quatre | 2 |
+| FR | 8002 1234 | huit zéro zéro deux, un deux trois quatre | 2 |
+| FR | l'Elterentelefon | l'Elteurènn-téléfone | 2 |
+| FR | kjt | K-J-T | 2 |
+| FR | letzprepare | Lets pri-pair | 2 |
 | FR | l'INFPC | l'I-N-F-P-C | 2 |
 | FR | PIN | Pin | 2 |
 | FR | 8002, 8181 | huit zéro zéro deux, huit un huit un | 2 |
+| FR | okaju | Okadjou | 2 |
 | FR | ONIS | Onis | 2 |
+| FR | L'ONIS | L'Onis | 2 |
 | FR | LIST | List | 2 |
+| FR | Seniorentelefon | Séniorènn-téléfone | 2 |
 | FR | SES | S-E-S | 2 |
 | FR | PIB | P-I-B | 2 |
 | FR | c-a-e | C-A-E | 2 |
 | DE | OSAPS | Osaps | 2 |
 | DE | NICHT | nicht | 2 |
+| DE | CCSS | C-C-S-S | 2 |
+| DE | DSGVO | D-S-G-V-O | 2 |
+| DE | cnpd | C-N-P-D | 2 |
+| DE | ulc | U-L-C | 2 |
+| DE | cecluxembourg | C-E-C Luxembourg | 2 |
 | DE | digital-inclusion.lu | digital-inclusion Punkt L-U | 2 |
+| DE | e-b-l | E-B-L | 2 |
 | DE | eltereforum.lu | eltereforum Punkt L-U | 2 |
+| DE | 366 466 | drei sechs sechs, vier sechs sechs | 2 |
 | DE | infosenior.lu | infosenior Punkt L-U | 2 |
+| DE | ichkannwaehlen | ich kann wählen | 2 |
+| DE | 8002 4444 | acht null null zwei, vier vier vier vier | 2 |
+| DE | 8002 1234 | acht null null zwei, eins zwei drei vier | 2 |
+| DE | kjt | K-J-T | 2 |
+| DE | letzprepare | Lets pripär | 2 |
+| DE | infocrise | Info-Kriis | 2 |
 | DE | INFPC | I-N-F-P-C | 2 |
 | DE | LU-Alert-App | L-U Alert-App | 2 |
 | DE | Benutzer-ID | Benutzer-I-D | 2 |
 | DE | 8002, 8181 | acht null null zwei, acht eins acht eins | 2 |
+| DE | okaju | Okadschuh | 2 |
 | DE | LIST | List | 2 |
 | DE | SES | S-E-S | 2 |
 | DE | BIP | B-I-P | 2 |
+| DE | 2022 | zweitausendzweiundzwanzig | 2 |
 | DE | c-a-e | C-A-E | 2 |
 | EN | AAA's | A-A-A's | 1 |
 | EN | ATM | A-T-M | 1 |
+| EN | geroAKTIV | Jero Aktiv | 1 |
+| EN | geroPRO | Jero Pro | 1 |
+| EN | geroRESEARCH | Jero Research | 1 |
+| EN | MEC | M-E-C | 1 |
 | EN | 2-4-7, 8-8-8-8-8 | two four seven, eight eight eight eight eight | 1 |
 | EN | PAN-Bio | Pan-Bio | 1 |
 | EN | 261210 | two six one two one zero | 1 |
@@ -191,39 +303,66 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 | EN | CIS | C-I-S | 1 |
 | EN | CNIS | C-N-I-S | 1 |
 | EN | INFS | I-N-F-S | 1 |
-| EN | 112 | one-one-two | 1 |
-| EN | ASBL | A-S-B-L | 1 |
-| EN | AI | A-I | 1 |
+| EN | Caisse nationale d'assurance pension | Kess nassyonal dassuranss pansyon | 1 |
+| EN | Howald | Hoh-wald | 1 |
+| EN | CEC | C-E-C | 1 |
 | EN | AND | and | 1 |
+| EN | Don du sang | dawn dew sahn | 1 |
 | EN | IBAN | Iban | 1 |
 | EN | esante.lu | esante dot L-U | 1 |
 | EN | cns.lu | cns dot L-U | 1 |
-| EN | FNS, fns.lu | F-N-S, fns dot L-U | 1 |
+| EN | Ëmweltberodung Lëtzebuerg | Emvelt-berodung Letze-burg | 1 |
+| EN | EBL's | E-B-L's | 1 |
+| EN | FNS, fns.lu | F-N-S, F-N-S dot L-U | 1 |
 | EN | FEDER | Feder | 1 |
 | EN | FSE | F-S-E | 1 |
 | EN | CSIRT | C-Sirt | 1 |
+| EN | AAA, Klima-Agence, ADEM | A-A-A, Clima-Agence, Addem | 1 |
+| EN | analyses | analyzes | 1 |
 | EN | UNESCO | Unesco | 1 |
 | EN | granderegion.net | granderegion dot net | 1 |
+| EN | observation foncière | observassion fonsyère | 1 |
+| EN | info@iha.lu | info at I-H-A dot L-U | 1 |
+| EN | SAMT | Samt | 1 |
+| EN | MOSAIK | Mosaik | 1 |
+| EN | 26 432 432 | two six four three two four three two | 1 |
+| EN | CJF | C-J-F | 1 |
 | EN | 8-0-0-2, 1-1, 9-0 | eight zero zero two, one one, nine zero | 1 |
+| EN | Findel | Finndel | 1 |
+| EN | lar | L-A-R | 1 |
+| EN | Lëtz | Lets | 1 |
+| EN | du | doo | 1 |
+| EN | 1-1-3 | one one three | 1 |
 | EN | lu-alert.lu | L-U dash Alert dot L-U | 1 |
+| EN | 'LU-Alert | 'L-U Alert | 1 |
 | EN | OTP | O-T-P | 1 |
-| EN | QR | Q-R | 1 |
 | EN | *(laughs)* | ∅ | 1 |
-| EN | m-o | M-O | 1 |
 | EN | SIA | S-I-A | 1 |
 | EN | ATVA | A-T-V-A | 1 |
 | EN | BOOST | Boost | 1 |
+| EN | mediateursante | médiateur santé | 1 |
+| EN | GouvID | Gouv I-D | 1 |
 | EN | VAT | V-A-T | 1 |
 | EN | ARIS | Aris | 1 |
 | EN | REVIS, ONIS | Revis, Onis | 1 |
 | EN | o-n-i-s | O-N-I-S | 1 |
 | EN | LIH | L-I-H | 1 |
 | EN | LIST, LIH | List, L-I-H | 1 |
+| EN | 23 August 2023 | the twenty-third of August, twenty twenty-three | 1 |
+| EN | SIMPA's | Simpa's | 1 |
 | EN | SNJ's | S-N-J's | 1 |
+| EN | contact@talentdesk.lu | contact at talentdesk dot L-U | 1 |
 | EN | IMD | I-M-D | 1 |
 | EN | non-EU | non-E-U | 1 |
+| EN | allocation | allo-cah-syon | 1 |
+| EN | rentrée scolaire | ron-tray sko-lair | 1 |
+| FR | geroAKTIV | gero Aktiv | 1 |
+| FR | geroPRO | gero Pro | 1 |
+| FR | geroRESEARCH | gero Research | 1 |
+| FR | MEC | M-E-C | 1 |
 | FR | ADEM | Adem | 1 |
 | FR | 2-4-7, 8-8-8-8-8 | deux quatre sept, huit huit huit huit huit | 1 |
+| FR | workinluxembourg.com | workinluxembourg point com | 1 |
 | FR | ASTA | Asta | 1 |
 | FR | L'ASTA | L'Asta | 1 |
 | FR | PAN-Bio | Pan-Bio | 1 |
@@ -232,15 +371,16 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 | FR | CIS | C-I-S | 1 |
 | FR | CNIS | C-N-I-S | 1 |
 | FR | l'INFS | l'I-N-F-S | 1 |
-| FR | 112 | cent-douze | 1 |
-| FR | ASBL | A-S-B-L | 1 |
+| FR | CEC | C-E-C | 1 |
 | FR | l'AVC | l'A-V-C | 1 |
 | FR | l'IA | l'I-A | 1 |
 | FR | ET | et | 1 |
 | FR | IBAN | Iban | 1 |
 | FR | esante.lu | esante point L-U | 1 |
 | FR | cns.lu | cns point L-U | 1 |
-| FR | FNS, fns.lu | F-N-S, fns point L-U | 1 |
+| FR | EBL | E-B-L | 1 |
+| FR | Ëmweltberodung | Eumvèlt-bérodoung | 1 |
+| FR | FNS, fns.lu | F-N-S, F-N-S point L-U | 1 |
 | FR | L'UE | L'U-E | 1 |
 | FR | + (FSE+ | plus (F-S-E plus | 1 |
 | FR | FSE | F-S-E | 1 |
@@ -249,43 +389,60 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 | FR | LU-Alert, l'AAA | L-U Alert, l'A-A-A | 1 |
 | FR | l'UNESCO | l'Unesco | 1 |
 | FR | granderegion.net | granderegion point net | 1 |
+| FR | info@iha.lu | info arobase I-H-A point L-U | 1 |
+| FR | SAMT | Samt | 1 |
+| FR | MOSAIK | Mosaik | 1 |
+| FR | 26 432 432 | deux six quatre trois deux quatre trois deux | 1 |
+| FR | CJF | C-J-F | 1 |
+| FR | Elterentelefon | Elteurènn-téléfone | 1 |
 | FR | 8-0-0-2, 1-1, 9-0 | huit zéro zéro deux, un un, neuf zéro | 1 |
+| FR | lar | L-A-R | 1 |
+| FR | Lëtz | Lets | 1 |
+| FR | du prett | dou prèt | 1 |
 | FR | lu-alert.lu | L-U tiret Alert point L-U | 1 |
 | FR | OTP | O-T-P | 1 |
-| FR | QR | Q-R | 1 |
 | FR | *(rires)* | ∅ | 1 |
-| FR | m-o | M-O | 1 |
 | FR | SIA | S-I-A | 1 |
 | FR | l'ATVA | l'A-T-V-A | 1 |
 | FR | BOOST | Boost | 1 |
+| FR | mediateursante | médiateur santé | 1 |
+| FR | GouvID | Gouv I-D | 1 |
 | FR | TVA | T-V-A | 1 |
 | FR | ARIS | Aris | 1 |
 | FR | REVIS, l'ONIS | Revis, l'Onis | 1 |
 | FR | o-n-i-s | O-N-I-S | 1 |
 | FR | LIH | L-I-H | 1 |
 | FR | LIST, LIH | List, L-I-H | 1 |
+| FR | 23 | vingt-trois | 1 |
+| FR | 2023 | deux mille vingt-trois | 1 |
+| FR | contact@talentdesk.lu | contact arobase talentdesk point L-U | 1 |
 | FR | l'IMD | l'I-M-D | 1 |
 | FR | UE | U-E | 1 |
+| DE | geroAKTIV | gero Aktiv | 1 |
+| DE | geroPRO | gero Pro | 1 |
+| DE | geroRESEARCH | gero Research | 1 |
+| DE | MEC | M-E-C | 1 |
 | DE | ADEM-Berater | Adem-Berater | 1 |
 | DE | ADEM-Agentur | Adem-Agentur | 1 |
 | DE | 2-4-7, 8-8-8-8-8 | zwei vier sieben, acht acht acht acht acht | 1 |
 | DE | PAN-Bio | Pan-Bio | 1 |
 | DE | GAP | G-A-P | 1 |
 | DE | 261210 | zwei sechs eins zwei eins null | 1 |
+| DE | QR-Code | Q-R-Code | 1 |
 | DE | CSU-112 | C-S-U eins-eins-zwei | 1 |
 | DE | CIS | C-I-S | 1 |
 | DE | CNIS | C-N-I-S | 1 |
 | DE | INFS | I-N-F-S | 1 |
-| DE | 112 | eins-eins-zwei | 1 |
-| DE | ASBL | A-S-B-L | 1 |
+| DE | CEC | C-E-C | 1 |
 | DE | IT-Kurse | I-T-Kurse | 1 |
 | DE | KI | K-I | 1 |
 | DE | UND | und | 1 |
 | DE | IT-Kenntnisse | I-T-Kenntnisse | 1 |
+| DE | du sang | dü Sang | 1 |
 | DE | IBAN | Iban | 1 |
 | DE | esante.lu | esante Punkt L-U | 1 |
 | DE | cns.lu | cns Punkt L-U | 1 |
-| DE | FNS, fns.lu | F-N-S, fns Punkt L-U | 1 |
+| DE | FNS, fns.lu | F-N-S, F-N-S Punkt L-U | 1 |
 | DE | REVIS-Bezieher | Revis-Bezieher | 1 |
 | DE | EFRE/FEDER | EFRE oder Feder | 1 |
 | DE | FEDER | Feder | 1 |
@@ -296,17 +453,33 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 | DE | UNESCO-Welterbestätten | Unesco-Welterbestätten | 1 |
 | DE | granderegion.net | granderegion Punkt net | 1 |
 | DE | / | oder | 1 |
+| DE | 1993 | neunzehnhundertdreiundneunzig | 1 |
+| DE | 2021 | zweitausendeinundzwanzig | 1 |
+| DE | info@iha.lu | info at I-H-A Punkt L-U | 1 |
+| DE | SAMT | Samt | 1 |
+| DE | MOSAIK | Mosaik | 1 |
+| DE | 2023 | zweitausenddreiundzwanzig | 1 |
+| DE | 26 432 432 | zwei sechs vier drei zwei vier drei zwei | 1 |
+| DE | 1992 | neunzehnhundertzweiundneunzig | 1 |
+| DE | CJF | C-J-F | 1 |
 | DE | 8-0-0-2, 1-1, 9-0 | acht null null zwei, eins eins, neun null | 1 |
+| DE | 1988 | neunzehnhundertachtundachtzig | 1 |
+| DE | lar | L-A-R | 1 |
+| DE | Lëtz | Lets | 1 |
+| DE | 1-1-3 | eins eins drei | 1 |
 | DE | lu-alert.lu | L-U Bindestrich Alert Punkt L-U | 1 |
 | DE | PIN-Code | Pin-Code | 1 |
 | DE | OTP | O-T-P | 1 |
 | DE | QR-Codes | Q-R-Codes | 1 |
 | DE | PIN | Pin | 1 |
 | DE | *(lacht)* | ∅ | 1 |
-| DE | m-o | M-O | 1 |
 | DE | SIA | S-I-A | 1 |
 | DE | ATVA | A-T-V-A | 1 |
 | DE | BOOST | Boost | 1 |
+| DE | mediateursante | médiateur santé | 1 |
+| DE | GouvID | Gouv I-D | 1 |
+| DE | EU-Landes | E-U-Landes | 1 |
+| DE | KI-Assistenten | K-I-Assistenten | 1 |
 | DE | REVIS-Reform | Revis-Reform | 1 |
 | DE | ARIS | Aris | 1 |
 | DE | o-n-i-s | O-N-I-S | 1 |
@@ -314,14 +487,15 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 | DE | REVIS-Scheck | Revis-Scheck | 1 |
 | DE | LIH | L-I-H | 1 |
 | DE | LIST, LIH | List, L-I-H | 1 |
+| DE | contact@talentdesk.lu | contact at talentdesk Punkt L-U | 1 |
 | DE | IMD | I-M-D | 1 |
 
 ## EN
 
 ### aaa (13)
 
-- **Anna:** People know it by its initials in French... AAA, the Association d'assurance accident.  
-  → People know it by its initials in French... A-A-A, the Association d'assurance accident.
+- **Anna:** People know it by its French initials: AAA, for Association d'assurance accident.  
+  → People know it by its French initials: A-A-A, for Association d'assurance accident.
 - **Tom:** So Anna, what exactly is the AAA?  
   → So Anna, what exactly is the A-A-A?
 - **Anna:** If something happens, what does the AAA actually do for you?  
@@ -332,8 +506,8 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → The A-A-A does a lot on workplace safety and health.
 - **Anna:** The key thing is that the accident must be declared to the AAA.  
   → The key thing is that the accident must be declared to the A-A-A.
-- **Anna:** It's also worth knowing the AAA is there to answer questions, with a contact service and a counter.  
-  → It's also worth knowing the A-A-A is there to answer questions, with a contact service and a counter.
+- **Anna:** It's also worth knowing the AAA is there to answer questions, with a contact service and a counter, and you can even book an appointment online.  
+  → It's also worth knowing the A-A-A is there to answer questions, with a contact service and a counter, and you can even book an appointment online.
 - **Tom:** First, know that accidents at work, on the way to work, and at school are covered by the AAA.  
   → First, know that accidents at work, on the way to work, and at school are covered by the A-A-A.
 - **Tom:** The AAA's advice can help keep your workplace safe.  
@@ -350,11 +524,11 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 ### accessibilite (14)
 
 - **Tom:** And that's why Luxembourg has built an official place online to bring it all together — a website called accessibilite dot l-u.  
-  → And that's why Luxembourg has built an official place online to bring it all together — a website called accessibilite dot L-U.
+  → And that's why Luxembourg has built an official place online to bring it all together — a website called accessibilité dot L-U.
 - **Anna:** accessibilite.lu.  
-  → accessibilite dot L-U.
+  → accessibilité dot L-U.
 - **Tom:** The infrastructure portal on accessibilite.lu has the rules, the procedures, and a toolbox.  
-  → The infrastructure portal on accessibilite dot L-U has the rules, the procedures, and a toolbox.
+  → The infrastructure portal on accessibilité dot L-U has the rules, the procedures, and a toolbox.
 - **Tom:** Think about a bank machine — an ATM.  
   → Think about a bank machine — an A-T-M.
 - **Tom:** In short it's called OSAPS — the office that watches over the accessibility of products and services.  
@@ -362,114 +536,155 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 - **Tom:** Online, through MyGuichet.lu — the State's digital platform.  
   → Online, through MyGuichet dot L-U — the State's digital platform.
 - **Tom:** accessibilite dot l-u.  
-  → accessibilite dot L-U.
+  → accessibilité dot L-U.
 - **Anna:** accessibilite.lu.  
-  → accessibilite dot L-U.
+  → accessibilité dot L-U.
 - **Tom:** Third — if a product or a service isn't accessible, you can report that too, through MyGuichet.lu.  
   → Third — if a product or a service isn't accessible, you can report that too, through MyGuichet dot L-U.
 - **Tom:** Luxembourg has one official hub — accessibilite.lu — for three areas of accessibility.  
-  → Luxembourg has one official hub — accessibilite dot L-U — for three areas of accessibility.
+  → Luxembourg has one official hub — accessibilité dot L-U — for three areas of accessibility.
 - **Tom:** And products and services, the newest, from the European Accessibility Act, applying since June 2025, watched over by the OSAPS office — with private companies now involved too.  
   → And products and services, the newest, from the European Accessibility Act, applying since June 2025, watched over by the Osaps office — with private companies now involved too.
 - **Anna:** accessibilite.lu.  
-  → accessibilite dot L-U.
+  → accessibilité dot L-U.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
   → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
 - **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
   → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 
-### adem (47)
+### activitesseniors (15)
+
+- **Tom:** The address is infosenior dot public dot l-u.  
+  → The address is infosenior dot public dot L-U.
+- **Anna:** The first one is GERO, the competence centre for old age.  
+  → The first one is Jero, the competence centre for old age.
+- **Tom:** And what does GERO do for people in everyday life?  
+  → And what does Jero do for people in everyday life?
+- **Anna:** GERO informs and trains people on everything about ageing.  
+  → Jero informs and trains people on everything about ageing.
+- **Tom:** I have heard that GERO has several departments.  
+  → I have heard that Jero has several departments.
+- **Anna:** The first is called geroAKTIV.  
+  → The first is called Jero Aktiv.
+- **Anna:** The second one, geroPRO, offers practical training to professionals who work with older people.  
+  → The second one, Jero Pro, offers practical training to professionals who work with older people.
+- **Anna:** The third one, geroRESEARCH, does applied research on ageing.  
+  → The third one, Jero Research, does applied research on ageing.
+- **Tom:** So GERO works for seniors, for professionals, and for knowledge.  
+  → So Jero works for seniors, for professionals, and for knowledge.
+- **Anna:** Super Senior is a service of the association MEC, which is based in Echternach.  
+  → Super Senior is a service of the association M-E-C, which is based in Echternach.
+- **Anna:** Go to infosenior dot public dot l-u and choose "Senior activities".  
+  → Go to infosenior dot public dot L-U and choose "Senior activities".
+- **Anna:** First: to stay active, to learn and to meet people, there are GERO, the Generatiounstreff of Amiperas, GoldenMe for the digital world, and Super Senior, where seniors help children.  
+  → First: to stay active, to learn and to meet people, there are Jero, the Generatiounstreff of Amiperas, GoldenMe for the digital world, and Super Senior, where seniors help children.
+- **Tom:** And all of them are together in one place, on infosenior dot public dot l-u.  
+  → And all of them are together in one place, on infosenior dot public dot L-U.
+- **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
+  → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
+- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
+  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
+
+### adem (51)
 
 - **Anna:** More precisely, we are talking about ADEM.  
-  → More precisely, we are talking about Adem.
+  → More precisely, we are talking about Addem.
 - **Tom:** ADEM.  
-  → Adem.
+  → Addem.
 - **Anna:** ADEM stands for the "Agence pour le développement de l'emploi".  
-  → Adem stands for the "Agence pour le développement de l'emploi".
+  → Addem stands for the "Agence pour le développement de l'emploi".
 - **Tom:** So ADEM sits in the middle, between people who are looking for a job, and companies that are looking for people.  
-  → So Adem sits in the middle, between people who are looking for a job, and companies that are looking for people.
+  → So Addem sits in the middle, between people who are looking for a job, and companies that are looking for people.
 - **Tom:** So Anna, who is ADEM actually for?  
-  → So Anna, who is Adem actually for?
+  → So Anna, who is Addem actually for?
 - **Tom:** Even if you have a job right now, ADEM might still be relevant one day.  
-  → Even if you have a job right now, Adem might still be relevant one day.
+  → Even if you have a job right now, Addem might still be relevant one day.
 - **Anna:** ADEM is there before, during, and after a job search.  
-  → Adem is there before, during, and after a job search.
+  → Addem is there before, during, and after a job search.
 - **Anna:** It means you can be reached easily by ADEM and by employers, and that you are ready to work for the hours you have indicated.  
-  → It means you can be reached easily by Adem and by employers, and that you are ready to work for the hours you have indicated.
+  → It means you can be reached easily by Addem and by employers, and that you are ready to work for the hours you have indicated.
 - **Tom:** So you register, and then a door opens to all of ADEM's help.  
-  → So you register, and then a door opens to all of Adem's help.
+  → So you register, and then a door opens to all of Addem's help.
 - **Anna:** After your registration is approved, you are invited to a first appointment with an ADEM counsellor.  
-  → After your registration is approved, you are invited to a first appointment with an Adem counsellor.
+  → After your registration is approved, you are invited to a first appointment with an Addem counsellor.
 - **Anna:** You register on MyGuichet dot lu.  
   → You register on MyGuichet dot L-U.
-- **Anna:** Then there is the second way... registering in person at an ADEM agency.  
-  → Then there is the second way... registering in person at an Adem agency.
+- **Tom:** And to log in, you need a secure authentication device, like a LuxTrust product, or your Luxembourg electronic ID card.  
+  → And to log in, you need a secure authentication device, like a LuxTrust product, or your Luxembourg electronic I-D card.
+- **Anna:** Then there is the second way, registering in person at an ADEM agency.  
+  → Then there is the second way, registering in person at an Addem agency.
 - **Tom:** The number is the ADEM Contact Centre, on 2-4-7, 8-8-8-8-8.  
-  → The number is the Adem Contact Centre, on two four seven, eight eight eight eight eight.
-- **Anna:** And ADEM has three locations... in Luxembourg City, in Esch-Belval, and in Diekirch.  
-  → And Adem has three locations... in Luxembourg City, in Esch-Belval, and in Diekirch.
-- **Anna:** Make sure your identity documents are valid... your ID card, passport, or residence permit.  
-  → Make sure your identity documents are valid... your I-D card, passport, or residence permit.
+  → The number is the Addem Contact Centre, on two four seven, eight eight eight eight eight.
+- **Anna:** And you can register in person at three ADEM agencies: in Luxembourg City, in Esch-Belval, and in Diekirch.  
+  → And you can register in person at three Addem agencies: in Luxembourg City, in Esch-Belval, and in Diekirch.
+- **Anna:** Make sure your identity documents are valid: your ID card, passport, or residence permit.  
+  → Make sure your identity documents are valid: your I-D card, passport, or residence permit.
 - **Tom:** And bring your CV, up to date, with your experience, your skills, your training, and the languages you speak.  
   → And bring your C-V, up to date, with your experience, your skills, your training, and the languages you speak.
 - **Tom:** You can register with ADEM even if you still have a job.  
-  → You can register with Adem even if you still have a job.
+  → You can register with Addem even if you still have a job.
 - **Anna:** As long as you meet ADEM's requirements and you can attend the appointments, you don't have to wait until you are unemployed.  
-  → As long as you meet Adem's requirements and you can attend the appointments, you don't have to wait until you are unemployed.
+  → As long as you meet Addem's requirements and you can attend the appointments, you don't have to wait until you are unemployed.
 - **Anna:** The JobBoard is ADEM's platform of job offers.  
-  → The JobBoard is Adem's platform of job offers.
+  → The JobBoard is Addem's platform of job offers.
 - **Tom:** You can also upload your CV there, so employers can find you.  
   → You can also upload your C-V there, so employers can find you.
-- **Anna:** There you can use computers and get help preparing your CV.  
-  → There you can use computers and get help preparing your C-V.
-- **Anna:** So you are expected to take steps on your own... reply to job adverts, send applications, search the JobBoard, keep your CV updated.  
-  → So you are expected to take steps on your own... reply to job adverts, send applications, search the JobBoard, keep your C-V updated.
-- **Anna:** And you tell ADEM about changes that affect your availability... a move, a new phone number, the start of a job, an illness, and so on.  
-  → And you tell Adem about changes that affect your availability... a move, a new phone number, the start of a job, an illness, and so on.
+- **Anna:** There you can use computers, get help with your CV and cover letter, even have a photo taken for your CV, and join group workshops.  
+  → There you can use computers, get help with your C-V and cover letter, even have a photo taken for your C-V, and join group workshops.
+- **Anna:** So you are expected to take steps on your own: reply to job adverts, send applications, search the JobBoard, keep your CV updated.  
+  → So you are expected to take steps on your own: reply to job adverts, send applications, search the JobBoard, keep your C-V updated.
+- **Anna:** And you tell ADEM about changes that affect your availability: a move, a new phone number, the start of a job, an illness, and so on.  
+  → And you tell Addem about changes that affect your availability: a move, a new phone number, the start of a job, an illness, and so on.
 - **Tom:** ADEM supports you, and you stay active and in contact.  
-  → Adem supports you, and you stay active and in contact.
+  → Addem supports you, and you stay active and in contact.
 - **Tom:** During that approved leave you are exempt from your obligations to ADEM, a bit like holidays.  
-  → During that approved leave you are exempt from your obligations to Adem, a bit like holidays.
-- **Anna:** Now let's talk about money, because many people come to ADEM for this... unemployment benefit.  
-  → Now let's talk about money, because many people come to Adem for this... unemployment benefit.
+  → During that approved leave you are exempt from your obligations to Addem, a bit like holidays.
+- **Anna:** Now let's talk about money, because many people come to ADEM for this: unemployment benefit.  
+  → Now let's talk about money, because many people come to Addem for this: unemployment benefit.
 - **Anna:** To apply for unemployment benefit, you must first be registered as a jobseeker with ADEM.  
-  → To apply for unemployment benefit, you must first be registered as a jobseeker with Adem.
+  → To apply for unemployment benefit, you must first be registered as a jobseeker with Addem.
 - **Tom:** Once your jobseeker file is open, ADEM checks automatically whether you may be entitled to benefits, based on your situation.  
-  → Once your jobseeker file is open, Adem checks automatically whether you may be entitled to benefits, based on your situation.
-- **Tom:** And there's a clear timeframe... within four months of registering with ADEM.  
-  → And there's a clear timeframe... within four months of registering with Adem.
+  → Once your jobseeker file is open, Addem checks automatically whether you may be entitled to benefits, based on your situation.
+- **Tom:** If you meet the conditions, ADEM sends you a letter, and you complete your application online, on MyGuichet.lu.  
+  → If you meet the conditions, Addem sends you a letter, and you complete your application online, on MyGuichet dot L-U.
+- **Tom:** And there's a clear timeframe: within four months of registering with ADEM.  
+  → And there's a clear timeframe: within four months of registering with Addem.
 - **Tom:** So if you are young and unsure what to do next, ADEM is a very good place to start.  
-  → So if you are young and unsure what to do next, Adem is a very good place to start.
+  → So if you are young and unsure what to do next, Addem is a very good place to start.
 - **Anna:** ADEM also has dedicated support for people with a disability, or with reduced work capacity.  
-  → Adem also has dedicated support for people with a disability, or with reduced work capacity.
-- **Tom:** Let's not forget the other side of ADEM... the employers.  
-  → Let's not forget the other side of Adem... the employers.
+  → Addem also has dedicated support for people with a disability, or with reduced work capacity.
+- **Tom:** Let's not forget the other side of ADEM: the employers.  
+  → Let's not forget the other side of Addem: the employers.
 - **Anna:** In Luxembourg, employers are actually required to declare their vacant positions to ADEM.  
-  → In Luxembourg, employers are actually required to declare their vacant positions to Adem.
+  → In Luxembourg, employers are actually required to declare their vacant positions to Addem.
 - **Tom:** ADEM connects them with candidates from its pool of jobseekers.  
-  → Adem connects them with candidates from its pool of jobseekers.
+  → Addem connects them with candidates from its pool of jobseekers.
 - **Tom:** So ADEM doesn't just help individuals.  
-  → So Adem doesn't just help individuals.
-- **Tom:** Sometimes scammers send fake emails pretending to be ADEM, and they ask for money for a job or a visa.  
-  → Sometimes scammers send fake emails pretending to be Adem, and they ask for money for a job or a visa.
-- **Anna:** Please remember this clearly... ADEM never asks you to pay for a job or a visa.  
-  → Please remember this clearly... Adem never asks you to pay for a job or a visa.
-- **Tom:** If anyone asks you for payment in ADEM's name, it is a scam.  
-  → If anyone asks you for payment in Adem's name, it is a scam.
-- **Anna:** To deal with ADEM, you should speak at least one of Luxembourg's administrative languages... Luxembourgish, French, or German, or else English.  
-  → To deal with Adem, you should speak at least one of Luxembourg's administrative languages... Luxembourgish, French, or German, or else English.
+  → So Addem doesn't just help individuals.
+- **Tom:** And since 2026 there's even a national website, workinluxembourg.com.  
+  → And since 2026 there's even a national website, workinluxembourg dot com.
+- **Tom:** Sometimes scammers send fake emails or create fake social-media accounts pretending to be ADEM.  
+  → Sometimes scammers send fake emails or create fake social-media accounts pretending to be Addem.
+- **Anna:** ADEM never asks you to pay for a job or a visa.  
+  → Addem never asks you to pay for a job or a visa.
+- **Tom:** If anyone asks you for payment or personal details in ADEM's name, it is a scam.  
+  → If anyone asks you for payment or personal details in Addem's name, it is a scam.
+- **Tom:** Don't pay, don't click, and check ADEM's official channels on its website.  
+  → Don't pay, don't click, and check Addem's official channels on its website.
+- **Anna:** To deal with ADEM, you should speak at least one of Luxembourg's administrative languages.  
+  → To deal with Addem, you should speak at least one of Luxembourg's administrative languages.
 - **Anna:** What should people remember about ADEM?  
-  → What should people remember about Adem?
-- **Tom:** First... ADEM is Luxembourg's free, public employment service, for jobseekers, employees, and employers.  
-  → First... Adem is Luxembourg's free, public employment service, for jobseekers, employees, and employers.
-- **Tom:** Third... you register online on MyGuichet dot lu with a secure login, or in person by appointment in Luxembourg, Esch-Belval, or Diekirch.  
-  → Third... you register online on MyGuichet dot L-U with a secure login, or in person by appointment in Luxembourg, Esch-Belval, or Diekirch.
-- **Anna:** And remember the safety rule... ADEM never asks for payment.  
-  → And remember the safety rule... Adem never asks for payment.
+  → What should people remember about Addem?
+- **Tom:** First, ADEM is Luxembourg's free, public employment service, for jobseekers, employees, and employers.  
+  → First, Addem is Luxembourg's free, public employment service, for jobseekers, employees, and employers.
+- **Tom:** Third, you register online on MyGuichet dot lu with a secure login, or in person by appointment in Luxembourg, Esch-Belval, or Diekirch.  
+  → Third, you register online on MyGuichet dot L-U with a secure login, or in person by appointment in Luxembourg, Esch-Belval, or Diekirch.
+- **Anna:** And remember the safety rule: ADEM never asks for payment.  
+  → And remember the safety rule: Addem never asks for payment.
 - **Anna:** ADEM is there to walk beside you.  
-  → Adem is there to walk beside you.
+  → Addem is there to walk beside you.
 - **Anna:** That was our episode about ADEM.  
-  → That was our episode about Adem.
+  → That was our episode about Addem.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
   → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
 - **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
@@ -485,10 +700,10 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Asta is the technical agricultural services administration.
 - **Anna:** Luxembourg has a plan, called PAN-Bio, to grow the share of organic farming in the country.  
   → Luxembourg has a plan, called Pan-Bio, to grow the share of organic farming in the country.
-- **Tom:** First... the agriculture portal, agriculture dot public dot lu, covers farming, food and wine, from the Ministry of Agriculture, Food and Viticulture.  
-  → First... the agriculture portal, agriculture dot public dot L-U, covers farming, food and wine, from the Ministry of Agriculture, Food and Viticulture.
-- **Anna:** Second... specialised bodies support it... ASTA for technical services, the wine institute in Remich, and a body for animal welfare and food safety.  
-  → Second... specialised bodies support it... Asta for technical services, the wine institute in Remich, and a body for animal welfare and food safety.
+- **Tom:** First, the agriculture portal, agriculture dot public dot lu, covers farming, food and wine, from the Ministry of Agriculture, Food and Viticulture.  
+  → First, the agriculture portal, agriculture dot public dot L-U, covers farming, food and wine, from the Ministry of Agriculture, Food and Viticulture.
+- **Anna:** Second, specialised bodies support it: ASTA for technical services, the wine institute in Remich, and ALVA for animal welfare and food safety.  
+  → Second, specialised bodies support it: Asta for technical services, the wine institute in Remich, and ALVA for animal welfare and food safety.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
   → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
 - **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
@@ -526,8 +741,39 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 - **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
   → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 
-### cepas (3)
+### ccss (13)
 
+- **Tom:** And one organisation plays a central role here: the Social Security Centre, known by the four letters CCSS.  
+  → And one organisation plays a central role here: the Social Security Centre, known by the four letters C-C-S-S.
+- **Anna:** Its website is ccss dot l-u, and it exists in French, German and English.  
+  → Its website is C-C-S-S dot L-U, and it exists in French, German and English.
+- **Anna:** For most employees, health is handled by the National Health Fund, the CNS.  
+  → For most employees, health is handled by the National Health Fund, the C-N-S.
+- **Anna:** And if you need a proof urgently, your health fund can give you a provisional certificate through MyGuichet dot l-u.  
+  → And if you need a proof urgently, your health fund can give you a provisional certificate through MyGuichet dot L-U.
+- **Anna:** Yes, on MyGuichet dot l-u.  
+  → Yes, on MyGuichet dot L-U.
+- **Anna:** Quite a lot: on the website ccss dot l-u, you find explanations for employees, employers, self-employed people and farmers, and all the forms.  
+  → Quite a lot: on the website C-C-S-S dot L-U, you find explanations for employees, employers, self-employed people and farmers, and all the forms.
+- **Anna:** In your private space on MyGuichet dot l-u, you can create a certificate of affiliation in a few moments and download it.  
+  → In your private space on MyGuichet dot L-U, you can create a certificate of affiliation in a few moments and download it.
+- **Anna:** The certificate carries a QR code.  
+  → The certificate carries a Q-R code.
+- **Anna:** Cross-border workers can report their new address through MyGuichet dot l-u.  
+  → Cross-border workers can report their new address through MyGuichet dot L-U.
+- **Anna:** Your employer registers you with the Social Security Centre, the CCSS.  
+  → Your employer registers you with the Social Security Centre, the C-C-S-S.
+- **Tom:** You can find all the information on ccss dot l-u.  
+  → You can find all the information on C-C-S-S dot L-U.
+- **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
+  → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
+- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
+  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
+
+### cepas (4)
+
+- **Anna:** So in each lycée, there are professionals a young person can talk to.  
+  → So in each leessay, there are professionals a young person can talk to.
 - **Tom:** And fourth... these services connect with others, like the ONE, so help can be coordinated.  
   → And fourth... these services connect with others, like the O-N-E, so help can be coordinated.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
@@ -535,7 +781,70 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 - **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
   → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 
-### cgdis (26)
+### cet (30)
+
+- **Tom:** That is exactly why we are talking today about the CET, the Centre for Equal Treatment.  
+  → That is exactly why we are talking today about the C-E-T, the Centre for Equal Treatment.
+- **Tom:** Its website is cet dot l-u.  
+  → Its website is C-E-T dot L-U.
+- **Anna:** The three letters CET come from its French name: Centre pour l'égalité de traitement.  
+  → The three letters C-E-T come from its French name: Centre pour l'égalité de traitement.
+- **Tom:** Has the CET existed for a long time?  
+  → Has the C-E-T existed for a long time?
+- **Anna:** The CET is led by a college of five members, and one of them is the president.  
+  → The C-E-T is led by a college of five members, and one of them is the president.
+- **Anna:** Yes, and every year the CET sends a report about its activities to the Government and to the Chamber of Deputies.  
+  → Yes, and every year the C-E-T sends a report about its activities to the Government and to the Chamber of Deputies.
+- **Tom:** The CET can act on six grounds of discrimination.  
+  → The C-E-T can act on six grounds of discrimination.
+- **Tom:** The second ground is sex, and for the CET that includes gender identity.  
+  → The second ground is sex, and for the C-E-T that includes gender identity.
+- **Tom:** The law also names nationality, but the website clearly says that the CET does not handle complaints based on nationality.  
+  → The law also names nationality, but the website clearly says that the C-E-T does not handle complaints based on nationality.
+- **Tom:** But the CET itself can only step in for its six grounds.  
+  → But the C-E-T itself can only step in for its six grounds.
+- **Tom:** For people who feel that they are victims of discrimination, the CET has an advice and guidance service.  
+  → For people who feel that they are victims of discrimination, the C-E-T has an advice and guidance service.
+- **Tom:** The CET informs them about their individual rights, about the law and earlier court decisions, and about the ways to assert their rights.  
+  → The C-E-T informs them about their individual rights, about the law and earlier court decisions, and about the ways to assert their rights.
+- **Anna:** Does the CET also work for society as a whole?  
+  → Does the C-E-T also work for society as a whole?
+- **Tom:** Yes, the CET can publish reports, give opinions and recommendations, and carry out studies on all questions linked to discrimination.  
+  → Yes, the C-E-T can publish reports, give opinions and recommendations, and carry out studies on all questions linked to discrimination.
+- **Tom:** The CET also produces information and documentation, and it runs awareness campaigns.  
+  → The C-E-T also produces information and documentation, and it runs awareness campaigns.
+- **Anna:** Does the CET have a special role for people with a disability?  
+  → Does the C-E-T have a special role for people with a disability?
+- **Anna:** There is also something that the CET does not do.  
+  → There is also something that the C-E-T does not do.
+- **Tom:** Now imagine that you want to contact the CET.  
+  → Now imagine that you want to contact the C-E-T.
+- **Tom:** You can write to the CET in Luxembourgish, German, French or English.  
+  → You can write to the C-E-T in Luxembourgish, German, French or English.
+- **Anna:** Are there other ways to reach the CET?  
+  → Are there other ways to reach the C-E-T?
+- **Tom:** Yes, you can also phone, send a letter, or write an email to info at cet dot l-u.  
+  → Yes, you can also phone, send a letter, or write an email to info at C-E-T dot L-U.
+- **Tom:** The CET treats your personal data confidentially, and information about individual cases is covered by professional secrecy.  
+  → The C-E-T treats your personal data confidentially, and information about individual cases is covered by professional secrecy.
+- **Anna:** You find explanations about discrimination and about your rights, the national and European laws, the publications of the CET, and a page with frequently asked questions.  
+  → You find explanations about discrimination and about your rights, the national and European laws, the publications of the C-E-T, and a page with frequently asked questions.
+- **Anna:** Under a law of 2023, the CET is the competent authority to receive such reports in its own field.  
+  → Under a law of 2023, the C-E-T is the competent authority to receive such reports in its own field.
+- **Anna:** First: the CET, the Centre for Equal Treatment, is an independent body that promotes and monitors equal treatment in Luxembourg.  
+  → First: the C-E-T, the Centre for Equal Treatment, is an independent body that promotes and monitors equal treatment in Luxembourg.
+- **Tom:** And fourth: if you feel discriminated against, or if you saw discrimination, you can report it to the CET and get advice about your rights.  
+  → And fourth: if you feel discriminated against, or if you saw discrimination, you can report it to the C-E-T and get advice about your rights.
+- **Anna:** You can find all the information, and the contact form, on cet dot l-u.  
+  → You can find all the information, and the contact form, on C-E-T dot L-U.
+- **Anna:** That was our episode about the CET, the Centre for Equal Treatment.  
+  → That was our episode about the C-E-T, the Centre for Equal Treatment.
+- **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
+  → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
+- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
+  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
+
+### cgdis (16)
 
 - **Anna:** The answer is an organisation called the CGDIS, and a number you must never forget... 1-1-2.  
   → The answer is an organisation called the C-G-D-I-S, and a number you must never forget... one-one-two.
@@ -543,74 +852,54 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → In Luxembourg, in any emergency, you call one-one-two.
 - **Anna:** You call 1-1-2 for a fire, for a serious accident, or for a medical emergency... someone badly hurt, or whose life is in danger.  
   → You call one-one-two for a fire, for a serious accident, or for a medical emergency... someone badly hurt, or whose life is in danger.
-- **Tom:** So Anna, what exactly is the CGDIS?  
-  → So Anna, what exactly is the C-G-D-I-S?
 - **Anna:** CGDIS stands for the Corps grand-ducal d'incendie et de secours.  
   → C-G-D-I-S stands for the Corps grand-ducal d'incendie et de secours.
-- **Tom:** Let's talk about what the CGDIS actually does.  
-  → Let's talk about what the C-G-D-I-S actually does.
 - **Anna:** When you dial 1-1-2, where does it go?  
   → When you dial one-one-two, where does it go?
 - **Tom:** It goes to the emergency call centre, the CSU-112.  
   → It goes to the emergency call centre, the C-S-U one-one-two.
 - **Tom:** 1-1-2 is for real emergencies.  
   → one-one-two is for real emergencies.
-- **Anna:** Now let's talk about the people behind the CGDIS, because their story is remarkable.  
-  → Now let's talk about the people behind the C-G-D-I-S, because their story is remarkable.
-- **Tom:** The CGDIS has professional firefighters, who do this as their full-time job.  
-  → The C-G-D-I-S has professional firefighters, who do this as their full-time job.
-- **Tom:** Let's look briefly at how the CGDIS is organised across the country.  
-  → Let's look briefly at how the C-G-D-I-S is organised across the country.
 - **Anna:** There are fire and rescue stations, called CIS, spread all over Luxembourg, so help is never far away.  
   → There are fire and rescue stations, called C-I-S, spread all over Luxembourg, so help is never far away.
 - **Tom:** There is a national centre, the CNIS, near Luxembourg City, which coordinates the whole system.  
   → There is a national centre, the C-N-I-S, near Luxembourg City, which coordinates the whole system.
-- **Anna:** The CGDIS welcomes new volunteers.  
-  → The C-G-D-I-S welcomes new volunteers.
-- **Tom:** Let's also talk about training and prevention, because the CGDIS does more than respond to emergencies.  
-  → Let's also talk about training and prevention, because the C-G-D-I-S does more than respond to emergencies.
 - **Anna:** It has a national training institute, the INFS, which trains its rescuers to a high standard.  
   → It has a national training institute, the I-N-F-S, which trains its rescuers to a high standard.
-- **Tom:** The CGDIS also gives fire-prevention advice... simple things that keep your home safer.  
-  → The C-G-D-I-S also gives fire-prevention advice... simple things that keep your home safer.
-- **Anna:** So the CGDIS is there before, during, and after an emergency.  
-  → So the C-G-D-I-S is there before, during, and after an emergency.
 - **Anna:** First, and most important... in any emergency in Luxembourg, call 1-1-2.  
   → First, and most important... in any emergency in Luxembourg, call one-one-two.
-- **Anna:** And fifth, if it speaks to you, think about becoming a volunteer with the CGDIS.  
-  → And fifth, if it speaks to you, think about becoming a volunteer with the C-G-D-I-S.
 - **Anna:** First... the CGDIS is Luxembourg's national fire and rescue service, created in 2018.  
   → First... the C-G-D-I-S is Luxembourg's national fire and rescue service, created in 2018.
 - **Tom:** Second... in any emergency, you call 1-1-2, free, any phone, day or night.  
   → Second... in any emergency, you call one-one-two, free, any phone, day or night.
-- **Anna:** That was our episode about the CGDIS and the emergency number 112.  
-  → That was our episode about the C-G-D-I-S and the emergency number one-one-two.
+- **Anna:** That was our episode about Luxembourg's fire and rescue corps and the emergency number 112.  
+  → That was our episode about Luxembourg's fire and rescue corps and the emergency number one-one-two.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
   → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
 - **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
   → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 
-### clarvia (7)
+### clubaktivplus (6)
 
-- **Anna:** Clarvia is a Luxembourg non-profit — an ASBL — founded in 2026.  
-  → Clarvia is a Luxembourg non-profit — an A-S-B-L — founded in 2026.
-- **Anna:** An early version — they call it an alpha version — is already available on their website, clarvia.org.  
-  → An early version — they call it an alpha version — is already available on their website, clarvia dot org.
-- **Anna:** Every step in the checklist is mapped back to an official government source — for example Guichet.lu.  
-  → Every step in the checklist is mapped back to an official government source — for example Guichet dot L-U.
-- **Anna:** If you have already managed the practical steps after losing someone in Luxembourg, you can share your experience on clarvia.org — what was hardest, which documents were difficult, what would have helped.  
-  → If you have already managed the practical steps after losing someone in Luxembourg, you can share your experience on clarvia dot org — what was hardest, which documents were difficult, what would have helped.
-- **Anna:** It's free, it protects your privacy, and the first version is already on clarvia.org.  
-  → It's free, it protects your privacy, and the first version is already on clarvia dot org.
+- **Anna:** The address is clubaktivplus dot l-u, written in one word.  
+  → The address is Club Aktiv Plus dot L-U, written in one word.
+- **Tom:** What do we find on clubaktivplus dot l-u?  
+  → What do we find on Club Aktiv Plus dot L-U?
+- **Anna:** The address is contact at clubaktivplus dot l-u.  
+  → The address is contact at Club Aktiv Plus dot L-U.
+- **Anna:** You can find all the clubs and their programmes on clubaktivplus dot l-u.  
+  → You can find all the clubs and their programmes on Club Aktiv Plus dot L-U.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
   → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
 - **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
   → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 
-### cnap (25)
+### cnap (26)
 
 - **Tom:** In Luxembourgish, people call it the Pensiounskeess — the pension fund.  
-  → In Luxembourgish, people call it the Pen-see-ouns-kayss — the pension fund.
+  → In Luxembourgish, people call it the Pen-si-yons-kees — the pension fund.
+- **Tom:** Its official name is the Caisse nationale d'assurance pension.  
+  → Its official name is the Kess nassyonal dassuranss pansyon.
 - **Anna:** The CNAP.  
   → The C-N-A-P.
 - **Tom:** The website is c-n-a-p dot public dot l-u.  
@@ -619,8 +908,8 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → What is the C-N-A-P?
 - **Tom:** The CNAP is the public office that pays the pensions of the general scheme.  
   → The C-N-A-P is the public office that pays the pensions of the general scheme.
-- **Anna:** And what exactly does the CNAP do?  
-  → And what exactly does the C-N-A-P do?
+- **Anna:** Good — and what exactly does the CNAP do?  
+  → Good — and what exactly does the C-N-A-P do?
 - **Tom:** You send a pension application to the CNAP — the forms are on the website.  
   → You send a pension application to the C-N-A-P — the forms are on the website.
 - **Tom:** The CNAP sends you a career statement every year, automatically, if you were insured the year before.  
@@ -648,13 +937,113 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 - **Tom:** The CNAP has a pension hotline — the number is on the website.  
   → The C-N-A-P has a pension hotline — the number is on the website.
 - **Tom:** The Pensiounskeess — the CNAP — pays the pensions of the private sector and the self-employed.  
-  → The Pen-see-ouns-kayss — the C-N-A-P — pays the pensions of the private sector and the self-employed.
+  → The Pen-si-yons-kees — the C-N-A-P — pays the pensions of the private sector and the self-employed.
 - **Tom:** One application at the CNAP is enough.  
   → One application at the C-N-A-P is enough.
 - **Tom:** And for everything — forms, the payment calendar, the reform news, the hotline — one address: c-n-a-p dot public dot l-u.  
   → And for everything — forms, the payment calendar, the reform news, the hotline — one address: C-N-A-P dot public dot L-U.
 - **Anna:** That was our episode about the Pensiounskeess.  
-  → That was our episode about the Pen-see-ouns-kayss.
+  → That was our episode about the Pen-si-yons-kees.
+- **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
+  → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
+- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
+  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
+
+### cnpd (25)
+
+- **Tom:** And in Luxembourg, there is an authority that checks how such data is used: the CNPD.  
+  → And in Luxembourg, there is an authority that checks how such data is used: the C-N-P-D.
+- **Tom:** So what kind of organisation is the CNPD?  
+  → So what kind of organisation is the C-N-P-D?
+- **Tom:** And which rules does the CNPD supervise in its daily work?  
+  → And which rules does the C-N-P-D supervise in its daily work?
+- **Anna:** Most people simply say GDPR.  
+  → Most people simply say G-D-P-R.
+- **Anna:** In Luxembourg, there are also national laws, for example a law of 1 August 2018 that organises the CNPD.  
+  → In Luxembourg, there are also national laws, for example a law of 1 August 2018 that organises the C-N-P-D.
+- **Tom:** Is there anything that the CNPD does not supervise?  
+  → Is there anything that the C-N-P-D does not supervise?
+- **Tom:** The website of the CNPD presents your rights one by one.  
+  → The website of the C-N-P-D presents your rights one by one.
+- **Tom:** The CNPD also offers model letters on its website, for example for the right of access.  
+  → The C-N-P-D also offers model letters on its website, for example for the right of access.
+- **Anna:** Then you can lodge a complaint with the CNPD.  
+  → Then you can lodge a complaint with the C-N-P-D.
+- **Anna:** The CNPD recommends its online complaint form, which you find on its website.  
+  → The C-N-P-D recommends its online complaint form, which you find on its website.
+- **Tom:** Once your complaint has arrived, the CNPD first checks whether it is justified.  
+  → Once your complaint has arrived, the C-N-P-D first checks whether it is justified.
+- **Tom:** Then the CNPD has real powers.  
+  → Then the C-N-P-D has real powers.
+- **Tom:** Then you can exercise your rights indirectly, through the CNPD.  
+  → Then you can exercise your rights indirectly, through the C-N-P-D.
+- **Anna:** Can the CNPD award me money as compensation?  
+  → Can the C-N-P-D award me money as compensation?
+- **Tom:** The CNPD suggests that you consult a lawyer for this.  
+  → The C-N-P-D suggests that you consult a lawyer for this.
+- **Tom:** You can also go to court if you are not satisfied with what the CNPD did.  
+  → You can also go to court if you are not satisfied with what the C-N-P-D did.
+- **Anna:** The CNPD does much more than handle complaints.  
+  → The C-N-P-D does much more than handle complaints.
+- **Tom:** Can I simply ask the CNPD a question, without making a complaint?  
+  → Can I simply ask the C-N-P-D a question, without making a complaint?
+- **Tom:** The website itself is cnpd dot l-u, and it exists in French, English and German.  
+  → The website itself is C-N-P-D dot L-U, and it exists in French, English and German.
+- **Anna:** First: the GDPR gives you rights that let you control how your personal data is used.  
+  → First: the G-D-P-R gives you rights that let you control how your personal data is used.
+- **Tom:** Fourth: if that does not work, you can lodge a complaint with the CNPD, the National Commission for Data Protection, with the form on its website.  
+  → Fourth: if that does not work, you can lodge a complaint with the C-N-P-D, the National Commission for Data Protection, with the form on its website.
+- **Anna:** You find all the information on cnpd dot l-u.  
+  → You find all the information on C-N-P-D dot L-U.
+- **Anna:** That was our episode about the CNPD and your data protection rights.  
+  → That was our episode about the C-N-P-D and your data protection rights.
+- **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
+  → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
+- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
+  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
+
+### consommateurs (22)
+
+- **Anna:** The first one is the ULC, the consumer association of Luxembourg.  
+  → The first one is the U-L-C, the consumer association of Luxembourg.
+- **Anna:** Let's begin with the ULC.  
+  → Let's begin with the U-L-C.
+- **Anna:** Is the ULC part of the State, or is it independent?  
+  → Is the U-L-C part of the State, or is it independent?
+- **Tom:** The ULC represents consumers before public authorities, politicians and the courts, and it gives its opinion on new laws.  
+  → The U-L-C represents consumers before public authorities, politicians and the courts, and it gives its opinion on new laws.
+- **Anna:** Even if you are not a member, you can call the ULC for a first telephone consultation, and it is free.  
+  → Even if you are not a member, you can call the U-L-C for a first telephone consultation, and it is free.
+- **Anna:** The ULC also helps its members with questions about renting a home, so about the contract between a tenant and a landlord.  
+  → The U-L-C also helps its members with questions about renting a home, so about the contract between a tenant and a landlord.
+- **Anna:** Then the ULC can pay a part of the costs of a lawyer or of an expert.  
+  → Then the U-L-C can pay a part of the costs of a lawyer or of an expert.
+- **Anna:** Members also receive the magazine of the ULC, and the results of its product tests.  
+  → Members also receive the magazine of the U-L-C, and the results of its product tests.
+- **Anna:** Are there things that the ULC cannot do?  
+  → Are there things that the U-L-C cannot do?
+- **Tom:** And for problems with travel or with insurance, the ULC has built special solutions together with the professionals of these sectors.  
+  → And for problems with travel or with insurance, the U-L-C has built special solutions together with the professionals of these sectors.
+- **Tom:** For package travel, there is the Luxembourg commission for travel disputes, which the ULC runs together with the travel agencies.  
+  → For package travel, there is the Luxembourg commission for travel disputes, which the U-L-C runs together with the travel agencies.
+- **Anna:** Where can we find the ULC, and does it have a website?  
+  → Where can we find the U-L-C, and does it have a website?
+- **Tom:** Its office is in Howald, and consultations there are by appointment only.  
+  → Its office is in Hoh-wald, and consultations there are by appointment only.
+- **Tom:** The website is ulc dot l-u, in French and in German.  
+  → The website is U-L-C dot L-U, in French and in German.
+- **Anna:** Many people here simply say CEC, the three letters of its French name.  
+  → Many people here simply say C-E-C, the three letters of its French name.
+- **Anna:** It is financed together by the European Commission, the Luxembourg State and the ULC.  
+  → It is financed together by the European Commission, the Luxembourg State and the U-L-C.
+- **Anna:** You find all of this on the website of the centre, at cecluxembourg dot l-u.  
+  → You find all of this on the website of the centre, at C-E-C Luxembourg dot L-U.
+- **Anna:** First: for a problem with a professional in Luxembourg, the ULC is your contact.  
+  → First: for a problem with a professional in Luxembourg, the U-L-C is your contact.
+- **Anna:** You find them on ulc dot l-u and on cecluxembourg dot l-u.  
+  → You find them on U-L-C dot L-U and on C-E-C Luxembourg dot L-U.
+- **Anna:** That was our episode about consumer protection, with the ULC and the European Consumer Centre.  
+  → That was our episode about consumer protection, with the U-L-C and the European Consumer Centre.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
   → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
 - **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
@@ -662,10 +1051,10 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 
 ### culture (4)
 
-- **Tom:** That's exactly where today's tool comes in... the culture portal, at culture dot lu.  
-  → That's exactly where today's tool comes in... the culture portal, at culture dot L-U.
-- **Anna:** First... culture dot lu gathers Luxembourg's cultural life in one place, supported by the Ministry of Culture.  
-  → First... culture dot L-U gathers Luxembourg's cultural life in one place, supported by the Ministry of Culture.
+- **Tom:** That's exactly where today's tool comes in: the culture portal, at culture dot lu.  
+  → That's exactly where today's tool comes in: the culture portal, at culture dot L-U.
+- **Anna:** First, culture dot lu gathers Luxembourg's cultural life in one place, supported by the Ministry of Culture.  
+  → First, culture dot L-U gathers Luxembourg's cultural life in one place, supported by the Ministry of Culture.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
   → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
 - **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
@@ -701,7 +1090,22 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 - **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
   → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 
-### dsp_cns (32)
+### dondusang (6)
+
+- **Tom:** Then you're the right person for today's topic: blood donation in Luxembourg, and the website dondusang dot l-u.  
+  → Then you're the right person for today's topic: blood donation in Luxembourg, and the website dawn dew sahn dot L-U.
+- **Anna:** "Don du sang" is French, and it simply means "blood donation".  
+  → "dawn dew sahn" is French, and it simply means "blood donation".
+- **Anna:** You make an appointment on dondusang dot l-u.  
+  → You make an appointment on dawn dew sahn dot L-U.
+- **Anna:** And fourth: everything starts on dondusang dot l-u — the online test, the appointment, the places and the dates.  
+  → And fourth: everything starts on dawn dew sahn dot L-U — the online test, the appointment, the places and the dates.
+- **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
+  → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
+- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
+  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
+
+### dsp_cns (36)
 
 - **Anna:** And second, how you get your money back from the health insurance, the CNS.  
   → And second, how you get your money back from the health insurance, the C-N-S.
@@ -711,12 +1115,16 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → With the D-S-P, the doctor on duty can see your essential information.
 - **Anna:** It's you, the patient, who decides who can look at your DSP.  
   → It's you, the patient, who decides who can look at your D-S-P.
+- **Anna:** You can even block access to certain documents — and you can close your DSP at any time.  
+  → You can even block access to certain documents — and you can close your D-S-P at any time.
 - **Tom:** So how do I actually open a DSP?  
   → So how do I actually open a D-S-P?
-- **Anna:** And here's good news: you can activate it directly through MyGuichet.lu.  
-  → And here's good news: you can activate it directly through MyGuichet dot L-U.
-- **Anna:** You log in to your DSP online, through the eSanté portal.  
-  → You log in to your D-S-P online, through the eSanté portal.
+- **Anna:** If you're affiliated to the Luxembourg health insurance, your DSP is created automatically.  
+  → If you're affiliated to the Luxembourg health insurance, your D-S-P is created automatically.
+- **Anna:** With LuxTrust or a Luxembourg ID card, you can do that in a few clicks on MyGuichet.lu — on the website or in the app — without waiting for a code by post.  
+  → With LuxTrust or a Luxembourg I-D card, you can do that in a few clicks on MyGuichet dot L-U — on the website or in the app — without waiting for a code by post.
+- **Anna:** Then you can open your DSP right in your MyGuichet eSpace, or on the eSanté portal.  
+  → Then you can open your D-S-P right in your MyGuichet eSpace, or on the eSanté portal.
 - **Tom:** So, to sum up the first half — the DSP is my free, secure, online health file, run by the Agence eSanté, it helps all my carers work together, I control who sees it, and I activate it through MyGuichet.  
   → So, to sum up the first half — the D-S-P is my free, secure, online health file, run by the Agence eSanté, it helps all my carers work together, I control who sees it, and I activate it through MyGuichet.
 - **Tom:** The CNS.  
@@ -725,12 +1133,16 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Anna, first... what is the C-N-S?
 - **Anna:** CNS stands for Caisse Nationale de Santé — the National Health Fund.  
   → C-N-S stands for Caisse Nationale de Santé — the National Health Fund.
-- **Anna:** That means — for a normal visit to the doctor, you pay first, and then the CNS pays you back most of it.  
-  → That means — for a normal visit to the doctor, you pay first, and then the C-N-S pays you back most of it.
+- **Anna:** Traditionally, you pay the doctor first, and then the CNS pays you back most of it.  
+  → Traditionally, you pay the doctor first, and then the C-N-S pays you back most of it.
+- **Anna:** Then you only pay your own small share, and the CNS pays the doctor the rest straight away.  
+  → Then you only pay your own small share, and the C-N-S pays the doctor the rest straight away.
 - **Anna:** The CNS reimburses a large part of the cost — for most care it's around eighty to one hundred percent.  
   → The C-N-S reimburses a large part of the cost — for most care it's around eighty to one hundred percent.
 - **Anna:** Then you send that original, paid invoice to the CNS.  
   → Then you send that original, paid invoice to the C-N-S.
+- **Anna:** And if your doctor gives you a digital invoice, you can send it with a few clicks — in the CNS app, the GesondheetsApp, or on MyGuichet.lu.  
+  → And if your doctor gives you a digital invoice, you can send it with a few clicks — in the C-N-S app, the GesondheetsApp, or on MyGuichet dot L-U.
 - **Anna:** The CNS then pays the reimbursement straight into your bank account.  
   → The C-N-S then pays the reimbursement straight into your bank account.
 - **Anna:** So — tip for our listeners — give the CNS your bank account number, your IBAN, so they can pay you directly.  
@@ -751,8 +1163,8 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → It helps everyone who treats you work from the same information, you control who can see it, and you activate it easily through MyGuichet dot L-U — or check it on the MyDSP app.
 - **Anna:** Part two — the CNS, the national health insurance.  
   → Part two — the C-N-S, the national health insurance.
-- **Anna:** For a normal doctor visit, you pay first and the CNS reimburses most of it into your bank account, in about three weeks.  
-  → For a normal doctor visit, you pay first and the C-N-S reimburses most of it into your bank account, in about three weeks.
+- **Anna:** For a normal doctor visit, either your doctor uses immediate direct payment and you only pay your share — or you pay first, and the CNS reimburses most of it into your bank account, within a few weeks, or a few days for a digital bill.  
+  → For a normal doctor visit, either your doctor uses immediate direct payment and you only pay your share — or you pay first, and the C-N-S reimburses most of it into your bank account, within a few weeks, or a few days for a digital bill.
 - **Tom:** So the message is — get your health file active, keep your invoices, give the CNS your bank details, and don't be afraid to ask for help if you need it.  
   → So the message is — get your health file active, keep your invoices, give the C-N-S your bank details, and don't be afraid to ask for help if you need it.
 - **Anna:** For the health file, the website is esante.lu.  
@@ -763,6 +1175,63 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → And the procedures are explained on Guichet dot L-U, in English too.
 - **Anna:** That was our episode about your online health file and the CNS.  
   → That was our episode about your online health file and the C-N-S.
+- **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
+  → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
+- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
+  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
+
+### ebl (27)
+
+- **Tom:** There's a good chance it came from the EBL.  
+  → There's a good chance it came from the E-B-L.
+- **Anna:** EBL stands for Ëmweltberodung Lëtzebuerg.  
+  → E-B-L stands for Emvelt-berodung Letze-burg.
+- **Anna:** So Tom, what exactly is the EBL?  
+  → So Tom, what exactly is the E-B-L?
+- **Tom:** So even if you've never heard the name, the EBL probably works with your commune.  
+  → So even if you've never heard the name, the E-B-L probably works with your commune.
+- **Tom:** The EBL is a network.  
+  → The E-B-L is a network.
+- **Tom:** And if a commune wants to create its own environmental service, the EBL can help, from defining the tasks to recruiting an environmental adviser.  
+  → And if a commune wants to create its own environmental service, the E-B-L can help, from defining the tasks to recruiting an environmental adviser.
+- **Anna:** And the EBL supports the communes in these pacts, with training, practical exchanges and ideas.  
+  → And the E-B-L supports the communes in these pacts, with training, practical exchanges and ideas.
+- **Tom:** Now, let's look at what the EBL actually does.  
+  → Now, let's look at what the E-B-L actually does.
+- **Anna:** The EBL organises seminars, workshops and conferences, often together with partners.  
+  → The E-B-L organises seminars, workshops and conferences, often together with partners.
+- **Anna:** The EBL is famous for its infographics.  
+  → The E-B-L is famous for its infographics.
+- **Tom:** The EBL coordinates several national campaigns.  
+  → The E-B-L coordinates several national campaigns.
+- **Tom:** The website ounipestiziden dot l-u has tips and good examples for your own garden.  
+  → The website ounipestiziden dot L-U has tips and good examples for your own garden.
+- **Anna:** It was launched by the environment ministry, and it's coordinated by the EBL together with the national waste-prevention programme.  
+  → It was launched by the environment ministry, and it's coordinated by the E-B-L together with the national waste-prevention programme.
+- **Tom:** So if you help organise a party for your club, have a look at greenevents dot l-u.  
+  → So if you help organise a party for your club, have a look at greenevents dot L-U.
+- **Anna:** You'll find the borrowing points on guttgeschier dot l-u.  
+  → You'll find the borrowing points on guttgeschier dot L-U.
+- **Tom:** The EBL offers workshops for school classes.  
+  → The E-B-L offers workshops for school classes.
+- **Tom:** The EBL has also published children's books in Luxembourgish, for example about zero waste, and about pollinating insects like bees.  
+  → The E-B-L has also published children's books in Luxembourgish, for example about zero waste, and about pollinating insects like bees.
+- **Tom:** How can you, as a resident, benefit from the EBL?  
+  → How can you, as a resident, benefit from the E-B-L?
+- **Anna:** First, look out for the EBL infographics in your commune's magazine.  
+  → First, look out for the E-B-L infographics in your commune's magazine.
+- **Anna:** And if you're looking for a job in the environment, the EBL also shares green job offers with its network.  
+  → And if you're looking for a job in the environment, the E-B-L also shares green job offers with its network.
+- **Tom:** You can follow the EBL's news through its newsletter, which comes out a few times a year, or on social media.  
+  → You can follow the E-B-L's news through its newsletter, which comes out a few times a year, or on social media.
+- **Anna:** The website is e-b-l dot l-u.  
+  → The website is E-B-L dot L-U.
+- **Tom:** And you can write to info at e-b-l dot l-u.  
+  → And you can write to info at E-B-L dot L-U.
+- **Anna:** What should people remember about the EBL?  
+  → What should people remember about the E-B-L?
+- **Anna:** That was our episode about the EBL.  
+  → That was our episode about the E-B-L.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
   → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
 - **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
@@ -779,7 +1248,7 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 - **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
   → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 
-### enfance (15)
+### enfance (16)
 
 - **Anna:** So Tom, what is the ONE, and what does it do?  
   → So Tom, what is the O-N-E, and what does it do?
@@ -787,8 +1256,8 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → The O-N-E works with families, not against them.
 - **Anna:** Let's talk about who the ONE is for.  
   → Let's talk about who the O-N-E is for.
-- **Tom:** Now, how do you actually reach the ONE?  
-  → Now, how do you actually reach the O-N-E?
+- **Tom:** Now, how do you actually reach the ONE, and where can you find it?  
+  → Now, how do you actually reach the O-N-E, and where can you find it?
 - **Anna:** The ONE is close to people.  
   → The O-N-E is close to people.
 - **Anna:** At the heart of the ONE are professionals sometimes called intervention project coordinators.  
@@ -801,10 +1270,12 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → You can contact the O-N-E directly, using the request-for-help form on their website.
 - **Tom:** And the ONE's whole approach is built on respect and collaboration.  
   → And the O-N-E's whole approach is built on respect and collaboration.
-- **Anna:** Second... the ONE has fourteen regional offices, so there is support near where you live.  
-  → Second... the O-N-E has fourteen regional offices, so there is support near where you live.
-- **Anna:** Fourth... you can start simply, with a request-for-help form on the ONE's website.  
-  → Fourth... you can start simply, with a request-for-help form on the O-N-E's website.
+- **Tom:** A big reform of child and youth protection is being discussed in Parliament, and it keeps this voluntary approach first, with the ONE at its centre.  
+  → A big reform of child and youth protection is being discussed in Parliament, and it keeps this voluntary approach first, with the O-N-E at its centre.
+- **Anna:** Second, the ONE has fourteen regional offices, so there is support near where you live.  
+  → Second, the O-N-E has fourteen regional offices, so there is support near where you live.
+- **Anna:** Fourth, you can start simply, with a request-for-help form on the ONE's website.  
+  → Fourth, you can start simply, with a request-for-help form on the O-N-E's website.
 - **Tom:** What should people remember about the ONE?  
   → What should people remember about the O-N-E?
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
@@ -812,10 +1283,12 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 - **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
   → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 
-### environnement (5)
+### environnement (6)
 
-- **Anna:** Its friendly name is emwelt dot lu.  
-  → Its friendly name is emwelt dot L-U.
+- **Anna:** Its friendly name is emwelt dot lu... which takes you to environnement dot public dot lu.  
+  → Its friendly name is emwelt dot L-U... which takes you to environnement dot public dot L-U.
+- **Tom:** For climate and energy advice at home, there's Klima-Agence, which we covered.  
+  → For climate and energy advice at home, there's Clima-Agence, which we covered.
 - **Anna:** How can someone use emwelt dot lu?  
   → How can someone use emwelt dot L-U?
 - **Anna:** First... emwelt dot lu is Luxembourg's one-stop environment portal, from the Ministry of the Environment, Climate and Biodiversity.  
@@ -832,7 +1305,7 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 - **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
   → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 
-### fns (40)
+### fns (42)
 
 - **Tom:** The FNS is a public office whose whole job is to help people who are struggling financially.  
   → The F-N-S is a public office whose whole job is to help people who are struggling financially.
@@ -841,9 +1314,9 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 - **Tom:** Its home on the internet is f-n-s dot l-u.  
   → Its home on the internet is F-N-S dot L-U.
 - **Anna:** fns.lu.  
-  → fns dot L-U.
-- **Tom:** Now — the FNS doesn't do just one thing.  
-  → Now — the F-N-S doesn't do just one thing.
+  → F-N-S dot L-U.
+- **Tom:** Now, the FNS doesn't do just one thing.  
+  → Now, the F-N-S doesn't do just one thing.
 - **Tom:** The short name is REVIS.  
   → The short name is Revis.
 - **Anna:** REVIS.  
@@ -862,6 +1335,10 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → And here's the key — you don't have to be on Revis to get it.
 - **Tom:** And here's a wonderful detail — if you already receive REVIS, you don't even have to apply.  
   → And here's a wonderful detail — if you already receive Revis, you don't even have to apply.
+- **Tom:** The law is still being discussed in Parliament, so check f-n-s dot l-u for the latest.  
+  → The law is still being discussed in Parliament, so check F-N-S dot L-U for the latest.
+- **Tom:** For now, everyone else applies with a form — and if you got it last year, the FNS sends you a pre-filled one at the end of the year.  
+  → For now, everyone else applies with a form — and if you got it last year, the F-N-S sends you a pre-filled one at the end of the year.
 - **Tom:** And the FNS even has an online calculator, so you can check if you qualify before you apply.  
   → And the F-N-S even has an online calculator, so you can check if you qualify before you apply.
 - **Tom:** For a person whose disability means they can't earn a living in the ordinary job market, the FNS provides a guaranteed income, so they too have a secure floor to stand on.  
@@ -878,14 +1355,14 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → The F-N-S takes on that burden.
 - **Tom:** When someone goes into a care home, or assisted living, and their own income isn't enough to cover the cost, the FNS can help pay the difference.  
   → When someone goes into a care home, or assisted living, and their own income isn't enough to cover the cost, the F-N-S can help pay the difference.
+- **Tom:** It's called COMPA.  
+  → It's called Compa.
 - **Anna:** We have REVIS, the minimum income.  
   → We have Revis, the minimum income.
 - **Tom:** Everything starts at the website, f-n-s dot l-u.  
   → Everything starts at the website, F-N-S dot L-U.
-- **Tom:** For several things, yes — through MyGuichet.lu, the State's digital platform, with a secure login.  
-  → For several things, yes — through MyGuichet dot L-U, the State's digital platform, with a secure login.
-- **Tom:** But you can also do it on paper — download the form, or get it by post, fill it in, and send it back to the FNS.  
-  → But you can also do it on paper — download the form, or get it by post, fill it in, and send it back to the F-N-S.
+- **Tom:** You download it, or pick it up at the FNS counter, sign it, and send it by post or hand it in.  
+  → You download it, or pick it up at the F-N-S counter, sign it, and send it by post or hand it in.
 - **Tom:** Then they can contact the FNS directly — by phone, by email, or in person.  
   → Then they can contact the F-N-S directly — by phone, by email, or in person.
 - **Anna:** Where does the FNS come in for Sofia?  
@@ -899,17 +1376,17 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 - **Tom:** First — go to the website, f-n-s dot l-u.  
   → First — go to the website, F-N-S dot L-U.
 - **Anna:** fns.lu.  
-  → fns dot L-U.
+  → F-N-S dot L-U.
 - **Tom:** And if you're on REVIS already, remember — that one comes automatically.  
   → And if you're on Revis already, remember — that one comes automatically.
 - **Tom:** The National Solidarity Fund — the FNS, fns.lu — is Luxembourg's safety net against poverty.  
-  → The National Solidarity Fund — the F-N-S, fns dot L-U — is Luxembourg's safety net against poverty.
+  → The National Solidarity Fund — the F-N-S, F-N-S dot L-U — is Luxembourg's safety net against poverty.
 - **Tom:** It manages REVIS, the guaranteed minimum income; the cost-of-living allowance with the energy premium and senior aid; an income for severely disabled persons; advances on unpaid child maintenance; a supplement for older people in care; and the child-raising pension, the Mammerent.  
   → It manages Revis, the guaranteed minimum income; the cost-of-living allowance with the energy premium and senior aid; an income for severely disabled persons; advances on unpaid child maintenance; a supplement for older people in care; and the child-raising pension, the Mammerent.
-- **Tom:** You apply on fns.lu or MyGuichet.lu — and REVIS recipients get the cost-of-living allowance automatically.  
-  → You apply on fns dot L-U or MyGuichet dot L-U — and Revis recipients get the cost-of-living allowance automatically.
-- **Anna:** fns.lu.  
-  → fns dot L-U.
+- **Tom:** You find all the forms on fns.lu — and REVIS recipients get the cost-of-living allowance automatically.  
+  → You find all the forms on F-N-S dot L-U — and Revis recipients get the cost-of-living allowance automatically.
+- **Anna:** So, if you, or someone you know, is struggling, remember the name: the National Solidarity Fund, fns.lu.  
+  → So, if you, or someone you know, is struggling, remember the name: the National Solidarity Fund, F-N-S dot L-U.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
   → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
 - **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
@@ -919,16 +1396,16 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 
 - **Tom:** The EU helps pay for useful projects in its member countries.  
   → The E-U helps pay for useful projects in its member countries.
-- **Tom:** So richer and less rich regions, big challenges and small ones... the EU invests to help everyone move forward together.  
-  → So richer and less rich regions, big challenges and small ones... the E-U invests to help everyone move forward together.
+- **Tom:** So richer and less rich regions, big challenges and small ones — the EU invests to help everyone move forward together.  
+  → So richer and less rich regions, big challenges and small ones — the E-U invests to help everyone move forward together.
 - **Anna:** People often call it by its French initials, FEDER.  
   → People often call it by its French initials, Feder.
 - **Tom:** In French, the FSE Plus.  
   → In French, the F-S-E Plus.
 - **Tom:** So the EU rarely pays for everything.  
   → So the E-U rarely pays for everything.
-- **Tom:** First... the EU invests in member countries through its cohesion policy, and Luxembourg receives a share.  
-  → First... the E-U invests in member countries through its cohesion policy, and Luxembourg receives a share.
+- **Tom:** First, the EU invests in member countries through its cohesion policy, and Luxembourg receives a share.  
+  → First, the E-U invests in member countries through its cohesion policy, and Luxembourg receives a share.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
   → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
 - **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
@@ -940,14 +1417,14 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → The website is geoportail dot L-U.
 - **Tom:** First, just open geoportail dot lu and explore.  
   → First, just open geoportail dot L-U and explore.
-- **Anna:** First... geoportail dot lu is Luxembourg's official, free online map platform, from the cadastre and topography administration.  
-  → First... geoportail dot L-U is Luxembourg's official, free online map platform, from the cadastre and topography administration.
+- **Anna:** First, geoportail dot lu is Luxembourg's official, free online map platform, from the cadastre and topography administration.  
+  → First, geoportail dot L-U is Luxembourg's official, free online map platform, from the cadastre and topography administration.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
   → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
 - **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
   → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 
-### govcert (11)
+### govcert (12)
 
 - **Anna:** In Luxembourg, one of the key defenders is a team called GOVCERT.LU.  
   → In Luxembourg, one of the key defenders is a team called Gov-Cert dot L-U.
@@ -959,12 +1436,14 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → So Gov-Cert dot L-U is the central point of contact for incidents that could threaten the country, its citizens, or its economy.
 - **Anna:** GOVCERT.LU regularly publishes warnings about phishing campaigns going around in Luxembourg.  
   → Gov-Cert dot L-U regularly publishes warnings about phishing campaigns going around in Luxembourg.
-- **Tom:** And LU-Alert, the AAA, Klima-Agence, ADEM... all warned about fake messages using their names.  
-  → And L-U Alert, the A-A-A, Klima-Agence, Adem... all warned about fake messages using their names.
+- **Tom:** And LU-Alert, the AAA, Klima-Agence, ADEM — all warned about fake messages using their names.  
+  → And L-U Alert, the A-A-A, Clima-Agence, Addem — all warned about fake messages using their names.
 - **Anna:** Why does an organisation like GOVCERT.LU matter for ordinary people?  
   → Why does an organisation like Gov-Cert dot L-U matter for ordinary people?
 - **Anna:** What should people remember about GOVCERT.LU?  
   → What should people remember about Gov-Cert dot L-U?
+- **Anna:** Second, it responds to attacks, analyses them, and builds stronger, more resilient defences.  
+  → Second, it responds to attacks, analyzes them, and builds stronger, more resilient defences.
 - **Anna:** That was our episode about GOVCERT.LU.  
   → That was our episode about Gov-Cert dot L-U.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
@@ -983,16 +1462,22 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 - **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
   → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 
-### habitat (7)
+### habitat (10)
 
-- **Anna:** It has a key partner... a research institute called LISER.  
-  → It has a key partner... a research institute called Liser.
+- **Anna:** It has a key partner: a research institute called LISER.  
+  → It has a key partner: a research institute called Lyser.
 - **Tom:** LISER is the Luxembourg Institute of Socio-Economic Research.  
-  → Liser is the Luxembourg Institute of Socio-Economic Research.
-- **Tom:** The statistics, broken down by commune, are published on the national open-data platform, data dot public dot lu.  
-  → The statistics, broken down by commune, are published on the national open-data platform, data dot public dot L-U.
-- **Anna:** Second... it watches sale prices, rents, land, and how affordable housing really is, with help from the research institute LISER.  
-  → Second... it watches sale prices, rents, land, and how affordable housing really is, with help from the research institute Liser.
+  → Lyser is the Luxembourg Institute of Socio-Economic Research.
+- **Tom:** And for the sale-price statistics, the Observatoire also works hand in hand with STATEC, the national statistics institute.  
+  → And for the sale-price statistics, the Observatoire also works hand in hand with Statek, the national statistics institute.
+- **Tom:** That's called land observation, or in French, the "observation foncière".  
+  → That's called land observation, or in French, the "observassion fonsyère".
+- **Anna:** For houses, STATEC publishes a general price index instead.  
+  → For houses, Statek publishes a general price index instead.
+- **Tom:** The statistics, broken down by commune, are published on the national open-data platform, data dot public dot lu... and on the national Geoportal too.  
+  → The statistics, broken down by commune, are published on the national open-data platform, data dot public dot L-U... and on the national Geoportal too.
+- **Anna:** Second, it watches sale prices, rents, land, and how affordable housing really is, with help from the research institute LISER.  
+  → Second, it watches sale prices, rents, land, and how affordable housing really is, with help from the research institute Lyser.
 - **Anna:** You can explore prices by commune on data dot public dot lu, and read clear reports.  
   → You can explore prices by commune on data dot public dot L-U, and read clear reports.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
@@ -1000,12 +1485,41 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 - **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
   → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 
-### infosenior (7)
+### infohandicap (8)
+
+- **Anna:** You can call 366 466, or write an email to info@iha.lu.  
+  → You can call three six six, four six six, or write an email to info at I-H-A dot L-U.
+- **Tom:** You find more on eurewelcome dot l-u.  
+  → You find more on eurewelcome dot L-U.
+- **Anna:** Info-Handicap runs a service called SAMT, which helps people with disabilities learn to use public transport on their own and safely.  
+  → Info-Handicap runs a service called Samt, which helps people with disabilities learn to use public transport on their own and safely.
+- **Anna:** It also coordinates MOSAIK, a network of social and cultural organisations for inclusive culture: artists with and without disabilities on the same stage, and shows with audio description, subtitles or sign language.  
+  → It also coordinates Mosaik, a network of social and cultural organisations for inclusive culture: artists with and without disabilities on the same stage, and shows with audio description, subtitles or sign language.
+- **Anna:** Before we finish, the website is info-handicap dot l-u, in German and in French.  
+  → Before we finish, the website is info-handicap dot L-U, in German and in French.
+- **Tom:** First, Info-Handicap answers every question about disability, for people with or without a disability, their families and their employers: you can call 366 466.  
+  → First, Info-Handicap answers every question about disability, for people with or without a disability, their families and their employers: you can call three six six, four six six.
+- **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
+  → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
+- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
+  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
+
+### infosenior (12)
 
 - **Anna:** Its home on the internet is a website — infosenior dot l-u.  
   → Its home on the internet is a website — infosenior dot L-U.
 - **Tom:** infosenior.lu.  
   → infosenior dot L-U.
+- **Anna:** And there's the Alzheimer association, which even runs a help line, 26 432 432, available around the clock, for urgent situations.  
+  → And there's the Alzheimer association, which even runs a help line, two six four three two four three two, available around the clock, for urgent situations.
+- **Anna:** There's a competence centre for ageing, called GERO, that has existed for more than thirty-five years.  
+  → There's a competence centre for ageing, called Jero, that has existed for more than thirty-five years.
+- **Anna:** You can simply call the Senioren-Telefon, 247-86000, for information and advice.  
+  → You can simply call the Senioren-Telefon, two four seven eight six zero zero zero, for information and advice.
+- **Anna:** And if there's a disagreement with a service, there's SIMPA, the national information and mediation service — a neutral place that helps you find a solution.  
+  → And if there's a disagreement with a service, there's Simpa, the national information and mediation service — a neutral place that helps you find a solution.
+- **Anna:** Since 2026, a scheme called COMPA, paid by the National Solidarity Fund, helps people who don't have enough money to pay for an approved care home or supervised housing.  
+  → Since 2026, a scheme called Compa, paid by the National Solidarity Fund, helps people who don't have enough money to pay for an approved care home or supervised housing.
 - **Anna:** Go to the website — infosenior dot l-u.  
   → Go to the website — infosenior dot L-U.
 - **Anna:** Info-Seniors, on infosenior dot l-u, is the State's information portal for older people in Luxembourg.  
@@ -1017,10 +1531,214 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 - **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
   → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 
-### klima (3)
+### jepeuxvoter (7)
 
+- **Tom:** The address in English is icanvote dot l-u.  
+  → The address in English is I can vote dot L-U.
+- **Anna:** There are two ways, and the first one is online, on MyGuichet dot l-u, for example with your LuxTrust.  
+  → There are two ways, and the first one is online, on MyGuichet dot L-U, for example with your LuxTrust.
+- **Anna:** Every registered voter can ask for a postal vote, online on MyGuichet dot l-u or with a letter to the commune.  
+  → Every registered voter can ask for a postal vote, online on MyGuichet dot L-U or with a letter to the commune.
+- **Anna:** Third: you have to register, online on MyGuichet dot l-u or at your commune, at the latest fifty-five days before the election.  
+  → Third: you have to register, online on MyGuichet dot L-U or at your commune, at the latest fifty-five days before the election.
+- **Anna:** You can find all the information on icanvote dot l-u.  
+  → You can find all the information on I can vote dot L-U.
+- **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
+  → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
+- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
+  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
+
+### kjt (30)
+
+- **Tom:** It has six digits: 116 111.  
+  → It has six digits: one one six, one one one.
+- **Anna:** Behind this number is a service that most people simply call the KJT.  
+  → Behind this number is a service that most people simply call the K-J-T.
+- **Anna:** Its full name is Luxembourgish, Kanner-Jugendtelefon, and the English version of its website calls it the Children and Youth Helpline.  
+  → Its full name is Luxembourgish, Kanner-Yoogunt-telefon, and the English version of its website calls it the Children and Youth Helpline.
+- **Tom:** The KJT was founded in 1992, in connection with the United Nations Convention on the Rights of the Child.  
+  → The K-J-T was founded in 1992, in connection with the United Nations Convention on the Rights of the Child.
+- **Tom:** Today, the KJT is a service of a non-profit association called CJF Lëtzebuerg, and it is financed through an agreement with the National Youth Service, which comes under the Ministry of Education, Children and Youth.  
+  → Today, the K-J-T is a service of a non-profit association called C-J-F Lëtzebuerg, and it is financed through an agreement with the National Youth Service, which comes under the Ministry of Education, Children and Youth.
+- **Anna:** What does the KJT actually do when someone gets in touch?  
+  → What does the K-J-T actually do when someone gets in touch?
+- **Tom:** No, and that is one of the five principles of the KJT.  
+  → No, and that is one of the five principles of the K-J-T.
+- **Anna:** Let us look at the services one by one, starting with the oldest: the telephone line 116 111.  
+  → Let us look at the services one by one, starting with the oldest: the telephone line one one six, one one one.
+- **Anna:** You write your question or your worry on the website of the KJT, in Luxembourgish, German, French or English, and a counsellor sends you a written answer within a few days.  
+  → You write your question or your worry on the website of the K-J-T, in Luxembourgish, German, French or English, and a counsellor sends you a written answer within a few days.
+- **Anna:** Since 2007, there has been a telephone line for parents, called the Elterentelefon, and its number is 8002 4444.  
+  → Since 2007, there has been a telephone line for parents, called the Elterentelefon, and its number is eight zero zero two, four four four four.
+- **Tom:** Two more services have to do with the internet, and they carry the name BEE SECURE.  
+  → Two more services have to do with the internet, and they carry the name Bee Secure.
+- **Tom:** The first one is the BEE SECURE Helpline, with the number 8002 1234.  
+  → The first one is the Bee Secure Helpline, with the number eight zero zero two, one two three four.
+- **Anna:** And what is the second service that carries the name BEE SECURE?  
+  → And what is the second service that carries the name Bee Secure?
+- **Tom:** It is the BEE SECURE Stopline.  
+  → It is the Bee Secure Stopline.
+- **Tom:** For such questions, you can call the BEE SECURE Helpline, or you can go to the police.  
+  → For such questions, you can call the Bee Secure Helpline, or you can go to the police.
+- **Anna:** Here is something that I did not know before reading the website: volunteers work as counsellors at the KJT.  
+  → Here is something that I did not know before reading the website: volunteers work as counsellors at the K-J-T.
+- **Anna:** You find them on the line for children and young people, in the Online Help and on the Elterentelefon, and they also support the BEE SECURE Helpline.  
+  → You find them on the line for children and young people, in the Online Help and on the Elterentelefon, and they also support the Bee Secure Helpline.
+- **Tom:** The website kjt dot l-u is worth a visit, also for adults.  
+  → The website K-J-T dot L-U is worth a visit, also for adults.
+- **Tom:** No, the KJT gives no counselling through that form, because it is not anonymous and confidential.  
+  → No, the K-J-T gives no counselling through that form, because it is not anonymous and confidential.
+- **Anna:** When someone is in immediate danger, the emergency number is 112.  
+  → When someone is in immediate danger, the emergency number is one-one-two.
+- **Tom:** That is right, and there is an episode about 112 in this podcast too.  
+  → That is right, and there is an episode about one-one-two in this podcast too.
+- **Anna:** First: the KJT, the Kanner-Jugendtelefon, has been listening to children and young people since 1992.  
+  → First: the K-J-T, the Kanner-Yoogunt-telefon, has been listening to children and young people since 1992.
+- **Tom:** Second: children and young people can call 116 111, write to the Online Help, or use the chat with trained young counsellors.  
+  → Second: children and young people can call one one six, one one one, write to the Online Help, or use the chat with trained young counsellors.
+- **Anna:** Third: parents, grandparents and other adults who look after children can call the Elterentelefon on 8002 4444.  
+  → Third: parents, grandparents and other adults who look after children can call the Elterentelefon on eight zero zero two, four four four four.
+- **Tom:** Fourth: for questions about safety on the internet, there is the BEE SECURE Helpline on 8002 1234, and illegal content can be reported to the BEE SECURE Stopline.  
+  → Fourth: for questions about safety on the internet, there is the Bee Secure Helpline on eight zero zero two, one two three four, and illegal content can be reported to the Bee Secure Stopline.
+- **Anna:** You find the opening hours and all the services on kjt dot l-u.  
+  → You find the opening hours and all the services on K-J-T dot L-U.
+- **Tom:** The KJT has a motto that says it very well: no one should be abandoned.  
+  → The K-J-T has a motto that says it very well: no one should be abandoned.
+- **Anna:** That was our episode about the Kanner-Jugendtelefon.  
+  → That was our episode about the Kanner-Yoogunt-telefon.
+- **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
+  → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
+- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
+  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
+
+### klima (19)
+
+- **Anna:** It is called Klima-Agence.  
+  → It is called Clima-Agence.
+- **Tom:** Klima-Agence.  
+  → Clima-Agence.
+- **Anna:** Klima-Agence is Luxembourg's national partner for energy and climate matters.  
+  → Clima-Agence is Luxembourg's national partner for energy and climate matters.
+- **Tom:** Until 2022, Klima-Agence had a different name... it was called myenergy.  
+  → Until 2022, Clima-Agence had a different name... it was called myenergy.
+- **Tom:** And Klima-Agence helps put those big national goals into practice, in real homes and real lives.  
+  → And Clima-Agence helps put those big national goals into practice, in real homes and real lives.
+- **Tom:** The service is financed by Klima-Agence itself.  
+  → The service is financed by Clima-Agence itself.
 - **Tom:** The number is 8-0-0-2, 1-1, 9-0.  
   → The number is eight zero zero two, one one, nine zero.
+- **Tom:** And this is another place where Klima-Agence really helps.  
+  → And this is another place where Clima-Agence really helps.
+- **Anna:** That's why Klima-Agence helps you understand which grants apply to your project.  
+  → That's why Clima-Agence helps you understand which grants apply to your project.
+- **Anna:** Klima-Agence has a network of certified advisors and professionals you can look for.  
+  → Clima-Agence has a network of certified advisors and professionals you can look for.
+- **Anna:** Klima-Agence never allows private companies to use its name or its logo to sell their products.  
+  → Clima-Agence never allows private companies to use its name or its logo to sell their products.
+- **Tom:** So if you see an advert or a message using the Klima-Agence name to push a sale, be careful... it is not them.  
+  → So if you see an advert or a message using the Clima-Agence name to push a sale, be careful... it is not them.
+- **Anna:** The real Klima-Agence gives free, neutral advice.  
+  → The real Clima-Agence gives free, neutral advice.
+- **Tom:** If in doubt, contact Klima-Agence directly, using the official phone number or website.  
+  → If in doubt, contact Clima-Agence directly, using the official phone number or website.
+- **Anna:** How should someone actually use Klima-Agence?  
+  → How should someone actually use Clima-Agence?
+- **Anna:** What should people remember about Klima-Agence?  
+  → What should people remember about Clima-Agence?
+- **Anna:** That was our episode about the Klima-Agence.  
+  → That was our episode about the Clima-Agence.
+- **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
+  → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
+- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
+  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
+
+### lar (27)
+
+- **Anna:** And very often, that helicopter belongs to Luxembourg Air Rescue, or LAR for short.  
+  → And very often, that helicopter belongs to Luxembourg Air Rescue, or L-A-R for short.
+- **Tom:** LAR is a non-profit association.  
+  → L-A-R is a non-profit association.
+- **Anna:** Is LAR a public service run by the State, or is it something different?  
+  → Is L-A-R a public service run by the State, or is it something different?
+- **Tom:** It is something different: LAR describes itself as a private non-profit organisation of public utility, which means that it works for the common good.  
+  → It is something different: L-A-R describes itself as a private non-profit organisation of public utility, which means that it works for the common good.
+- **Anna:** You call the emergency number 112, and the emergency control centre decides whether the helicopter is the best help, depending on how serious the situation is, how easy the place is to reach, and which teams are available.  
+  → You call the emergency number one-one-two, and the emergency control centre decides whether the helicopter is the best help, depending on how serious the situation is, how easy the place is to reach, and which teams are available.
+- **Anna:** The helicopter bases are on permanent standby, and LAR says that any place in Luxembourg can be reached in about ten minutes.  
+  → The helicopter bases are on permanent standby, and L-A-R says that any place in Luxembourg can be reached in about ten minutes.
+- **Anna:** Next to the pilot, every helicopter carries an emergency doctor and an intensive care nurse from LAR.  
+  → Next to the pilot, every helicopter carries an emergency doctor and an intensive care nurse from L-A-R.
+- **Tom:** LAR trains for this together with the specialists of the fire and rescue services, and they have already worked together on real rescues on cliffs.  
+  → L-A-R trains for this together with the specialists of the fire and rescue services, and they have already worked together on real rescues on cliffs.
+- **Anna:** Here is a question that many people ask: does the helicopter only come for members of LAR?  
+  → Here is a question that many people ask: does the helicopter only come for members of L-A-R?
+- **Tom:** No, it does not: LAR is part of the emergency system in Luxembourg, so it also carries out rescue missions for people who are not members.  
+  → No, it does not: L-A-R is part of the emergency system in Luxembourg, so it also carries out rescue missions for people who are not members.
+- **Anna:** Imagine that you fall seriously ill on holiday, or that you are badly injured during a business trip: what can LAR do then?  
+  → Imagine that you fall seriously ill on holiday, or that you are badly injured during a business trip: what can L-A-R do then?
+- **Tom:** If you are a member, LAR can bring you home.  
+  → If you are a member, L-A-R can bring you home.
+- **Tom:** Call the alert centre of LAR.  
+  → Call the alert centre of L-A-R.
+- **Tom:** A doctor from LAR speaks directly with the doctor abroad.  
+  → A doctor from L-A-R speaks directly with the doctor abroad.
+- **Tom:** Together they look at the treatment on site and the risks of the journey, and then LAR's medical team decides whether, when and how the patient can travel safely.  
+  → Together they look at the treatment on site and the risks of the journey, and then L-A-R's medical team decides whether, when and how the patient can travel safely.
+- **Tom:** No, not always: depending on the patient, it can be a road ambulance, a normal scheduled flight with or without a medical escort, a helicopter, or one of LAR's own ambulance jets, with a doctor and a nurse on board.  
+  → No, not always: depending on the patient, it can be a road ambulance, a normal scheduled flight with or without a medical escort, a helicopter, or one of L-A-R's own ambulance jets, with a doctor and a nurse on board.
+- **Tom:** For members, LAR covers the costs of the repatriation from abroad, within the limits of its general conditions.  
+  → For members, L-A-R covers the costs of the repatriation from abroad, within the limits of its general conditions.
+- **Tom:** First, the cover starts one month after LAR receives the first membership fee.  
+  → First, the cover starts one month after L-A-R receives the first membership fee.
+- **Anna:** Donations go to the Luxembourg Air Rescue Foundation, which supports LAR with money and technical equipment, and a donation like that can be deducted.  
+  → Donations go to the Luxembourg Air Rescue Foundation, which supports L-A-R with money and technical equipment, and a donation like that can be deducted.
+- **Tom:** Besides rescue and repatriation, LAR also helps in humanitarian crises, for example after earthquakes, together with the Ministry of Foreign and European Affairs.  
+  → Besides rescue and repatriation, L-A-R also helps in humanitarian crises, for example after earthquakes, together with the Ministry of Foreign and European Affairs.
+- **Tom:** Yes, there is the LAR Academy, a training centre at the airport in Findel.  
+  → Yes, there is the L-A-R Academy, a training centre at the airport in Finndel.
+- **Tom:** LAR also offers guided tours of its base, and it sometimes opens its doors to the public.  
+  → L-A-R also offers guided tours of its base, and it sometimes opens its doors to the public.
+- **Anna:** You find all of this on the website, lar dot l-u, which exists in English, French and German.  
+  → You find all of this on the website, L-A-R dot L-U, which exists in English, French and German.
+- **Tom:** First, in an emergency in Luxembourg, call 112: the helicopter comes when it is the best help, whether you are a member or not.  
+  → First, in an emergency in Luxembourg, call one-one-two: the helicopter comes when it is the best help, whether you are a member or not.
+- **Tom:** Second, when they are abroad, members call the alert centre of LAR, and an LAR doctor decides how to bring them home safely.  
+  → Second, when they are abroad, members call the alert centre of L-A-R, and an L-A-R doctor decides how to bring them home safely.
+- **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
+  → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
+- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
+  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
+
+### letzprepare (16)
+
+- **Tom:** We're talking about Lëtz prepare.  
+  → We're talking about Let's prepare.
+- **Anna:** Lëtz prepare is the name of Luxembourg's National Resilience Strategy.  
+  → Let's prepare is the name of Luxembourg's National Resilience Strategy.
+- **Anna:** It's a play on words: "Lëtz", like Lëtzebuerg, and the English "let's prepare".  
+  → It's a play on words: "Lets", like Lëtzebuerg, and the English "let's prepare".
+- **Tom:** The website is letzprepare dot l-u.  
+  → The website is Let's prepare dot L-U.
+- **Tom:** That's why, in October 2026, the government launched a national campaign with a question in Luxembourgish: "Bass du prett?"  
+  → That's why, in October 2026, the government launched a national campaign with a question in Luxembourgish: "Bass doo prett?"
+- **Anna:** Through LU-Alert, the national warning system.  
+  → Through L-U Alert, the national warning system.
+- **Anna:** There are also the LU-Alert app and website, the media, and the sirens.  
+  → There are also the L-U Alert app and website, the media, and the sirens.
+- **Tom:** We have a whole episode about LU-Alert, by the way.  
+  → We have a whole episode about L-U Alert, by the way.
+- **Tom:** The emergency numbers stay the same: 112 for the fire and rescue services, and 1-1-3 for the police.  
+  → The emergency numbers stay the same: one-one-two for the fire and rescue services, and one one three for the police.
+- **Tom:** Trust the official sources, like infocrise dot l-u, and don't pass on rumours.  
+  → Trust the official sources, like info-creeze dot L-U, and don't pass on rumours.
+- **Tom:** On letzprepare dot l-u.  
+  → On Let's prepare dot L-U.
+- **Tom:** And for advice on specific situations, like a power cut, a flood or a nuclear alert, there's the website infocrise dot l-u.  
+  → And for advice on specific situations, like a power cut, a flood or a nuclear alert, there's the website info-creeze dot L-U.
+- **Tom:** First: Lëtz prepare is Luxembourg's National Resilience Strategy.  
+  → First: Let's prepare is Luxembourg's National Resilience Strategy.
+- **Anna:** That was our episode about Lëtz prepare.  
+  → That was our episode about Let's prepare.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
   → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
 - **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
@@ -1032,19 +1750,23 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → The website is lifelong dash learning dot L-U.
 - **Tom:** It's the national portal for continuing training, run by the institute for continuing vocational training, the INFPC.  
   → It's the national portal for continuing training, run by the institute for continuing vocational training, the I-N-F-P-C.
-- **Anna:** First, browse the catalogue at lifelong dash learning dot lu... search by subject, or by the job you want.  
-  → First, browse the catalogue at lifelong dash learning dot L-U... search by subject, or by the job you want.
-- **Tom:** First... lifelong dash learning dot lu is Luxembourg's national portal for continuing training, run by the INFPC.  
-  → First... lifelong dash learning dot L-U is Luxembourg's national portal for continuing training, run by the I-N-F-P-C.
+- **Anna:** First, browse the catalogue at lifelong dash learning dot lu: search by subject, or by the job you want.  
+  → First, browse the catalogue at lifelong dash learning dot L-U: search by subject, or by the job you want.
+- **Tom:** First, lifelong dash learning dot lu is Luxembourg's national portal for continuing training, run by the INFPC.  
+  → First, lifelong dash learning dot L-U is Luxembourg's national portal for continuing training, run by the I-N-F-P-C.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
   → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
 - **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
   → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 
-### logement (4)
+### logement (6)
 
 - **Tom:** The website is logement dot public dot lu.  
   → The website is logement dot public dot L-U.
+- **Anna:** That connects to Klima-Agence, from another episode... they advise, and the housing aids help pay.  
+  → That connects to Clima-Agence, from another episode... they advise, and the housing aids help pay.
+- **Anna:** Third, if you want to renovate, especially for energy, combine Klima-Agence advice with housing aids.  
+  → Third, if you want to renovate, especially for energy, combine Clima-Agence advice with housing aids.
 - **Tom:** First... logement dot public dot lu is the Ministry of Housing's one-stop portal, for tenants, owners and communes.  
   → First... logement dot public dot L-U is the Ministry of Housing's one-stop portal, for tenants, owners and communes.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
@@ -1052,7 +1774,7 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 - **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
   → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 
-### lualert (24)
+### lualert (26)
 
 - **Tom:** It's called LU-Alert.  
   → It's called L-U Alert.
@@ -1068,6 +1790,8 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → There are the official websites, like L-U dash Alert dot L-U.
 - **Anna:** And the mobile app — what does it add, if I already get the SMS?  
   → And the mobile app — what does it add, if I already get the S-M-S?
+- **Tom:** Because many less serious warnings are sent only through the app and the website, not by SMS.  
+  → Because many less serious warnings are sent only through the app and the website, not by S-M-S.
 - **Tom:** By location-based SMS, you get all three languages in one message.  
   → By location-based S-M-S, you get all three languages in one message.
 - **Tom:** That can happen, especially with SMS, because there is a character limit.  
@@ -1078,6 +1802,8 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → L-U dash Alert dot L-U for the full story.
 - **Tom:** LU-Alert uses different alert levels.  
   → L-U Alert uses different alert levels.
+- **Tom:** And some tests on the phone only reach you if you switch on 'LU-Alert Test' in your phone's settings — or 'Test' in the app.  
+  → And some tests on the phone only reach you if you switch on 'L-U Alert Test' in your phone's settings — or 'Test' in the app.
 - **Tom:** For example — the Police, the Fire and Rescue Corps, which is the CGDIS, the weather service MeteoLux, the water management agency, the food administration, and the High Commission for National Protection.  
   → For example — the Police, the Fire and Rescue Corps, which is the C-G-D-I-S, the weather service MeteoLux, the water management agency, the food administration, and the High Commission for National Protection.
 - **Tom:** And one more thing — there is no advertising on LU-Alert.  
@@ -1092,8 +1818,8 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → And three — remember the website, L-U dash Alert dot L-U, and remember the golden rule: verify there, never share personal data.
 - **Tom:** LU-Alert is Luxembourg's national warning and information system, launched in autumn 2024.  
   → L-U Alert is Luxembourg's national warning and information system, launched in autumn 2024.
-- **Tom:** It reaches you on your phone — by Cell Broadcast and location-based SMS, with no sign-up needed — and also through the app, websites, the media and, for nuclear alerts, sirens.  
-  → It reaches you on your phone — by Cell Broadcast and location-based S-M-S, with no sign-up needed — and also through the app, websites, the media and, for nuclear alerts, sirens.
+- **Tom:** It reaches you on your phone — by Cell Broadcast and location-based SMS, with no sign-up needed — and also through the app, websites, the media and, for serious danger, sirens.  
+  → It reaches you on your phone — by Cell Broadcast and location-based S-M-S, with no sign-up needed — and also through the app, websites, the media and, for serious danger, sirens.
 - **Tom:** If you are not sure, check lu-alert dot l-u.  
   → If you are not sure, check L-U dash Alert dot L-U.
 - **Anna:** That was our episode about LU-Alert.  
@@ -1140,8 +1866,8 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Just like you don't give your bank card and your Pin to a colleague, you never share your LuxTrust credentials.
 - **Anna:** The easiest way: ask your bank, or go to luxtrust.com, choose the app, order it, get identified, and activate it.  
   → The easiest way: ask your bank, or go to luxtrust dot com, choose the app, order it, get identified, and activate it.
-- **Anna:** LuxTrust is your secure digital identity in Luxembourg — like an ID card for the internet, from a European-certified provider.  
-  → LuxTrust is your secure digital identity in Luxembourg — like an I-D card for the internet, from a European-certified provider.
+- **Anna:** LuxTrust is your secure digital identity in Luxembourg — like an ID card for the internet, from a provider recognised at European level.  
+  → LuxTrust is your secure digital identity in Luxembourg — like an I-D card for the internet, from a provider recognised at European level.
 - **Anna:** You get it through your bank or on luxtrust.com, you prove your identity in person or by video, and you activate it — most easily with the Mobile app.  
   → You get it through your bank or on luxtrust dot com, you prove your identity in person or by video, and you activate it — most easily with the Mobile app.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
@@ -1149,28 +1875,34 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 - **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
   → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 
-### maison_orientation (15)
+### maison_orientation (18)
 
 - **Tom:** You can book an appointment, and it's done online — through MyGuichet.lu.  
   → You can book an appointment, and it's done online — through MyGuichet dot L-U.
 - **Tom:** *(laughs)* Yes, it keeps coming back, because it's the door to so many services.  
   → Yes, it keeps coming back, because it's the door to so many services.
-- **Tom:** And there's a free phone line — 8002, 8181 — and an email, info at m-o dot l-u.  
-  → And there's a free phone line — eight zero zero two, eight one eight one — and an email, info at M-O dot L-U.
+- **Tom:** And there's a free phone line — 8002, 8181 — and an email: info, at, maison dash orientation dot public dot l-u.  
+  → And there's a free phone line — eight zero zero two, eight one eight one — and an email: info, at, maison dash orientation dot public dot L-U.
+- **Tom:** So — guidance about secondary school, what the different lycées offer, the choice of sections, or how to get back into a lycée.  
+  → So — guidance about secondary school, what the different leessay offer, the choice of sections, or how to get back into a leessay.
+- **Tom:** It's voluntary, and for this you do need an appointment, on MyGuichet.lu — in person or online.  
+  → It's voluntary, and for this you do need an appointment, on MyGuichet dot L-U — in person or online.
 - **Tom:** Second, the SIA — the service for the integration and reception of pupils in school.  
   → Second, the S-I-A — the service for the integration and reception of pupils in school.
 - **Tom:** Then, third — the ADEM career guidance service, and apprenticeship placement.  
-  → Then, third — the Adem career guidance service, and apprenticeship placement.
+  → Then, third — the Addem career guidance service, and apprenticeship placement.
 - **Tom:** ADEM is the employment agency, and here they help with vocational orientation and finding an apprenticeship.  
-  → Adem is the employment agency, and here they help with vocational orientation and finding an apprenticeship.
+  → Addem is the employment agency, and here they help with vocational orientation and finding an apprenticeship.
 - **Tom:** Fourth — the ATVA, the agency for the transition to an autonomous life.  
   → Fourth — the A-T-V-A, the agency for the transition to an autonomous life.
-- **Tom:** The website is maison-orientation, all one word, dot public dot l-u.  
-  → The website is maison-orientation, all one word, dot public dot L-U.
+- **Tom:** The website is maison, dash, orientation, dot public dot l-u.  
+  → The website is maison, dash, orientation, dot public dot L-U.
+- **Tom:** There you find information about basic and secondary school, and a very practical thing — the calendar of open days of the lycées and the universities.  
+  → There you find information about basic and secondary school, and a very practical thing — the calendar of open days of the leessay and the universities.
 - **Tom:** They even have a series of brochures, called BOOST, with exactly this kind of advice.  
   → They even have a series of brochures, called Boost, with exactly this kind of advice.
-- **Tom:** For example, workshops on how to write a CV — they even have one on making a video CV.  
-  → For example, workshops on how to write a C-V — they even have one on making a video C-V.
+- **Tom:** For example, workshops on writing a CV or preparing for a job interview.  
+  → For example, workshops on writing a C-V or preparing for a job interview.
 - **Tom:** If you want, book an appointment through MyGuichet.lu — choose online or in person.  
   → If you want, book an appointment through MyGuichet dot L-U — choose online or in person.
 - **Tom:** And if you have a quick question, call the free line, 8002, 8181.  
@@ -1182,26 +1914,49 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 - **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
   → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 
-### myguichet (12)
+### mediateursante (6)
+
+- **Anna:** Luxembourg has two of them: the health mediation service and the National Health Fund, the CNS.  
+  → Luxembourg has two of them: the health mediation service and the National Health Fund, the C-N-S.
+- **Anna:** For the reimbursement itself, and for a prior authorisation, the contact point is the CNS.  
+  → For the reimbursement itself, and for a prior authorisation, the contact point is the C-N-S.
+- **Tom:** Fourth: the service also answers questions about care across borders, together with the CNS.  
+  → Fourth: the service also answers questions about care across borders, together with the C-N-S.
+- **Anna:** You find all the information on mediateursante dot public dot l-u.  
+  → You find all the information on médiateur santé dot public dot L-U.
+- **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
+  → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
+- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
+  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
+
+### myguichet (16)
 
 - **Tom:** It's called MyGuichet.lu.  
   → It's called MyGuichet dot L-U.
 - **Anna:** What is MyGuichet.lu?  
   → What is MyGuichet dot L-U?
-- **Tom:** Okay, so... MyGuichet.lu is the information portal that simplifies your interactions with the State.  
-  → Okay, so... MyGuichet dot L-U is the information portal that simplifies your interactions with the State.
+- **Tom:** Guichet.lu is the State's information website, and MyGuichet.lu is its secure online space.  
+  → Guichet dot L-U is the State's information website, and MyGuichet dot L-U is its secure online space.
+- **Tom:** MyGuichet.lu is secure, and it's your single point of contact with the public administrations.  
+  → MyGuichet dot L-U is secure, and it's your single point of contact with the public administrations.
 - **Tom:** The website, yes — Guichet.lu exists in French, German and English.  
   → The website, yes — Guichet dot L-U exists in French, German and English.
 - **Tom:** Or the Luxembourg electronic identity card if you have a Luxembourg ID card with the certificates activated.  
   → Or the Luxembourg electronic identity card if you have a Luxembourg I-D card with the certificates activated.
+- **Tom:** And you can even use it with your smartphone, through the government's GouvID app.  
+  → And you can even use it with your smartphone, through the government's Gouv I-D app.
 - **Anna:** So I could use, for example, my Belgian or German electronic ID?  
   → So I could use, for example, my Belgian or German electronic I-D?
 - **Tom:** You go to Guichet.lu, you click on "Log in", and you follow the steps with your email and your matricule.  
   → You go to Guichet dot L-U, you click on "Log in", and you follow the steps with your email and your matricule.
-- **Tom:** And maybe one word for the entrepreneurs listening: businesses can use MyGuichet too, with a business eSpace, for things like tax and VAT declarations, social security declarations for their staff, or applying for permits and licences.  
-  → And maybe one word for the entrepreneurs listening: businesses can use MyGuichet too, with a business eSpace, for things like tax and V-A-T declarations, social security declarations for their staff, or applying for permits and licences.
+- **Tom:** And if you're a citizen of another EU country, in the European elections too.  
+  → And if you're a citizen of another E-U country, in the European elections too.
+- **Tom:** And maybe one word for the entrepreneurs listening: businesses can use MyGuichet too, with a business eSpace, for things like declaring their staff to social security, checking their VAT account, or applying for a business permit.  
+  → And maybe one word for the entrepreneurs listening: businesses can use MyGuichet too, with a business eSpace, for things like declaring their staff to social security, checking their V-A-T account, or applying for a business permit.
 - **Tom:** MyGuichet.lu is the secure online platform of the Luxembourg State.  
   → MyGuichet dot L-U is the secure online platform of the Luxembourg State.
+- **Anna:** And on Guichet.lu there's now an AI assistant: you type your question in your own words, in your own language, and it helps you find the right procedure.  
+  → And on Guichet dot L-U there's now an A-I assistant: you type your question in your own words, in your own language, and it helps you find the right procedure.
 - **Anna:** That was our episode about MyGuichet.lu.  
   → That was our episode about MyGuichet dot L-U.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
@@ -1209,7 +1964,58 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 - **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
   → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 
-### onis (37)
+### ombudsman (24)
+
+- **Tom:** And the second one is the OKaJu, the Ombudsman for children and young people.  
+  → And the second one is the Oka-joo, the Ombudsman for children and young people.
+- **Tom:** On the website ombudsman dot l-u, in French and in English.  
+  → On the website ombudsman dot L-U, in French and in English.
+- **Anna:** Now let's turn to the second institution, the OKaJu.  
+  → Now let's turn to the second institution, the Oka-joo.
+- **Anna:** And what is the mission of the OKaJu?  
+  → And what is the mission of the Oka-joo?
+- **Anna:** Is the OKaJu independent, like the Ombudsman?  
+  → Is the Oka-joo independent, like the Ombudsman?
+- **Anna:** The OKaJu is there, first of all, for every child and every young person under eighteen.  
+  → The Oka-joo is there, first of all, for every child and every young person under eighteen.
+- **Anna:** If you think that your rights are not respected, you can contact the OKaJu yourself.  
+  → If you think that your rights are not respected, you can contact the Oka-joo yourself.
+- **Anna:** Every step with the OKaJu is free of charge, and it is confidential.  
+  → Every step with the Oka-joo is free of charge, and it is confidential.
+- **Tom:** With what kind of questions do people come to the OKaJu?  
+  → With what kind of questions do people come to the Oka-joo?
+- **Tom:** To reach the OKaJu, you can call, write an email, or fill in the contact form on the website.  
+  → To reach the Oka-joo, you can call, write an email, or fill in the contact form on the website.
+- **Tom:** If the question is not for the OKaJu, the team directs you to the right service.  
+  → If the question is not for the Oka-joo, the team directs you to the right service.
+- **Anna:** And what if the request is indeed for the OKaJu?  
+  → And what if the request is indeed for the Oka-joo?
+- **Anna:** Does the OKaJu then take a decision?  
+  → Does the Oka-joo then take a decision?
+- **Tom:** The OKaJu is not a judge, and it cannot impose a decision.  
+  → The Oka-joo is not a judge, and it cannot impose a decision.
+- **Anna:** Does the OKaJu only work on individual cases?  
+  → Does the Oka-joo only work on individual cases?
+- **Tom:** Young people between thirteen and eighteen meet regularly, talk about children's rights, and advise the OKaJu.  
+  → Young people between thirteen and eighteen meet regularly, talk about children's rights, and advise the Oka-joo.
+- **Anna:** Where can we find the OKaJu online?  
+  → Where can we find the Oka-joo online?
+- **Tom:** The address is okaju dot l-u.  
+  → The address is Oka-joo dot L-U.
+- **Anna:** The Ombudsman and the OKaJu are in the same building in Luxembourg City: the House of Human Rights.  
+  → The Ombudsman and the Oka-joo are in the same building in Luxembourg City: the House of Human Rights.
+- **Anna:** Third: the OKaJu defends the rights of children and young people under eighteen.  
+  → Third: the Oka-joo defends the rights of children and young people under eighteen.
+- **Anna:** You can find them on ombudsman dot l-u and on okaju dot l-u.  
+  → You can find them on ombudsman dot L-U and on Oka-joo dot L-U.
+- **Anna:** That was our episode about the Ombudsman and the OKaJu.  
+  → That was our episode about the Ombudsman and the Oka-joo.
+- **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
+  → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
+- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
+  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
+
+### onis (43)
 
 - **Anna:** ONIS.  
   → Onis.
@@ -1229,8 +2035,10 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → And that second side — the inclusion side — is the job of Onis.
 - **Anna:** The FNS handles the money.  
   → The F-N-S handles the money.
-- **Anna:** ONIS handles the people, and their path forward.  
-  → Onis handles the people, and their path forward.
+- **Anna:** For people who are ready to look for a job, the inclusion side is ADEM, the employment agency.  
+  → For people who are ready to look for a job, the inclusion side is Addem, the employment agency.
+- **Anna:** But for people who are still far from work, it's ONIS — it handles the people, and their path forward.  
+  → But for people who are still far from work, it's Onis — it handles the people, and their path forward.
 - **Anna:** REVIS isn't meant to be a cheque you receive forever, alone at home.  
   → Revis isn't meant to be a cheque you receive forever, alone at home.
 - **Tom:** So ONIS is the office that walks beside you on the bridge.  
@@ -1245,12 +2053,20 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Onis works with two kinds of measures.
 - **Tom:** If I'm a person who starts receiving REVIS, what actually happens with ONIS?  
   → If I'm a person who starts receiving Revis, what actually happens with Onis?
-- **Anna:** It usually begins with an invitation — you're invited to a meeting, a reception, with ONIS.  
-  → It usually begins with an invitation — you're invited to a meeting, a reception, with Onis.
+- **Anna:** It actually starts at ADEM.  
+  → It actually starts at Addem.
+- **Anna:** If you're under sixty-five and able to work, ADEM first looks at your situation.  
+  → If you're under sixty-five and able to work, Addem first looks at your situation.
+- **Anna:** If you're ready for a job, ADEM accompanies you.  
+  → If you're ready for a job, Addem accompanies you.
+- **Anna:** But if there are other difficulties to deal with first, ADEM sends you to ONIS.  
+  → But if there are other difficulties to deal with first, Addem sends you to Onis.
+- **Anna:** Then ONIS invites you to an information meeting — and there, you sign something called a collaboration declaration.  
+  → Then Onis invites you to an information meeting — and there, you sign something called a collaboration declaration.
 - **Anna:** In French, an "agent régional d'inclusion sociale", an ARIS.  
   → In French, an "agent régional d'inclusion sociale", an Aris.
-- **Anna:** It's true that REVIS asks for participation — that's the collaboration declaration.  
-  → It's true that Revis asks for participation — that's the collaboration declaration.
+- **Anna:** It's true that REVIS asks for participation — that's the collaboration declaration — and if someone repeatedly refuses to take part, the payment can be reduced or suspended.  
+  → It's true that Revis asks for participation — that's the collaboration declaration — and if someone repeatedly refuses to take part, the payment can be reduced or suspended.
 - **Anna:** And that's the trap REVIS and ONIS are trying to avoid.  
   → And that's the trap Revis and Onis are trying to avoid.
 - **Tom:** The cheque is the floor; ONIS is the staircase.  
@@ -1261,8 +2077,10 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → So Paulo applies for Revis.
 - **Anna:** The FNS sorts out the money side — he gets the minimum income, so he can live.  
   → The F-N-S sorts out the money side — he gets the minimum income, so he can live.
-- **Anna:** And then ONIS enters his life.  
-  → And then Onis enters his life.
+- **Anna:** ADEM looks at his situation, sees that he isn't ready for a job yet, and sends him to ONIS.  
+  → Addem looks at his situation, sees that he isn't ready for a job yet, and sends him to Onis.
+- **Anna:** And that's when ONIS enters his life.  
+  → And that's when Onis enters his life.
 - **Anna:** That's the quiet philosophy behind ONIS.  
   → That's the quiet philosophy behind Onis.
 - **Anna:** First — if you receive REVIS, ONIS is not your enemy.  
@@ -1275,8 +2093,8 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → And for the Revis benefit itself, the information is on guichet dot L-U, and the money side is the National Solidarity Fund, which we covered in another episode.
 - **Anna:** ONIS, the National Social Inclusion Office, is the government office that handles the "inclusion" side of REVIS, Luxembourg's social inclusion income.  
   → Onis, the National Social Inclusion Office, is the government office that handles the "inclusion" side of Revis, Luxembourg's social inclusion income.
-- **Anna:** While the National Solidarity Fund pays the money, ONIS helps the people furthest from work move forward — through stabilisation measures first, then activation measures.  
-  → While the National Solidarity Fund pays the money, Onis helps the people furthest from work move forward — through stabilisation measures first, then activation measures.
+- **Anna:** While the National Solidarity Fund pays the money, ONIS helps the people furthest from work — the ones ADEM sends to it — move forward — through stabilisation measures first, then activation measures.  
+  → While the National Solidarity Fund pays the money, Onis helps the people furthest from work — the ones Addem sends to it — move forward — through stabilisation measures first, then activation measures.
 - **Tom:** So... whether it's for you, or for someone you care about — remember, behind the REVIS cheque there's also a helping hand.  
   → So... whether it's for you, or for someone you care about — remember, behind the Revis cheque there's also a helping hand.
 - **Tom:** ONIS.  
@@ -1290,29 +2108,92 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 
 - **Tom:** The second is the Luxembourg Institute of Science and Technology, often called LIST.  
   → The second is the Luxembourg Institute of Science and Technology, often called List.
-- **Anna:** LIST works on applied science and technology... materials, the environment, and digital tools that industry can use.  
-  → List works on applied science and technology... materials, the environment, and digital tools that industry can use.
+- **Anna:** LIST works on applied science and technology: materials, the environment, and digital tools that industry can use.  
+  → List works on applied science and technology: materials, the environment, and digital tools that industry can use.
 - **Tom:** The third is the Luxembourg Institute of Health, or LIH.  
   → The third is the Luxembourg Institute of Health, or L-I-H.
 - **Tom:** The fourth is the Luxembourg Institute of Socio-Economic Research, or LISER.  
-  → The fourth is the Luxembourg Institute of Socio-Economic Research, or Liser.
+  → The fourth is the Luxembourg Institute of Socio-Economic Research, or Lyser.
 - **Anna:** We've met LISER before, in our episode on the Observatoire de l'Habitat.  
-  → We've met Liser before, in our episode on the Observatoire de l'Habitat.
+  → We've met Lyser before, in our episode on the Observatoire de l'Habitat.
 - **Anna:** It is the National Research Fund, often called the FNR.  
   → It is the National Research Fund, often called the F-N-R.
 - **Tom:** The FNR doesn't mainly do research itself.  
   → The F-N-R doesn't mainly do research itself.
-- **Tom:** Second... they include the University of Luxembourg, the institutes LIST, LIH and LISER, the funder FNR, and Luxinnovation.  
-  → Second... they include the University of Luxembourg, the institutes List, L-I-H and Liser, the funder F-N-R, and Luxinnovation.
+- **Tom:** Second, they include the University of Luxembourg, the institutes LIST, LIH and LISER, the funder FNR, and Luxinnovation.  
+  → Second, they include the University of Luxembourg, the institutes List, L-I-H and Lyser, the funder F-N-R, and Luxinnovation.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
   → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
 - **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
   → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 
-### snj (25)
+### simpa (30)
 
-- **Anna:** The SNJ has a lovely motto in Luxembourgish... "Jonker staark maachen".  
-  → The S-N-J has a lovely motto in Luxembourgish... "Jonker staark maachen".
+- **Anna:** It is called SIMPA.  
+  → It is called Simpa.
+- **Tom:** SIMPA is the national information and mediation service for older people in Luxembourg.  
+  → Simpa is the national information and mediation service for older people in Luxembourg.
+- **Tom:** The letters come from its French name, but everybody simply says SIMPA.  
+  → The letters come from its French name, but everybody simply says Simpa.
+- **Tom:** It was created by the law of 23 August 2023 on the quality of services for older people, and it was presented to the public in March 2025.  
+  → It was created by the law of the twenty-third of August, twenty twenty-three on the quality of services for older people, and it was presented to the public in March 2025.
+- **Tom:** When SIMPA presents its work, it sums up the law in four ideas: more information, more transparency, more quality, and more say for the people who use the services.  
+  → When Simpa presents its work, it sums up the law in four ideas: more information, more transparency, more quality, and more say for the people who use the services.
+- **Anna:** SIMPA helps to make those ideas real for all the services for older people that are approved by the ministry.  
+  → Simpa helps to make those ideas real for all the services for older people that are approved by the ministry.
+- **Tom:** Who exactly can turn to SIMPA, and how much does it cost?  
+  → Who exactly can turn to Simpa, and how much does it cost?
+- **Anna:** And it costs nothing: all the services of SIMPA are free of charge.  
+  → And it costs nothing: all the services of Simpa are free of charge.
+- **Tom:** SIMPA describes its work with three simple ideas: listening, understanding and explaining, and strengthening the dialogue.  
+  → Simpa describes its work with three simple ideas: listening, understanding and explaining, and strengthening the dialogue.
+- **Anna:** And for listening, SIMPA has a telephone line that is older than the service itself: the Seniorentelefon, which has existed since 1999.  
+  → And for listening, Simpa has a telephone line that is older than the service itself: the Senioren-Telefon, which has existed since 1999.
+- **Anna:** The number is 247-86000.  
+  → The number is two four seven eight six zero zero zero.
+- **Anna:** A member of the SIMPA team answers, in Luxembourgish, French, German, Portuguese or English.  
+  → A member of the Simpa team answers, in Luxembourgish, French, German, Portuguese or English.
+- **Tom:** The third idea is dialogue: SIMPA wants good communication between residents or users and the organisations, so that a small problem can be solved before it becomes a real conflict.  
+  → The third idea is dialogue: Simpa wants good communication between residents or users and the organisations, so that a small problem can be solved before it becomes a real conflict.
+- **Tom:** Every organisation must have a way to handle complaints, and its contact details are in the service's establishment plan, which you can read on infosenior dot l-u.  
+  → Every organisation must have a way to handle complaints, and its contact details are in the service's establishment plan, which you can read on infosenior dot L-U.
+- **Tom:** Then SIMPA can offer a mediation, if everyone involved agrees.  
+  → Then Simpa can offer a mediation, if everyone involved agrees.
+- **Anna:** Can a son or a daughter ask SIMPA to speak on behalf of their mother in a mediation?  
+  → Can a son or a daughter ask Simpa to speak on behalf of their mother in a mediation?
+- **Tom:** That is not possible, because SIMPA does not represent anyone.  
+  → That is not possible, because Simpa does not represent anyone.
+- **Anna:** Are there situations where SIMPA is not the right address?  
+  → Are there situations where Simpa is not the right address?
+- **Anna:** Many families also have questions about money, and SIMPA's website gives an overview of the public help, for example the long-term care insurance, a supplement called COMPA, or help with housing.  
+  → Many families also have questions about money, and Simpa's website gives an overview of the public help, for example the long-term care insurance, a supplement called Compa, or help with housing.
+- **Anna:** That is not part of its work: SIMPA does not handle the paperwork itself, but it tells you which service is responsible.  
+  → That is not part of its work: Simpa does not handle the paperwork itself, but it tells you which service is responsible.
+- **Anna:** And to see all the approved services in one place, there is the public register on infosenior dot l-u.  
+  → And to see all the approved services in one place, there is the public register on infosenior dot L-U.
+- **Tom:** How can people reach SIMPA, if they have a question or would like an appointment?  
+  → How can people reach Simpa, if they have a question or would like an appointment?
+- **Anna:** The website is simpa dot l-u, and it exists in French and in German.  
+  → The website is simpa dot L-U, and it exists in French and in German.
+- **Tom:** When SIMPA presents itself, it ends with three things to remember.  
+  → When Simpa presents itself, it ends with three things to remember.
+- **Anna:** The Seniorentelefon, on 247-86000, for information, for advice, or simply for someone who listens.  
+  → The Senioren-Telefon, on two four seven eight six zero zero zero, for information, for advice, or simply for someone who listens.
+- **Tom:** Second: SIMPA listens, shows you the right way, and offers a mediation when there is a disagreement with a service.  
+  → Second: Simpa listens, shows you the right way, and offers a mediation when there is a disagreement with a service.
+- **Anna:** Third: you find all the approved services at a glance on infosenior dot l-u.  
+  → Third: you find all the approved services at a glance on infosenior dot L-U.
+- **Anna:** That was our episode about SIMPA, the information and mediation service for older people.  
+  → That was our episode about Simpa, the information and mediation service for older people.
+- **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
+  → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
+- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
+  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
+
+### snj (26)
+
+- **Anna:** The SNJ has a lovely motto: "empowering youth".  
+  → The S-N-J has a lovely motto: "empowering youth".
 - **Tom:** So Anna, what exactly is the SNJ?  
   → So Anna, what exactly is the S-N-J?
 - **Tom:** Let's look at what the SNJ actually offers.  
@@ -1335,26 +2216,28 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → If a young person comes to Luxembourg as an au pair, living with a host family, the S-N-J supervises that.
 - **Anna:** You can learn more at au dash pair dot lu.  
   → You can learn more at au dash pair dot L-U.
-- **Anna:** The SNJ studies the situation of young people, working with the University of Luxembourg.  
-  → The S-N-J studies the situation of young people, working with the University of Luxembourg.
+- **Anna:** The SNJ listens to young people, through surveys and discussion groups.  
+  → The S-N-J listens to young people, through surveys and discussion groups.
+- **Tom:** The newest one runs from 2026 to 2030, and the SNJ helped to prepare it.  
+  → The newest one runs from 2026 to 2030, and the S-N-J helped to prepare it.
 - **Anna:** And there is BEE SECURE, which many people know.  
   → And there is Bee Secure, which many people know.
-- **Tom:** BEE SECURE promotes the safe and responsible use of the internet and new technologies.  
-  → Bee Secure promotes the safe and responsible use of the internet and new technologies.
-- **Anna:** The SNJ has five educational centres, and local youth antennas across the country for individual support.  
-  → The S-N-J has five educational centres, and local youth antennas across the country for individual support.
+- **Tom:** Yes, BEE SECURE promotes the safe and responsible use of the internet and new technologies.  
+  → Yes, Bee Secure promotes the safe and responsible use of the internet and new technologies.
+- **Anna:** The SNJ has five educational centres, with a new one coming in Esch-sur-Alzette, and local youth antennas across the country for individual support.  
+  → The S-N-J has five educational centres, with a new one coming in Esch-sur-Alzette, and local youth antennas across the country for individual support.
 - **Anna:** How can a young person, or a parent, actually use the SNJ?  
   → How can a young person, or a parent, actually use the S-N-J?
-- **Tom:** First... if you know a young person who is unsure what to do after school, the SNJ can help them build a life project.  
-  → First... if you know a young person who is unsure what to do after school, the S-N-J can help them build a life project.
-- **Tom:** Third... for fun, growth, and meeting others, explore the SNJ's activity centres and programmes.  
-  → Third... for fun, growth, and meeting others, explore the S-N-J's activity centres and programmes.
-- **Anna:** Fourth... for safety online, BEE SECURE has practical advice for young people and parents alike.  
-  → Fourth... for safety online, Bee Secure has practical advice for young people and parents alike.
+- **Tom:** First, if you know a young person who is unsure what to do after school, the SNJ can help them build a life project.  
+  → First, if you know a young person who is unsure what to do after school, the S-N-J can help them build a life project.
+- **Tom:** Third, for fun, growth, and meeting others, explore the SNJ's activity centres and programmes.  
+  → Third, for fun, growth, and meeting others, explore the S-N-J's activity centres and programmes.
+- **Anna:** Fourth, for safety online, BEE SECURE has practical advice for young people and parents alike.  
+  → Fourth, for safety online, Bee Secure has practical advice for young people and parents alike.
 - **Tom:** What should people remember about the SNJ?  
   → What should people remember about the S-N-J?
-- **Tom:** And fourth... it listens to young people, and promotes safe use of technology through BEE SECURE.  
-  → And fourth... it listens to young people, and promotes safe use of technology through Bee Secure.
+- **Tom:** And fourth, it listens to young people, and promotes safe use of technology through BEE SECURE.  
+  → And fourth, it listens to young people, and promotes safe use of technology through Bee Secure.
 - **Tom:** The SNJ is walking beside them.  
   → The S-N-J is walking beside them.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
@@ -1376,47 +2259,47 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 ### statec (23)
 
 - **Tom:** It is called STATEC.  
-  → It is called Statec.
+  → It is called Statek.
 - **Anna:** STATEC is Luxembourg's national statistics institute.  
-  → Statec is Luxembourg's national statistics institute.
+  → Statek is Luxembourg's national statistics institute.
 - **Tom:** So Anna, what exactly does STATEC do?  
-  → So Anna, what exactly does Statec do?
+  → So Anna, what exactly does Statek do?
 - **Anna:** STATEC collects, produces and shares official statistics about Luxembourg... the population, the economy, prices, jobs, and much more.  
-  → Statec collects, produces and shares official statistics about Luxembourg... the population, the economy, prices, jobs, and much more.
+  → Statek collects, produces and shares official statistics about Luxembourg... the population, the economy, prices, jobs, and much more.
 - **Tom:** So when STATEC says something, you can rely on it being measured carefully and honestly.  
-  → So when Statec says something, you can rely on it being measured carefully and honestly.
+  → So when Statek says something, you can rely on it being measured carefully and honestly.
 - **Anna:** Let's talk about the most famous number STATEC produces... inflation.  
-  → Let's talk about the most famous number Statec produces... inflation.
+  → Let's talk about the most famous number Statek produces... inflation.
 - **Tom:** STATEC measures it every month.  
-  → Statec measures it every month.
+  → Statek measures it every month.
 - **Anna:** And it is based on STATEC's measurements.  
-  → And it is based on Statec's measurements.
+  → And it is based on Statek's measurements.
 - **Tom:** So STATEC's work touches almost every wallet in the country.  
-  → So Statec's work touches almost every wallet in the country.
+  → So Statek's work touches almost every wallet in the country.
 - **Anna:** But inflation is only one of many things STATEC measures.  
-  → But inflation is only one of many things Statec measures.
+  → But inflation is only one of many things Statek measures.
 - **Anna:** It measures the economy, with figures like the gross domestic product, often shortened to GDP.  
   → It measures the economy, with figures like the gross domestic product, often shortened to G-D-P.
 - **Tom:** GDP is a measure of all that the country produces.  
   → G-D-P is a measure of all that the country produces.
 - **Tom:** STATEC tracks how the economy grows or slows.  
-  → Statec tracks how the economy grows or slows.
+  → Statek tracks how the economy grows or slows.
 - **Anna:** The website is statistiques dot public dot lu.  
   → The website is statistiques dot public dot L-U.
 - **Anna:** STATEC also looks beyond money, at things that matter for our quality of life.  
-  → Statec also looks beyond money, at things that matter for our quality of life.
+  → Statek also looks beyond money, at things that matter for our quality of life.
 - **Anna:** How can someone actually use STATEC?  
-  → How can someone actually use Statec?
+  → How can someone actually use Statek?
 - **Anna:** And fourth, remember that behind the famous "index" on your payslip, there is STATEC, measuring carefully.  
-  → And fourth, remember that behind the famous "index" on your payslip, there is Statec, measuring carefully.
+  → And fourth, remember that behind the famous "index" on your payslip, there is Statek, measuring carefully.
 - **Tom:** What should people remember about STATEC?  
-  → What should people remember about Statec?
+  → What should people remember about Statek?
 - **Anna:** First... STATEC is Luxembourg's national statistics institute, independent and trustworthy, with the motto "we count because you count".  
-  → First... Statec is Luxembourg's national statistics institute, independent and trustworthy, with the motto "we count because you count".
+  → First... Statek is Luxembourg's national statistics institute, independent and trustworthy, with the motto "we count because you count".
 - **Anna:** Third... all of it is free to explore on the portal, statistiques dot public dot lu.  
   → Third... all of it is free to explore on the portal, statistiques dot public dot L-U.
 - **Anna:** That was our episode about STATEC and the statistics portal.  
-  → That was our episode about Statec and the statistics portal.
+  → That was our episode about Statek and the statistics portal.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
   → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
 - **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
@@ -1438,8 +2321,8 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → So when the State plans a new law that touches local life, Syvicol is there to represent the towns and villages.
 - **Tom:** When a draft law concerns the communes, SYVICOL studies it and gives a formal opinion.  
   → When a draft law concerns the communes, Syvicol studies it and gives a formal opinion.
-- **Tom:** So SYVICOL is a bridge... carrying local experience up to national decisions.  
-  → So Syvicol is a bridge... carrying local experience up to national decisions.
+- **Tom:** So SYVICOL is a bridge, carrying local experience up to national decisions.  
+  → So Syvicol is a bridge, carrying local experience up to national decisions.
 - **Anna:** Through SYVICOL, communes can consult each other, and learn from what others have tried.  
   → Through Syvicol, communes can consult each other, and learn from what others have tried.
 - **Anna:** Being an elected local representative is a big responsibility, and SYVICOL helps with information and training.  
@@ -1465,34 +2348,40 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 - **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
   → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 
-### workinluxembourg (17)
+### workinluxembourg (20)
 
 - **Tom:** It was built together by the Ministry of the Economy, the Ministry of Labour, ADEM — which is the national employment agency — the Chamber of Commerce, the Chamber of Skilled Trades, and an agency called Luxinnovation.  
-  → It was built together by the Ministry of the Economy, the Ministry of Labour, Adem — which is the national employment agency — the Chamber of Commerce, the Chamber of Skilled Trades, and an agency called Luxinnovation.
+  → It was built together by the Ministry of the Economy, the Ministry of Labour, Addem — which is the national employment agency — the Chamber of Commerce, the Chamber of Skilled Trades, and an agency called Luxinnovation.
 - **Tom:** And here's the clever part — it's connected directly to ADEM's international recruitment platform.  
-  → And here's the clever part — it's connected directly to Adem's international recruitment platform.
+  → And here's the clever part — it's connected directly to Addem's international recruitment platform.
 - **Anna:** ADEM — that's the national employment agency you mentioned.  
-  → Adem — that's the national employment agency you mentioned.
+  → Addem — that's the national employment agency you mentioned.
 - **Tom:** ADEM is Luxembourg's public employment service.  
-  → Adem is Luxembourg's public employment service.
-- **Tom:** In fact, the platform already has around eleven thousand candidates from all over the world, pre-selected by ADEM.  
-  → In fact, the platform already has around eleven thousand candidates from all over the world, pre-selected by Adem.
-- **Tom:** According to the IMD World Talent Ranking, it's second in the world for attracting talent.  
-  → According to the I-M-D World Talent Ranking, it's second in the world for attracting talent.
+  → Addem is Luxembourg's public employment service.
+- **Tom:** Every profile is pre-screened by ADEM, and employers search the database and contact candidates directly.  
+  → Every profile is pre-screened by Addem, and employers search the database and contact candidates directly.
+- **Anna:** Pre-screened by ADEM.  
+  → Pre-screened by Addem.
+- **Tom:** The employer doesn't first have to look for someone locally, so ADEM gives the green light within a few days.  
+  → The employer doesn't first have to look for someone locally, so Addem gives the green light within a few days.
+- **Tom:** You can reach the Talent Desk by email, at contact@talentdesk.lu, or visit them in Kirchberg, by appointment.  
+  → You can reach the Talent Desk by email, at contact at talentdesk dot L-U, or visit them in Kirchberg, by appointment.
+- **Tom:** And the IMD World Talent Ranking puts it among the very best in the world for attracting talent.  
+  → And the I-M-D World Talent Ranking puts it among the very best in the world for attracting talent.
 - **Tom:** So she finds the portal — workinluxembourg.com.  
   → So she finds the portal — workinluxembourg dot com.
 - **Tom:** Then she goes to the Job Board, creates a profile, and applies to a couple of openings — real jobs, through ADEM.  
-  → Then she goes to the Job Board, creates a profile, and applies to a couple of openings — real jobs, through Adem.
+  → Then she goes to the Job Board, creates a profile, and applies to a couple of openings — real jobs, through Addem.
 - **Tom:** workinluxembourg.com.  
   → workinluxembourg dot com.
 - **Tom:** The Job Board connects you to real jobs through ADEM, and the Talent Desk gives you a real human to guide you.  
-  → The Job Board connects you to real jobs through Adem, and the Talent Desk gives you a real human to guide you.
+  → The Job Board connects you to real jobs through Addem, and the Talent Desk gives you a real human to guide you.
 - **Tom:** Work in Luxembourg, at workinluxembourg.com, is an official, government-led portal — a single gateway for international talent who want to work and live in Luxembourg.  
   → Work in Luxembourg, at workinluxembourg dot com, is an official, government-led portal — a single gateway for international talent who want to work and live in Luxembourg.
 - **Tom:** It's organised in three sections — Work here, Live here, and Get started — and it's backed by the country's main economic and employment players, including ADEM.  
-  → It's organised in three sections — Work here, Live here, and Get started — and it's backed by the country's main economic and employment players, including Adem.
+  → It's organised in three sections — Work here, Live here, and Get started — and it's backed by the country's main economic and employment players, including Addem.
 - **Tom:** Its Job Board connects you to real vacancies through ADEM, and its Talent Desk offers personalised, human guidance.  
-  → Its Job Board connects you to real vacancies through Adem, and its Talent Desk offers personalised, human guidance.
+  → Its Job Board connects you to real vacancies through Addem, and its Talent Desk offers personalised, human guidance.
 - **Tom:** For shortage jobs, non-EU professionals can even get faster immigration.  
   → For shortage jobs, non-E-U professionals can even get faster immigration.
 - **Anna:** workinluxembourg.com.  
@@ -1502,65 +2391,81 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 - **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
   → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 
-### zesumme (2)
+### zesumme (6)
 
+- **Tom:** For a long time, if you wanted help with a procedure in person, you went to the Guichet.lu reception desk in Luxembourg City.  
+  → For a long time, if you wanted help with a procedure in person, you went to the Guichet dot L-U reception desk in Luxembourg City.
+- **Tom:** It is called Guichet.lu on tour.  
+  → It is called Guichet dot L-U on tour.
+- **Tom:** You can get help with a procedure, or with using MyGuichet.lu.  
+  → You can get help with a procedure, or with using MyGuichet dot L-U.
+- **Tom:** And fourth, it has already helped change real services, like the Guichet.lu bus that brings the counter closer to people.  
+  → And fourth, it has already helped change real services, like the Guichet dot L-U bus that brings the counter closer to people.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
   → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
 - **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
   → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 
-### zukunftskeess (27)
+### zukunftskeess (31)
 
 - **Anna:** It's called the Zukunftskeess.  
-  → It's called the Tsoo-koonfts-kayss.
+  → It's called the Tsoo-koonfts-kehs.
+- **Anna:** People also use the short name — the CAE.  
+  → People also use the short name — the C-A-E.
 - **Tom:** Zukunftskeess.  
-  → Tsoo-koonfts-kayss.
-- **Anna:** The Zukunftskeess is the official State fund that pays family benefits in Luxembourg.  
-  → The Tsoo-koonfts-kayss is the official State fund that pays family benefits in Luxembourg.
+  → Tsoo-koonfts-kehs.
+- **Anna:** The CAE is the official State fund that pays family benefits in Luxembourg.  
+  → The C-A-E is the official State fund that pays family benefits in Luxembourg.
 - **Anna:** Its home on the internet is c-a-e dot l-u.  
   → Its home on the internet is C-A-E dot L-U.
 - **Tom:** cae.lu.  
-  → cae dot L-U.
-- **Anna:** The forms come from your doctor, the maternity hospital, or the commune — and you send them to the Zukunftskeess.  
-  → The forms come from your doctor, the maternity hospital, or the commune — and you send them to the Tsoo-koonfts-kayss.
+  → C-A-E dot L-U.
+- **Anna:** The forms come from your doctor, the maternity hospital, or the commune — and you send them to the CAE.  
+  → The forms come from your doctor, the maternity hospital, or the commune — and you send them to the C-A-E.
 - **Anna:** So for the exact figure today, you check the official page — it's the "social parameters" page on guichet dot l-u.  
   → So for the exact figure today, you check the official page — it's the "social parameters" page on guichet dot L-U.
-- **Anna:** You only need to tell the Zukunftskeess if something changes.  
-  → You only need to tell the Tsoo-koonfts-kayss if something changes.
-- **Tom:** Now — let's talk about how you actually deal with the Zukunftskeess.  
-  → Now — let's talk about how you actually deal with the Tsoo-koonfts-kayss.
+- **Anna:** You only need to tell the CAE if something changes.  
+  → You only need to tell the C-A-E if something changes.
+- **Anna:** In French, the allocation de rentrée scolaire.  
+  → In French, the allo-cah-syon de ron-tray sko-lair.
+- **Tom:** Now — let's talk about how you actually deal with the CAE.  
+  → Now — let's talk about how you actually deal with the C-A-E.
 - **Anna:** Most things can be done online, through MyGuichet.lu — the State's digital platform.  
   → Most things can be done online, through MyGuichet dot L-U — the State's digital platform.
 - **Tom:** Ah, MyGuichet.lu — we've talked about that in another episode.  
   → Ah, MyGuichet dot L-U — we've talked about that in another episode.
-- **Anna:** And through it you can also send documents to the Zukunftskeess, change your bank details, or get a payment certificate.  
-  → And through it you can also send documents to the Tsoo-koonfts-kayss, change your bank details, or get a payment certificate.
-- **Anna:** And if you have questions, you can call the Zukunftskeess, or visit their offices — they're on the Boulevard Royal, in Luxembourg City.  
-  → And if you have questions, you can call the Tsoo-koonfts-kayss, or visit their offices — they're on the Boulevard Royal, in Luxembourg City.
-- **Tom:** Now Anna, are these three benefits everything the Zukunftskeess does?  
-  → Now Anna, are these three benefits everything the Tsoo-koonfts-kayss does?
-- **Anna:** First — for parents who take time off work to look after a young child, there's parental leave, and the Zukunftskeess pays the parental leave income during that time.  
-  → First — for parents who take time off work to look after a young child, there's parental leave, and the Tsoo-koonfts-kayss pays the parental leave income during that time.
-- **Anna:** So the Zukunftskeess really sits at the centre of family life — from pregnancy, to the baby years, to school, to childcare, to time off work.  
-  → So the Tsoo-koonfts-kayss really sits at the centre of family life — from pregnancy, to the baby years, to school, to childcare, to time off work.
-- **Tom:** So where does the Zukunftskeess come in, from the very start?  
-  → So where does the Tsoo-koonfts-kayss come in, from the very start?
+- **Anna:** And through it you can also send documents to the CAE, or change your bank details.  
+  → And through it you can also send documents to the C-A-E, or change your bank details.
+- **Anna:** And if you need a payment certificate, there's a simple online form on the CAE website.  
+  → And if you need a payment certificate, there's a simple online form on the C-A-E website.
+- **Anna:** And if you have questions, you can call the CAE, or visit their offices — they're on the Boulevard Royal, in Luxembourg City.  
+  → And if you have questions, you can call the C-A-E, or visit their offices — they're on the Boulevard Royal, in Luxembourg City.
+- **Tom:** Now Anna, are these three benefits everything the CAE does?  
+  → Now Anna, are these three benefits everything the C-A-E does?
+- **Anna:** First — for parents who take time off work to look after a young child, there's parental leave, and the CAE pays the parental leave income during that time.  
+  → First — for parents who take time off work to look after a young child, there's parental leave, and the C-A-E pays the parental leave income during that time.
+- **Anna:** So the CAE really sits at the centre of family life — from pregnancy, to the baby years, to school, to childcare, to time off work.  
+  → So the C-A-E really sits at the centre of family life — from pregnancy, to the baby years, to school, to childcare, to time off work.
+- **Tom:** So where does the CAE come in, from the very start?  
+  → So where does the C-A-E come in, from the very start?
 - **Anna:** And they make one application for the monthly family allowance — through MyGuichet.lu.  
   → And they make one application for the monthly family allowance — through MyGuichet dot L-U.
 - **Anna:** First — go to the website, c-a-e dot l-u, or to MyGuichet.lu.  
   → First — go to the website, C-A-E dot L-U, or to MyGuichet dot L-U.
 - **Tom:** cae.lu.  
-  → cae dot L-U.
-- **Anna:** Check with the Zukunftskeess.  
-  → Check with the Tsoo-koonfts-kayss.
-- **Anna:** The Zukunftskeess — the Children's Future Fund, cae.lu — is the State office for family benefits in Luxembourg.  
-  → The Tsoo-koonfts-kayss — the Children's Future Fund, cae dot L-U — is the State office for family benefits in Luxembourg.
-- **Tom:** The Zukunftskeess.  
-  → The Tsoo-koonfts-kayss.
+  → C-A-E dot L-U.
+- **Anna:** And if your child turns eighteen but stays in school, send back the form to keep the allowance going up to twenty-five — you can now do it online too, on MyGuichet.lu.  
+  → And if your child turns eighteen but stays in school, send back the form to keep the allowance going up to twenty-five — you can now do it online too, on MyGuichet dot L-U.
+- **Anna:** Check with the CAE.  
+  → Check with the C-A-E.
+- **Anna:** The CAE — the Children's Future Fund, cae.lu — is the State office for family benefits in Luxembourg.  
+  → The C-A-E — the Children's Future Fund, C-A-E dot L-U — is the State office for family benefits in Luxembourg.
+- **Tom:** The CAE.  
+  → The C-A-E.
 - **Tom:** cae.lu.  
-  → cae dot L-U.
-- **Anna:** That was our episode about the Zukunftskeess.  
-  → That was our episode about the Tsoo-koonfts-kayss.
+  → C-A-E dot L-U.
+- **Anna:** That was our episode about the CAE.  
+  → That was our episode about the C-A-E.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
   → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
 - **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
@@ -1571,8 +2476,8 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 
 ### aaa (13)
 
-- **Anna:** Les gens la connaissent par ses initiales en français... l'AAA, l'Association d'assurance accident.  
-  → Les gens la connaissent par ses initiales en français... l'A-A-A, l'Association d'assurance accident.
+- **Anna:** Les gens la connaissent par ses initiales en français, l'AAA, l'Association d'assurance accident.  
+  → Les gens la connaissent par ses initiales en français, l'A-A-A, l'Association d'assurance accident.
 - **Tom:** Alors Anna, qu'est-ce que l'AAA exactement ?  
   → Alors Anna, qu'est-ce que l'A-A-A exactement ?
 - **Anna:** Si quelque chose arrive, que fait réellement l'AAA pour vous ?  
@@ -1583,8 +2488,8 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → L'A-A-A fait beaucoup pour la sécurité et la santé au travail.
 - **Anna:** L'essentiel, c'est que l'accident doit être déclaré à l'AAA.  
   → L'essentiel, c'est que l'accident doit être déclaré à l'A-A-A.
-- **Anna:** Il est aussi bon de savoir que l'AAA est là pour répondre aux questions, avec un service de contact et un guichet.  
-  → Il est aussi bon de savoir que l'A-A-A est là pour répondre aux questions, avec un service de contact et un guichet.
+- **Anna:** Il est aussi bon de savoir que l'AAA est là pour répondre aux questions, avec un service de contact et un guichet, et on peut même prendre rendez-vous en ligne.  
+  → Il est aussi bon de savoir que l'A-A-A est là pour répondre aux questions, avec un service de contact et un guichet, et on peut même prendre rendez-vous en ligne.
 - **Tom:** Premièrement, sachez que les accidents au travail, sur le chemin du travail, et à l'école sont couverts par l'AAA.  
   → Premièrement, sachez que les accidents au travail, sur le chemin du travail, et à l'école sont couverts par l'A-A-A.
 - **Tom:** Les conseils de l'AAA peuvent aider à garder votre lieu de travail en sécurité.  
@@ -1627,7 +2532,28 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 - **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
   → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
 
-### adem (46)
+### activitesseniors (9)
+
+- **Tom:** L'adresse est infosenior point public point l-u.  
+  → L'adresse est infosenior point public point L-U.
+- **Anna:** Le premier s'appelle geroAKTIV.  
+  → Le premier s'appelle gero Aktiv.
+- **Anna:** Le deuxième, geroPRO, propose des formations pratiques aux professionnels qui travaillent avec des personnes âgées.  
+  → Le deuxième, gero Pro, propose des formations pratiques aux professionnels qui travaillent avec des personnes âgées.
+- **Anna:** Le troisième, geroRESEARCH, fait de la recherche appliquée sur le vieillissement.  
+  → Le troisième, gero Research, fait de la recherche appliquée sur le vieillissement.
+- **Anna:** Super Senior est un service de l'association MEC, qui se trouve à Echternach.  
+  → Super Senior est un service de l'association M-E-C, qui se trouve à Echternach.
+- **Anna:** Allez sur infosenior point public point l-u et choisissez « Activités seniors ».  
+  → Allez sur infosenior point public point L-U et choisissez « Activités seniors ».
+- **Tom:** Et tous sont regroupés au même endroit, sur infosenior point public point l-u.  
+  → Et tous sont regroupés au même endroit, sur infosenior point public point L-U.
+- **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
+  → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
+- **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
+  → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
+
+### adem (49)
 
 - **Anna:** Plus précisément, nous parlons de l'ADEM.  
   → Plus précisément, nous parlons de l'Adem.
@@ -1651,12 +2577,12 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Une fois votre inscription validée, vous êtes invité à un premier rendez-vous avec un conseiller de l'Adem.
 - **Anna:** Vous vous inscrivez sur MyGuichet point lu.  
   → Vous vous inscrivez sur MyGuichet point L-U.
-- **Anna:** Alors il y a la deuxième façon... s'inscrire en personne dans une agence de l'ADEM.  
-  → Alors il y a la deuxième façon... s'inscrire en personne dans une agence de l'Adem.
+- **Anna:** Alors il y a la deuxième façon, s'inscrire en personne dans une agence de l'ADEM.  
+  → Alors il y a la deuxième façon, s'inscrire en personne dans une agence de l'Adem.
 - **Tom:** Le numéro est celui du Contact Center de l'ADEM, le 2-4-7, 8-8-8-8-8.  
   → Le numéro est celui du Contact Center de l'Adem, le deux quatre sept, huit huit huit huit huit.
-- **Anna:** Et l'ADEM a trois sites... à Luxembourg-Ville, à Esch-Belval, et à Diekirch.  
-  → Et l'Adem a trois sites... à Luxembourg-Ville, à Esch-Belval, et à Diekirch.
+- **Anna:** Et vous pouvez vous inscrire sur place dans trois agences de l'ADEM, à Luxembourg-Ville, à Esch-Belval, et à Diekirch.  
+  → Et vous pouvez vous inscrire sur place dans trois agences de l'Adem, à Luxembourg-Ville, à Esch-Belval, et à Diekirch.
 - **Tom:** Et apportez votre CV, à jour, avec votre expérience, vos compétences, vos formations, et les langues que vous parlez.  
   → Et apportez votre C-V, à jour, avec votre expérience, vos compétences, vos formations, et les langues que vous parlez.
 - **Tom:** Vous pouvez vous inscrire à l'ADEM même si vous avez encore un emploi.  
@@ -1667,52 +2593,58 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Le JobBoard est la plateforme d'offres d'emploi de l'Adem.
 - **Tom:** Vous pouvez aussi y téléverser votre CV, pour que les employeurs puissent vous trouver.  
   → Vous pouvez aussi y téléverser votre C-V, pour que les employeurs puissent vous trouver.
-- **Anna:** Là, vous pouvez utiliser des ordinateurs et recevoir de l'aide pour préparer votre CV.  
-  → Là, vous pouvez utiliser des ordinateurs et recevoir de l'aide pour préparer votre C-V.
-- **Anna:** Donc on attend de vous que vous fassiez des démarches par vous-même... répondre aux annonces d'emploi, envoyer des candidatures, consulter le JobBoard, tenir votre CV à jour.  
-  → Donc on attend de vous que vous fassiez des démarches par vous-même... répondre aux annonces d'emploi, envoyer des candidatures, consulter le JobBoard, tenir votre C-V à jour.
-- **Anna:** Et vous informez l'ADEM des changements qui touchent votre disponibilité... un déménagement, un nouveau numéro de téléphone, le début d'un emploi, une maladie, et ainsi de suite.  
-  → Et vous informez l'Adem des changements qui touchent votre disponibilité... un déménagement, un nouveau numéro de téléphone, le début d'un emploi, une maladie, et ainsi de suite.
+- **Anna:** Là, vous pouvez utiliser des ordinateurs, recevoir de l'aide pour votre CV et votre lettre de motivation, même faire prendre une photo pour votre CV, et participer à des ateliers en groupe.  
+  → Là, vous pouvez utiliser des ordinateurs, recevoir de l'aide pour votre C-V et votre lettre de motivation, même faire prendre une photo pour votre C-V, et participer à des ateliers en groupe.
+- **Anna:** Donc on attend de vous que vous fassiez des démarches par vous-même, répondre aux annonces d'emploi, envoyer des candidatures, consulter le JobBoard, tenir votre CV à jour.  
+  → Donc on attend de vous que vous fassiez des démarches par vous-même, répondre aux annonces d'emploi, envoyer des candidatures, consulter le JobBoard, tenir votre C-V à jour.
+- **Anna:** Et vous informez l'ADEM des changements qui touchent votre disponibilité, un déménagement, un nouveau numéro de téléphone, le début d'un emploi, une maladie, et ainsi de suite.  
+  → Et vous informez l'Adem des changements qui touchent votre disponibilité, un déménagement, un nouveau numéro de téléphone, le début d'un emploi, une maladie, et ainsi de suite.
 - **Tom:** L'ADEM vous soutient, et vous restez actif et en contact.  
   → L'Adem vous soutient, et vous restez actif et en contact.
 - **Tom:** Pendant ce congé approuvé, vous êtes dispensé de vos obligations envers l'ADEM, un peu comme des vacances.  
   → Pendant ce congé approuvé, vous êtes dispensé de vos obligations envers l'Adem, un peu comme des vacances.
-- **Anna:** Maintenant, parlons d'argent, parce que beaucoup de gens viennent à l'ADEM pour cela... l'indemnité de chômage.  
-  → Maintenant, parlons d'argent, parce que beaucoup de gens viennent à l'Adem pour cela... l'indemnité de chômage.
+- **Anna:** Maintenant, parlons d'argent, parce que beaucoup de gens viennent à l'ADEM pour cela, l'indemnité de chômage.  
+  → Maintenant, parlons d'argent, parce que beaucoup de gens viennent à l'Adem pour cela, l'indemnité de chômage.
 - **Anna:** Pour demander l'indemnité de chômage, vous devez d'abord être inscrit comme demandeur d'emploi auprès de l'ADEM.  
   → Pour demander l'indemnité de chômage, vous devez d'abord être inscrit comme demandeur d'emploi auprès de l'Adem.
 - **Tom:** Une fois votre dossier de demandeur d'emploi ouvert, l'ADEM vérifie automatiquement si vous pouvez avoir droit à des indemnités, selon votre situation.  
   → Une fois votre dossier de demandeur d'emploi ouvert, l'Adem vérifie automatiquement si vous pouvez avoir droit à des indemnités, selon votre situation.
-- **Tom:** Et il y a un délai clair... dans les quatre mois suivant l'inscription à l'ADEM.  
-  → Et il y a un délai clair... dans les quatre mois suivant l'inscription à l'Adem.
+- **Tom:** Si vous remplissez les conditions, l'ADEM vous envoie un courrier, et vous complétez votre demande en ligne, sur MyGuichet.lu.  
+  → Si vous remplissez les conditions, l'Adem vous envoie un courrier, et vous complétez votre demande en ligne, sur MyGuichet point L-U.
+- **Tom:** Et il y a un délai clair, dans les quatre mois suivant l'inscription à l'ADEM.  
+  → Et il y a un délai clair, dans les quatre mois suivant l'inscription à l'Adem.
 - **Tom:** Donc si vous êtes jeune et que vous ne savez pas trop quoi faire ensuite, l'ADEM est un très bon point de départ.  
   → Donc si vous êtes jeune et que vous ne savez pas trop quoi faire ensuite, l'Adem est un très bon point de départ.
 - **Anna:** L'ADEM propose aussi un accompagnement dédié aux personnes en situation de handicap, ou avec une capacité de travail réduite.  
   → L'Adem propose aussi un accompagnement dédié aux personnes en situation de handicap, ou avec une capacité de travail réduite.
-- **Tom:** N'oublions pas l'autre côté de l'ADEM... les employeurs.  
-  → N'oublions pas l'autre côté de l'Adem... les employeurs.
+- **Tom:** N'oublions pas l'autre côté de l'ADEM, les employeurs.  
+  → N'oublions pas l'autre côté de l'Adem, les employeurs.
 - **Anna:** Au Luxembourg, les employeurs sont en fait tenus de déclarer leurs postes vacants à l'ADEM.  
   → Au Luxembourg, les employeurs sont en fait tenus de déclarer leurs postes vacants à l'Adem.
 - **Tom:** L'ADEM les met en relation avec des candidats issus de son vivier de demandeurs d'emploi.  
   → L'Adem les met en relation avec des candidats issus de son vivier de demandeurs d'emploi.
 - **Tom:** Donc l'ADEM ne se contente pas d'aider les individus.  
   → Donc l'Adem ne se contente pas d'aider les individus.
-- **Tom:** Parfois, des escrocs envoient de faux courriels en se faisant passer pour l'ADEM, et ils demandent de l'argent pour un emploi ou un visa.  
-  → Parfois, des escrocs envoient de faux courriels en se faisant passer pour l'Adem, et ils demandent de l'argent pour un emploi ou un visa.
-- **Anna:** Retenez bien ceci... l'ADEM ne vous demande jamais de payer pour un emploi ou un visa.  
-  → Retenez bien ceci... l'Adem ne vous demande jamais de payer pour un emploi ou un visa.
-- **Tom:** Si quelqu'un vous demande un paiement au nom de l'ADEM, c'est une arnaque.  
-  → Si quelqu'un vous demande un paiement au nom de l'Adem, c'est une arnaque.
-- **Anna:** Pour traiter avec l'ADEM, vous devriez parler au moins une des langues administratives du Luxembourg... le luxembourgeois, le français, ou l'allemand, ou alors l'anglais.  
-  → Pour traiter avec l'Adem, vous devriez parler au moins une des langues administratives du Luxembourg... le luxembourgeois, le français, ou l'allemand, ou alors l'anglais.
+- **Tom:** Et depuis 2026, il y a même un site national, workinluxembourg.com.  
+  → Et depuis 2026, il y a même un site national, workinluxembourg point com.
+- **Tom:** Parfois, des escrocs envoient de faux courriels ou créent de faux comptes sur les réseaux sociaux en se faisant passer pour l'ADEM.  
+  → Parfois, des escrocs envoient de faux courriels ou créent de faux comptes sur les réseaux sociaux en se faisant passer pour l'Adem.
+- **Anna:** Retenez bien ceci, l'ADEM ne vous demande jamais de payer pour un emploi ou un visa.  
+  → Retenez bien ceci, l'Adem ne vous demande jamais de payer pour un emploi ou un visa.
+- **Tom:** Si quelqu'un vous demande un paiement ou des données personnelles au nom de l'ADEM, c'est une arnaque.  
+  → Si quelqu'un vous demande un paiement ou des données personnelles au nom de l'Adem, c'est une arnaque.
+- **Tom:** Ne payez pas, ne cliquez pas, et vérifiez les canaux officiels de l'ADEM sur son site.  
+  → Ne payez pas, ne cliquez pas, et vérifiez les canaux officiels de l'Adem sur son site.
+- **Anna:** Pour traiter avec l'ADEM, vous devriez parler au moins une des langues administratives du Luxembourg, le luxembourgeois, le français, ou l'allemand, ou alors l'anglais.  
+  → Pour traiter avec l'Adem, vous devriez parler au moins une des langues administratives du Luxembourg, le luxembourgeois, le français, ou l'allemand, ou alors l'anglais.
 - **Anna:** Qu'est-ce que les gens devraient retenir sur l'ADEM ?  
   → Qu'est-ce que les gens devraient retenir sur l'Adem ?
-- **Tom:** Premièrement... l'ADEM est le service public de l'emploi du Luxembourg, gratuit, pour les demandeurs d'emploi, les salariés, et les employeurs.  
-  → Premièrement... l'Adem est le service public de l'emploi du Luxembourg, gratuit, pour les demandeurs d'emploi, les salariés, et les employeurs.
-- **Tom:** Troisièmement... vous vous inscrivez en ligne sur MyGuichet point lu avec un identifiant sécurisé, ou en personne sur rendez-vous à Luxembourg, Esch-Belval, ou Diekirch.  
-  → Troisièmement... vous vous inscrivez en ligne sur MyGuichet point L-U avec un identifiant sécurisé, ou en personne sur rendez-vous à Luxembourg, Esch-Belval, ou Diekirch.
-- **Anna:** Et n'oubliez pas la règle de sécurité... l'ADEM ne demande jamais de paiement.  
-  → Et n'oubliez pas la règle de sécurité... l'Adem ne demande jamais de paiement.
+- **Tom:** Premièrement, l'ADEM est le service public de l'emploi du Luxembourg, gratuit, pour les demandeurs d'emploi, les salariés, et les employeurs.  
+  → Premièrement, l'Adem est le service public de l'emploi du Luxembourg, gratuit, pour les demandeurs d'emploi, les salariés, et les employeurs.
+- **Tom:** Troisièmement, vous vous inscrivez en ligne sur MyGuichet point lu avec un identifiant sécurisé, ou en personne sur rendez-vous à Luxembourg, Esch-Belval, ou Diekirch.  
+  → Troisièmement, vous vous inscrivez en ligne sur MyGuichet point L-U avec un identifiant sécurisé, ou en personne sur rendez-vous à Luxembourg, Esch-Belval, ou Diekirch.
+- **Anna:** Et n'oubliez pas la règle de sécurité, l'ADEM ne demande jamais de paiement.  
+  → Et n'oubliez pas la règle de sécurité, l'Adem ne demande jamais de paiement.
 - **Anna:** L'ADEM est là pour marcher à vos côtés.  
   → L'Adem est là pour marcher à vos côtés.
 - **Anna:** C'était notre épisode sur l'ADEM.  
@@ -1732,10 +2664,10 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → L'Asta est l'administration des services techniques de l'agriculture.
 - **Anna:** Le Luxembourg a un plan, appelé PAN-Bio, pour augmenter la part de l'agriculture biologique dans le pays.  
   → Le Luxembourg a un plan, appelé Pan-Bio, pour augmenter la part de l'agriculture biologique dans le pays.
-- **Tom:** D'abord... le portail de l'agriculture, agriculture point public point lu, couvre l'agriculture, l'alimentation et le vin, du ministère de l'Agriculture, de l'Alimentation et de la Viticulture.  
-  → D'abord... le portail de l'agriculture, agriculture point public point L-U, couvre l'agriculture, l'alimentation et le vin, du ministère de l'Agriculture, de l'Alimentation et de la Viticulture.
-- **Anna:** Ensuite... des organismes spécialisés le soutiennent... l'ASTA pour les services techniques, l'institut du vin à Remich, et un organisme pour le bien-être animal et la sécurité alimentaire.  
-  → Ensuite... des organismes spécialisés le soutiennent... l'Asta pour les services techniques, l'institut du vin à Remich, et un organisme pour le bien-être animal et la sécurité alimentaire.
+- **Tom:** D'abord, le portail de l'agriculture, agriculture point public point lu, couvre l'agriculture, l'alimentation et le vin, du ministère de l'Agriculture, de l'Alimentation et de la Viticulture.  
+  → D'abord, le portail de l'agriculture, agriculture point public point L-U, couvre l'agriculture, l'alimentation et le vin, du ministère de l'Agriculture, de l'Alimentation et de la Viticulture.
+- **Anna:** Ensuite, des organismes spécialisés le soutiennent, l'ASTA pour les services techniques, l'institut du vin à Remich, et l'ALVA pour le bien-être animal et la sécurité alimentaire.  
+  → Ensuite, des organismes spécialisés le soutiennent, l'Asta pour les services techniques, l'institut du vin à Remich, et l'ALVA pour le bien-être animal et la sécurité alimentaire.
 - **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
   → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
 - **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
@@ -1771,6 +2703,37 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 - **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
   → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
 
+### ccss (14)
+
+- **Tom:** Et un organisme joue ici un rôle central : le Centre commun de la sécurité sociale, connu sous les quatre lettres CCSS.  
+  → Et un organisme joue ici un rôle central : le Centre commun de la sécurité sociale, connu sous les quatre lettres C-C-S-S.
+- **Anna:** Son site internet est ccss point l-u, et il existe en français, en allemand et en anglais.  
+  → Son site internet est C-C-S-S point L-U, et il existe en français, en allemand et en anglais.
+- **Anna:** Pour la plupart des salariés, la santé relève de la Caisse nationale de santé, la CNS.  
+  → Pour la plupart des salariés, la santé relève de la Caisse nationale de santé, la C-N-S.
+- **Anna:** Et si vous avez besoin d'une preuve en urgence, votre caisse de maladie peut vous donner un certificat provisoire via MyGuichet point l-u.  
+  → Et si vous avez besoin d'une preuve en urgence, votre caisse de maladie peut vous donner un certificat provisoire via MyGuichet point L-U.
+- **Anna:** Oui, sur MyGuichet point l-u.  
+  → Oui, sur MyGuichet point L-U.
+- **Anna:** Beaucoup de choses : sur le site ccss point l-u, vous trouvez des explications pour les salariés, les employeurs, les indépendants et les agriculteurs, ainsi que tous les formulaires.  
+  → Beaucoup de choses : sur le site C-C-S-S point L-U, vous trouvez des explications pour les salariés, les employeurs, les indépendants et les agriculteurs, ainsi que tous les formulaires.
+- **Anna:** Dans votre espace privé sur MyGuichet point l-u, vous pouvez créer un certificat d'affiliation en quelques instants et le télécharger.  
+  → Dans votre espace privé sur MyGuichet point L-U, vous pouvez créer un certificat d'affiliation en quelques instants et le télécharger.
+- **Anna:** Le certificat porte un code QR.  
+  → Le certificat porte un code Q-R.
+- **Anna:** Les frontaliers peuvent signaler leur nouvelle adresse via MyGuichet point l-u.  
+  → Les frontaliers peuvent signaler leur nouvelle adresse via MyGuichet point L-U.
+- **Anna:** Des fraudeurs envoient des e-mails et des SMS qui ont l'air de venir du Centre commun.  
+  → Des fraudeurs envoient des e-mails et des S-M-S qui ont l'air de venir du Centre commun.
+- **Anna:** Votre employeur vous inscrit au Centre commun de la sécurité sociale, le CCSS.  
+  → Votre employeur vous inscrit au Centre commun de la sécurité sociale, le C-C-S-S.
+- **Tom:** Vous trouverez toutes les informations sur ccss point l-u.  
+  → Vous trouverez toutes les informations sur C-C-S-S point L-U.
+- **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
+  → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
+- **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
+  → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
+
 ### cepas (3)
 
 - **Tom:** Et quatrièmement... ces services sont en lien avec d'autres, comme l'ONE, afin que l'aide puisse être coordonnée.  
@@ -1780,7 +2743,70 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 - **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
   → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
 
-### cgdis (26)
+### cet (30)
+
+- **Tom:** C'est exactement pour cela que nous parlons aujourd'hui du CET, le Centre pour l'égalité de traitement.  
+  → C'est exactement pour cela que nous parlons aujourd'hui du C-E-T, le Centre pour l'égalité de traitement.
+- **Anna:** Les trois lettres CET viennent de ce nom français.  
+  → Les trois lettres C-E-T viennent de ce nom français.
+- **Anna:** Son site internet est cet point l-u.  
+  → Son site internet est C-E-T point L-U.
+- **Tom:** Le CET existe-t-il depuis longtemps ?  
+  → Le C-E-T existe-t-il depuis longtemps ?
+- **Anna:** Le CET est dirigé par un collège de cinq membres, dont un président ou une présidente.  
+  → Le C-E-T est dirigé par un collège de cinq membres, dont un président ou une présidente.
+- **Anna:** Oui, et chaque année, le CET envoie un rapport sur ses activités au Gouvernement et à la Chambre des Députés.  
+  → Oui, et chaque année, le C-E-T envoie un rapport sur ses activités au Gouvernement et à la Chambre des Députés.
+- **Tom:** Le CET peut agir pour six motifs de discrimination.  
+  → Le C-E-T peut agir pour six motifs de discrimination.
+- **Tom:** Le deuxième motif est le sexe, et pour le CET, cela comprend l'identité de genre.  
+  → Le deuxième motif est le sexe, et pour le C-E-T, cela comprend l'identité de genre.
+- **Tom:** La loi cite aussi la nationalité, mais le site dit clairement que le CET ne traite pas les plaintes fondées sur la nationalité.  
+  → La loi cite aussi la nationalité, mais le site dit clairement que le C-E-T ne traite pas les plaintes fondées sur la nationalité.
+- **Tom:** Mais le CET lui-même ne peut intervenir que pour ses six motifs.  
+  → Mais le C-E-T lui-même ne peut intervenir que pour ses six motifs.
+- **Tom:** Pour les personnes qui s'estiment victimes d'une discrimination, le CET a un service de conseil et d'orientation.  
+  → Pour les personnes qui s'estiment victimes d'une discrimination, le C-E-T a un service de conseil et d'orientation.
+- **Tom:** Le CET les informe sur leurs droits individuels, sur la législation et la jurisprudence, et sur les moyens de faire valoir leurs droits.  
+  → Le C-E-T les informe sur leurs droits individuels, sur la législation et la jurisprudence, et sur les moyens de faire valoir leurs droits.
+- **Anna:** Le CET travaille-t-il aussi pour la société dans son ensemble ?  
+  → Le C-E-T travaille-t-il aussi pour la société dans son ensemble ?
+- **Tom:** Oui, le CET peut publier des rapports, émettre des avis et des recommandations, et mener des études sur toutes les questions liées aux discriminations.  
+  → Oui, le C-E-T peut publier des rapports, émettre des avis et des recommandations, et mener des études sur toutes les questions liées aux discriminations.
+- **Tom:** Le CET produit aussi de l'information et de la documentation, et il mène des campagnes de sensibilisation.  
+  → Le C-E-T produit aussi de l'information et de la documentation, et il mène des campagnes de sensibilisation.
+- **Anna:** Le CET a-t-il un rôle particulier pour les personnes en situation de handicap ?  
+  → Le C-E-T a-t-il un rôle particulier pour les personnes en situation de handicap ?
+- **Anna:** Il y a aussi quelque chose que le CET ne fait pas.  
+  → Il y a aussi quelque chose que le C-E-T ne fait pas.
+- **Tom:** Imaginons maintenant que vous vouliez contacter le CET.  
+  → Imaginons maintenant que vous vouliez contacter le C-E-T.
+- **Tom:** Vous pouvez écrire au CET en luxembourgeois, en allemand, en français ou en anglais.  
+  → Vous pouvez écrire au C-E-T en luxembourgeois, en allemand, en français ou en anglais.
+- **Anna:** Y a-t-il d'autres moyens de joindre le CET ?  
+  → Y a-t-il d'autres moyens de joindre le C-E-T ?
+- **Tom:** Oui, vous pouvez aussi téléphoner, envoyer une lettre, ou écrire un e-mail à info arobase cet point l-u.  
+  → Oui, vous pouvez aussi téléphoner, envoyer une lettre, ou écrire un e-mail à info arobase C-E-T point L-U.
+- **Tom:** Le CET traite vos données personnelles de façon confidentielle, et les informations sur les cas individuels sont couvertes par le secret professionnel.  
+  → Le C-E-T traite vos données personnelles de façon confidentielle, et les informations sur les cas individuels sont couvertes par le secret professionnel.
+- **Anna:** Vous y trouvez des explications sur la discrimination et sur vos droits, la législation nationale et européenne, les publications du CET, et une page de questions fréquentes.  
+  → Vous y trouvez des explications sur la discrimination et sur vos droits, la législation nationale et européenne, les publications du C-E-T, et une page de questions fréquentes.
+- **Anna:** Selon une loi de 2023, le CET est l'autorité compétente pour recevoir ces signalements dans son propre domaine.  
+  → Selon une loi de 2023, le C-E-T est l'autorité compétente pour recevoir ces signalements dans son propre domaine.
+- **Anna:** Premièrement : le CET, le Centre pour l'égalité de traitement, est un organisme indépendant qui promeut et surveille l'égalité de traitement au Luxembourg.  
+  → Premièrement : le C-E-T, le Centre pour l'égalité de traitement, est un organisme indépendant qui promeut et surveille l'égalité de traitement au Luxembourg.
+- **Tom:** Et quatrièmement : si vous vous sentez discriminé, ou si vous avez vu une discrimination, vous pouvez la signaler au CET et recevoir des conseils sur vos droits.  
+  → Et quatrièmement : si vous vous sentez discriminé, ou si vous avez vu une discrimination, vous pouvez la signaler au C-E-T et recevoir des conseils sur vos droits.
+- **Anna:** Vous trouvez toutes les informations, et le formulaire de contact, sur cet point l-u.  
+  → Vous trouvez toutes les informations, et le formulaire de contact, sur C-E-T point L-U.
+- **Anna:** C'était notre épisode sur le CET, le Centre pour l'égalité de traitement.  
+  → C'était notre épisode sur le C-E-T, le Centre pour l'égalité de traitement.
+- **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
+  → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
+- **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
+  → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
+
+### cgdis (16)
 
 - **Anna:** La réponse est une organisation appelée le CGDIS, et un numéro que vous ne devez jamais oublier... 1-1-2.  
   → La réponse est une organisation appelée le C-G-D-I-S, et un numéro que vous ne devez jamais oublier... cent-douze.
@@ -1788,65 +2814,43 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Au Luxembourg, en cas d'urgence, vous appelez le cent-douze.
 - **Anna:** Vous appelez le 1-1-2 pour un incendie, pour un accident grave, ou pour une urgence médicale... une personne grièvement blessée, ou dont la vie est en danger.  
   → Vous appelez le cent-douze pour un incendie, pour un accident grave, ou pour une urgence médicale... une personne grièvement blessée, ou dont la vie est en danger.
-- **Tom:** Alors Anna, qu'est-ce que le CGDIS exactement ?  
-  → Alors Anna, qu'est-ce que le C-G-D-I-S exactement ?
 - **Anna:** CGDIS signifie Corps grand-ducal d'incendie et de secours.  
   → C-G-D-I-S signifie Corps grand-ducal d'incendie et de secours.
-- **Tom:** Parlons de ce que fait réellement le CGDIS.  
-  → Parlons de ce que fait réellement le C-G-D-I-S.
 - **Anna:** Quand vous composez le 1-1-2, où aboutit-il ?  
   → Quand vous composez le cent-douze, où aboutit-il ?
 - **Tom:** Il aboutit au centre d'appels d'urgence, le CSU-112.  
   → Il aboutit au centre d'appels d'urgence, le C-S-U cent-douze.
 - **Tom:** Le 1-1-2 est réservé aux vraies urgences.  
   → Le cent-douze est réservé aux vraies urgences.
-- **Anna:** Parlons maintenant des personnes derrière le CGDIS, car leur histoire est remarquable.  
-  → Parlons maintenant des personnes derrière le C-G-D-I-S, car leur histoire est remarquable.
-- **Tom:** Le CGDIS compte des pompiers professionnels, qui en font leur métier à plein temps.  
-  → Le C-G-D-I-S compte des pompiers professionnels, qui en font leur métier à plein temps.
-- **Tom:** Regardons brièvement comment le CGDIS est organisé à travers le pays.  
-  → Regardons brièvement comment le C-G-D-I-S est organisé à travers le pays.
 - **Anna:** Il y a des centres d'incendie et de secours, appelés CIS, répartis dans tout le Luxembourg, pour que l'aide ne soit jamais loin.  
   → Il y a des centres d'incendie et de secours, appelés C-I-S, répartis dans tout le Luxembourg, pour que l'aide ne soit jamais loin.
 - **Tom:** Il y a un centre national, le CNIS, près de la Ville de Luxembourg, qui coordonne l'ensemble du système.  
   → Il y a un centre national, le C-N-I-S, près de la Ville de Luxembourg, qui coordonne l'ensemble du système.
-- **Anna:** Le CGDIS accueille de nouveaux bénévoles.  
-  → Le C-G-D-I-S accueille de nouveaux bénévoles.
-- **Tom:** Parlons aussi de la formation et de la prévention, car le CGDIS fait plus que répondre aux urgences.  
-  → Parlons aussi de la formation et de la prévention, car le C-G-D-I-S fait plus que répondre aux urgences.
 - **Anna:** Il a un institut national de formation, l'INFS, qui forme ses secouristes à un haut niveau.  
   → Il a un institut national de formation, l'I-N-F-S, qui forme ses secouristes à un haut niveau.
-- **Tom:** Le CGDIS donne aussi des conseils de prévention des incendies... des choses simples qui rendent votre maison plus sûre.  
-  → Le C-G-D-I-S donne aussi des conseils de prévention des incendies... des choses simples qui rendent votre maison plus sûre.
-- **Anna:** Ainsi, le CGDIS est là avant, pendant et après une urgence.  
-  → Ainsi, le C-G-D-I-S est là avant, pendant et après une urgence.
 - **Anna:** D'abord, et le plus important... en cas d'urgence au Luxembourg, appelez le 1-1-2.  
   → D'abord, et le plus important... en cas d'urgence au Luxembourg, appelez le cent-douze.
-- **Anna:** Et cinquièmement, si cela vous parle, pensez à devenir bénévole au CGDIS.  
-  → Et cinquièmement, si cela vous parle, pensez à devenir bénévole au C-G-D-I-S.
 - **Anna:** Premièrement... le CGDIS est le service national d'incendie et de secours du Luxembourg, créé en 2018.  
   → Premièrement... le C-G-D-I-S est le service national d'incendie et de secours du Luxembourg, créé en 2018.
 - **Tom:** Deuxièmement... en cas d'urgence, vous appelez le 1-1-2, gratuit, depuis n'importe quel téléphone, jour et nuit.  
   → Deuxièmement... en cas d'urgence, vous appelez le cent-douze, gratuit, depuis n'importe quel téléphone, jour et nuit.
-- **Anna:** C'était notre épisode sur le CGDIS et le numéro d'urgence 112.  
-  → C'était notre épisode sur le C-G-D-I-S et le numéro d'urgence cent-douze.
+- **Anna:** C'était notre épisode sur le corps grand-ducal d'incendie et de secours et le numéro d'urgence 112.  
+  → C'était notre épisode sur le corps grand-ducal d'incendie et de secours et le numéro d'urgence cent-douze.
 - **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
   → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
 - **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
   → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
 
-### clarvia (7)
+### clubaktivplus (6)
 
-- **Anna:** Clarvia est une association sans but lucratif luxembourgeoise — une ASBL — fondée en 2026.  
-  → Clarvia est une association sans but lucratif luxembourgeoise — une A-S-B-L — fondée en 2026.
-- **Anna:** Une première version — ils l'appellent une version alpha — est déjà disponible sur leur site, clarvia.org.  
-  → Une première version — ils l'appellent une version alpha — est déjà disponible sur leur site, clarvia point org.
-- **Anna:** Chaque étape de la checklist est reliée à une source officielle du gouvernement — par exemple Guichet.lu.  
-  → Chaque étape de la checklist est reliée à une source officielle du gouvernement — par exemple Guichet point L-U.
-- **Anna:** Si vous avez déjà géré les démarches pratiques après la perte d'un proche au Luxembourg, vous pouvez partager votre expérience sur clarvia.org — ce qui a été le plus difficile, quels documents ont posé problème, ce qui vous aurait aidé.  
-  → Si vous avez déjà géré les démarches pratiques après la perte d'un proche au Luxembourg, vous pouvez partager votre expérience sur clarvia point org — ce qui a été le plus difficile, quels documents ont posé problème, ce qui vous aurait aidé.
-- **Anna:** C'est gratuit, ça protège votre vie privée, et la première version est déjà sur clarvia.org.  
-  → C'est gratuit, ça protège votre vie privée, et la première version est déjà sur clarvia point org.
+- **Anna:** L'adresse, c'est clubaktivplus point l-u, écrit en un seul mot.  
+  → L'adresse, c'est Club Aktiv Plus point L-U, écrit en un seul mot.
+- **Tom:** Que trouve-t-on sur clubaktivplus point l-u ?  
+  → Que trouve-t-on sur Club Aktiv Plus point L-U ?
+- **Anna:** L'adresse, c'est contact arobase clubaktivplus point l-u.  
+  → L'adresse, c'est contact arobase Club Aktiv Plus point L-U.
+- **Anna:** Vous trouverez tous les clubs et leurs programmes sur clubaktivplus point l-u.  
+  → Vous trouverez tous les clubs et leurs programmes sur Club Aktiv Plus point L-U.
 - **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
   → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
 - **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
@@ -1905,12 +2909,114 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 - **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
   → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
 
+### cnpd (26)
+
+- **Tom:** Et au Luxembourg, une autorité contrôle la manière dont ces données sont utilisées : la CNPD.  
+  → Et au Luxembourg, une autorité contrôle la manière dont ces données sont utilisées : la C-N-P-D.
+- **Anna:** Les quatre lettres CNPD viennent tout simplement de ce nom.  
+  → Les quatre lettres C-N-P-D viennent tout simplement de ce nom.
+- **Tom:** Alors, quel genre d'organisme est la CNPD ?  
+  → Alors, quel genre d'organisme est la C-N-P-D ?
+- **Tom:** Et quelles règles la CNPD surveille-t-elle dans son travail quotidien ?  
+  → Et quelles règles la C-N-P-D surveille-t-elle dans son travail quotidien ?
+- **Anna:** La plupart des gens disent simplement RGPD.  
+  → La plupart des gens disent simplement R-G-P-D.
+- **Anna:** Au Luxembourg, il existe aussi des lois nationales, par exemple une loi du 1er août 2018 qui organise la CNPD.  
+  → Au Luxembourg, il existe aussi des lois nationales, par exemple une loi du 1er août 2018 qui organise la C-N-P-D.
+- **Tom:** Y a-t-il quelque chose que la CNPD ne contrôle pas ?  
+  → Y a-t-il quelque chose que la C-N-P-D ne contrôle pas ?
+- **Tom:** Le site de la CNPD présente vos droits un par un.  
+  → Le site de la C-N-P-D présente vos droits un par un.
+- **Tom:** La CNPD propose aussi des modèles de lettres sur son site, par exemple pour le droit d'accès.  
+  → La C-N-P-D propose aussi des modèles de lettres sur son site, par exemple pour le droit d'accès.
+- **Anna:** Alors vous pouvez introduire une réclamation auprès de la CNPD.  
+  → Alors vous pouvez introduire une réclamation auprès de la C-N-P-D.
+- **Anna:** La CNPD recommande son formulaire de réclamation en ligne, que vous trouvez sur son site.  
+  → La C-N-P-D recommande son formulaire de réclamation en ligne, que vous trouvez sur son site.
+- **Tom:** Une fois votre réclamation arrivée, la CNPD vérifie d'abord si elle est justifiée.  
+  → Une fois votre réclamation arrivée, la C-N-P-D vérifie d'abord si elle est justifiée.
+- **Tom:** Alors la CNPD a de vrais pouvoirs.  
+  → Alors la C-N-P-D a de vrais pouvoirs.
+- **Tom:** Alors vous pouvez exercer vos droits de manière indirecte, par l'intermédiaire de la CNPD.  
+  → Alors vous pouvez exercer vos droits de manière indirecte, par l'intermédiaire de la C-N-P-D.
+- **Anna:** La CNPD peut-elle m'accorder de l'argent comme réparation ?  
+  → La C-N-P-D peut-elle m'accorder de l'argent comme réparation ?
+- **Tom:** La CNPD vous suggère de consulter un avocat pour cela.  
+  → La C-N-P-D vous suggère de consulter un avocat pour cela.
+- **Tom:** Vous pouvez aussi saisir le tribunal si vous n'êtes pas satisfait de ce que la CNPD a fait.  
+  → Vous pouvez aussi saisir le tribunal si vous n'êtes pas satisfait de ce que la C-N-P-D a fait.
+- **Anna:** La CNPD fait bien plus que traiter des réclamations.  
+  → La C-N-P-D fait bien plus que traiter des réclamations.
+- **Tom:** Est-ce que je peux simplement poser une question à la CNPD, sans faire de réclamation ?  
+  → Est-ce que je peux simplement poser une question à la C-N-P-D, sans faire de réclamation ?
+- **Tom:** Le site lui-même est cnpd point l-u, et il existe en français, en anglais et en allemand.  
+  → Le site lui-même est C-N-P-D point L-U, et il existe en français, en anglais et en allemand.
+- **Anna:** Premièrement : le RGPD vous donne des droits qui vous permettent de contrôler l'usage de vos données personnelles.  
+  → Premièrement : le R-G-P-D vous donne des droits qui vous permettent de contrôler l'usage de vos données personnelles.
+- **Tom:** Quatrièmement : si cela ne fonctionne pas, vous pouvez introduire une réclamation auprès de la CNPD, la Commission nationale pour la protection des données, avec le formulaire sur son site.  
+  → Quatrièmement : si cela ne fonctionne pas, vous pouvez introduire une réclamation auprès de la C-N-P-D, la Commission nationale pour la protection des données, avec le formulaire sur son site.
+- **Anna:** Vous trouvez toutes les informations sur cnpd point l-u.  
+  → Vous trouvez toutes les informations sur C-N-P-D point L-U.
+- **Anna:** C'était notre épisode sur la CNPD et vos droits en matière de protection des données.  
+  → C'était notre épisode sur la C-N-P-D et vos droits en matière de protection des données.
+- **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
+  → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
+- **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
+  → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
+
+### consommateurs (22)
+
+- **Anna:** La première est l'ULC, l'association des consommateurs du Luxembourg.  
+  → La première est l'U-L-C, l'association des consommateurs du Luxembourg.
+- **Anna:** Commençons par l'ULC.  
+  → Commençons par l'U-L-C.
+- **Tom:** Mais presque tout le monde dit simplement l'ULC.  
+  → Mais presque tout le monde dit simplement l'U-L-C.
+- **Anna:** L'ULC fait-elle partie de l'État, ou est-elle indépendante ?  
+  → L'U-L-C fait-elle partie de l'État, ou est-elle indépendante ?
+- **Tom:** L'ULC représente les consommateurs auprès des pouvoirs publics, du monde politique et des tribunaux, et elle donne son avis sur les nouvelles lois.  
+  → L'U-L-C représente les consommateurs auprès des pouvoirs publics, du monde politique et des tribunaux, et elle donne son avis sur les nouvelles lois.
+- **Anna:** Même si vous n'êtes pas membre, vous pouvez appeler l'ULC pour une première consultation téléphonique, et elle est gratuite.  
+  → Même si vous n'êtes pas membre, vous pouvez appeler l'U-L-C pour une première consultation téléphonique, et elle est gratuite.
+- **Anna:** L'ULC aide aussi ses membres pour les questions de bail à loyer, donc pour le contrat entre un locataire et un propriétaire.  
+  → L'U-L-C aide aussi ses membres pour les questions de bail à loyer, donc pour le contrat entre un locataire et un propriétaire.
+- **Anna:** Alors l'ULC peut payer une partie des frais d'un avocat ou d'un expert.  
+  → Alors l'U-L-C peut payer une partie des frais d'un avocat ou d'un expert.
+- **Anna:** Les membres reçoivent aussi le magazine de l'ULC, et les résultats de ses tests de produits.  
+  → Les membres reçoivent aussi le magazine de l'U-L-C, et les résultats de ses tests de produits.
+- **Anna:** Y a-t-il des choses que l'ULC ne peut pas faire ?  
+  → Y a-t-il des choses que l'U-L-C ne peut pas faire ?
+- **Tom:** Et pour les problèmes de voyage ou d'assurance, l'ULC a construit des solutions spéciales avec les professionnels de ces secteurs.  
+  → Et pour les problèmes de voyage ou d'assurance, l'U-L-C a construit des solutions spéciales avec les professionnels de ces secteurs.
+- **Tom:** Pour les voyages à forfait, il y a la Commission luxembourgeoise des litiges de voyages, que l'ULC fait fonctionner avec les agences de voyages.  
+  → Pour les voyages à forfait, il y a la Commission luxembourgeoise des litiges de voyages, que l'U-L-C fait fonctionner avec les agences de voyages.
+- **Anna:** Où peut-on trouver l'ULC, et a-t-elle un site internet ?  
+  → Où peut-on trouver l'U-L-C, et a-t-elle un site internet ?
+- **Tom:** Le site est ulc point l-u, en français et en allemand.  
+  → Le site est U-L-C point L-U, en français et en allemand.
+- **Anna:** Beaucoup de gens disent simplement le CEC, d'après ses trois initiales.  
+  → Beaucoup de gens disent simplement le C-E-C, d'après ses trois initiales.
+- **Anna:** Il est financé ensemble par la Commission européenne, l'État luxembourgeois et l'ULC.  
+  → Il est financé ensemble par la Commission européenne, l'État luxembourgeois et l'U-L-C.
+- **Anna:** Vous trouvez tout cela sur le site du centre, à l'adresse cecluxembourg point l-u.  
+  → Vous trouvez tout cela sur le site du centre, à l'adresse C-E-C Luxembourg point L-U.
+- **Anna:** Premièrement : pour un problème avec un professionnel au Luxembourg, l'ULC est votre contact.  
+  → Premièrement : pour un problème avec un professionnel au Luxembourg, l'U-L-C est votre contact.
+- **Anna:** Vous les trouvez sur ulc point l-u et sur cecluxembourg point l-u.  
+  → Vous les trouvez sur U-L-C point L-U et sur C-E-C Luxembourg point L-U.
+- **Anna:** C'était notre épisode sur la protection des consommateurs, avec l'ULC et le Centre européen des consommateurs.  
+  → C'était notre épisode sur la protection des consommateurs, avec l'U-L-C et le Centre européen des consommateurs.
+- **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
+  → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
+- **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
+  → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
+
 ### culture (4)
 
-- **Tom:** C'est exactement là qu'intervient l'outil d'aujourd'hui... le portail culturel, à l'adresse culture point lu.  
-  → C'est exactement là qu'intervient l'outil d'aujourd'hui... le portail culturel, à l'adresse culture point L-U.
-- **Anna:** D'abord... culture point lu rassemble la vie culturelle du Luxembourg en un seul endroit, soutenu par le ministère de la Culture.  
-  → D'abord... culture point L-U rassemble la vie culturelle du Luxembourg en un seul endroit, soutenu par le ministère de la Culture.
+- **Tom:** C'est exactement là qu'intervient l'outil d'aujourd'hui, le portail culturel, à l'adresse culture point lu.  
+  → C'est exactement là qu'intervient l'outil d'aujourd'hui, le portail culturel, à l'adresse culture point L-U.
+- **Anna:** D'abord, culture point lu rassemble la vie culturelle du Luxembourg en un seul endroit, soutenu par le ministère de la Culture.  
+  → D'abord, culture point L-U rassemble la vie culturelle du Luxembourg en un seul endroit, soutenu par le ministère de la Culture.
 - **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
   → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
 - **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
@@ -1944,7 +3050,20 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 - **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
   → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
 
-### dsp_cns (32)
+### dondusang (5)
+
+- **Tom:** Alors vous êtes la bonne personne pour le sujet d'aujourd'hui : le don de sang au Luxembourg, et le site dondusang point l-u.  
+  → Alors vous êtes la bonne personne pour le sujet d'aujourd'hui : le don de sang au Luxembourg, et le site don du sang point L-U.
+- **Anna:** Vous prenez rendez-vous sur dondusang point l-u.  
+  → Vous prenez rendez-vous sur don du sang point L-U.
+- **Anna:** Et quatrièmement : tout commence sur dondusang point l-u — le test en ligne, le rendez-vous, les lieux et les dates.  
+  → Et quatrièmement : tout commence sur don du sang point L-U — le test en ligne, le rendez-vous, les lieux et les dates.
+- **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
+  → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
+- **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
+  → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
+
+### dsp_cns (36)
 
 - **Anna:** Et ensuite, comment vous récupérez votre argent auprès de l'assurance maladie, la CNS.  
   → Et ensuite, comment vous récupérez votre argent auprès de l'assurance maladie, la C-N-S.
@@ -1954,12 +3073,16 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Avec le D-S-P, le médecin de garde peut voir vos informations essentielles.
 - **Anna:** C'est vous, le patient, qui décidez qui peut consulter votre DSP.  
   → C'est vous, le patient, qui décidez qui peut consulter votre D-S-P.
+- **Anna:** Vous pouvez même bloquer l'accès à certains documents — et vous pouvez fermer votre DSP à tout moment.  
+  → Vous pouvez même bloquer l'accès à certains documents — et vous pouvez fermer votre D-S-P à tout moment.
 - **Tom:** Alors comment j'ouvre concrètement un DSP ?  
   → Alors comment j'ouvre concrètement un D-S-P ?
-- **Anna:** Et voici une bonne nouvelle : vous pouvez l'activer directement via MyGuichet.lu.  
-  → Et voici une bonne nouvelle : vous pouvez l'activer directement via MyGuichet point L-U.
-- **Anna:** Vous vous connectez à votre DSP en ligne, via le portail eSanté.  
-  → Vous vous connectez à votre D-S-P en ligne, via le portail eSanté.
+- **Anna:** Si vous êtes affilié à l'assurance maladie luxembourgeoise, votre DSP est créé automatiquement.  
+  → Si vous êtes affilié à l'assurance maladie luxembourgeoise, votre D-S-P est créé automatiquement.
+- **Anna:** Avec LuxTrust ou une carte d'identité luxembourgeoise, vous pouvez le faire en quelques clics sur MyGuichet.lu — sur le site ou dans l'application — sans attendre un code par la poste.  
+  → Avec LuxTrust ou une carte d'identité luxembourgeoise, vous pouvez le faire en quelques clics sur MyGuichet point L-U — sur le site ou dans l'application — sans attendre un code par la poste.
+- **Anna:** Ensuite, vous pouvez ouvrir votre DSP directement dans votre eSpace MyGuichet, ou sur le portail eSanté.  
+  → Ensuite, vous pouvez ouvrir votre D-S-P directement dans votre eSpace MyGuichet, ou sur le portail eSanté.
 - **Tom:** Alors, pour résumer la première moitié — le DSP est mon dossier de santé en ligne, gratuit et sécurisé, géré par l'Agence eSanté, il aide tous mes soignants à travailler ensemble, je contrôle qui le voit, et je l'active via MyGuichet.  
   → Alors, pour résumer la première moitié — le D-S-P est mon dossier de santé en ligne, gratuit et sécurisé, géré par l'Agence eSanté, il aide tous mes soignants à travailler ensemble, je contrôle qui le voit, et je l'active via MyGuichet.
 - **Tom:** La CNS.  
@@ -1968,12 +3091,16 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Anna, d'abord... qu'est-ce que la C-N-S ?
 - **Anna:** CNS veut dire Caisse Nationale de Santé.  
   → C-N-S veut dire Caisse Nationale de Santé.
-- **Anna:** Ça veut dire — pour une visite normale chez le médecin, vous payez d'abord, et ensuite la CNS vous rembourse la plus grande partie.  
-  → Ça veut dire — pour une visite normale chez le médecin, vous payez d'abord, et ensuite la C-N-S vous rembourse la plus grande partie.
+- **Anna:** Traditionnellement, vous payez d'abord le médecin, et ensuite la CNS vous rembourse la plus grande partie.  
+  → Traditionnellement, vous payez d'abord le médecin, et ensuite la C-N-S vous rembourse la plus grande partie.
+- **Anna:** Dans ce cas, vous ne payez que votre petite part, et la CNS paie le reste au médecin tout de suite.  
+  → Dans ce cas, vous ne payez que votre petite part, et la C-N-S paie le reste au médecin tout de suite.
 - **Anna:** La CNS rembourse une grande partie du coût — pour la plupart des soins, c'est environ quatre-vingts à cent pour cent.  
   → La C-N-S rembourse une grande partie du coût — pour la plupart des soins, c'est environ quatre-vingts à cent pour cent.
 - **Anna:** Ensuite, vous envoyez cette facture originale, acquittée, à la CNS.  
   → Ensuite, vous envoyez cette facture originale, acquittée, à la C-N-S.
+- **Anna:** Et si votre médecin vous donne une facture digitale, vous pouvez l'envoyer en quelques clics — dans l'application de la CNS, la GesondheetsApp, ou sur MyGuichet.lu.  
+  → Et si votre médecin vous donne une facture digitale, vous pouvez l'envoyer en quelques clics — dans l'application de la C-N-S, la GesondheetsApp, ou sur MyGuichet point L-U.
 - **Anna:** La CNS verse ensuite le remboursement directement sur votre compte bancaire.  
   → La C-N-S verse ensuite le remboursement directement sur votre compte bancaire.
 - **Anna:** Donc — petit conseil pour nos auditeurs — donnez à la CNS votre numéro de compte bancaire, votre IBAN, pour qu'elle puisse vous payer directement.  
@@ -1994,8 +3121,8 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Il aide tous ceux qui vous soignent à travailler avec les mêmes informations, vous contrôlez qui peut le voir, et vous l'activez facilement via MyGuichet point L-U — ou vous le consultez sur l'application MyDSP.
 - **Anna:** Deuxième partie — la CNS, l'assurance maladie nationale.  
   → Deuxième partie — la C-N-S, l'assurance maladie nationale.
-- **Anna:** Pour une visite normale chez le médecin, vous payez d'abord et la CNS vous rembourse la plus grande partie sur votre compte bancaire, en environ trois semaines.  
-  → Pour une visite normale chez le médecin, vous payez d'abord et la C-N-S vous rembourse la plus grande partie sur votre compte bancaire, en environ trois semaines.
+- **Anna:** Pour une visite normale chez le médecin, soit votre médecin utilise le paiement immédiat direct et vous ne payez que votre part — soit vous payez d'abord, et la CNS vous rembourse la plus grande partie sur votre compte bancaire, en quelques semaines, ou en quelques jours pour une facture digitale.  
+  → Pour une visite normale chez le médecin, soit votre médecin utilise le paiement immédiat direct et vous ne payez que votre part — soit vous payez d'abord, et la C-N-S vous rembourse la plus grande partie sur votre compte bancaire, en quelques semaines, ou en quelques jours pour une facture digitale.
 - **Tom:** Donc le message est — activez votre dossier de santé, gardez vos factures, donnez vos coordonnées bancaires à la CNS, et n'ayez pas peur de demander de l'aide si vous en avez besoin.  
   → Donc le message est — activez votre dossier de santé, gardez vos factures, donnez vos coordonnées bancaires à la C-N-S, et n'ayez pas peur de demander de l'aide si vous en avez besoin.
 - **Anna:** Pour le dossier de santé, le site est esante.lu.  
@@ -2006,6 +3133,63 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Et les démarches sont expliquées sur Guichet point L-U, en plusieurs langues.
 - **Anna:** C'était notre épisode sur votre dossier de santé en ligne et la CNS.  
   → C'était notre épisode sur votre dossier de santé en ligne et la C-N-S.
+- **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
+  → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
+- **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
+  → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
+
+### ebl (27)
+
+- **Tom:** Il y a de fortes chances qu'elle vienne de l'EBL.  
+  → Il y a de fortes chances qu'elle vienne de l'E-B-L.
+- **Anna:** EBL veut dire Ëmweltberodung Lëtzebuerg.  
+  → E-B-L veut dire Eumvèlt-bérodoung Lëtzebuerg.
+- **Anna:** Alors Tom, qu'est-ce que l'EBL, exactement ?  
+  → Alors Tom, qu'est-ce que l'E-B-L, exactement ?
+- **Tom:** Donc même si vous n'avez jamais entendu ce nom, l'EBL travaille probablement avec votre commune.  
+  → Donc même si vous n'avez jamais entendu ce nom, l'E-B-L travaille probablement avec votre commune.
+- **Tom:** L'EBL est un réseau.  
+  → L'E-B-L est un réseau.
+- **Tom:** Et si une commune veut créer son propre service écologique, l'EBL peut l'aider, de la définition des tâches jusqu'au recrutement d'un conseiller en environnement.  
+  → Et si une commune veut créer son propre service écologique, l'E-B-L peut l'aider, de la définition des tâches jusqu'au recrutement d'un conseiller en environnement.
+- **Anna:** Et l'EBL accompagne les communes dans ces pactes, avec des formations, des échanges pratiques et des idées.  
+  → Et l'E-B-L accompagne les communes dans ces pactes, avec des formations, des échanges pratiques et des idées.
+- **Tom:** Maintenant, regardons ce que fait concrètement l'EBL.  
+  → Maintenant, regardons ce que fait concrètement l'E-B-L.
+- **Anna:** L'EBL organise des séminaires, des ateliers et des conférences, souvent avec des partenaires.  
+  → L'E-B-L organise des séminaires, des ateliers et des conférences, souvent avec des partenaires.
+- **Anna:** L'EBL est connue pour ses infographies.  
+  → L'E-B-L est connue pour ses infographies.
+- **Tom:** L'EBL coordonne plusieurs campagnes nationales.  
+  → L'E-B-L coordonne plusieurs campagnes nationales.
+- **Tom:** Le site ounipestiziden point l-u propose des conseils et de bons exemples pour votre propre jardin.  
+  → Le site ounipestiziden point L-U propose des conseils et de bons exemples pour votre propre jardin.
+- **Anna:** Le projet a été lancé par le ministère de l'Environnement, et il est coordonné par l'EBL avec le programme national de prévention des déchets.  
+  → Le projet a été lancé par le ministère de l'Environnement, et il est coordonné par l'E-B-L avec le programme national de prévention des déchets.
+- **Tom:** Donc si vous aidez à organiser une fête pour votre club, jetez un œil à greenevents point l-u.  
+  → Donc si vous aidez à organiser une fête pour votre club, jetez un œil à greenevents point L-U.
+- **Anna:** Vous trouverez les points de prêt sur guttgeschier point l-u.  
+  → Vous trouverez les points de prêt sur guttgeschier point L-U.
+- **Tom:** L'EBL propose des ateliers pour les classes.  
+  → L'E-B-L propose des ateliers pour les classes.
+- **Tom:** L'EBL a aussi publié des livres pour enfants en luxembourgeois, par exemple sur le zéro déchet, et sur les insectes pollinisateurs comme les abeilles.  
+  → L'E-B-L a aussi publié des livres pour enfants en luxembourgeois, par exemple sur le zéro déchet, et sur les insectes pollinisateurs comme les abeilles.
+- **Tom:** Comment pouvez-vous, en tant qu'habitant, profiter de l'EBL ?  
+  → Comment pouvez-vous, en tant qu'habitant, profiter de l'E-B-L ?
+- **Anna:** D'abord, repérez les infographies de l'EBL dans le magazine de votre commune.  
+  → D'abord, repérez les infographies de l'E-B-L dans le magazine de votre commune.
+- **Anna:** Et si vous cherchez un emploi dans l'environnement, l'EBL partage aussi des offres d'emplois verts avec son réseau.  
+  → Et si vous cherchez un emploi dans l'environnement, l'E-B-L partage aussi des offres d'emplois verts avec son réseau.
+- **Tom:** Vous pouvez suivre l'actualité de l'EBL grâce à sa newsletter, qui paraît quelques fois par an, ou sur les réseaux sociaux.  
+  → Vous pouvez suivre l'actualité de l'E-B-L grâce à sa newsletter, qui paraît quelques fois par an, ou sur les réseaux sociaux.
+- **Anna:** Le site web est e-b-l point l-u.  
+  → Le site web est E-B-L point L-U.
+- **Tom:** Et vous pouvez écrire à info arobase e-b-l point l-u.  
+  → Et vous pouvez écrire à info arobase E-B-L point L-U.
+- **Anna:** Que faut-il retenir sur l'EBL ?  
+  → Que faut-il retenir sur l'E-B-L ?
+- **Anna:** C'était notre épisode sur l'EBL.  
+  → C'était notre épisode sur l'E-B-L.
 - **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
   → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
 - **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
@@ -2040,7 +3224,7 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 - **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
   → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
 
-### enfance (15)
+### enfance (16)
 
 - **Anna:** Alors Tom, qu'est-ce que l'ONE et que fait-il ?  
   → Alors Tom, qu'est-ce que l'O-N-E et que fait-il ?
@@ -2062,10 +3246,12 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Vous pouvez contacter l'O-N-E directement, à l'aide du formulaire de demande d'aide sur leur site internet.
 - **Tom:** Et toute l'approche de l'ONE repose sur le respect et la collaboration.  
   → Et toute l'approche de l'O-N-E repose sur le respect et la collaboration.
-- **Anna:** Ensuite... l'ONE dispose de quatorze offices régionaux, il y a donc un soutien près de chez vous.  
-  → Ensuite... l'O-N-E dispose de quatorze offices régionaux, il y a donc un soutien près de chez vous.
-- **Anna:** Quatrièmement... vous pouvez commencer simplement, avec un formulaire de demande d'aide sur le site de l'ONE.  
-  → Quatrièmement... vous pouvez commencer simplement, avec un formulaire de demande d'aide sur le site de l'O-N-E.
+- **Tom:** Une grande réforme de la protection de l'enfance et de la jeunesse est en discussion à la Chambre des députés, et elle garde cette approche volontaire en premier, avec l'ONE au centre.  
+  → Une grande réforme de la protection de l'enfance et de la jeunesse est en discussion à la Chambre des députés, et elle garde cette approche volontaire en premier, avec l'O-N-E au centre.
+- **Anna:** Ensuite, l'ONE dispose de quatorze offices régionaux, il y a donc un soutien près de chez vous.  
+  → Ensuite, l'O-N-E dispose de quatorze offices régionaux, il y a donc un soutien près de chez vous.
+- **Anna:** Quatrièmement, vous pouvez commencer simplement, avec un formulaire de demande d'aide sur le site de l'ONE.  
+  → Quatrièmement, vous pouvez commencer simplement, avec un formulaire de demande d'aide sur le site de l'O-N-E.
 - **Tom:** Que faut-il retenir au sujet de l'ONE ?  
   → Que faut-il retenir au sujet de l'O-N-E ?
 - **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
@@ -2075,8 +3261,8 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 
 ### environnement (5)
 
-- **Anna:** Son nom familier est emwelt point lu.  
-  → Son nom familier est emwelt point L-U.
+- **Anna:** Son nom familier est emwelt point lu... qui vous mène à environnement point public point lu.  
+  → Son nom familier est emwelt point L-U... qui vous mène à environnement point public point L-U.
 - **Anna:** Comment peut-on utiliser emwelt point lu ?  
   → Comment peut-on utiliser emwelt point L-U ?
 - **Anna:** Premièrement... emwelt point lu est le portail unique de l'environnement du Luxembourg, du ministère de l'Environnement, du Climat et de la Biodiversité.  
@@ -2093,7 +3279,7 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 - **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
   → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
 
-### fns (40)
+### fns (42)
 
 - **Tom:** Le FNS est un organisme public dont tout le travail est d'aider les personnes qui rencontrent des difficultés financières.  
   → Le F-N-S est un organisme public dont tout le travail est d'aider les personnes qui rencontrent des difficultés financières.
@@ -2102,7 +3288,7 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 - **Tom:** Sa maison sur internet, c'est f-n-s point l-u.  
   → Sa maison sur internet, c'est F-N-S point L-U.
 - **Anna:** fns.lu.  
-  → fns point L-U.
+  → F-N-S point L-U.
 - **Tom:** Maintenant — le FNS ne fait pas qu'une seule chose.  
   → Maintenant — le F-N-S ne fait pas qu'une seule chose.
 - **Tom:** Le nom court, c'est REVIS.  
@@ -2123,6 +3309,10 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Et voici le point clé — vous n'avez pas besoin de toucher le Revis pour l'obtenir.
 - **Tom:** Et voici un détail merveilleux — si vous touchez déjà le REVIS, vous n'avez même pas besoin de faire de demande.  
   → Et voici un détail merveilleux — si vous touchez déjà le Revis, vous n'avez même pas besoin de faire de demande.
+- **Tom:** La loi est encore en discussion à la Chambre des députés, alors consultez f-n-s point l-u pour les dernières nouvelles.  
+  → La loi est encore en discussion à la Chambre des députés, alors consultez F-N-S point L-U pour les dernières nouvelles.
+- **Tom:** Pour l'instant, les autres font leur demande avec un formulaire — et si vous l'avez reçue l'an dernier, le FNS vous envoie un formulaire pré-rempli en fin d'année.  
+  → Pour l'instant, les autres font leur demande avec un formulaire — et si vous l'avez reçue l'an dernier, le F-N-S vous envoie un formulaire pré-rempli en fin d'année.
 - **Tom:** Et le FNS a même un calculateur en ligne, pour que vous puissiez vérifier si vous y avez droit avant de faire votre demande.  
   → Et le F-N-S a même un calculateur en ligne, pour que vous puissiez vérifier si vous y avez droit avant de faire votre demande.
 - **Tom:** Pour une personne dont le handicap fait qu'elle ne peut pas gagner sa vie sur le marché du travail ordinaire, le FNS fournit un revenu garanti, pour qu'elle aussi ait un seuil sûr sur lequel s'appuyer.  
@@ -2139,14 +3329,14 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Le F-N-S prend ce fardeau sur lui.
 - **Tom:** Quand quelqu'un entre dans une maison de soins, ou en logement encadré, et que son propre revenu ne suffit pas à couvrir le coût, le FNS peut aider à payer la différence.  
   → Quand quelqu'un entre dans une maison de soins, ou en logement encadré, et que son propre revenu ne suffit pas à couvrir le coût, le F-N-S peut aider à payer la différence.
+- **Tom:** Il s'appelle le COMPA.  
+  → Il s'appelle le Compa.
 - **Anna:** Nous avons le REVIS, le revenu minimum.  
   → Nous avons le Revis, le revenu minimum.
 - **Tom:** Tout commence sur le site internet, f-n-s point l-u.  
   → Tout commence sur le site internet, F-N-S point L-U.
-- **Tom:** Pour plusieurs choses, oui — via MyGuichet.lu, la plateforme numérique de l'État, avec une connexion sécurisée.  
-  → Pour plusieurs choses, oui — via MyGuichet point L-U, la plateforme numérique de l'État, avec une connexion sécurisée.
-- **Tom:** Mais vous pouvez aussi le faire sur papier — téléchargez le formulaire, ou recevez-le par la poste, remplissez-le, et renvoyez-le au FNS.  
-  → Mais vous pouvez aussi le faire sur papier — téléchargez le formulaire, ou recevez-le par la poste, remplissez-le, et renvoyez-le au F-N-S.
+- **Tom:** Vous le téléchargez, ou vous le prenez au guichet du FNS, vous le signez, et vous l'envoyez par la poste ou vous le déposez.  
+  → Vous le téléchargez, ou vous le prenez au guichet du F-N-S, vous le signez, et vous l'envoyez par la poste ou vous le déposez.
 - **Tom:** Alors il peut contacter le FNS directement — par téléphone, par e-mail, ou en personne.  
   → Alors il peut contacter le F-N-S directement — par téléphone, par e-mail, ou en personne.
 - **Anna:** Où le FNS intervient-il pour Sofia ?  
@@ -2160,17 +3350,17 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 - **Tom:** D'abord — allez sur le site internet, f-n-s point l-u.  
   → D'abord — allez sur le site internet, F-N-S point L-U.
 - **Anna:** fns.lu.  
-  → fns point L-U.
+  → F-N-S point L-U.
 - **Tom:** Et si vous touchez déjà le REVIS, souvenez-vous — celle-là arrive automatiquement.  
   → Et si vous touchez déjà le Revis, souvenez-vous — celle-là arrive automatiquement.
 - **Tom:** Le Fonds national de solidarité — le FNS, fns.lu — est le filet de sécurité du Luxembourg contre la pauvreté.  
-  → Le Fonds national de solidarité — le F-N-S, fns point L-U — est le filet de sécurité du Luxembourg contre la pauvreté.
+  → Le Fonds national de solidarité — le F-N-S, F-N-S point L-U — est le filet de sécurité du Luxembourg contre la pauvreté.
 - **Tom:** Il gère le REVIS, le revenu minimum garanti ; l'allocation de vie chère avec la prime énergie et l'aide aux seniors ; un revenu pour personnes gravement handicapées ; les avances sur les pensions alimentaires impayées ; un complément pour les personnes âgées en soins ; et la pension pour l'éducation des enfants, la Mammerent.  
   → Il gère le Revis, le revenu minimum garanti ; l'allocation de vie chère avec la prime énergie et l'aide aux seniors ; un revenu pour personnes gravement handicapées ; les avances sur les pensions alimentaires impayées ; un complément pour les personnes âgées en soins ; et la pension pour l'éducation des enfants, la Mammerent.
-- **Tom:** Vous faites votre demande sur fns.lu ou MyGuichet.lu — et les bénéficiaires du REVIS reçoivent l'allocation de vie chère automatiquement.  
-  → Vous faites votre demande sur fns point L-U ou MyGuichet point L-U — et les bénéficiaires du Revis reçoivent l'allocation de vie chère automatiquement.
-- **Anna:** fns.lu.  
-  → fns point L-U.
+- **Tom:** Vous trouvez tous les formulaires sur fns.lu — et les bénéficiaires du REVIS reçoivent l'allocation de vie chère automatiquement.  
+  → Vous trouvez tous les formulaires sur F-N-S point L-U — et les bénéficiaires du Revis reçoivent l'allocation de vie chère automatiquement.
+- **Anna:** Alors, si vous, ou quelqu'un que vous connaissez, êtes en difficulté, souvenez-vous du nom : le Fonds national de solidarité, fns.lu.  
+  → Alors, si vous, ou quelqu'un que vous connaissez, êtes en difficulté, souvenez-vous du nom : le Fonds national de solidarité, F-N-S point L-U.
 - **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
   → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
 - **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
@@ -2180,8 +3370,8 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 
 - **Tom:** L'UE aide à financer des projets utiles dans ses pays membres.  
   → L'U-E aide à financer des projets utiles dans ses pays membres.
-- **Tom:** Donc les régions plus riches et moins riches, les grands défis et les petits... l'UE investit pour aider tout le monde à avancer ensemble.  
-  → Donc les régions plus riches et moins riches, les grands défis et les petits... l'U-E investit pour aider tout le monde à avancer ensemble.
+- **Tom:** Donc les régions plus riches et moins riches, les grands défis et les petits, l'UE investit pour aider tout le monde à avancer ensemble.  
+  → Donc les régions plus riches et moins riches, les grands défis et les petits, l'U-E investit pour aider tout le monde à avancer ensemble.
 - **Anna:** Le premier est le Fonds européen de développement régional (FEDER).  
   → Le premier est le Fonds européen de développement régional (Féder).
 - **Anna:** On l'appelle souvent par ses initiales françaises, FEDER.  
@@ -2190,12 +3380,12 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Le deuxième est le Fonds social européen plus (F-S-E plus).
 - **Tom:** En français, le FSE Plus.  
   → En français, le F-S-E Plus.
-- **Anna:** Et il y a un troisième fonds à connaître... le Fonds Asile, Migration et Intégration (AMIF).  
-  → Et il y a un troisième fonds à connaître... le Fonds Asile, Migration et Intégration (Amif).
+- **Anna:** Et il y a un troisième fonds à connaître, le Fonds Asile, Migration et Intégration (AMIF).  
+  → Et il y a un troisième fonds à connaître, le Fonds Asile, Migration et Intégration (Amif).
 - **Tom:** Donc l'UE finance rarement la totalité.  
   → Donc l'U-E finance rarement la totalité.
-- **Tom:** Premièrement... l'UE investit dans les pays membres à travers sa politique de cohésion, et le Luxembourg reçoit une part.  
-  → Premièrement... l'U-E investit dans les pays membres à travers sa politique de cohésion, et le Luxembourg reçoit une part.
+- **Tom:** Premièrement, l'UE investit dans les pays membres à travers sa politique de cohésion, et le Luxembourg reçoit une part.  
+  → Premièrement, l'U-E investit dans les pays membres à travers sa politique de cohésion, et le Luxembourg reçoit une part.
 - **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
   → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
 - **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
@@ -2207,8 +3397,8 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Le site web est geoportail point L-U.
 - **Tom:** D'abord, ouvrez simplement geoportail point lu et explorez.  
   → D'abord, ouvrez simplement geoportail point L-U et explorez.
-- **Anna:** Premièrement... geoportail point lu est la plateforme cartographique officielle, gratuite et en ligne du Luxembourg, de l'administration du cadastre et de la topographie.  
-  → Premièrement... geoportail point L-U est la plateforme cartographique officielle, gratuite et en ligne du Luxembourg, de l'administration du cadastre et de la topographie.
+- **Anna:** Premièrement, geoportail point lu est la plateforme cartographique officielle, gratuite et en ligne du Luxembourg, de l'administration du cadastre et de la topographie.  
+  → Premièrement, geoportail point L-U est la plateforme cartographique officielle, gratuite et en ligne du Luxembourg, de l'administration du cadastre et de la topographie.
 - **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
   → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
 - **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
@@ -2226,8 +3416,8 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Gov-Cert point L-U est donc le point de contact central pour les incidents qui pourraient menacer le pays, ses citoyens ou son économie.
 - **Anna:** GOVCERT.LU publie régulièrement des avertissements sur les campagnes d'hameçonnage (phishing) qui circulent au Luxembourg.  
   → Gov-Cert point L-U publie régulièrement des avertissements sur les campagnes d'hameçonnage (phishing) qui circulent au Luxembourg.
-- **Tom:** Et LU-Alert, l'AAA, la Klima-Agence, l'ADEM... tous ont mis en garde contre de faux messages utilisant leur nom.  
-  → Et L-U Alert, l'A-A-A, la Klima-Agence, l'Adem... tous ont mis en garde contre de faux messages utilisant leur nom.
+- **Tom:** Et LU-Alert, l'AAA, la Klima-Agence, l'ADEM, tous ont mis en garde contre de faux messages utilisant leur nom.  
+  → Et L-U Alert, l'A-A-A, la Klima-Agence, l'Adem, tous ont mis en garde contre de faux messages utilisant leur nom.
 - **Anna:** Pourquoi une organisation comme GOVCERT.LU est-elle importante pour les gens ordinaires ?  
   → Pourquoi une organisation comme Gov-Cert point L-U est-elle importante pour les gens ordinaires ?
 - **Anna:** Que faut-il retenir au sujet de GOVCERT.LU ?  
@@ -2250,14 +3440,18 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 - **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
   → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
 
-### habitat (7)
+### habitat (9)
 
 - **Anna:** Il a un partenaire clé... un institut de recherche appelé LISER.  
   → Il a un partenaire clé... un institut de recherche appelé Liser.
 - **Tom:** LISER, c'est le Luxembourg Institute of Socio-Economic Research.  
   → Liser, c'est le Luxembourg Institute of Socio-Economic Research.
-- **Tom:** Les statistiques, détaillées par commune, sont publiées sur la plateforme nationale de données ouvertes, data point public point lu.  
-  → Les statistiques, détaillées par commune, sont publiées sur la plateforme nationale de données ouvertes, data point public point L-U.
+- **Tom:** Et pour les statistiques des prix de vente, l'Observatoire travaille aussi main dans la main avec le STATEC, l'institut national de la statistique.  
+  → Et pour les statistiques des prix de vente, l'Observatoire travaille aussi main dans la main avec le Statec, l'institut national de la statistique.
+- **Anna:** Pour les maisons, le STATEC publie plutôt un indice général des prix.  
+  → Pour les maisons, le Statec publie plutôt un indice général des prix.
+- **Tom:** Les statistiques, détaillées par commune, sont publiées sur la plateforme nationale de données ouvertes, data point public point lu... et aussi sur le Géoportail national.  
+  → Les statistiques, détaillées par commune, sont publiées sur la plateforme nationale de données ouvertes, data point public point L-U... et aussi sur le Géoportail national.
 - **Anna:** Deuxièmement... il surveille les prix de vente, les loyers, le foncier, et le caractère réellement abordable du logement, avec l'aide de l'institut de recherche LISER.  
   → Deuxièmement... il surveille les prix de vente, les loyers, le foncier, et le caractère réellement abordable du logement, avec l'aide de l'institut de recherche Liser.
 - **Anna:** Vous pouvez explorer les prix par commune sur data point public point lu, et lire des rapports clairs.  
@@ -2267,18 +3461,125 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 - **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
   → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
 
-### infosenior (7)
+### infohandicap (8)
+
+- **Anna:** Vous pouvez appeler le 366 466, ou écrire un e-mail à info@iha.lu.  
+  → Vous pouvez appeler le trois six six, quatre six six, ou écrire un e-mail à info arobase I-H-A point L-U.
+- **Tom:** Vous trouvez plus d'informations sur eurewelcome point l-u.  
+  → Vous trouvez plus d'informations sur eurewelcome point L-U.
+- **Anna:** Info-Handicap gère un service appelé SAMT, qui aide les personnes en situation de handicap à apprendre à utiliser les transports publics de manière autonome et en toute sécurité.  
+  → Info-Handicap gère un service appelé Samt, qui aide les personnes en situation de handicap à apprendre à utiliser les transports publics de manière autonome et en toute sécurité.
+- **Anna:** Elle coordonne aussi MOSAIK, un réseau d'organisations sociales et culturelles pour une culture inclusive : des artistes avec et sans handicap sur la même scène, et des spectacles avec audiodescription, sous-titres ou langue des signes.  
+  → Elle coordonne aussi Mosaik, un réseau d'organisations sociales et culturelles pour une culture inclusive : des artistes avec et sans handicap sur la même scène, et des spectacles avec audiodescription, sous-titres ou langue des signes.
+- **Anna:** Avant de terminer, le site internet est info-handicap point l-u, en allemand et en français.  
+  → Avant de terminer, le site internet est info-handicap point L-U, en allemand et en français.
+- **Tom:** Premièrement, Info-Handicap répond à toutes les questions sur le handicap, pour les personnes avec ou sans handicap, leurs familles et leurs employeurs : vous pouvez appeler le 366 466.  
+  → Premièrement, Info-Handicap répond à toutes les questions sur le handicap, pour les personnes avec ou sans handicap, leurs familles et leurs employeurs : vous pouvez appeler le trois six six, quatre six six.
+- **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
+  → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
+- **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
+  → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
+
+### infosenior (11)
 
 - **Anna:** Sa maison sur Internet est un site web — infosenior point l-u.  
   → Sa maison sur Internet est un site web — infosenior point L-U.
 - **Tom:** infosenior.lu.  
   → infosenior point L-U.
+- **Anna:** Et il y a l'association Alzheimer, qui gère même une ligne d'aide, 26 432 432, disponible jour et nuit, pour les situations urgentes.  
+  → Et il y a l'association Alzheimer, qui gère même une ligne d'aide, deux six quatre trois deux quatre trois deux, disponible jour et nuit, pour les situations urgentes.
+- **Anna:** Vous pouvez tout simplement appeler le Senioren-Telefon, au 247-86000, pour vous informer et vous faire conseiller.  
+  → Vous pouvez tout simplement appeler le Senioren-Telefon, au deux quatre sept huit six zéro zéro zéro, pour vous informer et vous faire conseiller.
+- **Anna:** Et s'il y a un désaccord avec un service, il y a le SIMPA, le service national d'information et de médiation — un endroit neutre qui vous aide à trouver une solution.  
+  → Et s'il y a un désaccord avec un service, il y a le Simpa, le service national d'information et de médiation — un endroit neutre qui vous aide à trouver une solution.
+- **Anna:** Depuis 2026, un dispositif appelé COMPA, versé par le Fonds national de solidarité, aide les personnes qui n'ont pas assez d'argent pour payer une structure d'hébergement ou un logement encadré agréés.  
+  → Depuis 2026, un dispositif appelé Compa, versé par le Fonds national de solidarité, aide les personnes qui n'ont pas assez d'argent pour payer une structure d'hébergement ou un logement encadré agréés.
 - **Anna:** Allez sur le site web — infosenior point l-u.  
   → Allez sur le site web — infosenior point L-U.
 - **Anna:** Info-Seniors, sur infosenior point l-u, est le portail d'information de l'État pour les personnes âgées au Luxembourg.  
   → Info-Seniors, sur infosenior point L-U, est le portail d'information de l'État pour les personnes âgées au Luxembourg.
 - **Tom:** infosenior.lu.  
   → infosenior point L-U.
+- **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
+  → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
+- **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
+  → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
+
+### jepeuxvoter (7)
+
+- **Tom:** L'adresse en français, c'est jepeuxvoter point l-u.  
+  → L'adresse en français, c'est je peux voter point L-U.
+- **Anna:** Il y a deux possibilités, et la première, c'est en ligne, sur MyGuichet point l-u, par exemple avec votre LuxTrust.  
+  → Il y a deux possibilités, et la première, c'est en ligne, sur MyGuichet point L-U, par exemple avec votre LuxTrust.
+- **Anna:** Chaque électeur inscrit peut le demander, en ligne sur MyGuichet point l-u ou par courrier à la commune.  
+  → Chaque électeur inscrit peut le demander, en ligne sur MyGuichet point L-U ou par courrier à la commune.
+- **Anna:** Troisièmement : il faut s'inscrire, en ligne sur MyGuichet point l-u ou à la commune, au plus tard cinquante-cinq jours avant les élections.  
+  → Troisièmement : il faut s'inscrire, en ligne sur MyGuichet point L-U ou à la commune, au plus tard cinquante-cinq jours avant les élections.
+- **Anna:** Vous trouverez toutes les informations sur jepeuxvoter point l-u.  
+  → Vous trouverez toutes les informations sur je peux voter point L-U.
+- **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
+  → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
+- **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
+  → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
+
+### kjt (30)
+
+- **Tom:** Il a six chiffres : 116 111.  
+  → Il a six chiffres : cent seize, cent onze.
+- **Anna:** Derrière ce numéro, il y a un service que la plupart des gens appellent simplement le KJT.  
+  → Derrière ce numéro, il y a un service que la plupart des gens appellent simplement le K-J-T.
+- **Anna:** Son nom complet est luxembourgeois, Kanner-Jugendtelefon, et son site le présente en français comme un service d'assistance pour enfants et jeunes.  
+  → Son nom complet est luxembourgeois, Kanneur-Youguènnt-téléfone, et son site le présente en français comme un service d'assistance pour enfants et jeunes.
+- **Tom:** Le KJT a été fondé en 1992, dans le cadre de la Convention des Nations Unies relative aux droits de l'enfant.  
+  → Le K-J-T a été fondé en 1992, dans le cadre de la Convention des Nations Unies relative aux droits de l'enfant.
+- **Tom:** Aujourd'hui, le KJT est un service d'une association sans but lucratif qui s'appelle CJF Lëtzebuerg, et il est financé dans le cadre d'une convention avec le Service national de la jeunesse, qui dépend du Ministère de l'Éducation nationale, de l'Enfance et de la Jeunesse.  
+  → Aujourd'hui, le K-J-T est un service d'une association sans but lucratif qui s'appelle C-J-F Lëtzebuerg, et il est financé dans le cadre d'une convention avec le Service national de la jeunesse, qui dépend du Ministère de l'Éducation nationale, de l'Enfance et de la Jeunesse.
+- **Anna:** Que fait concrètement le KJT quand quelqu'un le contacte ?  
+  → Que fait concrètement le K-J-T quand quelqu'un le contacte ?
+- **Tom:** Non, et c'est justement un des cinq principes du KJT.  
+  → Non, et c'est justement un des cinq principes du K-J-T.
+- **Anna:** Regardons les services un par un, en commençant par le plus ancien : la ligne téléphonique 116 111.  
+  → Regardons les services un par un, en commençant par le plus ancien : la ligne téléphonique cent seize, cent onze.
+- **Anna:** Vous écrivez votre question ou votre souci sur le site du KJT, en luxembourgeois, en allemand, en français ou en anglais, et un conseiller vous envoie une réponse écrite en quelques jours.  
+  → Vous écrivez votre question ou votre souci sur le site du K-J-T, en luxembourgeois, en allemand, en français ou en anglais, et un conseiller vous envoie une réponse écrite en quelques jours.
+- **Anna:** Depuis 2007, il existe une ligne téléphonique pour les parents, appelée Elterentelefon, ou Écoute parents, et son numéro est le 8002 4444.  
+  → Depuis 2007, il existe une ligne téléphonique pour les parents, appelée Elteurènn-téléfone, ou Écoute parents, et son numéro est le huit zéro zéro deux, quatre quatre quatre quatre.
+- **Tom:** Deux autres services concernent Internet, et ils portent le nom BEE SECURE.  
+  → Deux autres services concernent Internet, et ils portent le nom Bee Secure.
+- **Tom:** Le premier est la BEE SECURE Helpline, avec le numéro 8002 1234.  
+  → Le premier est la Bee Secure Helpline, avec le numéro huit zéro zéro deux, un deux trois quatre.
+- **Anna:** Et quel est le deuxième service qui porte le nom BEE SECURE ?  
+  → Et quel est le deuxième service qui porte le nom Bee Secure ?
+- **Tom:** C'est la BEE SECURE Stopline.  
+  → C'est la Bee Secure Stopline.
+- **Tom:** Pour ce genre de questions, vous pouvez appeler la BEE SECURE Helpline, ou vous adresser à la police.  
+  → Pour ce genre de questions, vous pouvez appeler la Bee Secure Helpline, ou vous adresser à la police.
+- **Anna:** Voici quelque chose que je ne savais pas avant de lire le site : des bénévoles travaillent comme conseillers au KJT.  
+  → Voici quelque chose que je ne savais pas avant de lire le site : des bénévoles travaillent comme conseillers au K-J-T.
+- **Anna:** On les trouve à la ligne pour enfants et jeunes, à l'Online Help et à l'Elterentelefon, et ils soutiennent aussi la BEE SECURE Helpline.  
+  → On les trouve à la ligne pour enfants et jeunes, à l'Online Help et à l'Elteurènn-téléfone, et ils soutiennent aussi la Bee Secure Helpline.
+- **Tom:** Le site kjt point l-u vaut une visite, aussi pour les adultes.  
+  → Le site K-J-T point L-U vaut une visite, aussi pour les adultes.
+- **Tom:** Non, le KJT ne donne pas de conseils par ce formulaire, car il n'est ni anonyme ni confidentiel.  
+  → Non, le K-J-T ne donne pas de conseils par ce formulaire, car il n'est ni anonyme ni confidentiel.
+- **Anna:** Quand une personne est en danger immédiat, le numéro d'urgence est le 112.  
+  → Quand une personne est en danger immédiat, le numéro d'urgence est le cent-douze.
+- **Tom:** C'est exact, et il y a aussi un épisode sur le 112 dans ce podcast.  
+  → C'est exact, et il y a aussi un épisode sur le cent-douze dans ce podcast.
+- **Anna:** Premièrement : le KJT, le Kanner-Jugendtelefon, écoute les enfants et les jeunes depuis 1992.  
+  → Premièrement : le K-J-T, le Kanneur-Youguènnt-téléfone, écoute les enfants et les jeunes depuis 1992.
+- **Tom:** Deuxièmement : les enfants et les jeunes peuvent appeler le 116 111, écrire à l'Online Help, ou utiliser le chat avec de jeunes conseillers formés.  
+  → Deuxièmement : les enfants et les jeunes peuvent appeler le cent seize, cent onze, écrire à l'Online Help, ou utiliser le chat avec de jeunes conseillers formés.
+- **Anna:** Troisièmement : les parents, les grands-parents et les autres adultes qui s'occupent d'enfants peuvent appeler l'Elterentelefon au 8002 4444.  
+  → Troisièmement : les parents, les grands-parents et les autres adultes qui s'occupent d'enfants peuvent appeler l'Elteurènn-téléfone au huit zéro zéro deux, quatre quatre quatre quatre.
+- **Tom:** Quatrièmement : pour les questions sur la sécurité sur Internet, il y a la BEE SECURE Helpline au 8002 1234, et les contenus illégaux peuvent être signalés à la BEE SECURE Stopline.  
+  → Quatrièmement : pour les questions sur la sécurité sur Internet, il y a la Bee Secure Helpline au huit zéro zéro deux, un deux trois quatre, et les contenus illégaux peuvent être signalés à la Bee Secure Stopline.
+- **Anna:** Vous trouvez les horaires et tous les services sur kjt point l-u.  
+  → Vous trouvez les horaires et tous les services sur K-J-T point L-U.
+- **Tom:** Le KJT a une devise qui le dit très bien : personne ne doit rester seul.  
+  → Le K-J-T a une devise qui le dit très bien : personne ne doit rester seul.
+- **Anna:** C'était notre épisode sur le Kanner-Jugendtelefon.  
+  → C'était notre épisode sur le Kanneur-Youguènnt-téléfone.
 - **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
   → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
 - **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
@@ -2293,16 +3594,108 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 - **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
   → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
 
+### lar (27)
+
+- **Anna:** Et très souvent, cet hélicoptère appartient à Luxembourg Air Rescue, la LAR en abrégé.  
+  → Et très souvent, cet hélicoptère appartient à Luxembourg Air Rescue, la L-A-R en abrégé.
+- **Tom:** La LAR est une association sans but lucratif.  
+  → La L-A-R est une association sans but lucratif.
+- **Anna:** Est-ce que la LAR est un service public géré par l'État, ou est-ce quelque chose de différent ?  
+  → Est-ce que la L-A-R est un service public géré par l'État, ou est-ce quelque chose de différent ?
+- **Tom:** C'est quelque chose de différent : la LAR se présente comme une organisation privée d'utilité publique, sans but lucratif, c'est-à-dire qu'elle travaille pour le bien commun.  
+  → C'est quelque chose de différent : la L-A-R se présente comme une organisation privée d'utilité publique, sans but lucratif, c'est-à-dire qu'elle travaille pour le bien commun.
+- **Anna:** On appelle le numéro d'urgence 112, et le central des secours décide si l'hélicoptère est la meilleure aide, selon la gravité de la situation, l'accès au lieu, et les équipes disponibles.  
+  → On appelle le numéro d'urgence cent-douze, et le central des secours décide si l'hélicoptère est la meilleure aide, selon la gravité de la situation, l'accès au lieu, et les équipes disponibles.
+- **Anna:** Les bases des hélicoptères sont en alerte permanente, et la LAR indique que chaque endroit du Luxembourg peut être atteint en dix minutes environ.  
+  → Les bases des hélicoptères sont en alerte permanente, et la L-A-R indique que chaque endroit du Luxembourg peut être atteint en dix minutes environ.
+- **Anna:** À côté du pilote, chaque hélicoptère transporte un médecin urgentiste et un infirmier en soins intensifs de la LAR.  
+  → À côté du pilote, chaque hélicoptère transporte un médecin urgentiste et un infirmier en soins intensifs de la L-A-R.
+- **Tom:** La LAR s'entraîne pour cela avec les spécialistes des services d'incendie et de secours, et ils ont déjà travaillé ensemble lors de vrais sauvetages sur des falaises.  
+  → La L-A-R s'entraîne pour cela avec les spécialistes des services d'incendie et de secours, et ils ont déjà travaillé ensemble lors de vrais sauvetages sur des falaises.
+- **Anna:** Voici une question que beaucoup de gens se posent : est-ce que l'hélicoptère vient seulement pour les membres de la LAR ?  
+  → Voici une question que beaucoup de gens se posent : est-ce que l'hélicoptère vient seulement pour les membres de la L-A-R ?
+- **Tom:** Non, pas du tout : la LAR fait partie du système de secours au Luxembourg, elle intervient donc aussi pour des personnes qui ne sont pas membres.  
+  → Non, pas du tout : la L-A-R fait partie du système de secours au Luxembourg, elle intervient donc aussi pour des personnes qui ne sont pas membres.
+- **Anna:** Imaginons que vous tombiez gravement malade en vacances, ou que vous soyez gravement blessé pendant un voyage d'affaires : que peut faire la LAR dans ce cas ?  
+  → Imaginons que vous tombiez gravement malade en vacances, ou que vous soyez gravement blessé pendant un voyage d'affaires : que peut faire la L-A-R dans ce cas ?
+- **Tom:** Si vous êtes membre, la LAR peut vous ramener chez vous.  
+  → Si vous êtes membre, la L-A-R peut vous ramener chez vous.
+- **Tom:** Appeler le centre d'alerte de la LAR.  
+  → Appeler le centre d'alerte de la L-A-R.
+- **Tom:** Un médecin de la LAR parle directement avec le médecin sur place.  
+  → Un médecin de la L-A-R parle directement avec le médecin sur place.
+- **Tom:** Ensemble, ils regardent le traitement disponible et les risques du voyage, puis l'équipe médicale de la LAR décide si, quand et comment le patient peut voyager en sécurité.  
+  → Ensemble, ils regardent le traitement disponible et les risques du voyage, puis l'équipe médicale de la L-A-R décide si, quand et comment le patient peut voyager en sécurité.
+- **Tom:** Non, pas toujours : selon le patient, cela peut être une ambulance, un vol régulier avec ou sans accompagnement médical, un hélicoptère, ou l'un des avions sanitaires de la LAR, avec un médecin et un infirmier à bord.  
+  → Non, pas toujours : selon le patient, cela peut être une ambulance, un vol régulier avec ou sans accompagnement médical, un hélicoptère, ou l'un des avions sanitaires de la L-A-R, avec un médecin et un infirmier à bord.
+- **Tom:** Pour les membres, la LAR prend en charge les frais du rapatriement depuis l'étranger, dans les limites de ses conditions générales.  
+  → Pour les membres, la L-A-R prend en charge les frais du rapatriement depuis l'étranger, dans les limites de ses conditions générales.
+- **Tom:** Premièrement, la couverture commence un mois après que la LAR a reçu la première cotisation.  
+  → Premièrement, la couverture commence un mois après que la L-A-R a reçu la première cotisation.
+- **Anna:** Les dons vont à la Fondation Luxembourg Air Rescue, qui soutient la LAR avec de l'argent et du matériel technique, et un tel don peut, lui, être déduit.  
+  → Les dons vont à la Fondation Luxembourg Air Rescue, qui soutient la L-A-R avec de l'argent et du matériel technique, et un tel don peut, lui, être déduit.
+- **Tom:** En plus du sauvetage et du rapatriement, la LAR aide aussi lors de crises humanitaires, par exemple après des tremblements de terre, avec le ministère des Affaires étrangères et européennes.  
+  → En plus du sauvetage et du rapatriement, la L-A-R aide aussi lors de crises humanitaires, par exemple après des tremblements de terre, avec le ministère des Affaires étrangères et européennes.
+- **Tom:** Oui, il y a l'Académie LAR, un centre de formation à l'aéroport du Findel.  
+  → Oui, il y a l'Académie L-A-R, un centre de formation à l'aéroport du Findel.
+- **Tom:** La LAR propose aussi des visites guidées de sa base, et elle ouvre parfois ses portes au public.  
+  → La L-A-R propose aussi des visites guidées de sa base, et elle ouvre parfois ses portes au public.
+- **Anna:** Vous trouvez tout cela sur le site lar point l-u, qui existe en anglais, en français et en allemand.  
+  → Vous trouvez tout cela sur le site L-A-R point L-U, qui existe en anglais, en français et en allemand.
+- **Tom:** Premièrement, en cas d'urgence au Luxembourg, appelez le 112 : l'hélicoptère vient quand il est la meilleure aide, que vous soyez membre ou non.  
+  → Premièrement, en cas d'urgence au Luxembourg, appelez le cent-douze : l'hélicoptère vient quand il est la meilleure aide, que vous soyez membre ou non.
+- **Tom:** Deuxièmement, quand ils sont à l'étranger, les membres appellent le centre d'alerte de la LAR, et un médecin de la LAR décide comment les ramener chez eux en sécurité.  
+  → Deuxièmement, quand ils sont à l'étranger, les membres appellent le centre d'alerte de la L-A-R, et un médecin de la L-A-R décide comment les ramener chez eux en sécurité.
+- **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
+  → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
+- **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
+  → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
+
+### letzprepare (16)
+
+- **Tom:** Nous parlons de Lëtz prepare.  
+  → Nous parlons de Lets pri-pair.
+- **Anna:** Lëtz prepare, c'est le nom de la Stratégie nationale de résilience du Luxembourg.  
+  → Lets pri-pair, c'est le nom de la Stratégie nationale de résilience du Luxembourg.
+- **Anna:** C'est un jeu de mots : « Lëtz », comme Lëtzebuerg, et l'anglais « let's prepare », préparons-nous.  
+  → C'est un jeu de mots : « Lets », comme Lëtzebuerg, et l'anglais « let's prepare », préparons-nous.
+- **Tom:** Le site internet est letzprepare point l-u.  
+  → Le site internet est Lets pri-pair point L-U.
+- **Tom:** C'est pourquoi, en octobre 2026, le gouvernement a lancé une campagne nationale avec une question en luxembourgeois : « Bass du prett ?  
+  → C'est pourquoi, en octobre 2026, le gouvernement a lancé une campagne nationale avec une question en luxembourgeois : « Bass dou prèt ?
+- **Anna:** Grâce à LU-Alert, le système national d'alerte.  
+  → Grâce à L-U Alert, le système national d'alerte.
+- **Anna:** Il y a aussi l'application et le site LU-Alert, les médias, et les sirènes.  
+  → Il y a aussi l'application et le site L-U Alert, les médias, et les sirènes.
+- **Tom:** Nous avons d'ailleurs tout un épisode sur LU-Alert.  
+  → Nous avons d'ailleurs tout un épisode sur L-U Alert.
+- **Tom:** Les numéros d'urgence restent les mêmes : le 112 pour les services de secours, et le 113 pour la police.  
+  → Les numéros d'urgence restent les mêmes : le cent-douze pour les services de secours, et le 113 pour la police.
+- **Tom:** Faites confiance aux sources officielles, comme infocrise point l-u, et ne faites pas circuler de rumeurs.  
+  → Faites confiance aux sources officielles, comme infocrise point L-U, et ne faites pas circuler de rumeurs.
+- **Tom:** Sur letzprepare point l-u.  
+  → Sur Lets pri-pair point L-U.
+- **Tom:** Et pour des conseils sur des situations précises, comme une panne de courant, une inondation ou une alerte nucléaire, il y a le site infocrise point l-u.  
+  → Et pour des conseils sur des situations précises, comme une panne de courant, une inondation ou une alerte nucléaire, il y a le site infocrise point L-U.
+- **Tom:** Premièrement : Lëtz prepare est la Stratégie nationale de résilience du Luxembourg.  
+  → Premièrement : Lets pri-pair est la Stratégie nationale de résilience du Luxembourg.
+- **Anna:** C'était notre épisode sur Lëtz prepare.  
+  → C'était notre épisode sur Lets pri-pair.
+- **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
+  → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
+- **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
+  → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
+
 ### lll (6)
 
 - **Anna:** Le site est lifelong tiret learning point lu.  
   → Le site est lifelong tiret learning point L-U.
 - **Tom:** C'est le portail national de la formation continue, géré par l'institut national pour le développement de la formation professionnelle continue, l'INFPC.  
   → C'est le portail national de la formation continue, géré par l'institut national pour le développement de la formation professionnelle continue, l'I-N-F-P-C.
-- **Anna:** D'abord, parcourez le catalogue sur lifelong tiret learning point lu... cherchez par thème, ou par le métier que vous voulez.  
-  → D'abord, parcourez le catalogue sur lifelong tiret learning point L-U... cherchez par thème, ou par le métier que vous voulez.
-- **Tom:** Premièrement... lifelong tiret learning point lu est le portail national luxembourgeois de la formation continue, géré par l'INFPC.  
-  → Premièrement... lifelong tiret learning point L-U est le portail national luxembourgeois de la formation continue, géré par l'I-N-F-P-C.
+- **Anna:** D'abord, parcourez le catalogue sur lifelong tiret learning point lu, cherchez par thème, ou par le métier que vous voulez.  
+  → D'abord, parcourez le catalogue sur lifelong tiret learning point L-U, cherchez par thème, ou par le métier que vous voulez.
+- **Tom:** Premièrement, lifelong tiret learning point lu est le portail national luxembourgeois de la formation continue, géré par l'INFPC.  
+  → Premièrement, lifelong tiret learning point L-U est le portail national luxembourgeois de la formation continue, géré par l'I-N-F-P-C.
 - **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
   → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
 - **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
@@ -2319,7 +3712,7 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 - **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
   → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
 
-### lualert (24)
+### lualert (26)
 
 - **Tom:** Ça s'appelle LU-Alert.  
   → Ça s'appelle L-U Alert.
@@ -2335,6 +3728,8 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Il y a les sites officiels, comme L-U tiret Alert point L-U.
 - **Anna:** Et l'application mobile — qu'est-ce qu'elle apporte de plus, si je reçois déjà les SMS ?  
   → Et l'application mobile — qu'est-ce qu'elle apporte de plus, si je reçois déjà les S-M-S ?
+- **Tom:** Parce que beaucoup d'alertes moins graves sont envoyées uniquement par l'application et le site internet, pas par SMS.  
+  → Parce que beaucoup d'alertes moins graves sont envoyées uniquement par l'application et le site internet, pas par S-M-S.
 - **Tom:** Par SMS géolocalisé, vous recevez les trois langues dans un seul message.  
   → Par S-M-S géolocalisé, vous recevez les trois langues dans un seul message.
 - **Tom:** Ça peut arriver, surtout par SMS, parce qu'il y a une limite de caractères.  
@@ -2345,6 +3740,8 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → L-U tiret Alert point L-U pour l'histoire complète.
 - **Tom:** LU-Alert utilise différents niveaux d'alerte.  
   → L-U Alert utilise différents niveaux d'alerte.
+- **Tom:** Et certains tests sur le téléphone ne vous arrivent que si vous activez « LU-Alert Test » dans les paramètres de votre téléphone — ou « Test » dans l'application.  
+  → Et certains tests sur le téléphone ne vous arrivent que si vous activez « L-U Alert Test » dans les paramètres de votre téléphone — ou « Test » dans l'application.
 - **Tom:** Par exemple — la Police, le Corps grand-ducal d'incendie et de secours, c'est-à-dire le CGDIS, le service météorologique MeteoLux, l'administration de la gestion de l'eau, l'administration de l'alimentation, et le Haut-Commissariat à la protection nationale.  
   → Par exemple — la Police, le Corps grand-ducal d'incendie et de secours, c'est-à-dire le C-G-D-I-S, le service météorologique MeteoLux, l'administration de la gestion de l'eau, l'administration de l'alimentation, et le Haut-Commissariat à la protection nationale.
 - **Tom:** Et encore une chose — il n'y a pas de publicité sur LU-Alert.  
@@ -2359,8 +3756,8 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Et trois — retenez le site, L-U tiret Alert point L-U, et retenez la règle d'or : vérifiez là-bas, ne partagez jamais de données personnelles.
 - **Tom:** LU-Alert est le système national d'alerte et d'information du Luxembourg, lancé à l'automne 2024.  
   → L-U Alert est le système national d'alerte et d'information du Luxembourg, lancé à l'automne 2024.
-- **Tom:** Il vous atteint sur votre téléphone — par Cell Broadcast et SMS géolocalisé, sans inscription nécessaire — et aussi via l'application, les sites internet, les médias et, pour les alertes nucléaires, les sirènes.  
-  → Il vous atteint sur votre téléphone — par Cell Broadcast et S-M-S géolocalisé, sans inscription nécessaire — et aussi via l'application, les sites internet, les médias et, pour les alertes nucléaires, les sirènes.
+- **Tom:** Il vous atteint sur votre téléphone — par Cell Broadcast et SMS géolocalisé, sans inscription nécessaire — et aussi via l'application, les sites internet, les médias et, en cas de danger grave, les sirènes.  
+  → Il vous atteint sur votre téléphone — par Cell Broadcast et S-M-S géolocalisé, sans inscription nécessaire — et aussi via l'application, les sites internet, les médias et, en cas de danger grave, les sirènes.
 - **Tom:** Si vous n'êtes pas sûr, vérifiez sur lu-alert point l-u.  
   → Si vous n'êtes pas sûr, vérifiez sur L-U tiret Alert point L-U.
 - **Anna:** C'était notre épisode sur LU-Alert.  
@@ -2404,14 +3801,16 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 - **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
   → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
 
-### maison_orientation (15)
+### maison_orientation (16)
 
 - **Tom:** Vous pouvez prendre un rendez-vous, et ça se fait en ligne — par MyGuichet.lu.  
   → Vous pouvez prendre un rendez-vous, et ça se fait en ligne — par MyGuichet point L-U.
 - **Tom:** *(rires)* Oui, ça revient sans cesse, parce que c'est la porte d'entrée vers tant de services.  
   → Oui, ça revient sans cesse, parce que c'est la porte d'entrée vers tant de services.
-- **Tom:** Et il y a une ligne téléphonique gratuite — 8002, 8181 — et une adresse e-mail, info arobase m-o point l-u.  
-  → Et il y a une ligne téléphonique gratuite — huit zéro zéro deux, huit un huit un — et une adresse e-mail, info arobase M-O point L-U.
+- **Tom:** Et il y a une ligne téléphonique gratuite — 8002, 8181 — et une adresse e-mail : info, arobase, maison tiret orientation point public point l-u.  
+  → Et il y a une ligne téléphonique gratuite — huit zéro zéro deux, huit un huit un — et une adresse e-mail : info, arobase, maison tiret orientation point public point L-U.
+- **Tom:** C'est volontaire, et là, il faut un rendez-vous, sur MyGuichet.lu — sur place ou en ligne.  
+  → C'est volontaire, et là, il faut un rendez-vous, sur MyGuichet point L-U — sur place ou en ligne.
 - **Tom:** Deuxièmement, le SIA — le service de l'intégration et de l'accueil scolaires.  
   → Deuxièmement, le S-I-A — le service de l'intégration et de l'accueil scolaires.
 - **Tom:** Ensuite, troisièmement — le service d'orientation professionnelle de l'ADEM, et le placement en apprentissage.  
@@ -2420,12 +3819,12 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → L'Adem, c'est l'agence pour l'emploi, et là, ils aident pour l'orientation professionnelle et pour trouver un apprentissage.
 - **Tom:** Quatrièmement — l'ATVA, l'agence pour la transition vers une vie autonome.  
   → Quatrièmement — l'A-T-V-A, l'agence pour la transition vers une vie autonome.
-- **Tom:** Le site, c'est maison-orientation, tout en un seul mot, point public point l-u.  
-  → Le site, c'est maison-orientation, tout en un seul mot, point public point L-U.
+- **Tom:** Le site, c'est maison, tiret, orientation, point public point l-u.  
+  → Le site, c'est maison, tiret, orientation, point public point L-U.
 - **Tom:** Ils ont même une série de brochures, qui s'appelle BOOST, avec exactement ce genre de conseils.  
   → Ils ont même une série de brochures, qui s'appelle Boost, avec exactement ce genre de conseils.
-- **Tom:** Par exemple, des ateliers sur comment rédiger un CV — ils en ont même un sur la réalisation d'un CV vidéo.  
-  → Par exemple, des ateliers sur comment rédiger un C-V — ils en ont même un sur la réalisation d'un C-V vidéo.
+- **Tom:** Par exemple, des ateliers pour rédiger un CV ou préparer un entretien d'embauche.  
+  → Par exemple, des ateliers pour rédiger un C-V ou préparer un entretien d'embauche.
 - **Tom:** Si vous voulez, prenez un rendez-vous par MyGuichet.lu — choisissez en ligne ou en personne.  
   → Si vous voulez, prenez un rendez-vous par MyGuichet point L-U — choisissez en ligne ou en personne.
 - **Tom:** Et si vous avez une question rapide, appelez la ligne gratuite, 8002, 8181.  
@@ -2437,22 +3836,45 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 - **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
   → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
 
-### myguichet (10)
+### mediateursante (6)
+
+- **Anna:** Le Luxembourg en a deux : le service de médiation santé et la Caisse nationale de santé, la CNS.  
+  → Le Luxembourg en a deux : le service de médiation santé et la Caisse nationale de santé, la C-N-S.
+- **Anna:** Pour le remboursement lui-même, et pour une autorisation préalable, le point de contact est la CNS.  
+  → Pour le remboursement lui-même, et pour une autorisation préalable, le point de contact est la C-N-S.
+- **Tom:** Quatrièmement : le service répond aussi aux questions sur les soins au-delà des frontières, avec la CNS.  
+  → Quatrièmement : le service répond aussi aux questions sur les soins au-delà des frontières, avec la C-N-S.
+- **Anna:** Vous trouvez toutes les informations sur mediateursante point public point l-u.  
+  → Vous trouvez toutes les informations sur médiateur santé point public point L-U.
+- **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
+  → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
+- **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
+  → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
+
+### myguichet (14)
 
 - **Tom:** Ça s'appelle MyGuichet.lu.  
   → Ça s'appelle MyGuichet point L-U.
 - **Anna:** Qu'est-ce que MyGuichet.lu ?  
   → Qu'est-ce que MyGuichet point L-U ?
-- **Tom:** D'accord, alors... MyGuichet.lu est le portail d'information qui simplifie vos échanges avec l'État.  
-  → D'accord, alors... MyGuichet point L-U est le portail d'information qui simplifie vos échanges avec l'État.
+- **Tom:** Guichet.lu est le site d'information de l'État, et MyGuichet.lu est son espace sécurisé en ligne.  
+  → Guichet point L-U est le site d'information de l'État, et MyGuichet point L-U est son espace sécurisé en ligne.
+- **Tom:** MyGuichet.lu est sécurisé, et c'est votre point de contact unique avec les administrations publiques.  
+  → MyGuichet point L-U est sécurisé, et c'est votre point de contact unique avec les administrations publiques.
 - **Tom:** Le site, oui — Guichet.lu existe en français, en allemand et en anglais.  
   → Le site, oui — Guichet point L-U existe en français, en allemand et en anglais.
+- **Tom:** Et vous pouvez même l'utiliser avec votre smartphone, grâce à l'application GouvID de l'État.  
+  → Et vous pouvez même l'utiliser avec votre smartphone, grâce à l'application Gouv I-D de l'État.
 - **Tom:** Vous allez sur Guichet.lu, vous cliquez sur « Se connecter », et vous suivez les étapes avec votre e-mail et votre matricule.  
   → Vous allez sur Guichet point L-U, vous cliquez sur « Se connecter », et vous suivez les étapes avec votre e-mail et votre matricule.
-- **Tom:** Et peut-être un mot pour les entrepreneurs qui nous écoutent : les entreprises aussi peuvent utiliser MyGuichet, avec un eSpace professionnel, pour des choses comme les déclarations d'impôts et de TVA, les déclarations de sécurité sociale pour leur personnel, ou les demandes de permis et d'autorisations.  
-  → Et peut-être un mot pour les entrepreneurs qui nous écoutent : les entreprises aussi peuvent utiliser MyGuichet, avec un eSpace professionnel, pour des choses comme les déclarations d'impôts et de T-V-A, les déclarations de sécurité sociale pour leur personnel, ou les demandes de permis et d'autorisations.
+- **Tom:** Et si vous êtes citoyen d'un autre pays de l'UE, aussi aux élections européennes.  
+  → Et si vous êtes citoyen d'un autre pays de l'U-E, aussi aux élections européennes.
+- **Tom:** Et peut-être un mot pour les entrepreneurs qui nous écoutent : les entreprises aussi peuvent utiliser MyGuichet, avec un eSpace professionnel, pour des choses comme déclarer leur personnel à la sécurité sociale, consulter leur compte TVA, ou demander une autorisation d'établissement.  
+  → Et peut-être un mot pour les entrepreneurs qui nous écoutent : les entreprises aussi peuvent utiliser MyGuichet, avec un eSpace professionnel, pour des choses comme déclarer leur personnel à la sécurité sociale, consulter leur compte T-V-A, ou demander une autorisation d'établissement.
 - **Tom:** MyGuichet.lu est la plateforme en ligne sécurisée de l'État luxembourgeois.  
   → MyGuichet point L-U est la plateforme en ligne sécurisée de l'État luxembourgeois.
+- **Anna:** Et sur Guichet.lu, il y a maintenant un assistant d'intelligence artificielle : vous tapez votre question avec vos propres mots, dans votre langue, et il vous aide à trouver la bonne démarche.  
+  → Et sur Guichet point L-U, il y a maintenant un assistant d'intelligence artificielle : vous tapez votre question avec vos propres mots, dans votre langue, et il vous aide à trouver la bonne démarche.
 - **Anna:** C'était notre épisode sur MyGuichet.lu.  
   → C'était notre épisode sur MyGuichet point L-U.
 - **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
@@ -2460,7 +3882,58 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 - **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
   → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
 
-### onis (37)
+### ombudsman (24)
+
+- **Tom:** Et la deuxième est l'OKaJu, l'Ombudsman pour les enfants et les jeunes.  
+  → Et la deuxième est l'Okadjou, l'Ombudsman pour les enfants et les jeunes.
+- **Tom:** Sur le site ombudsman point l-u, en français et en anglais.  
+  → Sur le site ombudsman point L-U, en français et en anglais.
+- **Anna:** Passons maintenant à la deuxième institution, l'OKaJu.  
+  → Passons maintenant à la deuxième institution, l'Okadjou.
+- **Anna:** Et quelle est la mission de l'OKaJu ?  
+  → Et quelle est la mission de l'Okadjou ?
+- **Anna:** L'OKaJu est-il indépendant, comme l'Ombudsman ?  
+  → L'Okadjou est-il indépendant, comme l'Ombudsman ?
+- **Anna:** L'OKaJu est là, tout d'abord, pour chaque enfant et chaque jeune de moins de dix-huit ans.  
+  → L'Okadjou est là, tout d'abord, pour chaque enfant et chaque jeune de moins de dix-huit ans.
+- **Anna:** Un jeune qui pense que ses droits ne sont pas respectés peut contacter l'OKaJu lui-même.  
+  → Un jeune qui pense que ses droits ne sont pas respectés peut contacter l'Okadjou lui-même.
+- **Anna:** Toutes les démarches auprès de l'OKaJu sont gratuites, et elles sont confidentielles.  
+  → Toutes les démarches auprès de l'Okadjou sont gratuites, et elles sont confidentielles.
+- **Tom:** Avec quel genre de questions les gens viennent-ils à l'OKaJu ?  
+  → Avec quel genre de questions les gens viennent-ils à l'Okadjou ?
+- **Tom:** Pour joindre l'OKaJu, vous pouvez appeler, écrire un e-mail, ou remplir le formulaire de contact sur le site.  
+  → Pour joindre l'Okadjou, vous pouvez appeler, écrire un e-mail, ou remplir le formulaire de contact sur le site.
+- **Tom:** Si la question n'est pas du ressort de l'OKaJu, l'équipe vous oriente vers le bon service.  
+  → Si la question n'est pas du ressort de l'Okadjou, l'équipe vous oriente vers le bon service.
+- **Anna:** Et si la demande concerne bien l'OKaJu ?  
+  → Et si la demande concerne bien l'Okadjou ?
+- **Anna:** L'OKaJu prend-il ensuite une décision ?  
+  → L'Okadjou prend-il ensuite une décision ?
+- **Tom:** L'OKaJu n'est pas un juge, et il ne peut pas imposer une décision.  
+  → L'Okadjou n'est pas un juge, et il ne peut pas imposer une décision.
+- **Anna:** L'OKaJu travaille-t-il seulement sur des cas individuels ?  
+  → L'Okadjou travaille-t-il seulement sur des cas individuels ?
+- **Tom:** Des jeunes entre treize et dix-huit ans se réunissent régulièrement, parlent des droits de l'enfant, et conseillent l'OKaJu.  
+  → Des jeunes entre treize et dix-huit ans se réunissent régulièrement, parlent des droits de l'enfant, et conseillent l'Okadjou.
+- **Anna:** Où peut-on trouver l'OKaJu sur internet ?  
+  → Où peut-on trouver l'Okadjou sur internet ?
+- **Tom:** L'adresse est okaju point l-u.  
+  → L'adresse est Okadjou point L-U.
+- **Anna:** L'Ombudsman et l'OKaJu se trouvent dans le même bâtiment à Luxembourg-ville : la Maison des droits de l'homme.  
+  → L'Ombudsman et l'Okadjou se trouvent dans le même bâtiment à Luxembourg-ville : la Maison des droits de l'homme.
+- **Anna:** Troisièmement : l'OKaJu défend les droits des enfants et des jeunes de moins de dix-huit ans.  
+  → Troisièmement : l'Okadjou défend les droits des enfants et des jeunes de moins de dix-huit ans.
+- **Anna:** Vous les trouvez sur ombudsman point l-u et sur okaju point l-u.  
+  → Vous les trouvez sur ombudsman point L-U et sur Okadjou point L-U.
+- **Anna:** C'était notre épisode sur l'Ombudsman et l'OKaJu.  
+  → C'était notre épisode sur l'Ombudsman et l'Okadjou.
+- **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
+  → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
+- **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
+  → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
+
+### onis (43)
 
 - **Anna:** ONIS.  
   → Onis.
@@ -2480,8 +3953,10 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Et cette deuxième facette — celle de l'inclusion — c'est la mission de l'Onis.
 - **Anna:** Le FNS s'occupe de l'argent.  
   → Le F-N-S s'occupe de l'argent.
-- **Anna:** L'ONIS s'occupe des personnes, et de leur chemin vers l'avenir.  
-  → L'Onis s'occupe des personnes, et de leur chemin vers l'avenir.
+- **Anna:** Pour les personnes prêtes à chercher un emploi, le volet inclusion, c'est l'ADEM, l'agence pour l'emploi.  
+  → Pour les personnes prêtes à chercher un emploi, le volet inclusion, c'est l'Adem, l'agence pour l'emploi.
+- **Anna:** Mais pour les personnes encore éloignées du travail, c'est l'ONIS — il s'occupe des personnes, et de leur chemin vers l'avenir.  
+  → Mais pour les personnes encore éloignées du travail, c'est l'Onis — il s'occupe des personnes, et de leur chemin vers l'avenir.
 - **Anna:** Le REVIS n'est pas censé être un chèque que tu reçois pour toujours, seul chez toi.  
   → Le Revis n'est pas censé être un chèque que tu reçois pour toujours, seul chez toi.
 - **Tom:** Donc l'ONIS, c'est l'office qui marche à tes côtés sur le pont.  
@@ -2496,12 +3971,20 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → L'Onis travaille avec deux types de mesures.
 - **Tom:** Si je suis une personne qui commence à toucher le REVIS, qu'est-ce qui se passe vraiment avec l'ONIS ?  
   → Si je suis une personne qui commence à toucher le Revis, qu'est-ce qui se passe vraiment avec l'Onis ?
-- **Anna:** Ça commence généralement par une invitation — on t'invite à un rendez-vous, à un accueil, avec l'ONIS.  
-  → Ça commence généralement par une invitation — on t'invite à un rendez-vous, à un accueil, avec l'Onis.
+- **Anna:** En fait, ça commence à l'ADEM.  
+  → En fait, ça commence à l'Adem.
+- **Anna:** Si tu as moins de soixante-cinq ans et que tu peux travailler, l'ADEM examine d'abord ta situation.  
+  → Si tu as moins de soixante-cinq ans et que tu peux travailler, l'Adem examine d'abord ta situation.
+- **Anna:** Si tu es prêt pour un emploi, c'est l'ADEM qui t'accompagne.  
+  → Si tu es prêt pour un emploi, c'est l'Adem qui t'accompagne.
+- **Anna:** Mais s'il y a d'abord d'autres difficultés à régler, l'ADEM t'oriente vers l'ONIS.  
+  → Mais s'il y a d'abord d'autres difficultés à régler, l'Adem t'oriente vers l'Onis.
+- **Anna:** Ensuite, l'ONIS t'invite à une réunion d'information — et là, tu signes quelque chose qu'on appelle une déclaration de collaboration.  
+  → Ensuite, l'Onis t'invite à une réunion d'information — et là, tu signes quelque chose qu'on appelle une déclaration de collaboration.
 - **Anna:** Un ARIS.  
   → Un Aris.
-- **Anna:** C'est vrai que le REVIS demande une participation — c'est la déclaration de collaboration.  
-  → C'est vrai que le Revis demande une participation — c'est la déclaration de collaboration.
+- **Anna:** C'est vrai que le REVIS demande une participation — c'est la déclaration de collaboration — et si quelqu'un refuse plusieurs fois de participer, le paiement peut être réduit ou suspendu.  
+  → C'est vrai que le Revis demande une participation — c'est la déclaration de collaboration — et si quelqu'un refuse plusieurs fois de participer, le paiement peut être réduit ou suspendu.
 - **Anna:** Et c'est justement le piège que le REVIS et l'ONIS essaient d'éviter.  
   → Et c'est justement le piège que le Revis et l'Onis essaient d'éviter.
 - **Tom:** Le chèque, c'est le plancher ; l'ONIS, c'est l'escalier.  
@@ -2512,8 +3995,10 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Donc Paulo demande le Revis.
 - **Anna:** Le FNS règle le côté argent — il reçoit le revenu minimum, et donc il peut vivre.  
   → Le F-N-S règle le côté argent — il reçoit le revenu minimum, et donc il peut vivre.
-- **Anna:** Et ensuite, l'ONIS entre dans sa vie.  
-  → Et ensuite, l'Onis entre dans sa vie.
+- **Anna:** L'ADEM examine sa situation, voit qu'il n'est pas encore prêt pour un emploi, et l'oriente vers l'ONIS.  
+  → L'Adem examine sa situation, voit qu'il n'est pas encore prêt pour un emploi, et l'oriente vers l'Onis.
+- **Anna:** Et c'est là que l'ONIS entre dans sa vie.  
+  → Et c'est là que l'Onis entre dans sa vie.
 - **Anna:** C'est la philosophie discrète qui se trouve derrière l'ONIS.  
   → C'est la philosophie discrète qui se trouve derrière l'Onis.
 - **Anna:** D'abord — si tu touches le REVIS, l'ONIS n'est pas ton ennemi.  
@@ -2526,8 +4011,8 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Et pour la prestation Revis elle-même, les informations sont sur guichet point L-U, et le côté argent, c'est le Fonds national de solidarité, dont nous avons parlé dans un autre épisode.
 - **Anna:** L'ONIS, l'Office national d'inclusion sociale, c'est l'office de l'État qui s'occupe du côté « inclusion » du REVIS, le revenu d'inclusion sociale du Luxembourg.  
   → L'Onis, l'Office national d'inclusion sociale, c'est l'office de l'État qui s'occupe du côté « inclusion » du Revis, le revenu d'inclusion sociale du Luxembourg.
-- **Anna:** Alors que le Fonds national de solidarité verse l'argent, l'ONIS aide les personnes les plus éloignées du travail à avancer — d'abord par des mesures de stabilisation, puis par des mesures d'activation.  
-  → Alors que le Fonds national de solidarité verse l'argent, l'Onis aide les personnes les plus éloignées du travail à avancer — d'abord par des mesures de stabilisation, puis par des mesures d'activation.
+- **Anna:** Alors que le Fonds national de solidarité verse l'argent, l'ONIS aide les personnes les plus éloignées du travail — celles que l'ADEM oriente vers lui — à avancer — d'abord par des mesures de stabilisation, puis par des mesures d'activation.  
+  → Alors que le Fonds national de solidarité verse l'argent, l'Onis aide les personnes les plus éloignées du travail — celles que l'Adem oriente vers lui — à avancer — d'abord par des mesures de stabilisation, puis par des mesures d'activation.
 - **Tom:** Alors... que ce soit pour toi, ou pour quelqu'un qui te tient à cœur — souviens-toi, derrière le chèque du REVIS, il y a aussi une main tendue.  
   → Alors... que ce soit pour toi, ou pour quelqu'un qui te tient à cœur — souviens-toi, derrière le chèque du Revis, il y a aussi une main tendue.
 - **Tom:** ONIS.  
@@ -2541,8 +4026,8 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 
 - **Tom:** Le deuxième est le Luxembourg Institute of Science and Technology, souvent appelé LIST.  
   → Le deuxième est le Luxembourg Institute of Science and Technology, souvent appelé List.
-- **Anna:** Le LIST travaille sur la science et la technologie appliquées... les matériaux, l'environnement, et les outils numériques que l'industrie peut utiliser.  
-  → Le List travaille sur la science et la technologie appliquées... les matériaux, l'environnement, et les outils numériques que l'industrie peut utiliser.
+- **Anna:** Le LIST travaille sur la science et la technologie appliquées, les matériaux, l'environnement, et les outils numériques que l'industrie peut utiliser.  
+  → Le List travaille sur la science et la technologie appliquées, les matériaux, l'environnement, et les outils numériques que l'industrie peut utiliser.
 - **Tom:** Le troisième est le Luxembourg Institute of Health, ou LIH.  
   → Le troisième est le Luxembourg Institute of Health, ou L-I-H.
 - **Tom:** Le quatrième est le Luxembourg Institute of Socio-Economic Research, ou LISER.  
@@ -2553,14 +4038,77 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → C'est le Fonds National de la Recherche, souvent appelé le F-N-R.
 - **Tom:** Le FNR ne fait pas principalement de la recherche lui-même.  
   → Le F-N-R ne fait pas principalement de la recherche lui-même.
-- **Tom:** Deuxièmement... on y trouve l'Université du Luxembourg, les instituts LIST, LIH et LISER, le financeur FNR, et Luxinnovation.  
-  → Deuxièmement... on y trouve l'Université du Luxembourg, les instituts List, L-I-H et Liser, le financeur F-N-R, et Luxinnovation.
+- **Tom:** Deuxièmement, on y trouve l'Université du Luxembourg, les instituts LIST, LIH et LISER, le financeur FNR, et Luxinnovation.  
+  → Deuxièmement, on y trouve l'Université du Luxembourg, les instituts List, L-I-H et Liser, le financeur F-N-R, et Luxinnovation.
 - **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
   → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
 - **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
   → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
 
-### snj (25)
+### simpa (30)
+
+- **Anna:** Il s'appelle le SIMPA.  
+  → Il s'appelle le Simpa.
+- **Tom:** Le SIMPA, c'est le Service national d'information et de médiation pour les personnes âgées.  
+  → Le Simpa, c'est le Service national d'information et de médiation pour les personnes âgées.
+- **Tom:** Son nom complet est long, alors tout le monde dit simplement le SIMPA.  
+  → Son nom complet est long, alors tout le monde dit simplement le Simpa.
+- **Tom:** Il a été créé par la loi du 23 août 2023 sur la qualité des services pour personnes âgées, et il a été présenté au public en mars 2025.  
+  → Il a été créé par la loi du vingt-trois août deux mille vingt-trois sur la qualité des services pour personnes âgées, et il a été présenté au public en mars 2025.
+- **Tom:** Quand le SIMPA présente son travail, il résume la loi en quatre idées : plus d'information, plus de transparence, plus de qualité, et plus de participation pour les personnes qui utilisent les services.  
+  → Quand le Simpa présente son travail, il résume la loi en quatre idées : plus d'information, plus de transparence, plus de qualité, et plus de participation pour les personnes qui utilisent les services.
+- **Anna:** Le SIMPA aide à faire vivre ces idées pour tous les services pour personnes âgées agréés par le ministère.  
+  → Le Simpa aide à faire vivre ces idées pour tous les services pour personnes âgées agréés par le ministère.
+- **Tom:** Qui peut exactement s'adresser au SIMPA, et combien cela coûte-t-il ?  
+  → Qui peut exactement s'adresser au Simpa, et combien cela coûte-t-il ?
+- **Anna:** Et cela ne coûte rien : tous les services du SIMPA sont entièrement gratuits.  
+  → Et cela ne coûte rien : tous les services du Simpa sont entièrement gratuits.
+- **Tom:** Le SIMPA décrit son travail avec trois idées simples : écouter, comprendre et expliquer, et renforcer le dialogue.  
+  → Le Simpa décrit son travail avec trois idées simples : écouter, comprendre et expliquer, et renforcer le dialogue.
+- **Anna:** Et pour écouter, le SIMPA a une ligne téléphonique plus ancienne que le service lui-même : le Seniorentelefon, qui existe depuis 1999.  
+  → Et pour écouter, le Simpa a une ligne téléphonique plus ancienne que le service lui-même : le Séniorènn-téléfone, qui existe depuis 1999.
+- **Anna:** Le numéro est le 247-86000.  
+  → Le numéro est le deux quatre sept huit six zéro zéro zéro.
+- **Anna:** C'est un membre de l'équipe du SIMPA qui répond, en luxembourgeois, français, allemand, portugais ou anglais.  
+  → C'est un membre de l'équipe du Simpa qui répond, en luxembourgeois, français, allemand, portugais ou anglais.
+- **Tom:** La troisième idée, c'est le dialogue : le SIMPA veut une bonne communication entre les résidents ou usagers et les organismes, pour qu'un petit problème puisse être réglé avant de devenir un vrai conflit.  
+  → La troisième idée, c'est le dialogue : le Simpa veut une bonne communication entre les résidents ou usagers et les organismes, pour qu'un petit problème puisse être réglé avant de devenir un vrai conflit.
+- **Tom:** Chaque organisme doit avoir un dispositif de réclamation, et ses coordonnées figurent dans le projet d'établissement du service, que l'on peut consulter sur infosenior point l-u.  
+  → Chaque organisme doit avoir un dispositif de réclamation, et ses coordonnées figurent dans le projet d'établissement du service, que l'on peut consulter sur infosenior point L-U.
+- **Tom:** Alors le SIMPA peut proposer une médiation, si toutes les personnes concernées sont d'accord.  
+  → Alors le Simpa peut proposer une médiation, si toutes les personnes concernées sont d'accord.
+- **Anna:** Est-ce qu'un fils ou une fille peut demander au SIMPA de parler au nom de sa mère pendant une médiation ?  
+  → Est-ce qu'un fils ou une fille peut demander au Simpa de parler au nom de sa mère pendant une médiation ?
+- **Tom:** Ce n'est pas possible, car le SIMPA ne représente personne.  
+  → Ce n'est pas possible, car le Simpa ne représente personne.
+- **Anna:** Y a-t-il des situations où le SIMPA n'est pas la bonne adresse ?  
+  → Y a-t-il des situations où le Simpa n'est pas la bonne adresse ?
+- **Anna:** Beaucoup de familles se posent aussi des questions d'argent, et le site du SIMPA donne un aperçu des aides publiques, par exemple l'assurance dépendance, un complément appelé COMPA, ou les aides au logement.  
+  → Beaucoup de familles se posent aussi des questions d'argent, et le site du Simpa donne un aperçu des aides publiques, par exemple l'assurance dépendance, un complément appelé Compa, ou les aides au logement.
+- **Anna:** Cela ne fait pas partie de son travail : le SIMPA ne gère pas lui-même les démarches, mais il vous indique le service compétent.  
+  → Cela ne fait pas partie de son travail : le Simpa ne gère pas lui-même les démarches, mais il vous indique le service compétent.
+- **Anna:** Et pour voir tous les services agréés au même endroit, il y a le registre public sur infosenior point l-u.  
+  → Et pour voir tous les services agréés au même endroit, il y a le registre public sur infosenior point L-U.
+- **Tom:** Comment peut-on joindre le SIMPA, pour une question ou pour prendre rendez-vous ?  
+  → Comment peut-on joindre le Simpa, pour une question ou pour prendre rendez-vous ?
+- **Anna:** Le site est simpa point l-u, et il existe en français et en allemand.  
+  → Le site est simpa point L-U, et il existe en français et en allemand.
+- **Tom:** Quand le SIMPA se présente, il termine par trois choses à retenir.  
+  → Quand le Simpa se présente, il termine par trois choses à retenir.
+- **Anna:** Premièrement, celui qu'il faut appeler : le Seniorentelefon, au 247-86000, pour une information, pour un conseil, ou simplement pour être écouté.  
+  → Premièrement, celui qu'il faut appeler : le Séniorènn-téléfone, au deux quatre sept huit six zéro zéro zéro, pour une information, pour un conseil, ou simplement pour être écouté.
+- **Tom:** Deuxièmement : le SIMPA écoute, oriente, et propose une médiation quand il y a un désaccord avec un service.  
+  → Deuxièmement : le Simpa écoute, oriente, et propose une médiation quand il y a un désaccord avec un service.
+- **Anna:** Troisièmement : vous trouvez tous les services agréés en un coup d'œil sur infosenior point l-u.  
+  → Troisièmement : vous trouvez tous les services agréés en un coup d'œil sur infosenior point L-U.
+- **Anna:** C'était notre épisode sur le SIMPA, le service d'information et de médiation pour les personnes âgées.  
+  → C'était notre épisode sur le Simpa, le service d'information et de médiation pour les personnes âgées.
+- **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
+  → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
+- **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
+  → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
+
+### snj (26)
 
 - **Anna:** Le SNJ a une belle devise en luxembourgeois... « Jonker staark maachen ».  
   → Le S-N-J a une belle devise en luxembourgeois... « Jonker staark maachen ».
@@ -2586,14 +4134,16 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Si un jeune vient au Luxembourg comme au pair, en vivant chez une famille d'accueil, le S-N-J encadre cela.
 - **Anna:** Vous pouvez en savoir plus sur au tiret pair point lu.  
   → Vous pouvez en savoir plus sur au tiret pair point L-U.
-- **Anna:** Le SNJ étudie la situation des jeunes, en collaboration avec l'Université du Luxembourg.  
-  → Le S-N-J étudie la situation des jeunes, en collaboration avec l'Université du Luxembourg.
+- **Anna:** Le SNJ écoute les jeunes, à travers des enquêtes et des groupes de discussion.  
+  → Le S-N-J écoute les jeunes, à travers des enquêtes et des groupes de discussion.
+- **Tom:** Le plus récent va de 2026 à 2030, et le SNJ a aidé à le préparer.  
+  → Le plus récent va de 2026 à 2030, et le S-N-J a aidé à le préparer.
 - **Anna:** Et il y a BEE SECURE, que beaucoup de gens connaissent.  
   → Et il y a Bee Secure, que beaucoup de gens connaissent.
 - **Tom:** BEE SECURE encourage l'utilisation sûre et responsable d'internet et des nouvelles technologies.  
   → Bee Secure encourage l'utilisation sûre et responsable d'internet et des nouvelles technologies.
-- **Anna:** Le SNJ a cinq centres éducatifs, et des antennes locales pour la jeunesse dans tout le pays pour un accompagnement individuel.  
-  → Le S-N-J a cinq centres éducatifs, et des antennes locales pour la jeunesse dans tout le pays pour un accompagnement individuel.
+- **Anna:** Le SNJ a cinq centres éducatifs, avec un nouveau centre à Esch-sur-Alzette, et des antennes locales pour la jeunesse dans tout le pays pour un accompagnement individuel.  
+  → Le S-N-J a cinq centres éducatifs, avec un nouveau centre à Esch-sur-Alzette, et des antennes locales pour la jeunesse dans tout le pays pour un accompagnement individuel.
 - **Anna:** Comment un jeune, ou un parent, peut-il vraiment utiliser le SNJ ?  
   → Comment un jeune, ou un parent, peut-il vraiment utiliser le S-N-J ?
 - **Tom:** Premièrement... si vous connaissez un jeune qui ne sait pas quoi faire après l'école, le SNJ peut l'aider à construire un projet de vie.  
@@ -2689,8 +4239,8 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Donc, lorsque l'État prévoit une nouvelle loi qui touche à la vie locale, le Syvicol est là pour représenter les villes et les villages.
 - **Tom:** Lorsqu'un projet de loi concerne les communes, le SYVICOL l'étudie et rend un avis.  
   → Lorsqu'un projet de loi concerne les communes, le Syvicol l'étudie et rend un avis.
-- **Tom:** Le SYVICOL est donc un pont... qui fait remonter l'expérience locale jusqu'aux décisions nationales.  
-  → Le Syvicol est donc un pont... qui fait remonter l'expérience locale jusqu'aux décisions nationales.
+- **Tom:** Le SYVICOL est donc un pont, qui fait remonter l'expérience locale jusqu'aux décisions nationales.  
+  → Le Syvicol est donc un pont, qui fait remonter l'expérience locale jusqu'aux décisions nationales.
 - **Anna:** À travers le SYVICOL, les communes peuvent se consulter et apprendre de ce que d'autres ont essayé.  
   → À travers le Syvicol, les communes peuvent se consulter et apprendre de ce que d'autres ont essayé.
 - **Anna:** Être un élu local est une grande responsabilité, et le SYVICOL apporte son aide par l'information et la formation.  
@@ -2716,7 +4266,7 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 - **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
   → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
 
-### workinluxembourg (13)
+### workinluxembourg (16)
 
 - **Tom:** Il a été construit ensemble par le ministère de l'Économie, le ministère du Travail, l'ADEM — qui est l'agence nationale pour l'emploi —, la Chambre de commerce, la Chambre des métiers, et une agence qui s'appelle Luxinnovation.  
   → Il a été construit ensemble par le ministère de l'Économie, le ministère du Travail, l'Adem — qui est l'agence nationale pour l'emploi —, la Chambre de commerce, la Chambre des métiers, et une agence qui s'appelle Luxinnovation.
@@ -2726,10 +4276,16 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → L'Adem — c'est l'agence nationale pour l'emploi dont tu parlais.
 - **Tom:** L'ADEM est le service public de l'emploi du Luxembourg.  
   → L'Adem est le service public de l'emploi du Luxembourg.
-- **Tom:** En fait, la plateforme compte déjà environ onze mille candidats venus du monde entier, présélectionnés par l'ADEM.  
-  → En fait, la plateforme compte déjà environ onze mille candidats venus du monde entier, présélectionnés par l'Adem.
-- **Tom:** Selon l'IMD World Talent Ranking, il est deuxième au monde pour attirer les talents.  
-  → Selon l'I-M-D World Talent Ranking, il est deuxième au monde pour attirer les talents.
+- **Tom:** Chaque profil est présélectionné par l'ADEM, et les employeurs consultent la base de données et contactent directement les candidats.  
+  → Chaque profil est présélectionné par l'Adem, et les employeurs consultent la base de données et contactent directement les candidats.
+- **Anna:** Présélectionnés par l'ADEM.  
+  → Présélectionnés par l'Adem.
+- **Tom:** L'employeur n'a pas d'abord à chercher quelqu'un sur place, donc l'ADEM donne son feu vert en quelques jours.  
+  → L'employeur n'a pas d'abord à chercher quelqu'un sur place, donc l'Adem donne son feu vert en quelques jours.
+- **Tom:** Vous pouvez joindre le Talent Desk par e-mail, à contact@talentdesk.lu, ou lui rendre visite au Kirchberg, sur rendez-vous.  
+  → Vous pouvez joindre le Talent Desk par e-mail, à contact arobase talentdesk point L-U, ou lui rendre visite au Kirchberg, sur rendez-vous.
+- **Tom:** Et l'IMD World Talent Ranking le place parmi les meilleurs au monde pour attirer les talents.  
+  → Et l'I-M-D World Talent Ranking le place parmi les meilleurs au monde pour attirer les talents.
 - **Tom:** Ensuite elle va sur le Job Board, crée un profil, et postule à quelques offres — de vrais emplois, via l'ADEM.  
   → Ensuite elle va sur le Job Board, crée un profil, et postule à quelques offres — de vrais emplois, via l'Adem.
 - **Tom:** Le Job Board vous connecte à de vrais emplois via l'ADEM, et le Talent Desk vous offre une vraie personne pour vous guider.  
@@ -2745,16 +4301,24 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 - **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
   → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
 
-### zesumme (7)
+### zesumme (11)
 
 - **Tom:** Il s'appelle Zesumme Vereinfachen.  
   → Il s'appelle Tsézoumeu Fèraïnnfarènn.
 - **Tom:** Alors Anna, qu'est-ce que Zesumme Vereinfachen exactement ?  
   → Alors Anna, qu'est-ce que Tsézoumeu Fèraïnnfarènn exactement ?
-- **Anna:** Ensuite... rendez-vous sur la plateforme Zesumme Vereinfachen et partagez votre suggestion, dans votre propre langue.  
-  → Ensuite... rendez-vous sur la plateforme Tsézoumeu Fèraïnnfarènn et partagez votre suggestion, dans votre propre langue.
+- **Tom:** Pendant longtemps, si vous vouliez de l'aide en personne pour une démarche, vous alliez au guichet d'accueil de Guichet.lu, à Luxembourg-Ville.  
+  → Pendant longtemps, si vous vouliez de l'aide en personne pour une démarche, vous alliez au guichet d'accueil de Guichet point L-U, à Luxembourg-Ville.
+- **Tom:** Il s'appelle Guichet.lu on tour.  
+  → Il s'appelle Guichet point L-U on tour.
+- **Tom:** Vous pouvez recevoir de l'aide pour une démarche, ou pour utiliser MyGuichet.lu.  
+  → Vous pouvez recevoir de l'aide pour une démarche, ou pour utiliser MyGuichet point L-U.
+- **Anna:** Ensuite, rendez-vous sur la plateforme Zesumme Vereinfachen et partagez votre suggestion dans votre propre langue, ou participez à un atelier ou à une table ronde quand un projet en propose.  
+  → Ensuite, rendez-vous sur la plateforme Tsézoumeu Fèraïnnfarènn et partagez votre suggestion dans votre propre langue, ou participez à un atelier ou à une table ronde quand un projet en propose.
 - **Tom:** Que faut-il retenir de Zesumme Vereinfachen ?  
   → Que faut-il retenir de Tsézoumeu Fèraïnnfarènn ?
+- **Tom:** Et quatrièmement, elle a déjà aidé à changer de vrais services, comme le bus de Guichet.lu, qui rapproche le guichet des gens.  
+  → Et quatrièmement, elle a déjà aidé à changer de vrais services, comme le bus de Guichet point L-U, qui rapproche le guichet des gens.
 - **Anna:** C'était notre épisode sur Zesumme Vereinfachen.  
   → C'était notre épisode sur Tsézoumeu Fèraïnnfarènn.
 - **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
@@ -2762,7 +4326,7 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 - **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
   → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
 
-### zukunftskeess (27)
+### zukunftskeess (29)
 
 - **Anna:** Elle s'appelle la Zukunftskeess.  
   → Elle s'appelle la Tsoukounftskéss.
@@ -2773,7 +4337,7 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 - **Anna:** Sa maison sur internet, c'est c-a-e point l-u.  
   → Sa maison sur internet, c'est C-A-E point L-U.
 - **Tom:** cae.lu.  
-  → cae point L-U.
+  → C-A-E point L-U.
 - **Anna:** Les formulaires viennent de ton médecin, de la maternité, ou de la commune — et tu les envoies à la Zukunftskeess.  
   → Les formulaires viennent de ton médecin, de la maternité, ou de la commune — et tu les envoies à la Tsoukounftskéss.
 - **Anna:** Donc pour le chiffre exact d'aujourd'hui, tu consultes la page officielle — c'est la page « paramètres sociaux » sur guichet point l-u.  
@@ -2786,8 +4350,10 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → La plupart des choses peuvent se faire en ligne, via MyGuichet point L-U — la plateforme numérique de l'État.
 - **Tom:** Ah, MyGuichet.lu — on en a parlé dans un autre épisode.  
   → Ah, MyGuichet point L-U — on en a parlé dans un autre épisode.
-- **Anna:** Et par ce biais, tu peux aussi envoyer des documents à la Zukunftskeess, changer tes coordonnées bancaires, ou obtenir un certificat de paiement.  
-  → Et par ce biais, tu peux aussi envoyer des documents à la Tsoukounftskéss, changer tes coordonnées bancaires, ou obtenir un certificat de paiement.
+- **Anna:** Et par ce biais, tu peux aussi envoyer des documents à la Zukunftskeess, ou changer tes coordonnées bancaires.  
+  → Et par ce biais, tu peux aussi envoyer des documents à la Tsoukounftskéss, ou changer tes coordonnées bancaires.
+- **Anna:** Et si tu as besoin d'un certificat de paiement, il y a un simple formulaire en ligne sur le site de la Zukunftskeess.  
+  → Et si tu as besoin d'un certificat de paiement, il y a un simple formulaire en ligne sur le site de la Tsoukounftskéss.
 - **Anna:** Et si tu as des questions, tu peux appeler la Zukunftskeess, ou te rendre dans ses bureaux — ils sont au Boulevard Royal, à Luxembourg-Ville.  
   → Et si tu as des questions, tu peux appeler la Tsoukounftskéss, ou te rendre dans ses bureaux — ils sont au Boulevard Royal, à Luxembourg-Ville.
 - **Tom:** Maintenant Anna, ces trois prestations sont-elles tout ce que fait la Zukunftskeess ?  
@@ -2803,15 +4369,17 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 - **Anna:** D'abord — va sur le site, c-a-e point l-u, ou sur MyGuichet.lu.  
   → D'abord — va sur le site, C-A-E point L-U, ou sur MyGuichet point L-U.
 - **Tom:** cae.lu.  
-  → cae point L-U.
+  → C-A-E point L-U.
+- **Anna:** Et si ton enfant a dix-huit ans mais reste à l'école, renvoie le formulaire pour que l'allocation continue jusqu'à vingt-cinq ans — tu peux maintenant le faire en ligne aussi, sur MyGuichet.lu.  
+  → Et si ton enfant a dix-huit ans mais reste à l'école, renvoie le formulaire pour que l'allocation continue jusqu'à vingt-cinq ans — tu peux maintenant le faire en ligne aussi, sur MyGuichet point L-U.
 - **Anna:** Renseigne-toi auprès de la Zukunftskeess.  
   → Renseigne-toi auprès de la Tsoukounftskéss.
 - **Anna:** La Zukunftskeess — la Caisse pour l'avenir des enfants, cae.lu — est l'organisme de l'État pour les prestations familiales au Luxembourg.  
-  → La Tsoukounftskéss — la Caisse pour l'avenir des enfants, cae point L-U — est l'organisme de l'État pour les prestations familiales au Luxembourg.
+  → La Tsoukounftskéss — la Caisse pour l'avenir des enfants, C-A-E point L-U — est l'organisme de l'État pour les prestations familiales au Luxembourg.
 - **Tom:** La Zukunftskeess.  
   → La Tsoukounftskéss.
 - **Tom:** cae.lu.  
-  → cae point L-U.
+  → C-A-E point L-U.
 - **Anna:** C'était notre épisode sur la Zukunftskeess.  
   → C'était notre épisode sur la Tsoukounftskéss.
 - **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
@@ -2824,8 +4392,8 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 
 ### aaa (13)
 
-- **Anna:** Man kennt sie unter ihrem französischen Kürzel... AAA, die Association d'assurance accident.  
-  → Man kennt sie unter ihrem französischen Kürzel... A-A-A, die Association d'assurance accident.
+- **Anna:** AAA, die Association d'assurance accident.  
+  → A-A-A, die Association d'assurance accident.
 - **Tom:** Also Anna, was genau ist die AAA?  
   → Also Anna, was genau ist die A-A-A?
 - **Anna:** Wenn etwas passiert, was tut die AAA tatsächlich für Sie?  
@@ -2836,8 +4404,8 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Die A-A-A tut viel für die Sicherheit und Gesundheit am Arbeitsplatz.
 - **Anna:** Das Wichtigste ist, dass der Unfall der AAA gemeldet werden muss.  
   → Das Wichtigste ist, dass der Unfall der A-A-A gemeldet werden muss.
-- **Anna:** Es ist auch gut zu wissen, dass die AAA da ist, um Fragen zu beantworten, mit einem Kontaktservice und einem Schalter.  
-  → Es ist auch gut zu wissen, dass die A-A-A da ist, um Fragen zu beantworten, mit einem Kontaktservice und einem Schalter.
+- **Anna:** Es ist auch gut zu wissen, dass die AAA da ist, um Fragen zu beantworten, mit einem Kontaktservice und einem Schalter, und man kann sogar online einen Termin buchen.  
+  → Es ist auch gut zu wissen, dass die A-A-A da ist, um Fragen zu beantworten, mit einem Kontaktservice und einem Schalter, und man kann sogar online einen Termin buchen.
 - **Tom:** Erstens: Wissen Sie, dass Unfälle bei der Arbeit, auf dem Weg zur Arbeit und in der Schule von der AAA abgedeckt sind.  
   → Erstens: Wissen Sie, dass Unfälle bei der Arbeit, auf dem Weg zur Arbeit und in der Schule von der A-A-A abgedeckt sind.
 - **Tom:** Die Ratschläge der AAA können helfen, Ihren Arbeitsplatz sicher zu halten.  
@@ -2880,7 +4448,28 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 - **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
   → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
 
-### adem (42)
+### activitesseniors (9)
+
+- **Tom:** Die Adresse ist infosenior Punkt public Punkt l-u.  
+  → Die Adresse ist infosenior Punkt public Punkt L-U.
+- **Anna:** Die erste heißt geroAKTIV.  
+  → Die erste heißt gero Aktiv.
+- **Anna:** Die zweite, geroPRO, bietet praktische Weiterbildungen für Fachleute, die mit älteren Menschen arbeiten.  
+  → Die zweite, gero Pro, bietet praktische Weiterbildungen für Fachleute, die mit älteren Menschen arbeiten.
+- **Anna:** Die dritte, geroRESEARCH, macht angewandte Forschung über das Älterwerden.  
+  → Die dritte, gero Research, macht angewandte Forschung über das Älterwerden.
+- **Anna:** Super Senior ist ein Dienst des Vereins MEC, der seinen Sitz in Echternach hat.  
+  → Super Senior ist ein Dienst des Vereins M-E-C, der seinen Sitz in Echternach hat.
+- **Anna:** Gehen Sie auf infosenior Punkt public Punkt l-u und wählen Sie „Aktivitäten für Senioren".  
+  → Gehen Sie auf infosenior Punkt public Punkt L-U und wählen Sie „Aktivitäten für Senioren".
+- **Tom:** Und alle stehen zusammen an einem Ort, auf infosenior Punkt public Punkt l-u.  
+  → Und alle stehen zusammen an einem Ort, auf infosenior Punkt public Punkt L-U.
+- **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
+  → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
+- **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
+  → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
+
+### adem (45)
 
 - **Anna:** Genauer gesagt sprechen wir über die ADEM.  
   → Genauer gesagt sprechen wir über die Adem.
@@ -2900,64 +4489,70 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Es bedeutet, dass Sie von der Adem und von Arbeitgebern leicht erreicht werden können und dass Sie bereit sind, für die von Ihnen angegebenen Stunden zu arbeiten.
 - **Tom:** Sie melden sich also an, und dann öffnet sich eine Tür zu all der Hilfe der ADEM.  
   → Sie melden sich also an, und dann öffnet sich eine Tür zu all der Hilfe der Adem.
-- **Anna:** Nachdem Ihre Anmeldung genehmigt wurde, werden Sie zu einem ersten Termin mit einem ADEM-Berater eingeladen.  
-  → Nachdem Ihre Anmeldung genehmigt wurde, werden Sie zu einem ersten Termin mit einem Adem-Berater eingeladen.
+- **Anna:** Das ist es wirklich, denn nachdem Ihre Anmeldung genehmigt wurde, werden Sie zu einem ersten Termin mit einem ADEM-Berater eingeladen.  
+  → Das ist es wirklich, denn nachdem Ihre Anmeldung genehmigt wurde, werden Sie zu einem ersten Termin mit einem Adem-Berater eingeladen.
 - **Anna:** Sie melden sich auf MyGuichet Punkt lu an.  
   → Sie melden sich auf MyGuichet Punkt L-U an.
-- **Anna:** Dann gibt es den zweiten Weg... die Anmeldung persönlich in einer ADEM-Agentur.  
-  → Dann gibt es den zweiten Weg... die Anmeldung persönlich in einer Adem-Agentur.
+- **Anna:** Dann gibt es den zweiten Weg, die Anmeldung persönlich in einer ADEM-Agentur.  
+  → Dann gibt es den zweiten Weg, die Anmeldung persönlich in einer Adem-Agentur.
 - **Tom:** Die Nummer ist das ADEM Contact Centre, unter 2-4-7, 8-8-8-8-8.  
   → Die Nummer ist das Adem Contact Centre, unter zwei vier sieben, acht acht acht acht acht.
-- **Anna:** Und die ADEM hat drei Standorte... in Luxemburg-Stadt, in Esch-Belval und in Diekirch.  
-  → Und die Adem hat drei Standorte... in Luxemburg-Stadt, in Esch-Belval und in Diekirch.
+- **Anna:** Und persönlich anmelden können Sie sich in drei Agenturen der ADEM, in Luxemburg-Stadt, in Esch-Belval und in Diekirch.  
+  → Und persönlich anmelden können Sie sich in drei Agenturen der Adem, in Luxemburg-Stadt, in Esch-Belval und in Diekirch.
 - **Tom:** Sie können sich bei der ADEM anmelden, auch wenn Sie noch einen Job haben.  
   → Sie können sich bei der Adem anmelden, auch wenn Sie noch einen Job haben.
 - **Anna:** Solange Sie die Anforderungen der ADEM erfüllen und Sie an den Terminen teilnehmen können, müssen Sie nicht warten, bis Sie arbeitslos sind.  
   → Solange Sie die Anforderungen der Adem erfüllen und Sie an den Terminen teilnehmen können, müssen Sie nicht warten, bis Sie arbeitslos sind.
 - **Anna:** Das JobBoard ist die Stellenangebots-Plattform der ADEM.  
   → Das JobBoard ist die Stellenangebots-Plattform der Adem.
-- **Anna:** Und Sie teilen der ADEM Änderungen mit, die Ihre Verfügbarkeit betreffen... ein Umzug, eine neue Telefonnummer, der Beginn eines Jobs, eine Krankheit und so weiter.  
-  → Und Sie teilen der Adem Änderungen mit, die Ihre Verfügbarkeit betreffen... ein Umzug, eine neue Telefonnummer, der Beginn eines Jobs, eine Krankheit und so weiter.
+- **Anna:** Und Sie teilen der ADEM Änderungen mit, die Ihre Verfügbarkeit betreffen, ein Umzug, eine neue Telefonnummer, der Beginn eines Jobs, eine Krankheit und so weiter.  
+  → Und Sie teilen der Adem Änderungen mit, die Ihre Verfügbarkeit betreffen, ein Umzug, eine neue Telefonnummer, der Beginn eines Jobs, eine Krankheit und so weiter.
 - **Tom:** Die ADEM unterstützt Sie, und Sie bleiben aktiv und in Kontakt.  
   → Die Adem unterstützt Sie, und Sie bleiben aktiv und in Kontakt.
 - **Tom:** Während dieses genehmigten Urlaubs sind Sie von Ihren Pflichten gegenüber der ADEM befreit, ein bisschen wie Ferien.  
   → Während dieses genehmigten Urlaubs sind Sie von Ihren Pflichten gegenüber der Adem befreit, ein bisschen wie Ferien.
-- **Anna:** Sprechen wir nun über Geld, denn viele Menschen kommen deswegen zur ADEM... das Arbeitslosengeld.  
-  → Sprechen wir nun über Geld, denn viele Menschen kommen deswegen zur Adem... das Arbeitslosengeld.
+- **Anna:** Sprechen wir nun über Geld, denn viele Menschen kommen deswegen zur ADEM, das Arbeitslosengeld.  
+  → Sprechen wir nun über Geld, denn viele Menschen kommen deswegen zur Adem, das Arbeitslosengeld.
 - **Anna:** Um Arbeitslosengeld zu beantragen, müssen Sie zuerst als Arbeitssuchender bei der ADEM angemeldet sein.  
   → Um Arbeitslosengeld zu beantragen, müssen Sie zuerst als Arbeitssuchender bei der Adem angemeldet sein.
 - **Tom:** Sobald Ihre Akte als Arbeitssuchender eröffnet ist, prüft die ADEM automatisch, ob Sie aufgrund Ihrer Situation einen Anspruch auf Leistungen haben.  
   → Sobald Ihre Akte als Arbeitssuchender eröffnet ist, prüft die Adem automatisch, ob Sie aufgrund Ihrer Situation einen Anspruch auf Leistungen haben.
-- **Tom:** Und es gibt einen klaren Zeitrahmen... innerhalb von vier Monaten nach der Anmeldung bei der ADEM.  
-  → Und es gibt einen klaren Zeitrahmen... innerhalb von vier Monaten nach der Anmeldung bei der Adem.
+- **Tom:** Wenn Sie die Bedingungen erfüllen, schickt Ihnen die ADEM einen Brief, und Sie vervollständigen Ihren Antrag online, auf MyGuichet.lu.  
+  → Wenn Sie die Bedingungen erfüllen, schickt Ihnen die Adem einen Brief, und Sie vervollständigen Ihren Antrag online, auf MyGuichet Punkt L-U.
+- **Tom:** Und es gibt einen klaren Zeitrahmen, innerhalb von vier Monaten nach der Anmeldung bei der ADEM.  
+  → Und es gibt einen klaren Zeitrahmen, innerhalb von vier Monaten nach der Anmeldung bei der Adem.
 - **Tom:** Wenn Sie also jung sind und sich nicht sicher sind, was Sie als Nächstes tun sollen, ist die ADEM ein sehr guter Ausgangspunkt.  
   → Wenn Sie also jung sind und sich nicht sicher sind, was Sie als Nächstes tun sollen, ist die Adem ein sehr guter Ausgangspunkt.
 - **Anna:** Die ADEM hat auch eine eigene Unterstützung für Menschen mit einer Behinderung oder mit einer verminderten Arbeitsfähigkeit.  
   → Die Adem hat auch eine eigene Unterstützung für Menschen mit einer Behinderung oder mit einer verminderten Arbeitsfähigkeit.
-- **Tom:** Vergessen wir nicht die andere Seite der ADEM... die Arbeitgeber.  
-  → Vergessen wir nicht die andere Seite der Adem... die Arbeitgeber.
+- **Tom:** Vergessen wir nicht die andere Seite der ADEM, die Arbeitgeber.  
+  → Vergessen wir nicht die andere Seite der Adem, die Arbeitgeber.
 - **Anna:** In Luxemburg sind Arbeitgeber tatsächlich verpflichtet, ihre offenen Stellen der ADEM zu melden.  
   → In Luxemburg sind Arbeitgeber tatsächlich verpflichtet, ihre offenen Stellen der Adem zu melden.
 - **Tom:** Die ADEM bringt sie mit Kandidaten aus ihrem Pool von Arbeitssuchenden zusammen.  
   → Die Adem bringt sie mit Kandidaten aus ihrem Pool von Arbeitssuchenden zusammen.
 - **Tom:** Die ADEM hilft also nicht nur Einzelpersonen.  
   → Die Adem hilft also nicht nur Einzelpersonen.
-- **Tom:** Manchmal senden Betrüger gefälschte E-Mails und geben vor, die ADEM zu sein, und sie verlangen Geld für einen Job oder ein Visum.  
-  → Manchmal senden Betrüger gefälschte E-Mails und geben vor, die Adem zu sein, und sie verlangen Geld für einen Job oder ein Visum.
-- **Anna:** Bitte merken Sie sich das ganz klar... die ADEM verlangt niemals, dass Sie für einen Job oder ein Visum bezahlen.  
-  → Bitte merken Sie sich das ganz klar... die Adem verlangt niemals, dass Sie für einen Job oder ein Visum bezahlen.
-- **Tom:** Wenn jemand Sie im Namen der ADEM um eine Zahlung bittet, ist das Betrug.  
-  → Wenn jemand Sie im Namen der Adem um eine Zahlung bittet, ist das Betrug.
-- **Anna:** Um mit der ADEM zu verkehren, sollten Sie mindestens eine der Verwaltungssprachen Luxemburgs sprechen... Luxemburgisch, Französisch oder Deutsch, oder sonst Englisch.  
-  → Um mit der Adem zu verkehren, sollten Sie mindestens eine der Verwaltungssprachen Luxemburgs sprechen... Luxemburgisch, Französisch oder Deutsch, oder sonst Englisch.
+- **Tom:** Und seit 2026 gibt es sogar eine nationale Website, workinluxembourg.com.  
+  → Und seit 2026 gibt es sogar eine nationale Website, workinluxembourg Punkt com.
+- **Tom:** Manchmal senden Betrüger gefälschte E-Mails oder erstellen gefälschte Konten in sozialen Netzwerken und geben vor, die ADEM zu sein.  
+  → Manchmal senden Betrüger gefälschte E-Mails oder erstellen gefälschte Konten in sozialen Netzwerken und geben vor, die Adem zu sein.
+- **Anna:** Bitte merken Sie sich das ganz klar, die ADEM verlangt niemals, dass Sie für einen Job oder ein Visum bezahlen.  
+  → Bitte merken Sie sich das ganz klar, die Adem verlangt niemals, dass Sie für einen Job oder ein Visum bezahlen.
+- **Tom:** Wenn jemand Sie im Namen der ADEM um eine Zahlung oder persönliche Daten bittet, ist das Betrug.  
+  → Wenn jemand Sie im Namen der Adem um eine Zahlung oder persönliche Daten bittet, ist das Betrug.
+- **Tom:** Zahlen Sie nicht, klicken Sie nicht, und prüfen Sie die offiziellen Kanäle der ADEM auf ihrer Website.  
+  → Zahlen Sie nicht, klicken Sie nicht, und prüfen Sie die offiziellen Kanäle der Adem auf ihrer Website.
+- **Anna:** Um mit der ADEM zu verkehren, sollten Sie mindestens eine der Verwaltungssprachen Luxemburgs sprechen.  
+  → Um mit der Adem zu verkehren, sollten Sie mindestens eine der Verwaltungssprachen Luxemburgs sprechen.
 - **Anna:** Was sollten sich die Menschen über die ADEM merken?  
   → Was sollten sich die Menschen über die Adem merken?
-- **Tom:** Erstens... die ADEM ist der kostenlose, öffentliche Arbeitsdienst Luxemburgs, für Arbeitssuchende, Arbeitnehmer und Arbeitgeber.  
-  → Erstens... die Adem ist der kostenlose, öffentliche Arbeitsdienst Luxemburgs, für Arbeitssuchende, Arbeitnehmer und Arbeitgeber.
-- **Tom:** Drittens... Sie melden sich online auf MyGuichet Punkt lu mit einem sicheren Login an, oder persönlich mit einem Termin in Luxemburg, Esch-Belval oder Diekirch.  
-  → Drittens... Sie melden sich online auf MyGuichet Punkt L-U mit einem sicheren Login an, oder persönlich mit einem Termin in Luxemburg, Esch-Belval oder Diekirch.
-- **Anna:** Und denken Sie an die Sicherheitsregel... die ADEM verlangt niemals eine Zahlung.  
-  → Und denken Sie an die Sicherheitsregel... die Adem verlangt niemals eine Zahlung.
+- **Tom:** Erstens, die ADEM ist der kostenlose, öffentliche Arbeitsdienst Luxemburgs, für Arbeitssuchende, Arbeitnehmer und Arbeitgeber.  
+  → Erstens, die Adem ist der kostenlose, öffentliche Arbeitsdienst Luxemburgs, für Arbeitssuchende, Arbeitnehmer und Arbeitgeber.
+- **Tom:** Sie melden sich online auf MyGuichet Punkt lu mit einem sicheren Login an, oder persönlich mit einem Termin in Luxemburg, Esch-Belval oder Diekirch.  
+  → Sie melden sich online auf MyGuichet Punkt L-U mit einem sicheren Login an, oder persönlich mit einem Termin in Luxemburg, Esch-Belval oder Diekirch.
+- **Anna:** Und denken Sie an die Sicherheitsregel, die ADEM verlangt niemals eine Zahlung.  
+  → Und denken Sie an die Sicherheitsregel, die Adem verlangt niemals eine Zahlung.
 - **Anna:** Die ADEM ist da, um an Ihrer Seite zu gehen.  
   → Die Adem ist da, um an Ihrer Seite zu gehen.
 - **Anna:** Das war unsere Folge über die ADEM.  
@@ -2979,10 +4574,10 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Luxemburg hat einen Plan, genannt Pan-Bio, um den Anteil der biologischen Landwirtschaft im Land zu erhöhen.
 - **Tom:** Sie erhalten Unterstützung, einschließlich Beihilfen im Rahmen der Gemeinsamen Agrarpolitik (GAP) der Europäischen Union.  
   → Sie erhalten Unterstützung, einschließlich Beihilfen im Rahmen der Gemeinsamen Agrarpolitik (G-A-P) der Europäischen Union.
-- **Tom:** Erstens... das Agrarportal, agriculture Punkt public Punkt lu, deckt Landwirtschaft, Ernährung und Wein ab, vom Ministerium für Landwirtschaft, Ernährung und Weinbau.  
-  → Erstens... das Agrarportal, agriculture Punkt public Punkt L-U, deckt Landwirtschaft, Ernährung und Wein ab, vom Ministerium für Landwirtschaft, Ernährung und Weinbau.
-- **Anna:** Zweitens... spezialisierte Stellen unterstützen es... die ASTA für die technischen Dienste, das Weininstitut in Remich, und eine Stelle für das Tierwohl und die Lebensmittelsicherheit.  
-  → Zweitens... spezialisierte Stellen unterstützen es... die Asta für die technischen Dienste, das Weininstitut in Remich, und eine Stelle für das Tierwohl und die Lebensmittelsicherheit.
+- **Tom:** Erstens, das Agrarportal, agriculture Punkt public Punkt lu, deckt Landwirtschaft, Ernährung und Wein ab, vom Ministerium für Landwirtschaft, Ernährung und Weinbau.  
+  → Erstens, das Agrarportal, agriculture Punkt public Punkt L-U, deckt Landwirtschaft, Ernährung und Wein ab, vom Ministerium für Landwirtschaft, Ernährung und Weinbau.
+- **Anna:** Zweitens, spezialisierte Stellen unterstützen es, die ASTA für die technischen Dienste, das Weininstitut in Remich, und die ALVA für das Tierwohl und die Lebensmittelsicherheit.  
+  → Zweitens, spezialisierte Stellen unterstützen es, die Asta für die technischen Dienste, das Weininstitut in Remich, und die ALVA für das Tierwohl und die Lebensmittelsicherheit.
 - **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
   → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
 - **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
@@ -3020,6 +4615,37 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 - **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
   → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
 
+### ccss (14)
+
+- **Tom:** Und eine Einrichtung spielt dabei eine zentrale Rolle: die Zentralstelle der Sozialversicherungen, bekannt unter den vier Buchstaben CCSS.  
+  → Und eine Einrichtung spielt dabei eine zentrale Rolle: die Zentralstelle der Sozialversicherungen, bekannt unter den vier Buchstaben C-C-S-S.
+- **Anna:** Ihre Website ist ccss Punkt l-u, und es gibt sie auf Französisch, Deutsch und Englisch.  
+  → Ihre Website ist C-C-S-S Punkt L-U, und es gibt sie auf Französisch, Deutsch und Englisch.
+- **Anna:** Für die meisten Arbeitnehmer ist die Nationale Gesundheitskasse, die CNS, für die Gesundheit zuständig.  
+  → Für die meisten Arbeitnehmer ist die Nationale Gesundheitskasse, die C-N-S, für die Gesundheit zuständig.
+- **Anna:** Und wenn Sie dringend einen Nachweis brauchen, kann Ihre Krankenkasse Ihnen über MyGuichet Punkt l-u eine provisorische Bescheinigung geben.  
+  → Und wenn Sie dringend einen Nachweis brauchen, kann Ihre Krankenkasse Ihnen über MyGuichet Punkt L-U eine provisorische Bescheinigung geben.
+- **Anna:** Ja, auf MyGuichet Punkt l-u.  
+  → Ja, auf MyGuichet Punkt L-U.
+- **Anna:** Eine ganze Menge: Auf der Website ccss Punkt l-u finden Sie Erklärungen für Arbeitnehmer, Arbeitgeber, Selbstständige und Landwirte, und alle Formulare.  
+  → Eine ganze Menge: Auf der Website C-C-S-S Punkt L-U finden Sie Erklärungen für Arbeitnehmer, Arbeitgeber, Selbstständige und Landwirte, und alle Formulare.
+- **Anna:** In Ihrem privaten Bereich auf MyGuichet Punkt l-u können Sie in wenigen Augenblicken eine Versicherungsbescheinigung erstellen und herunterladen.  
+  → In Ihrem privaten Bereich auf MyGuichet Punkt L-U können Sie in wenigen Augenblicken eine Versicherungsbescheinigung erstellen und herunterladen.
+- **Anna:** Die Bescheinigung trägt einen QR-Code.  
+  → Die Bescheinigung trägt einen Q-R-Code.
+- **Anna:** Grenzgänger können ihre neue Adresse über MyGuichet Punkt l-u melden.  
+  → Grenzgänger können ihre neue Adresse über MyGuichet Punkt L-U melden.
+- **Anna:** Betrüger verschicken E-Mails und SMS, die so aussehen, als kämen sie von der Zentralstelle.  
+  → Betrüger verschicken E-Mails und S-M-S, die so aussehen, als kämen sie von der Zentralstelle.
+- **Anna:** Ihr Arbeitgeber meldet Sie bei der Zentralstelle der Sozialversicherungen an, der CCSS.  
+  → Ihr Arbeitgeber meldet Sie bei der Zentralstelle der Sozialversicherungen an, der C-C-S-S.
+- **Tom:** Alle Informationen finden Sie auf ccss Punkt l-u.  
+  → Alle Informationen finden Sie auf C-C-S-S Punkt L-U.
+- **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
+  → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
+- **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
+  → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
+
 ### cepas (3)
 
 - **Tom:** Und viertens... diese Dienste sind mit anderen verbunden, wie dem ONE, damit die Hilfe koordiniert werden kann.  
@@ -3029,7 +4655,68 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 - **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
   → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
 
-### cgdis (26)
+### cet (29)
+
+- **Tom:** Genau deshalb sprechen wir heute über das CET, das Zentrum für Gleichbehandlung.  
+  → Genau deshalb sprechen wir heute über das C-E-T, das Zentrum für Gleichbehandlung.
+- **Anna:** Die Website ist cet Punkt l-u.  
+  → Die Website ist C-E-T Punkt L-U.
+- **Tom:** Gibt es das CET schon lange?  
+  → Gibt es das C-E-T schon lange?
+- **Anna:** Das CET wird von einem Kollegium aus fünf Mitgliedern geleitet, und eines davon hat den Vorsitz.  
+  → Das C-E-T wird von einem Kollegium aus fünf Mitgliedern geleitet, und eines davon hat den Vorsitz.
+- **Anna:** Ja, und jedes Jahr schickt das CET einen Bericht über seine Tätigkeiten an die Regierung und an die Abgeordnetenkammer.  
+  → Ja, und jedes Jahr schickt das C-E-T einen Bericht über seine Tätigkeiten an die Regierung und an die Abgeordnetenkammer.
+- **Tom:** Das CET kann bei sechs Diskriminierungsmotiven tätig werden.  
+  → Das C-E-T kann bei sechs Diskriminierungsmotiven tätig werden.
+- **Tom:** Das zweite Motiv ist das Geschlecht, und für das CET gehört die Geschlechtsidentität dazu.  
+  → Das zweite Motiv ist das Geschlecht, und für das C-E-T gehört die Geschlechtsidentität dazu.
+- **Tom:** Das Gesetz nennt auch die Staatsangehörigkeit, aber die Website sagt klar, dass das CET für Beschwerden wegen der Staatsangehörigkeit nicht zuständig ist.  
+  → Das Gesetz nennt auch die Staatsangehörigkeit, aber die Website sagt klar, dass das C-E-T für Beschwerden wegen der Staatsangehörigkeit nicht zuständig ist.
+- **Tom:** Aber das CET selbst kann nur bei seinen sechs Motiven tätig werden.  
+  → Aber das C-E-T selbst kann nur bei seinen sechs Motiven tätig werden.
+- **Tom:** Für Menschen, die sich diskriminiert fühlen, hat das CET einen Beratungs- und Orientierungsdienst.  
+  → Für Menschen, die sich diskriminiert fühlen, hat das C-E-T einen Beratungs- und Orientierungsdienst.
+- **Tom:** Das CET informiert sie über ihre individuellen Rechte, über die Gesetzgebung und die Rechtsprechung, und über die Wege, wie sie ihre Rechte geltend machen können.  
+  → Das C-E-T informiert sie über ihre individuellen Rechte, über die Gesetzgebung und die Rechtsprechung, und über die Wege, wie sie ihre Rechte geltend machen können.
+- **Anna:** Arbeitet das CET auch für die Gesellschaft als Ganzes?  
+  → Arbeitet das C-E-T auch für die Gesellschaft als Ganzes?
+- **Tom:** Ja, das CET kann Berichte veröffentlichen, Stellungnahmen und Empfehlungen abgeben, und Studien zu allen Fragen rund um Diskriminierung durchführen.  
+  → Ja, das C-E-T kann Berichte veröffentlichen, Stellungnahmen und Empfehlungen abgeben, und Studien zu allen Fragen rund um Diskriminierung durchführen.
+- **Tom:** Das CET erstellt auch Informationen und Dokumentation, und es führt Sensibilisierungskampagnen durch.  
+  → Das C-E-T erstellt auch Informationen und Dokumentation, und es führt Sensibilisierungskampagnen durch.
+- **Anna:** Hat das CET eine besondere Rolle für Menschen mit einer Behinderung?  
+  → Hat das C-E-T eine besondere Rolle für Menschen mit einer Behinderung?
+- **Anna:** Es gibt auch etwas, das das CET nicht tut.  
+  → Es gibt auch etwas, das das C-E-T nicht tut.
+- **Tom:** Stellen wir uns jetzt vor, Sie möchten das CET kontaktieren.  
+  → Stellen wir uns jetzt vor, Sie möchten das C-E-T kontaktieren.
+- **Tom:** Sie können dem CET auf Luxemburgisch, Deutsch, Französisch oder Englisch schreiben.  
+  → Sie können dem C-E-T auf Luxemburgisch, Deutsch, Französisch oder Englisch schreiben.
+- **Anna:** Gibt es noch andere Wege, das CET zu erreichen?  
+  → Gibt es noch andere Wege, das C-E-T zu erreichen?
+- **Tom:** Ja, Sie können auch anrufen, einen Brief schicken, oder eine E-Mail an info at cet Punkt l-u schreiben.  
+  → Ja, Sie können auch anrufen, einen Brief schicken, oder eine E-Mail an info at C-E-T Punkt L-U schreiben.
+- **Tom:** Das CET behandelt Ihre persönlichen Daten vertraulich, und Informationen über einzelne Fälle unterliegen dem Berufsgeheimnis.  
+  → Das C-E-T behandelt Ihre persönlichen Daten vertraulich, und Informationen über einzelne Fälle unterliegen dem Berufsgeheimnis.
+- **Anna:** Sie finden dort Erklärungen zur Diskriminierung und zu Ihren Rechten, die nationale und europäische Gesetzgebung, die Publikationen des CET, und eine Seite mit häufig gestellten Fragen.  
+  → Sie finden dort Erklärungen zur Diskriminierung und zu Ihren Rechten, die nationale und europäische Gesetzgebung, die Publikationen des C-E-T, und eine Seite mit häufig gestellten Fragen.
+- **Anna:** Nach einem Gesetz von 2023 ist das CET die zuständige Behörde, um solche Meldungen in seinem eigenen Bereich entgegenzunehmen.  
+  → Nach einem Gesetz von 2023 ist das C-E-T die zuständige Behörde, um solche Meldungen in seinem eigenen Bereich entgegenzunehmen.
+- **Anna:** Erstens: Das CET, das Zentrum für Gleichbehandlung, ist eine unabhängige Einrichtung, die die Gleichbehandlung in Luxemburg fördert und beobachtet.  
+  → Erstens: Das C-E-T, das Zentrum für Gleichbehandlung, ist eine unabhängige Einrichtung, die die Gleichbehandlung in Luxemburg fördert und beobachtet.
+- **Tom:** Und viertens: Wenn Sie sich diskriminiert fühlen, oder wenn Sie eine Diskriminierung gesehen haben, können Sie sie dem CET melden und sich über Ihre Rechte beraten lassen.  
+  → Und viertens: Wenn Sie sich diskriminiert fühlen, oder wenn Sie eine Diskriminierung gesehen haben, können Sie sie dem C-E-T melden und sich über Ihre Rechte beraten lassen.
+- **Anna:** Alle Informationen, und das Kontaktformular, finden Sie auf cet Punkt l-u.  
+  → Alle Informationen, und das Kontaktformular, finden Sie auf C-E-T Punkt L-U.
+- **Anna:** Das war unsere Folge über das CET, das Zentrum für Gleichbehandlung.  
+  → Das war unsere Folge über das C-E-T, das Zentrum für Gleichbehandlung.
+- **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
+  → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
+- **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
+  → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
+
+### cgdis (16)
 
 - **Anna:** Die Antwort ist eine Organisation namens CGDIS, und eine Nummer, die Sie niemals vergessen dürfen... 1-1-2.  
   → Die Antwort ist eine Organisation namens C-G-D-I-S, und eine Nummer, die Sie niemals vergessen dürfen... eins-eins-zwei.
@@ -3037,65 +4724,43 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → In Luxemburg rufen Sie bei jedem Notfall die eins-eins-zwei an.
 - **Anna:** Sie rufen die 1-1-2 an bei einem Brand, bei einem schweren Unfall oder bei einem medizinischen Notfall... jemand, der schwer verletzt ist oder dessen Leben in Gefahr ist.  
   → Sie rufen die eins-eins-zwei an bei einem Brand, bei einem schweren Unfall oder bei einem medizinischen Notfall... jemand, der schwer verletzt ist oder dessen Leben in Gefahr ist.
-- **Tom:** Also Anna, was genau ist das CGDIS?  
-  → Also Anna, was genau ist das C-G-D-I-S?
 - **Anna:** CGDIS steht für Corps grand-ducal d'incendie et de secours.  
   → C-G-D-I-S steht für Corps grand-ducal d'incendie et de secours.
-- **Tom:** Sprechen wir darüber, was das CGDIS tatsächlich tut.  
-  → Sprechen wir darüber, was das C-G-D-I-S tatsächlich tut.
 - **Anna:** Wenn Sie die 1-1-2 wählen, wo landet er?  
   → Wenn Sie die eins-eins-zwei wählen, wo landet er?
 - **Tom:** Er landet bei der Notrufzentrale, dem CSU-112.  
   → Er landet bei der Notrufzentrale, dem C-S-U eins-eins-zwei.
 - **Tom:** Die 1-1-2 ist für echte Notfälle da.  
   → Die eins-eins-zwei ist für echte Notfälle da.
-- **Anna:** Sprechen wir nun über die Menschen hinter dem CGDIS, denn ihre Geschichte ist bemerkenswert.  
-  → Sprechen wir nun über die Menschen hinter dem C-G-D-I-S, denn ihre Geschichte ist bemerkenswert.
-- **Tom:** Das CGDIS hat Berufsfeuerwehrleute, die dies als ihren Vollzeitberuf ausüben.  
-  → Das C-G-D-I-S hat Berufsfeuerwehrleute, die dies als ihren Vollzeitberuf ausüben.
-- **Tom:** Schauen wir kurz an, wie das CGDIS im ganzen Land organisiert ist.  
-  → Schauen wir kurz an, wie das C-G-D-I-S im ganzen Land organisiert ist.
 - **Anna:** Es gibt Brand- und Rettungszentren, genannt CIS, im ganzen Luxemburg verteilt, sodass die Hilfe nie weit entfernt ist.  
   → Es gibt Brand- und Rettungszentren, genannt C-I-S, im ganzen Luxemburg verteilt, sodass die Hilfe nie weit entfernt ist.
 - **Tom:** Es gibt ein nationales Zentrum, das CNIS, nahe Luxemburg-Stadt, das das gesamte System koordiniert.  
   → Es gibt ein nationales Zentrum, das C-N-I-S, nahe Luxemburg-Stadt, das das gesamte System koordiniert.
-- **Anna:** Das CGDIS heißt neue Freiwillige willkommen.  
-  → Das C-G-D-I-S heißt neue Freiwillige willkommen.
-- **Tom:** Sprechen wir auch über Ausbildung und Prävention, denn das CGDIS tut mehr, als nur auf Notfälle zu reagieren.  
-  → Sprechen wir auch über Ausbildung und Prävention, denn das C-G-D-I-S tut mehr, als nur auf Notfälle zu reagieren.
 - **Anna:** Es hat ein nationales Ausbildungsinstitut, das INFS, das seine Retter auf hohem Niveau ausbildet.  
   → Es hat ein nationales Ausbildungsinstitut, das I-N-F-S, das seine Retter auf hohem Niveau ausbildet.
-- **Tom:** Das CGDIS gibt auch Ratschläge zur Brandverhütung... einfache Dinge, die Ihr Zuhause sicherer machen.  
-  → Das C-G-D-I-S gibt auch Ratschläge zur Brandverhütung... einfache Dinge, die Ihr Zuhause sicherer machen.
-- **Anna:** So ist das CGDIS vor, während und nach einem Notfall da.  
-  → So ist das C-G-D-I-S vor, während und nach einem Notfall da.
 - **Anna:** Erstens, und am wichtigsten... rufen Sie bei jedem Notfall in Luxemburg die 1-1-2 an.  
   → Erstens, und am wichtigsten... rufen Sie bei jedem Notfall in Luxemburg die eins-eins-zwei an.
-- **Anna:** Und fünftens: Wenn es Sie anspricht, denken Sie darüber nach, Freiwilliger beim CGDIS zu werden.  
-  → Und fünftens: Wenn es Sie anspricht, denken Sie darüber nach, Freiwilliger beim C-G-D-I-S zu werden.
 - **Anna:** Erstens... das CGDIS ist der nationale Brand- und Rettungsdienst Luxemburgs, gegründet 2018.  
   → Erstens... das C-G-D-I-S ist der nationale Brand- und Rettungsdienst Luxemburgs, gegründet 2018.
 - **Tom:** Zweitens... bei jedem Notfall rufen Sie die 1-1-2 an, kostenlos, von jedem Telefon, Tag und Nacht.  
   → Zweitens... bei jedem Notfall rufen Sie die eins-eins-zwei an, kostenlos, von jedem Telefon, Tag und Nacht.
-- **Anna:** Das war unsere Folge über das CGDIS und die Notrufnummer 112.  
-  → Das war unsere Folge über das C-G-D-I-S und die Notrufnummer eins-eins-zwei.
+- **Anna:** Das war unsere Folge über das großherzogliche Feuerwehr- und Rettungskorps und die Notrufnummer 112.  
+  → Das war unsere Folge über das großherzogliche Feuerwehr- und Rettungskorps und die Notrufnummer eins-eins-zwei.
 - **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
   → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
 - **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
   → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
 
-### clarvia (7)
+### clubaktivplus (6)
 
-- **Anna:** Clarvia ist eine luxemburgische Non-Profit-Organisation — eine ASBL — gegründet im Jahr 2026.  
-  → Clarvia ist eine luxemburgische Non-Profit-Organisation — eine A-S-B-L — gegründet im Jahr 2026.
-- **Anna:** Eine frühe Version — sie nennen sie eine Alpha-Version — ist schon auf ihrer Website verfügbar, clarvia.org.  
-  → Eine frühe Version — sie nennen sie eine Alpha-Version — ist schon auf ihrer Website verfügbar, clarvia Punkt org.
-- **Anna:** Jeder Schritt in der Checkliste ist mit einer offiziellen staatlichen Quelle verknüpft — zum Beispiel Guichet.lu.  
-  → Jeder Schritt in der Checkliste ist mit einer offiziellen staatlichen Quelle verknüpft — zum Beispiel Guichet Punkt L-U.
-- **Anna:** Wenn Sie die praktischen Schritte nach dem Verlust eines Menschen in Luxemburg schon einmal selbst erledigt haben, können Sie Ihre Erfahrung auf clarvia.org teilen — was am schwersten war, welche Dokumente schwierig waren, was geholfen hätte.  
-  → Wenn Sie die praktischen Schritte nach dem Verlust eines Menschen in Luxemburg schon einmal selbst erledigt haben, können Sie Ihre Erfahrung auf clarvia Punkt org teilen — was am schwersten war, welche Dokumente schwierig waren, was geholfen hätte.
-- **Anna:** Es ist kostenlos, es schützt Ihre Privatsphäre, und die erste Version ist schon auf clarvia.org.  
-  → Es ist kostenlos, es schützt Ihre Privatsphäre, und die erste Version ist schon auf clarvia Punkt org.
+- **Anna:** Die Adresse lautet clubaktivplus Punkt l-u, in einem Wort geschrieben.  
+  → Die Adresse lautet Club Aktiv Plus Punkt L-U, in einem Wort geschrieben.
+- **Tom:** Was finden wir auf clubaktivplus Punkt l-u?  
+  → Was finden wir auf Club Aktiv Plus Punkt L-U?
+- **Anna:** Die Adresse lautet contact at clubaktivplus Punkt l-u.  
+  → Die Adresse lautet contact at Club Aktiv Plus Punkt L-U.
+- **Anna:** Alle Clubs und ihre Programme finden Sie auf clubaktivplus Punkt l-u.  
+  → Alle Clubs und ihre Programme finden Sie auf Club Aktiv Plus Punkt L-U.
 - **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
   → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
 - **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
@@ -3150,12 +4815,110 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 - **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
   → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
 
+### cnpd (25)
+
+- **Tom:** Und in Luxemburg gibt es eine Behörde, die kontrolliert, wie solche Daten verwendet werden: die CNPD.  
+  → Und in Luxemburg gibt es eine Behörde, die kontrolliert, wie solche Daten verwendet werden: die C-N-P-D.
+- **Tom:** Was für eine Einrichtung ist die CNPD also?  
+  → Was für eine Einrichtung ist die C-N-P-D also?
+- **Tom:** Und welche Regeln überwacht die CNPD in ihrer täglichen Arbeit?  
+  → Und welche Regeln überwacht die C-N-P-D in ihrer täglichen Arbeit?
+- **Anna:** Die meisten Leute sagen einfach DSGVO.  
+  → Die meisten Leute sagen einfach D-S-G-V-O.
+- **Anna:** August 2018, das die CNPD organisiert.  
+  → August 2018, das die C-N-P-D organisiert.
+- **Tom:** Gibt es etwas, das die CNPD nicht kontrolliert?  
+  → Gibt es etwas, das die C-N-P-D nicht kontrolliert?
+- **Tom:** Die Website der CNPD stellt Ihre Rechte eines nach dem anderen vor.  
+  → Die Website der C-N-P-D stellt Ihre Rechte eines nach dem anderen vor.
+- **Tom:** Die CNPD bietet auf ihrer Website auch Musterbriefe an, zum Beispiel für das Auskunftsrecht.  
+  → Die C-N-P-D bietet auf ihrer Website auch Musterbriefe an, zum Beispiel für das Auskunftsrecht.
+- **Anna:** Dann können Sie bei der CNPD eine Beschwerde einreichen.  
+  → Dann können Sie bei der C-N-P-D eine Beschwerde einreichen.
+- **Anna:** Die CNPD empfiehlt ihr Online-Beschwerdeformular, das Sie auf ihrer Website finden.  
+  → Die C-N-P-D empfiehlt ihr Online-Beschwerdeformular, das Sie auf ihrer Website finden.
+- **Tom:** Wenn Ihre Beschwerde angekommen ist, prüft die CNPD zuerst, ob sie begründet ist.  
+  → Wenn Ihre Beschwerde angekommen ist, prüft die C-N-P-D zuerst, ob sie begründet ist.
+- **Tom:** Dann hat die CNPD echte Befugnisse.  
+  → Dann hat die C-N-P-D echte Befugnisse.
+- **Tom:** Dann können Sie Ihre Rechte indirekt ausüben, über die CNPD.  
+  → Dann können Sie Ihre Rechte indirekt ausüben, über die C-N-P-D.
+- **Anna:** Kann mir die CNPD Geld als Entschädigung zusprechen?  
+  → Kann mir die C-N-P-D Geld als Entschädigung zusprechen?
+- **Tom:** Die CNPD rät Ihnen, sich dafür von einem Anwalt beraten zu lassen.  
+  → Die C-N-P-D rät Ihnen, sich dafür von einem Anwalt beraten zu lassen.
+- **Tom:** Sie können auch vor Gericht gehen, wenn Sie mit dem, was die CNPD getan hat, nicht zufrieden sind.  
+  → Sie können auch vor Gericht gehen, wenn Sie mit dem, was die C-N-P-D getan hat, nicht zufrieden sind.
+- **Anna:** Die CNPD macht viel mehr, als Beschwerden zu bearbeiten.  
+  → Die C-N-P-D macht viel mehr, als Beschwerden zu bearbeiten.
+- **Tom:** Kann ich der CNPD einfach eine Frage stellen, ohne eine Beschwerde einzureichen?  
+  → Kann ich der C-N-P-D einfach eine Frage stellen, ohne eine Beschwerde einzureichen?
+- **Tom:** Die Website selbst ist cnpd Punkt l-u, und es gibt sie auf Französisch, Englisch und Deutsch.  
+  → Die Website selbst ist C-N-P-D Punkt L-U, und es gibt sie auf Französisch, Englisch und Deutsch.
+- **Anna:** Erstens: Die DSGVO gibt Ihnen Rechte, mit denen Sie kontrollieren können, wie Ihre persönlichen Daten verwendet werden.  
+  → Erstens: Die D-S-G-V-O gibt Ihnen Rechte, mit denen Sie kontrollieren können, wie Ihre persönlichen Daten verwendet werden.
+- **Tom:** Viertens: Wenn das nicht funktioniert, können Sie bei der CNPD, der Nationalen Kommission für den Datenschutz, eine Beschwerde einreichen, mit dem Formular auf ihrer Website.  
+  → Viertens: Wenn das nicht funktioniert, können Sie bei der C-N-P-D, der Nationalen Kommission für den Datenschutz, eine Beschwerde einreichen, mit dem Formular auf ihrer Website.
+- **Anna:** Sie finden alle Informationen auf cnpd Punkt l-u.  
+  → Sie finden alle Informationen auf C-N-P-D Punkt L-U.
+- **Anna:** Das war unsere Folge über die CNPD und Ihre Rechte beim Datenschutz.  
+  → Das war unsere Folge über die C-N-P-D und Ihre Rechte beim Datenschutz.
+- **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
+  → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
+- **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
+  → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
+
+### consommateurs (21)
+
+- **Anna:** Die erste ist die ULC, der Verbraucherverband von Luxemburg.  
+  → Die erste ist die U-L-C, der Verbraucherverband von Luxemburg.
+- **Anna:** Beginnen wir mit der ULC.  
+  → Beginnen wir mit der U-L-C.
+- **Anna:** Gehört die ULC zum Staat, oder ist sie unabhängig?  
+  → Gehört die U-L-C zum Staat, oder ist sie unabhängig?
+- **Tom:** Die ULC vertritt die Verbraucher gegenüber den Behörden, der Politik und den Gerichten, und sie gibt ihre Meinung zu neuen Gesetzen ab.  
+  → Die U-L-C vertritt die Verbraucher gegenüber den Behörden, der Politik und den Gerichten, und sie gibt ihre Meinung zu neuen Gesetzen ab.
+- **Anna:** Auch wenn Sie kein Mitglied sind, können Sie die ULC für eine erste telefonische Beratung anrufen, und diese ist kostenlos.  
+  → Auch wenn Sie kein Mitglied sind, können Sie die U-L-C für eine erste telefonische Beratung anrufen, und diese ist kostenlos.
+- **Anna:** Die ULC hilft ihren Mitgliedern auch bei Fragen zur Miete einer Wohnung, also zum Vertrag zwischen Mieter und Vermieter.  
+  → Die U-L-C hilft ihren Mitgliedern auch bei Fragen zur Miete einer Wohnung, also zum Vertrag zwischen Mieter und Vermieter.
+- **Anna:** Dann kann die ULC einen Teil der Kosten für einen Anwalt oder einen Gutachter übernehmen.  
+  → Dann kann die U-L-C einen Teil der Kosten für einen Anwalt oder einen Gutachter übernehmen.
+- **Anna:** Die Mitglieder bekommen auch das Magazin der ULC und die Ergebnisse ihrer Produkttests.  
+  → Die Mitglieder bekommen auch das Magazin der U-L-C und die Ergebnisse ihrer Produkttests.
+- **Anna:** Gibt es Dinge, die die ULC nicht tun kann?  
+  → Gibt es Dinge, die die U-L-C nicht tun kann?
+- **Tom:** Und für Probleme mit Reisen oder mit Versicherungen hat die ULC zusammen mit den Fachleuten dieser Bereiche besondere Lösungen aufgebaut.  
+  → Und für Probleme mit Reisen oder mit Versicherungen hat die U-L-C zusammen mit den Fachleuten dieser Bereiche besondere Lösungen aufgebaut.
+- **Tom:** Für Pauschalreisen gibt es die Luxemburger Kommission für Reisestreitigkeiten, die die ULC zusammen mit den Reisebüros betreibt.  
+  → Für Pauschalreisen gibt es die Luxemburger Kommission für Reisestreitigkeiten, die die U-L-C zusammen mit den Reisebüros betreibt.
+- **Anna:** Wo findet man die ULC, und hat sie eine Website?  
+  → Wo findet man die U-L-C, und hat sie eine Website?
+- **Tom:** Die Website ist ulc Punkt l-u, auf Französisch und auf Deutsch.  
+  → Die Website ist U-L-C Punkt L-U, auf Französisch und auf Deutsch.
+- **Anna:** Viele sagen hier einfach CEC, nach den drei Buchstaben des französischen Namens.  
+  → Viele sagen hier einfach C-E-C, nach den drei Buchstaben des französischen Namens.
+- **Anna:** Es wird gemeinsam von der Europäischen Kommission, dem luxemburgischen Staat und der ULC finanziert.  
+  → Es wird gemeinsam von der Europäischen Kommission, dem luxemburgischen Staat und der U-L-C finanziert.
+- **Anna:** Das alles finden Sie auf der Website des Zentrums, unter cecluxembourg Punkt l-u.  
+  → Das alles finden Sie auf der Website des Zentrums, unter C-E-C Luxembourg Punkt L-U.
+- **Anna:** Erstens: Bei einem Problem mit einem Unternehmen in Luxemburg ist die ULC Ihr Ansprechpartner.  
+  → Erstens: Bei einem Problem mit einem Unternehmen in Luxemburg ist die U-L-C Ihr Ansprechpartner.
+- **Anna:** Sie finden beide auf ulc Punkt l-u und auf cecluxembourg Punkt l-u.  
+  → Sie finden beide auf U-L-C Punkt L-U und auf C-E-C Luxembourg Punkt L-U.
+- **Anna:** Das war unsere Folge über den Verbraucherschutz, mit der ULC und dem Europäischen Verbraucherzentrum.  
+  → Das war unsere Folge über den Verbraucherschutz, mit der U-L-C und dem Europäischen Verbraucherzentrum.
+- **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
+  → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
+- **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
+  → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
+
 ### culture (4)
 
-- **Tom:** Genau hier kommt das heutige Werkzeug ins Spiel... das Kulturportal, unter culture Punkt lu.  
-  → Genau hier kommt das heutige Werkzeug ins Spiel... das Kulturportal, unter culture Punkt L-U.
-- **Anna:** Erstens... culture Punkt lu bündelt Luxemburgs kulturelles Leben an einem Ort, unterstützt vom Kulturministerium.  
-  → Erstens... culture Punkt L-U bündelt Luxemburgs kulturelles Leben an einem Ort, unterstützt vom Kulturministerium.
+- **Tom:** Genau hier kommt das heutige Werkzeug ins Spiel, das Kulturportal, unter culture Punkt lu.  
+  → Genau hier kommt das heutige Werkzeug ins Spiel, das Kulturportal, unter culture Punkt L-U.
+- **Anna:** Erstens, culture Punkt lu bündelt Luxemburgs kulturelles Leben an einem Ort, unterstützt vom Kulturministerium.  
+  → Erstens, culture Punkt L-U bündelt Luxemburgs kulturelles Leben an einem Ort, unterstützt vom Kulturministerium.
 - **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
   → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
 - **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
@@ -3191,7 +4954,22 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 - **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
   → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
 
-### dsp_cns (32)
+### dondusang (6)
+
+- **Tom:** Dann sind Sie die Richtige für das Thema von heute: die Blutspende in Luxemburg, und die Website dondusang Punkt l-u.  
+  → Dann sind Sie die Richtige für das Thema von heute: die Blutspende in Luxemburg, und die Website Don dü Sang Punkt L-U.
+- **Anna:** „Don du sang" ist Französisch und bedeutet ganz einfach „Blutspende".  
+  → „Don dü Sang" ist Französisch und bedeutet ganz einfach „Blutspende".
+- **Anna:** Sie machen einen Termin auf dondusang Punkt l-u.  
+  → Sie machen einen Termin auf Don dü Sang Punkt L-U.
+- **Anna:** Und viertens: Alles beginnt auf dondusang Punkt l-u — der Online-Test, der Termin, die Orte und die Daten.  
+  → Und viertens: Alles beginnt auf Don dü Sang Punkt L-U — der Online-Test, der Termin, die Orte und die Daten.
+- **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
+  → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
+- **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
+  → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
+
+### dsp_cns (36)
 
 - **Anna:** Und zweitens, wie Sie Ihr Geld von der Krankenkasse zurückbekommen, der CNS.  
   → Und zweitens, wie Sie Ihr Geld von der Krankenkasse zurückbekommen, der C-N-S.
@@ -3201,12 +4979,16 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Mit dem D-S-P kann der diensthabende Arzt Ihre wichtigsten Informationen sehen.
 - **Anna:** Sie, der Patient, entscheiden, wer in Ihr DSP schauen darf.  
   → Sie, der Patient, entscheiden, wer in Ihr D-S-P schauen darf.
+- **Anna:** Sie können sogar den Zugang zu bestimmten Dokumenten sperren — und Sie können Ihr DSP jederzeit schließen.  
+  → Sie können sogar den Zugang zu bestimmten Dokumenten sperren — und Sie können Ihr D-S-P jederzeit schließen.
 - **Tom:** Wie eröffne ich denn nun konkret ein DSP?  
   → Wie eröffne ich denn nun konkret ein D-S-P?
-- **Anna:** Und hier die gute Nachricht: Sie können es direkt über MyGuichet.lu aktivieren.  
-  → Und hier die gute Nachricht: Sie können es direkt über MyGuichet Punkt L-U aktivieren.
-- **Anna:** Sie melden sich online bei Ihrem DSP an, über das eSanté-Portal.  
-  → Sie melden sich online bei Ihrem D-S-P an, über das eSanté-Portal.
+- **Anna:** Wenn Sie bei der luxemburgischen Krankenversicherung angemeldet sind, wird Ihr DSP automatisch angelegt.  
+  → Wenn Sie bei der luxemburgischen Krankenversicherung angemeldet sind, wird Ihr D-S-P automatisch angelegt.
+- **Anna:** Mit LuxTrust oder einem luxemburgischen Personalausweis geht das mit ein paar Klicks auf MyGuichet.lu — auf der Website oder in der App — ohne auf einen Code per Post zu warten.  
+  → Mit LuxTrust oder einem luxemburgischen Personalausweis geht das mit ein paar Klicks auf MyGuichet Punkt L-U — auf der Website oder in der App — ohne auf einen Code per Post zu warten.
+- **Anna:** Dann können Sie Ihr DSP direkt in Ihrem MyGuichet-eSpace öffnen, oder auf dem eSanté-Portal.  
+  → Dann können Sie Ihr D-S-P direkt in Ihrem MyGuichet-eSpace öffnen, oder auf dem eSanté-Portal.
 - **Tom:** Also, um die erste Hälfte zusammenzufassen — das DSP ist meine kostenlose, sichere Online-Gesundheitsakte, betrieben von der Agence eSanté, sie hilft allen, die mich versorgen, zusammenzuarbeiten, ich kontrolliere, wer sie sieht, und ich aktiviere sie über MyGuichet.  
   → Also, um die erste Hälfte zusammenzufassen — das D-S-P ist meine kostenlose, sichere Online-Gesundheitsakte, betrieben von der Agence eSanté, sie hilft allen, die mich versorgen, zusammenzuarbeiten, ich kontrolliere, wer sie sieht, und ich aktiviere sie über MyGuichet.
 - **Tom:** Die CNS.  
@@ -3215,12 +4997,16 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Anna, zuerst... was ist die C-N-S?
 - **Anna:** CNS steht für Caisse Nationale de Santé — die Nationale Gesundheitskasse.  
   → C-N-S steht für Caisse Nationale de Santé — die Nationale Gesundheitskasse.
-- **Anna:** Das heißt — bei einem normalen Arztbesuch zahlen Sie zuerst, und dann zahlt die CNS Ihnen das meiste davon zurück.  
-  → Das heißt — bei einem normalen Arztbesuch zahlen Sie zuerst, und dann zahlt die C-N-S Ihnen das meiste davon zurück.
+- **Anna:** Traditionell zahlen Sie zuerst beim Arzt, und dann zahlt die CNS Ihnen das meiste davon zurück.  
+  → Traditionell zahlen Sie zuerst beim Arzt, und dann zahlt die C-N-S Ihnen das meiste davon zurück.
+- **Anna:** Dann zahlen Sie nur Ihren eigenen kleinen Anteil, und die CNS zahlt dem Arzt den Rest sofort.  
+  → Dann zahlen Sie nur Ihren eigenen kleinen Anteil, und die C-N-S zahlt dem Arzt den Rest sofort.
 - **Anna:** Die CNS erstattet einen großen Teil der Kosten — bei den meisten Leistungen sind es etwa achtzig bis hundert Prozent.  
   → Die C-N-S erstattet einen großen Teil der Kosten — bei den meisten Leistungen sind es etwa achtzig bis hundert Prozent.
 - **Anna:** Dann schicken Sie diese bezahlte Originalrechnung an die CNS.  
   → Dann schicken Sie diese bezahlte Originalrechnung an die C-N-S.
+- **Anna:** Und wenn Ihr Arzt Ihnen eine digitale Rechnung gibt, können Sie sie mit ein paar Klicks einreichen — in der App der CNS, der GesondheetsApp, oder auf MyGuichet.lu.  
+  → Und wenn Ihr Arzt Ihnen eine digitale Rechnung gibt, können Sie sie mit ein paar Klicks einreichen — in der App der C-N-S, der GesondheetsApp, oder auf MyGuichet Punkt L-U.
 - **Anna:** Die CNS überweist die Rückerstattung dann direkt auf Ihr Bankkonto.  
   → Die C-N-S überweist die Rückerstattung dann direkt auf Ihr Bankkonto.
 - **Anna:** Also — ein Tipp für unsere Hörer — geben Sie der CNS Ihre Bankkontonummer, Ihre IBAN, damit sie Sie direkt bezahlen kann.  
@@ -3241,8 +5027,8 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Sie hilft allen, die Sie behandeln, mit denselben Informationen zu arbeiten, Sie kontrollieren, wer sie sehen darf, und Sie aktivieren sie ganz einfach über MyGuichet Punkt L-U — oder schauen mit der MyDSP-App hinein.
 - **Anna:** Teil zwei — die CNS, die nationale Krankenversicherung.  
   → Teil zwei — die C-N-S, die nationale Krankenversicherung.
-- **Anna:** Beim normalen Arztbesuch zahlen Sie zuerst, und die CNS erstattet das meiste davon auf Ihr Bankkonto, in etwa drei Wochen.  
-  → Beim normalen Arztbesuch zahlen Sie zuerst, und die C-N-S erstattet das meiste davon auf Ihr Bankkonto, in etwa drei Wochen.
+- **Anna:** Beim normalen Arztbesuch nutzt Ihr Arzt entweder die sofortige Direktzahlung, und Sie zahlen nur Ihren Anteil — oder Sie zahlen zuerst, und die CNS erstattet das meiste davon auf Ihr Bankkonto, innerhalb weniger Wochen, oder weniger Tage bei einer digitalen Rechnung.  
+  → Beim normalen Arztbesuch nutzt Ihr Arzt entweder die sofortige Direktzahlung, und Sie zahlen nur Ihren Anteil — oder Sie zahlen zuerst, und die C-N-S erstattet das meiste davon auf Ihr Bankkonto, innerhalb weniger Wochen, oder weniger Tage bei einer digitalen Rechnung.
 - **Tom:** Die Botschaft ist also — aktivieren Sie Ihre Gesundheitsakte, bewahren Sie Ihre Rechnungen auf, geben Sie der CNS Ihre Bankdaten, und haben Sie keine Angst, um Hilfe zu bitten, wenn Sie sie brauchen.  
   → Die Botschaft ist also — aktivieren Sie Ihre Gesundheitsakte, bewahren Sie Ihre Rechnungen auf, geben Sie der C-N-S Ihre Bankdaten, und haben Sie keine Angst, um Hilfe zu bitten, wenn Sie sie brauchen.
 - **Anna:** Für die Gesundheitsakte ist die Website esante.lu.  
@@ -3253,6 +5039,63 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Und die Verfahren werden auf Guichet Punkt L-U erklärt, auch auf Deutsch.
 - **Anna:** Das war unsere Folge über Ihre Online-Gesundheitsakte und die CNS.  
   → Das war unsere Folge über Ihre Online-Gesundheitsakte und die C-N-S.
+- **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
+  → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
+- **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
+  → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
+
+### ebl (27)
+
+- **Tom:** Gut möglich, dass sie von der EBL kam.  
+  → Gut möglich, dass sie von der E-B-L kam.
+- **Anna:** EBL steht für Ëmweltberodung Lëtzebuerg.  
+  → E-B-L steht für Ëmweltberodung Lëtzebuerg.
+- **Anna:** Also Tom, was genau ist die EBL?  
+  → Also Tom, was genau ist die E-B-L?
+- **Tom:** Auch wenn Sie den Namen noch nie gehört haben: Die EBL arbeitet wahrscheinlich mit Ihrer Gemeinde zusammen.  
+  → Auch wenn Sie den Namen noch nie gehört haben: Die E-B-L arbeitet wahrscheinlich mit Ihrer Gemeinde zusammen.
+- **Tom:** Die EBL ist ein Netzwerk.  
+  → Die E-B-L ist ein Netzwerk.
+- **Tom:** Und wenn eine Gemeinde einen eigenen Umweltdienst gründen möchte, kann die EBL helfen, von der Festlegung der Aufgaben bis zur Einstellung eines Umweltberaters.  
+  → Und wenn eine Gemeinde einen eigenen Umweltdienst gründen möchte, kann die E-B-L helfen, von der Festlegung der Aufgaben bis zur Einstellung eines Umweltberaters.
+- **Anna:** Und die EBL begleitet die Gemeinden bei diesen Pakten, mit Schulungen, praktischem Austausch und Ideen.  
+  → Und die E-B-L begleitet die Gemeinden bei diesen Pakten, mit Schulungen, praktischem Austausch und Ideen.
+- **Tom:** Schauen wir uns jetzt an, was die EBL konkret macht.  
+  → Schauen wir uns jetzt an, was die E-B-L konkret macht.
+- **Anna:** Die EBL organisiert Seminare, Workshops und Konferenzen, oft zusammen mit Partnern.  
+  → Die E-B-L organisiert Seminare, Workshops und Konferenzen, oft zusammen mit Partnern.
+- **Anna:** Die EBL ist bekannt für ihre Infografiken.  
+  → Die E-B-L ist bekannt für ihre Infografiken.
+- **Tom:** Die EBL koordiniert mehrere nationale Kampagnen.  
+  → Die E-B-L koordiniert mehrere nationale Kampagnen.
+- **Tom:** Die Webseite ounipestiziden Punkt l-u bietet Tipps und gute Beispiele für Ihren eigenen Garten.  
+  → Die Webseite ounipestiziden Punkt L-U bietet Tipps und gute Beispiele für Ihren eigenen Garten.
+- **Anna:** Das Projekt wurde vom Umweltministerium gestartet und wird von der EBL zusammen mit dem nationalen Programm zur Abfallvermeidung koordiniert.  
+  → Das Projekt wurde vom Umweltministerium gestartet und wird von der E-B-L zusammen mit dem nationalen Programm zur Abfallvermeidung koordiniert.
+- **Tom:** Wenn Sie also ein Fest für Ihren Verein mitorganisieren, schauen Sie auf greenevents Punkt l-u vorbei.  
+  → Wenn Sie also ein Fest für Ihren Verein mitorganisieren, schauen Sie auf greenevents Punkt L-U vorbei.
+- **Anna:** Die Ausleihstellen finden Sie auf guttgeschier Punkt l-u.  
+  → Die Ausleihstellen finden Sie auf guttgeschier Punkt L-U.
+- **Tom:** Die EBL bietet Workshops für Schulklassen an.  
+  → Die E-B-L bietet Workshops für Schulklassen an.
+- **Tom:** Die EBL hat auch Kinderbücher auf Luxemburgisch herausgegeben, zum Beispiel über Null Abfall und über bestäubende Insekten wie Bienen.  
+  → Die E-B-L hat auch Kinderbücher auf Luxemburgisch herausgegeben, zum Beispiel über Null Abfall und über bestäubende Insekten wie Bienen.
+- **Tom:** Wie können Sie als Einwohner von der EBL profitieren?  
+  → Wie können Sie als Einwohner von der E-B-L profitieren?
+- **Anna:** Erstens, achten Sie auf die Infografiken der EBL in der Zeitschrift Ihrer Gemeinde.  
+  → Erstens, achten Sie auf die Infografiken der E-B-L in der Zeitschrift Ihrer Gemeinde.
+- **Anna:** Und wenn Sie eine Stelle im Umweltbereich suchen: Die EBL teilt auch grüne Stellenangebote mit ihrem Netzwerk.  
+  → Und wenn Sie eine Stelle im Umweltbereich suchen: Die E-B-L teilt auch grüne Stellenangebote mit ihrem Netzwerk.
+- **Tom:** Die Neuigkeiten der EBL können Sie über ihren Newsletter verfolgen, der ein paar Mal im Jahr erscheint, oder in den sozialen Medien.  
+  → Die Neuigkeiten der E-B-L können Sie über ihren Newsletter verfolgen, der ein paar Mal im Jahr erscheint, oder in den sozialen Medien.
+- **Anna:** Die Webseite ist e-b-l Punkt l-u.  
+  → Die Webseite ist E-B-L Punkt L-U.
+- **Tom:** Und Sie können an info at e-b-l Punkt l-u schreiben.  
+  → Und Sie können an info at E-B-L Punkt L-U schreiben.
+- **Anna:** Was sollte man über die EBL wissen?  
+  → Was sollte man über die E-B-L wissen?
+- **Anna:** Das war unsere Folge über die EBL.  
+  → Das war unsere Folge über die E-B-L.
 - **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
   → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
 - **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
@@ -3269,7 +5112,7 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 - **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
   → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
 
-### enfance (15)
+### enfance (16)
 
 - **Anna:** Also Tom, was ist das ONE und was macht es?  
   → Also Tom, was ist das O-N-E und was macht es?
@@ -3291,10 +5134,12 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Sie können das O-N-E direkt kontaktieren, über das Hilfeantragsformular auf ihrer Website.
 - **Tom:** Und der ganze Ansatz des ONE beruht auf Respekt und Zusammenarbeit.  
   → Und der ganze Ansatz des O-N-E beruht auf Respekt und Zusammenarbeit.
-- **Anna:** Zweitens... das ONE hat vierzehn regionale Büros, es gibt also Unterstützung in Ihrer Nähe.  
-  → Zweitens... das O-N-E hat vierzehn regionale Büros, es gibt also Unterstützung in Ihrer Nähe.
-- **Anna:** Viertens... Sie können einfach beginnen, mit einem Hilfeantragsformular auf der Website des ONE.  
-  → Viertens... Sie können einfach beginnen, mit einem Hilfeantragsformular auf der Website des O-N-E.
+- **Tom:** Eine große Reform des Kinder- und Jugendschutzes wird im Parlament beraten, und sie stellt diesen freiwilligen Ansatz an die erste Stelle, mit dem ONE im Mittelpunkt.  
+  → Eine große Reform des Kinder- und Jugendschutzes wird im Parlament beraten, und sie stellt diesen freiwilligen Ansatz an die erste Stelle, mit dem O-N-E im Mittelpunkt.
+- **Anna:** Zweitens, das ONE hat vierzehn regionale Büros, es gibt also Unterstützung in Ihrer Nähe.  
+  → Zweitens, das O-N-E hat vierzehn regionale Büros, es gibt also Unterstützung in Ihrer Nähe.
+- **Anna:** Sie können einfach beginnen, mit einem Hilfeantragsformular auf der Website des ONE.  
+  → Sie können einfach beginnen, mit einem Hilfeantragsformular auf der Website des O-N-E.
 - **Tom:** Was sollten sich die Menschen über das ONE merken?  
   → Was sollten sich die Menschen über das O-N-E merken?
 - **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
@@ -3304,8 +5149,8 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 
 ### environnement (5)
 
-- **Anna:** Sein vertrauter Name ist emwelt Punkt lu.  
-  → Sein vertrauter Name ist emwelt Punkt L-U.
+- **Anna:** Sein vertrauter Name ist emwelt Punkt lu... das Sie zu environnement Punkt public Punkt lu führt.  
+  → Sein vertrauter Name ist emwelt Punkt L-U... das Sie zu environnement Punkt public Punkt L-U führt.
 - **Anna:** Wie kann jemand emwelt Punkt lu nutzen?  
   → Wie kann jemand emwelt Punkt L-U nutzen?
 - **Anna:** Erstens... emwelt Punkt lu ist Luxemburgs zentrales Umweltportal, vom Ministerium für Umwelt, Klima und Biodiversität.  
@@ -3322,7 +5167,7 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 - **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
   → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
 
-### fns (40)
+### fns (42)
 
 - **Tom:** Der FNS ist eine öffentliche Stelle, deren ganze Aufgabe es ist, Menschen zu helfen, die finanziell in Schwierigkeiten sind.  
   → Der F-N-S ist eine öffentliche Stelle, deren ganze Aufgabe es ist, Menschen zu helfen, die finanziell in Schwierigkeiten sind.
@@ -3331,7 +5176,7 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 - **Tom:** Sein Zuhause im Internet ist f-n-s Punkt l-u.  
   → Sein Zuhause im Internet ist F-N-S Punkt L-U.
 - **Anna:** fns.lu.  
-  → fns Punkt L-U.
+  → F-N-S Punkt L-U.
 - **Tom:** Aber — der FNS macht nicht nur eine Sache.  
   → Aber — der F-N-S macht nicht nur eine Sache.
 - **Tom:** Der kurze Name ist REVIS.  
@@ -3352,6 +5197,10 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Und hier ist der entscheidende Punkt — Sie müssen nicht Revis beziehen, um sie zu bekommen.
 - **Tom:** Und hier ist ein wunderbares Detail — wenn Sie bereits REVIS beziehen, müssen Sie nicht einmal einen Antrag stellen.  
   → Und hier ist ein wunderbares Detail — wenn Sie bereits Revis beziehen, müssen Sie nicht einmal einen Antrag stellen.
+- **Tom:** Das Gesetz wird noch im Parlament beraten — schauen Sie also auf f-n-s Punkt l-u nach dem neuesten Stand.  
+  → Das Gesetz wird noch im Parlament beraten — schauen Sie also auf F-N-S Punkt L-U nach dem neuesten Stand.
+- **Tom:** Bis dahin stellen alle anderen ihren Antrag mit einem Formular — und wenn Sie die Zulage im letzten Jahr bekommen haben, schickt Ihnen der FNS Ende des Jahres ein vorausgefülltes Formular.  
+  → Bis dahin stellen alle anderen ihren Antrag mit einem Formular — und wenn Sie die Zulage im letzten Jahr bekommen haben, schickt Ihnen der F-N-S Ende des Jahres ein vorausgefülltes Formular.
 - **Tom:** Und der FNS hat sogar einen Online-Rechner, damit Sie prüfen können, ob Sie Anspruch haben, bevor Sie einen Antrag stellen.  
   → Und der F-N-S hat sogar einen Online-Rechner, damit Sie prüfen können, ob Sie Anspruch haben, bevor Sie einen Antrag stellen.
 - **Tom:** Für eine Person, deren Behinderung dazu führt, dass sie auf dem normalen Arbeitsmarkt ihren Lebensunterhalt nicht verdienen kann, stellt der FNS ein garantiertes Einkommen bereit, damit auch sie eine sichere Schwelle hat, auf der sie stehen kann.  
@@ -3368,14 +5217,14 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Der F-N-S nimmt diese Last auf sich.
 - **Tom:** Wenn jemand in ein Pflegeheim oder betreutes Wohnen kommt, und sein eigenes Einkommen nicht ausreicht, um die Kosten zu decken, kann der FNS helfen, die Differenz zu zahlen.  
   → Wenn jemand in ein Pflegeheim oder betreutes Wohnen kommt, und sein eigenes Einkommen nicht ausreicht, um die Kosten zu decken, kann der F-N-S helfen, die Differenz zu zahlen.
+- **Tom:** Er heißt COMPA.  
+  → Er heißt Compa.
 - **Anna:** Wir haben den REVIS, das Mindesteinkommen.  
   → Wir haben den Revis, das Mindesteinkommen.
 - **Tom:** Alles beginnt auf der Webseite, f-n-s Punkt l-u.  
   → Alles beginnt auf der Webseite, F-N-S Punkt L-U.
-- **Tom:** Für mehrere Dinge, ja — über MyGuichet.lu, die digitale Plattform des Staates, mit einem sicheren Login.  
-  → Für mehrere Dinge, ja — über MyGuichet Punkt L-U, die digitale Plattform des Staates, mit einem sicheren Login.
-- **Tom:** Aber Sie können es auch auf Papier machen — laden Sie das Formular herunter, oder bekommen Sie es per Post, füllen Sie es aus, und schicken Sie es an den FNS zurück.  
-  → Aber Sie können es auch auf Papier machen — laden Sie das Formular herunter, oder bekommen Sie es per Post, füllen Sie es aus, und schicken Sie es an den F-N-S zurück.
+- **Tom:** Sie laden es herunter oder holen es am Schalter des FNS ab, unterschreiben es, und schicken es per Post oder geben es dort ab.  
+  → Sie laden es herunter oder holen es am Schalter des F-N-S ab, unterschreiben es, und schicken es per Post oder geben es dort ab.
 - **Tom:** Dann kann er den FNS direkt kontaktieren — telefonisch, per E-Mail, oder persönlich.  
   → Dann kann er den F-N-S direkt kontaktieren — telefonisch, per E-Mail, oder persönlich.
 - **Anna:** Wo kommt der FNS für Sofia ins Spiel?  
@@ -3389,17 +5238,17 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 - **Tom:** Erstens — gehen Sie auf die Webseite, f-n-s Punkt l-u.  
   → Erstens — gehen Sie auf die Webseite, F-N-S Punkt L-U.
 - **Anna:** fns.lu.  
-  → fns Punkt L-U.
+  → F-N-S Punkt L-U.
 - **Tom:** Und wenn Sie bereits REVIS beziehen, denken Sie daran — die kommt automatisch.  
   → Und wenn Sie bereits Revis beziehen, denken Sie daran — die kommt automatisch.
 - **Tom:** Der Nationale Solidaritätsfonds — der FNS, fns.lu — ist Luxemburgs soziales Netz gegen die Armut.  
-  → Der Nationale Solidaritätsfonds — der F-N-S, fns Punkt L-U — ist Luxemburgs soziales Netz gegen die Armut.
+  → Der Nationale Solidaritätsfonds — der F-N-S, F-N-S Punkt L-U — ist Luxemburgs soziales Netz gegen die Armut.
 - **Tom:** Er verwaltet den REVIS, das garantierte Mindesteinkommen; die Teuerungszulage mit der Energieprämie und der Seniorenhilfe; ein Einkommen für schwerbehinderte Menschen; Vorschüsse auf nicht gezahlten Kindesunterhalt; einen Zuschuss für ältere Menschen in Pflege; und die Erziehungsrente, die Mammerent.  
   → Er verwaltet den Revis, das garantierte Mindesteinkommen; die Teuerungszulage mit der Energieprämie und der Seniorenhilfe; ein Einkommen für schwerbehinderte Menschen; Vorschüsse auf nicht gezahlten Kindesunterhalt; einen Zuschuss für ältere Menschen in Pflege; und die Erziehungsrente, die Mammerent.
-- **Tom:** Sie stellen Ihren Antrag auf fns.lu oder MyGuichet.lu — und REVIS-Bezieher bekommen die Teuerungszulage automatisch.  
-  → Sie stellen Ihren Antrag auf fns Punkt L-U oder MyGuichet Punkt L-U — und Revis-Bezieher bekommen die Teuerungszulage automatisch.
-- **Anna:** fns.lu.  
-  → fns Punkt L-U.
+- **Tom:** Alle Formulare finden Sie auf fns.lu — und REVIS-Bezieher bekommen die Teuerungszulage automatisch.  
+  → Alle Formulare finden Sie auf F-N-S Punkt L-U — und Revis-Bezieher bekommen die Teuerungszulage automatisch.
+- **Anna:** Also, wenn Sie, oder jemand, den Sie kennen, in Schwierigkeiten ist, merken Sie sich den Namen: der Nationale Solidaritätsfonds, fns.lu.  
+  → Also, wenn Sie, oder jemand, den Sie kennen, in Schwierigkeiten ist, merken Sie sich den Namen: der Nationale Solidaritätsfonds, F-N-S Punkt L-U.
 - **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
   → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
 - **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
@@ -3409,8 +5258,8 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 
 - **Tom:** Die EU hilft, nützliche Projekte in ihren Mitgliedsländern zu finanzieren.  
   → Die E-U hilft, nützliche Projekte in ihren Mitgliedsländern zu finanzieren.
-- **Tom:** Also reichere und weniger reiche Regionen, große Herausforderungen und kleine... die EU investiert, um allen zu helfen, gemeinsam voranzukommen.  
-  → Also reichere und weniger reiche Regionen, große Herausforderungen und kleine... die E-U investiert, um allen zu helfen, gemeinsam voranzukommen.
+- **Tom:** Also reichere und weniger reiche Regionen, große Herausforderungen und kleine, die EU investiert, um allen zu helfen, gemeinsam voranzukommen.  
+  → Also reichere und weniger reiche Regionen, große Herausforderungen und kleine, die E-U investiert, um allen zu helfen, gemeinsam voranzukommen.
 - **Anna:** Der erste ist der Europäische Fonds für regionale Entwicklung (EFRE/FEDER).  
   → Der erste ist der Europäische Fonds für regionale Entwicklung (EFRE oder Feder).
 - **Anna:** Man nennt ihn oft bei seinen französischen Initialen, FEDER.  
@@ -3419,12 +5268,12 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Der zweite ist der Europäische Sozialfonds Plus (E-S-F plus oder F-S-E plus).
 - **Tom:** Auf Französisch der FSE Plus.  
   → Auf Französisch der F-S-E Plus.
-- **Anna:** Und es gibt einen dritten Fonds, den man kennen sollte... den Asyl-, Migrations- und Integrationsfonds (AMIF).  
-  → Und es gibt einen dritten Fonds, den man kennen sollte... den Asyl-, Migrations- und Integrationsfonds (Amif).
+- **Anna:** Und es gibt einen dritten Fonds, den man kennen sollte, den Asyl-, Migrations- und Integrationsfonds (AMIF).  
+  → Und es gibt einen dritten Fonds, den man kennen sollte, den Asyl-, Migrations- und Integrationsfonds (Amif).
 - **Tom:** Die EU bezahlt also selten alles.  
   → Die E-U bezahlt also selten alles.
-- **Tom:** Erstens... die EU investiert über ihre Kohäsionspolitik in die Mitgliedsländer, und Luxemburg erhält einen Anteil.  
-  → Erstens... die E-U investiert über ihre Kohäsionspolitik in die Mitgliedsländer, und Luxemburg erhält einen Anteil.
+- **Tom:** Erstens, die EU investiert über ihre Kohäsionspolitik in die Mitgliedsländer, und Luxemburg erhält einen Anteil.  
+  → Erstens, die E-U investiert über ihre Kohäsionspolitik in die Mitgliedsländer, und Luxemburg erhält einen Anteil.
 - **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
   → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
 - **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
@@ -3436,8 +5285,8 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Die Webseite ist geoportail Punkt L-U.
 - **Tom:** Erstens, öffnen Sie einfach geoportail Punkt lu und erkunden Sie.  
   → Erstens, öffnen Sie einfach geoportail Punkt L-U und erkunden Sie.
-- **Anna:** Erstens... geoportail Punkt lu ist Luxemburgs offizielle, kostenlose Online-Kartenplattform, von der Kataster- und Topografieverwaltung.  
-  → Erstens... geoportail Punkt L-U ist Luxemburgs offizielle, kostenlose Online-Kartenplattform, von der Kataster- und Topografieverwaltung.
+- **Anna:** Erstens, geoportail Punkt lu ist Luxemburgs offizielle, kostenlose Online-Kartenplattform, von der Kataster- und Topografieverwaltung.  
+  → Erstens, geoportail Punkt L-U ist Luxemburgs offizielle, kostenlose Online-Kartenplattform, von der Kataster- und Topografieverwaltung.
 - **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
   → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
 - **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
@@ -3455,8 +5304,8 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Gov-Cert Punkt L-U ist also die zentrale Anlaufstelle für Vorfälle, die das Land, seine Bürger oder seine Wirtschaft bedrohen könnten.
 - **Anna:** GOVCERT.LU veröffentlicht regelmäßig Warnungen über Phishing-Kampagnen, die in Luxemburg kursieren.  
   → Gov-Cert Punkt L-U veröffentlicht regelmäßig Warnungen über Phishing-Kampagnen, die in Luxemburg kursieren.
-- **Tom:** Und LU-Alert, die AAA, die Klima-Agence, die ADEM... alle haben vor gefälschten Nachrichten gewarnt, die ihren Namen benutzen.  
-  → Und L-U Alert, die A-A-A, die Klima-Agence, die Adem... alle haben vor gefälschten Nachrichten gewarnt, die ihren Namen benutzen.
+- **Tom:** Und LU-Alert, die AAA, die Klima-Agence, die ADEM, alle haben vor gefälschten Nachrichten gewarnt, die ihren Namen benutzen.  
+  → Und L-U Alert, die A-A-A, die Klima-Agence, die Adem, alle haben vor gefälschten Nachrichten gewarnt, die ihren Namen benutzen.
 - **Anna:** Warum ist eine Organisation wie GOVCERT.LU für ganz normale Menschen wichtig?  
   → Warum ist eine Organisation wie Gov-Cert Punkt L-U für ganz normale Menschen wichtig?
 - **Anna:** Was sollten sich die Menschen über GOVCERT.LU merken?  
@@ -3479,14 +5328,18 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 - **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
   → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
 
-### habitat (8)
+### habitat (10)
 
 - **Anna:** Es hat einen wichtigen Partner... ein Forschungsinstitut namens LISER.  
   → Es hat einen wichtigen Partner... ein Forschungsinstitut namens Liser.
 - **Tom:** LISER ist das Luxembourg Institute of Socio-Economic Research.  
   → Liser ist das Luxembourg Institute of Socio-Economic Research.
-- **Tom:** Die Statistiken, aufgeschlüsselt nach Gemeinde, werden auf der nationalen Open-Data-Plattform veröffentlicht, data Punkt public Punkt lu.  
-  → Die Statistiken, aufgeschlüsselt nach Gemeinde, werden auf der nationalen Open-Data-Plattform veröffentlicht, data Punkt public Punkt L-U.
+- **Tom:** Und bei den Statistiken zu den Verkaufspreisen arbeitet das Observatoire außerdem eng mit dem STATEC zusammen, dem nationalen Statistikinstitut.  
+  → Und bei den Statistiken zu den Verkaufspreisen arbeitet das Observatoire außerdem eng mit dem Statec zusammen, dem nationalen Statistikinstitut.
+- **Anna:** Für Häuser veröffentlicht der STATEC stattdessen einen allgemeinen Preisindex.  
+  → Für Häuser veröffentlicht der Statec stattdessen einen allgemeinen Preisindex.
+- **Tom:** Die Statistiken, aufgeschlüsselt nach Gemeinde, werden auf der nationalen Open-Data-Plattform veröffentlicht, data Punkt public Punkt lu... und auch auf dem nationalen Geoportal.  
+  → Die Statistiken, aufgeschlüsselt nach Gemeinde, werden auf der nationalen Open-Data-Plattform veröffentlicht, data Punkt public Punkt L-U... und auch auf dem nationalen Geoportal.
 - **Anna:** Das Observatoire betrachtet die „Wohnkostenbelastung / Effort-Rate"... den Anteil Ihres Einkommens, der für das Wohnen draufgeht.  
   → Das Observatoire betrachtet die „Wohnkostenbelastung oder Effort-Rate"... den Anteil Ihres Einkommens, der für das Wohnen draufgeht.
 - **Anna:** Zweitens... es beobachtet Verkaufspreise, Mieten, Bauland und wie bezahlbar Wohnen wirklich ist, mit Hilfe des Forschungsinstituts LISER.  
@@ -3498,18 +5351,127 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 - **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
   → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
 
-### infosenior (7)
+### infohandicap (11)
+
+- **Anna:** Es ist ein gemeinnütziger Verein, der sich seit 1993 für die Rechte von Menschen mit Behinderungen einsetzt, in Luxemburg und auf internationaler Ebene.  
+  → Es ist ein gemeinnütziger Verein, der sich seit neunzehnhundertdreiundneunzig für die Rechte von Menschen mit Behinderungen einsetzt, in Luxemburg und auf internationaler Ebene.
+- **Tom:** Mehr, als viele denken: Laut der Volkszählung von 2021 lebt in Luxemburg etwa jeder siebte Mensch mit einer Behinderung.  
+  → Mehr, als viele denken: Laut der Volkszählung von zweitausendeinundzwanzig lebt in Luxemburg etwa jeder siebte Mensch mit einer Behinderung.
+- **Anna:** Sie können 366 466 anrufen oder eine E-Mail an info@iha.lu schreiben.  
+  → Sie können drei sechs sechs, vier sechs sechs anrufen oder eine E-Mail an info at I-H-A Punkt L-U schreiben.
+- **Tom:** Mehr dazu finden Sie auf eurewelcome Punkt l-u.  
+  → Mehr dazu finden Sie auf eurewelcome Punkt L-U.
+- **Anna:** Info-Handicap betreibt einen Dienst namens SAMT, der Menschen mit Behinderungen hilft, öffentliche Verkehrsmittel selbstständig und sicher zu nutzen.  
+  → Info-Handicap betreibt einen Dienst namens Samt, der Menschen mit Behinderungen hilft, öffentliche Verkehrsmittel selbstständig und sicher zu nutzen.
+- **Anna:** Es koordiniert auch MOSAIK, ein Netzwerk sozialer und kultureller Einrichtungen für inklusive Kultur: Künstlerinnen und Künstler mit und ohne Behinderung auf derselben Bühne, und Aufführungen mit Audiodeskription, Untertiteln oder Gebärdensprache.  
+  → Es koordiniert auch Mosaik, ein Netzwerk sozialer und kultureller Einrichtungen für inklusive Kultur: Künstlerinnen und Künstler mit und ohne Behinderung auf derselben Bühne, und Aufführungen mit Audiodeskription, Untertiteln oder Gebärdensprache.
+- **Tom:** Seit einer Gesetzesänderung im Jahr 2023 dürfen auch Menschen unter Vormundschaft wählen.  
+  → Seit einer Gesetzesänderung im Jahr zweitausenddreiundzwanzig dürfen auch Menschen unter Vormundschaft wählen.
+- **Anna:** Bevor wir zum Schluss kommen: Die Website ist info-handicap Punkt l-u, auf Deutsch und auf Französisch.  
+  → Bevor wir zum Schluss kommen: Die Website ist info-handicap Punkt L-U, auf Deutsch und auf Französisch.
+- **Tom:** Erstens: Info-Handicap beantwortet alle Fragen zum Thema Behinderung, für Menschen mit oder ohne Behinderung, ihre Familien und ihre Arbeitgeber: Sie können 366 466 anrufen.  
+  → Erstens: Info-Handicap beantwortet alle Fragen zum Thema Behinderung, für Menschen mit oder ohne Behinderung, ihre Familien und ihre Arbeitgeber: Sie können drei sechs sechs, vier sechs sechs anrufen.
+- **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
+  → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
+- **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
+  → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
+
+### infosenior (11)
 
 - **Anna:** Sein Zuhause im Internet ist eine Webseite — infosenior Punkt l-u.  
   → Sein Zuhause im Internet ist eine Webseite — infosenior Punkt L-U.
 - **Tom:** infosenior.lu.  
   → infosenior Punkt L-U.
+- **Anna:** Und es gibt den Alzheimer-Verein, der sogar eine Hilfeleitung betreibt, 26 432 432, rund um die Uhr verfügbar, für dringende Situationen.  
+  → Und es gibt den Alzheimer-Verein, der sogar eine Hilfeleitung betreibt, zwei sechs vier drei zwei vier drei zwei, rund um die Uhr verfügbar, für dringende Situationen.
+- **Anna:** Sie können einfach das Senioren-Telefon anrufen, 247-86000, für Information und Beratung.  
+  → Sie können einfach das Senioren-Telefon anrufen, zwei vier sieben acht sechs null null null, für Information und Beratung.
+- **Anna:** Und wenn es eine Meinungsverschiedenheit mit einem Dienst gibt, gibt es SIMPA, den nationalen Informations- und Vermittlungsdienst — einen neutralen Ort, der Ihnen hilft, eine Lösung zu finden.  
+  → Und wenn es eine Meinungsverschiedenheit mit einem Dienst gibt, gibt es Simpa, den nationalen Informations- und Vermittlungsdienst — einen neutralen Ort, der Ihnen hilft, eine Lösung zu finden.
+- **Anna:** Seit 2026 hilft ein Programm namens COMPA, gezahlt vom Nationalen Solidaritätsfonds, Menschen, die nicht genug Geld haben, um ein zugelassenes Pflegeheim oder betreutes Wohnen zu bezahlen.  
+  → Seit 2026 hilft ein Programm namens Compa, gezahlt vom Nationalen Solidaritätsfonds, Menschen, die nicht genug Geld haben, um ein zugelassenes Pflegeheim oder betreutes Wohnen zu bezahlen.
 - **Anna:** Gehen Sie auf die Webseite — infosenior Punkt l-u.  
   → Gehen Sie auf die Webseite — infosenior Punkt L-U.
 - **Anna:** Info-Seniors, auf infosenior Punkt l-u, ist das Informationsportal des Staates für ältere Menschen in Luxemburg.  
   → Info-Seniors, auf infosenior Punkt L-U, ist das Informationsportal des Staates für ältere Menschen in Luxemburg.
 - **Tom:** infosenior.lu.  
   → infosenior Punkt L-U.
+- **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
+  → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
+- **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
+  → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
+
+### jepeuxvoter (7)
+
+- **Tom:** Die Adresse auf Deutsch lautet ichkannwaehlen Punkt l-u.  
+  → Die Adresse auf Deutsch lautet ich kann wählen Punkt L-U.
+- **Anna:** Es gibt zwei Wege, und der erste ist online, auf MyGuichet Punkt l-u, zum Beispiel mit Ihrem LuxTrust.  
+  → Es gibt zwei Wege, und der erste ist online, auf MyGuichet Punkt L-U, zum Beispiel mit Ihrem LuxTrust.
+- **Anna:** Jeder eingetragene Wähler kann die Briefwahl beantragen, online auf MyGuichet Punkt l-u oder mit einem Brief an die Gemeinde.  
+  → Jeder eingetragene Wähler kann die Briefwahl beantragen, online auf MyGuichet Punkt L-U oder mit einem Brief an die Gemeinde.
+- **Anna:** Drittens: Sie müssen sich eintragen, online auf MyGuichet Punkt l-u oder bei Ihrer Gemeinde, spätestens fünfundfünfzig Tage vor der Wahl.  
+  → Drittens: Sie müssen sich eintragen, online auf MyGuichet Punkt L-U oder bei Ihrer Gemeinde, spätestens fünfundfünfzig Tage vor der Wahl.
+- **Anna:** Alle Informationen finden Sie auf ichkannwaehlen Punkt l-u.  
+  → Alle Informationen finden Sie auf ich kann wählen Punkt L-U.
+- **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
+  → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
+- **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
+  → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
+
+### kjt (28)
+
+- **Tom:** Sie hat sechs Ziffern: 116 111.  
+  → Sie hat sechs Ziffern: eins eins sechs, eins eins eins.
+- **Anna:** Hinter dieser Nummer steht ein Dienst, den die meisten einfach KJT nennen.  
+  → Hinter dieser Nummer steht ein Dienst, den die meisten einfach K-J-T nennen.
+- **Tom:** Das KJT wurde 1992 gegründet, im Rahmen der Kinderrechtskonvention der Vereinten Nationen.  
+  → Das K-J-T wurde neunzehnhundertzweiundneunzig gegründet, im Rahmen der Kinderrechtskonvention der Vereinten Nationen.
+- **Tom:** Heute ist das KJT ein Dienst einer Vereinigung ohne Gewinnzweck mit dem Namen CJF Lëtzebuerg, und es wird im Rahmen einer Konvention mit dem Service National de la Jeunesse finanziert, der zum Ministerium für Bildung, Kinder und Jugend gehört.  
+  → Heute ist das K-J-T ein Dienst einer Vereinigung ohne Gewinnzweck mit dem Namen C-J-F Lëtzebuerg, und es wird im Rahmen einer Konvention mit dem Service National de la Jeunesse finanziert, der zum Ministerium für Bildung, Kinder und Jugend gehört.
+- **Anna:** Was macht das KJT konkret, wenn sich jemand meldet?  
+  → Was macht das K-J-T konkret, wenn sich jemand meldet?
+- **Tom:** Nein, und das ist eines der fünf Prinzipien des KJT.  
+  → Nein, und das ist eines der fünf Prinzipien des K-J-T.
+- **Anna:** Schauen wir uns die Angebote der Reihe nach an, und beginnen wir mit dem ältesten: der Telefonnummer 116 111.  
+  → Schauen wir uns die Angebote der Reihe nach an, und beginnen wir mit dem ältesten: der Telefonnummer eins eins sechs, eins eins eins.
+- **Anna:** Man schreibt seine Frage oder seine Sorge auf der Website des KJT, auf Luxemburgisch, Deutsch, Französisch oder Englisch, und ein Berater schickt innerhalb weniger Tage eine schriftliche Antwort.  
+  → Man schreibt seine Frage oder seine Sorge auf der Website des K-J-T, auf Luxemburgisch, Deutsch, Französisch oder Englisch, und ein Berater schickt innerhalb weniger Tage eine schriftliche Antwort.
+- **Anna:** Seit 2007 gibt es eine Telefonnummer für Eltern, das Elterentelefon, und seine Nummer ist die 8002 4444.  
+  → Seit 2007 gibt es eine Telefonnummer für Eltern, das Elterentelefon, und seine Nummer ist die acht null null zwei, vier vier vier vier.
+- **Tom:** Zwei weitere Angebote haben mit dem Internet zu tun, und sie tragen den Namen BEE SECURE.  
+  → Zwei weitere Angebote haben mit dem Internet zu tun, und sie tragen den Namen Bee Secure.
+- **Tom:** Das erste ist die BEE SECURE Helpline, mit der Nummer 8002 1234.  
+  → Das erste ist die Bee Secure Helpline, mit der Nummer acht null null zwei, eins zwei drei vier.
+- **Anna:** Und was ist das zweite Angebot, das den Namen BEE SECURE trägt?  
+  → Und was ist das zweite Angebot, das den Namen Bee Secure trägt?
+- **Tom:** Das ist die BEE SECURE Stopline.  
+  → Das ist die Bee Secure Stopline.
+- **Tom:** Bei solchen Fragen können Sie die BEE SECURE Helpline anrufen, oder Sie wenden sich an die Polizei.  
+  → Bei solchen Fragen können Sie die Bee Secure Helpline anrufen, oder Sie wenden sich an die Polizei.
+- **Anna:** Etwas wusste ich nicht, bevor ich die Website gelesen habe: Am KJT arbeiten Ehrenamtliche als Berater.  
+  → Etwas wusste ich nicht, bevor ich die Website gelesen habe: Am K-J-T arbeiten Ehrenamtliche als Berater.
+- **Anna:** Man findet sie am Kinder- und Jugendtelefon, bei der Online Help und am Elterentelefon, und sie unterstützen auch die BEE SECURE Helpline.  
+  → Man findet sie am Kinder- und Jugendtelefon, bei der Online Help und am Elterentelefon, und sie unterstützen auch die Bee Secure Helpline.
+- **Tom:** Die Website kjt Punkt l-u lohnt einen Besuch, auch für Erwachsene.  
+  → Die Website K-J-T Punkt L-U lohnt einen Besuch, auch für Erwachsene.
+- **Tom:** Nein, über dieses Formular bietet das KJT keine Beratung an, weil es nicht anonym und vertraulich ist.  
+  → Nein, über dieses Formular bietet das K-J-T keine Beratung an, weil es nicht anonym und vertraulich ist.
+- **Anna:** Wenn jemand in unmittelbarer Gefahr ist, ist die Notrufnummer die 112.  
+  → Wenn jemand in unmittelbarer Gefahr ist, ist die Notrufnummer die eins-eins-zwei.
+- **Tom:** Das stimmt, und auch zur 112 gibt es eine Folge in diesem Podcast.  
+  → Das stimmt, und auch zur eins-eins-zwei gibt es eine Folge in diesem Podcast.
+- **Anna:** Erstens: Das KJT, das Kanner-Jugendtelefon, hört Kindern und Jugendlichen seit 1992 zu.  
+  → Erstens: Das K-J-T, das Kanner-Jugendtelefon, hört Kindern und Jugendlichen seit 1992 zu.
+- **Tom:** Zweitens: Kinder und Jugendliche können die 116 111 anrufen, an die Online Help schreiben oder den Chat mit ausgebildeten jungen Beratern nutzen.  
+  → Zweitens: Kinder und Jugendliche können die eins eins sechs, eins eins eins anrufen, an die Online Help schreiben oder den Chat mit ausgebildeten jungen Beratern nutzen.
+- **Anna:** Drittens: Eltern, Großeltern und andere Erwachsene, die sich um Kinder kümmern, können das Elterentelefon unter 8002 4444 anrufen.  
+  → Drittens: Eltern, Großeltern und andere Erwachsene, die sich um Kinder kümmern, können das Elterentelefon unter acht null null zwei, vier vier vier vier anrufen.
+- **Tom:** Viertens: Für Fragen zur Sicherheit im Internet gibt es die BEE SECURE Helpline unter 8002 1234, und illegale Inhalte kann man der BEE SECURE Stopline melden.  
+  → Viertens: Für Fragen zur Sicherheit im Internet gibt es die Bee Secure Helpline unter acht null null zwei, eins zwei drei vier, und illegale Inhalte kann man der Bee Secure Stopline melden.
+- **Anna:** Sie finden die Zeiten und alle Angebote auf kjt Punkt l-u.  
+  → Sie finden die Zeiten und alle Angebote auf K-J-T Punkt L-U.
+- **Tom:** Das KJT hat ein Motto, das es sehr gut sagt: Niemand muss alleine bleiben.  
+  → Das K-J-T hat ein Motto, das es sehr gut sagt: Niemand muss alleine bleiben.
 - **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
   → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
 - **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
@@ -3524,16 +5486,108 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 - **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
   → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
 
+### lar (28)
+
+- **Anna:** Und sehr oft gehört dieser Hubschrauber zu Luxembourg Air Rescue, kurz LAR.  
+  → Und sehr oft gehört dieser Hubschrauber zu Luxembourg Air Rescue, kurz L-A-R.
+- **Tom:** Die LAR ist ein gemeinnütziger Verein.  
+  → Die L-A-R ist ein gemeinnütziger Verein.
+- **Tom:** Sie wurde 1988 von einer Gruppe von Feuerwehrleuten gegründet, und heute fliegt sie Rettungshubschrauber und Ambulanzflugzeuge, Tag und Nacht, das ganze Jahr über, in Luxemburg, in der Großregion und auf der ganzen Welt.  
+  → Sie wurde neunzehnhundertachtundachtzig von einer Gruppe von Feuerwehrleuten gegründet, und heute fliegt sie Rettungshubschrauber und Ambulanzflugzeuge, Tag und Nacht, das ganze Jahr über, in Luxemburg, in der Großregion und auf der ganzen Welt.
+- **Anna:** Ist die LAR ein öffentlicher Dienst, der vom Staat geführt wird, oder ist sie etwas anderes?  
+  → Ist die L-A-R ein öffentlicher Dienst, der vom Staat geführt wird, oder ist sie etwas anderes?
+- **Tom:** Sie ist etwas anderes: Die LAR beschreibt sich als private, gemeinnützige Organisation, die dem Gemeinwohl dient.  
+  → Sie ist etwas anderes: Die L-A-R beschreibt sich als private, gemeinnützige Organisation, die dem Gemeinwohl dient.
+- **Anna:** Man ruft die Notrufnummer 112 an, und die Notrufzentrale entscheidet, ob der Hubschrauber die beste Hilfe ist, je nachdem, wie ernst die Lage ist, wie gut der Ort erreichbar ist und welche Teams verfügbar sind.  
+  → Man ruft die Notrufnummer eins-eins-zwei an, und die Notrufzentrale entscheidet, ob der Hubschrauber die beste Hilfe ist, je nachdem, wie ernst die Lage ist, wie gut der Ort erreichbar ist und welche Teams verfügbar sind.
+- **Anna:** Die Hubschrauberstützpunkte sind ständig einsatzbereit, und laut LAR kann jeder Ort in Luxemburg in etwa zehn Minuten erreicht werden.  
+  → Die Hubschrauberstützpunkte sind ständig einsatzbereit, und laut L-A-R kann jeder Ort in Luxemburg in etwa zehn Minuten erreicht werden.
+- **Anna:** Neben dem Piloten hat jeder Hubschrauber einen Notarzt und eine Intensivpflegekraft der LAR an Bord.  
+  → Neben dem Piloten hat jeder Hubschrauber einen Notarzt und eine Intensivpflegekraft der L-A-R an Bord.
+- **Tom:** Die LAR übt das gemeinsam mit den Spezialisten der Feuerwehr- und Rettungsdienste, und sie haben schon bei echten Rettungen an Felsen zusammengearbeitet.  
+  → Die L-A-R übt das gemeinsam mit den Spezialisten der Feuerwehr- und Rettungsdienste, und sie haben schon bei echten Rettungen an Felsen zusammengearbeitet.
+- **Anna:** Hier ist eine Frage, die sich viele Menschen stellen: Kommt der Hubschrauber nur für Mitglieder der LAR?  
+  → Hier ist eine Frage, die sich viele Menschen stellen: Kommt der Hubschrauber nur für Mitglieder der L-A-R?
+- **Tom:** Nein, ganz und gar nicht: Die LAR ist Teil des Rettungssystems in Luxemburg, sie fliegt also auch Rettungseinsätze für Menschen, die keine Mitglieder sind.  
+  → Nein, ganz und gar nicht: Die L-A-R ist Teil des Rettungssystems in Luxemburg, sie fliegt also auch Rettungseinsätze für Menschen, die keine Mitglieder sind.
+- **Anna:** Stellen wir uns vor, Sie werden im Urlaub schwer krank, oder Sie werden auf einer Geschäftsreise schwer verletzt: Was kann die LAR dann tun?  
+  → Stellen wir uns vor, Sie werden im Urlaub schwer krank, oder Sie werden auf einer Geschäftsreise schwer verletzt: Was kann die L-A-R dann tun?
+- **Tom:** Wenn Sie Mitglied sind, kann die LAR Sie nach Hause bringen.  
+  → Wenn Sie Mitglied sind, kann die L-A-R Sie nach Hause bringen.
+- **Tom:** Die Alarmzentrale der LAR anrufen.  
+  → Die Alarmzentrale der L-A-R anrufen.
+- **Tom:** Ein Arzt der LAR spricht direkt mit dem behandelnden Arzt im Ausland.  
+  → Ein Arzt der L-A-R spricht direkt mit dem behandelnden Arzt im Ausland.
+- **Tom:** Gemeinsam schauen sie sich die Behandlung vor Ort und die Risiken der Reise an, und dann entscheidet das medizinische Team der LAR, ob, wann und wie der Patient sicher reisen kann.  
+  → Gemeinsam schauen sie sich die Behandlung vor Ort und die Risiken der Reise an, und dann entscheidet das medizinische Team der L-A-R, ob, wann und wie der Patient sicher reisen kann.
+- **Tom:** Nein, nicht immer: Je nach Patient kann es ein Krankenwagen sein, ein normaler Linienflug mit oder ohne medizinische Begleitung, ein Hubschrauber oder eines der Ambulanzflugzeuge der LAR, mit einem Arzt und einer Pflegekraft an Bord.  
+  → Nein, nicht immer: Je nach Patient kann es ein Krankenwagen sein, ein normaler Linienflug mit oder ohne medizinische Begleitung, ein Hubschrauber oder eines der Ambulanzflugzeuge der L-A-R, mit einem Arzt und einer Pflegekraft an Bord.
+- **Tom:** Für Mitglieder übernimmt die LAR die Kosten der Rückholung aus dem Ausland, im Rahmen ihrer allgemeinen Bedingungen.  
+  → Für Mitglieder übernimmt die L-A-R die Kosten der Rückholung aus dem Ausland, im Rahmen ihrer allgemeinen Bedingungen.
+- **Tom:** Erstens beginnt der Schutz einen Monat, nachdem die LAR den ersten Mitgliedsbeitrag erhalten hat.  
+  → Erstens beginnt der Schutz einen Monat, nachdem die L-A-R den ersten Mitgliedsbeitrag erhalten hat.
+- **Anna:** Spenden gehen an die Stiftung Luxembourg Air Rescue, die die LAR mit Geld und technischer Ausrüstung unterstützt, und eine solche Spende kann abgesetzt werden.  
+  → Spenden gehen an die Stiftung Luxembourg Air Rescue, die die L-A-R mit Geld und technischer Ausrüstung unterstützt, und eine solche Spende kann abgesetzt werden.
+- **Tom:** Neben Rettung und Rückholung hilft die LAR auch bei humanitären Krisen, zum Beispiel nach Erdbeben, gemeinsam mit dem Ministerium für auswärtige und europäische Angelegenheiten.  
+  → Neben Rettung und Rückholung hilft die L-A-R auch bei humanitären Krisen, zum Beispiel nach Erdbeben, gemeinsam mit dem Ministerium für auswärtige und europäische Angelegenheiten.
+- **Tom:** Ja, es gibt die LAR Akademie, ein Ausbildungszentrum am Flughafen auf dem Findel.  
+  → Ja, es gibt die L-A-R Akademie, ein Ausbildungszentrum am Flughafen auf dem Findel.
+- **Tom:** Die LAR bietet auch Führungen durch ihre Basis an, und manchmal öffnet sie ihre Türen für die Öffentlichkeit.  
+  → Die L-A-R bietet auch Führungen durch ihre Basis an, und manchmal öffnet sie ihre Türen für die Öffentlichkeit.
+- **Anna:** All das finden Sie auf der Website lar Punkt l-u, die es auf Englisch, Französisch und Deutsch gibt.  
+  → All das finden Sie auf der Website L-A-R Punkt L-U, die es auf Englisch, Französisch und Deutsch gibt.
+- **Tom:** Erstens: Rufen Sie bei einem Notfall in Luxemburg die 112 an; der Hubschrauber kommt, wenn er die beste Hilfe ist, ob Sie Mitglied sind oder nicht.  
+  → Erstens: Rufen Sie bei einem Notfall in Luxemburg die eins-eins-zwei an; der Hubschrauber kommt, wenn er die beste Hilfe ist, ob Sie Mitglied sind oder nicht.
+- **Tom:** Zweitens: Wenn sie im Ausland sind, rufen Mitglieder die Alarmzentrale der LAR an, und ein Arzt der LAR entscheidet, wie sie sicher nach Hause kommen.  
+  → Zweitens: Wenn sie im Ausland sind, rufen Mitglieder die Alarmzentrale der L-A-R an, und ein Arzt der L-A-R entscheidet, wie sie sicher nach Hause kommen.
+- **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
+  → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
+- **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
+  → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
+
+### letzprepare (15)
+
+- **Tom:** Wir sprechen über Lëtz prepare.  
+  → Wir sprechen über Lets pripär.
+- **Anna:** Lëtz prepare ist der Name der Nationalen Resilienzstrategie Luxemburgs.  
+  → Lets pripär ist der Name der Nationalen Resilienzstrategie Luxemburgs.
+- **Anna:** Es ist ein Wortspiel: „Lëtz", wie Lëtzebuerg, und das englische „let's prepare", bereiten wir uns vor.  
+  → Es ist ein Wortspiel: „Lets", wie Lëtzebuerg, und das englische „let's prepare", bereiten wir uns vor.
+- **Tom:** Die Website ist letzprepare Punkt l-u.  
+  → Die Website ist Lets pripär Punkt L-U.
+- **Anna:** Durch LU-Alert, das nationale Warnsystem.  
+  → Durch L-U Alert, das nationale Warnsystem.
+- **Anna:** Es gibt auch die App und die Website von LU-Alert, die Medien, und die Sirenen.  
+  → Es gibt auch die App und die Website von L-U Alert, die Medien, und die Sirenen.
+- **Tom:** Wir haben übrigens eine ganze Folge über LU-Alert.  
+  → Wir haben übrigens eine ganze Folge über L-U Alert.
+- **Tom:** Die Notrufnummern bleiben dieselben: 112 für die Rettungsdienste, und 1-1-3 für die Polizei.  
+  → Die Notrufnummern bleiben dieselben: eins-eins-zwei für die Rettungsdienste, und eins eins drei für die Polizei.
+- **Tom:** Vertrauen Sie den offiziellen Quellen, wie infocrise Punkt l-u, und geben Sie keine Gerüchte weiter.  
+  → Vertrauen Sie den offiziellen Quellen, wie Info-Kriis Punkt L-U, und geben Sie keine Gerüchte weiter.
+- **Tom:** Auf letzprepare Punkt l-u.  
+  → Auf Lets pripär Punkt L-U.
+- **Tom:** Und für Ratschläge zu bestimmten Situationen, wie einem Stromausfall, einem Hochwasser oder einem Atomalarm, gibt es die Website infocrise Punkt l-u.  
+  → Und für Ratschläge zu bestimmten Situationen, wie einem Stromausfall, einem Hochwasser oder einem Atomalarm, gibt es die Website Info-Kriis Punkt L-U.
+- **Tom:** Erstens: Lëtz prepare ist die Nationale Resilienzstrategie Luxemburgs.  
+  → Erstens: Lets pripär ist die Nationale Resilienzstrategie Luxemburgs.
+- **Anna:** Das war unsere Folge über Lëtz prepare.  
+  → Das war unsere Folge über Lets pripär.
+- **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
+  → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
+- **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
+  → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
+
 ### lll (6)
 
 - **Anna:** Die Website ist lifelong Bindestrich learning Punkt lu.  
   → Die Website ist lifelong Bindestrich learning Punkt L-U.
 - **Tom:** Es ist das nationale Portal für Weiterbildung, betrieben vom nationalen Institut für die Entwicklung der beruflichen Weiterbildung, dem INFPC.  
   → Es ist das nationale Portal für Weiterbildung, betrieben vom nationalen Institut für die Entwicklung der beruflichen Weiterbildung, dem I-N-F-P-C.
-- **Anna:** Erstens, durchstöbern Sie den Katalog auf lifelong Bindestrich learning Punkt lu... suchen Sie nach Thema oder nach dem gewünschten Beruf.  
-  → Erstens, durchstöbern Sie den Katalog auf lifelong Bindestrich learning Punkt L-U... suchen Sie nach Thema oder nach dem gewünschten Beruf.
-- **Tom:** Erstens... lifelong Bindestrich learning Punkt lu ist Luxemburgs nationales Portal für Weiterbildung, betrieben vom INFPC.  
-  → Erstens... lifelong Bindestrich learning Punkt L-U ist Luxemburgs nationales Portal für Weiterbildung, betrieben vom I-N-F-P-C.
+- **Anna:** Erstens, durchstöbern Sie den Katalog auf lifelong Bindestrich learning Punkt lu, suchen Sie nach Thema oder nach dem gewünschten Beruf.  
+  → Erstens, durchstöbern Sie den Katalog auf lifelong Bindestrich learning Punkt L-U, suchen Sie nach Thema oder nach dem gewünschten Beruf.
+- **Tom:** Erstens, lifelong Bindestrich learning Punkt lu ist Luxemburgs nationales Portal für Weiterbildung, betrieben vom INFPC.  
+  → Erstens, lifelong Bindestrich learning Punkt L-U ist Luxemburgs nationales Portal für Weiterbildung, betrieben vom I-N-F-P-C.
 - **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
   → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
 - **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
@@ -3550,7 +5604,7 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 - **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
   → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
 
-### lualert (24)
+### lualert (26)
 
 - **Tom:** Es heißt LU-Alert.  
   → Es heißt L-U Alert.
@@ -3566,6 +5620,8 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Es gibt die offiziellen Websites, wie L-U Bindestrich Alert Punkt L-U.
 - **Anna:** Und die mobile App — was bringt sie zusätzlich, wenn ich schon die SMS bekomme?  
   → Und die mobile App — was bringt sie zusätzlich, wenn ich schon die S-M-S bekomme?
+- **Tom:** Denn viele weniger ernste Warnungen werden nur über die App und die Website verschickt, nicht per SMS.  
+  → Denn viele weniger ernste Warnungen werden nur über die App und die Website verschickt, nicht per S-M-S.
 - **Tom:** Per standortbasierter SMS bekommen Sie alle drei Sprachen in einer Nachricht.  
   → Per standortbasierter S-M-S bekommen Sie alle drei Sprachen in einer Nachricht.
 - **Tom:** Das kann passieren, besonders bei SMS, weil es eine Zeichenbegrenzung gibt.  
@@ -3576,6 +5632,8 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → L-U Bindestrich Alert Punkt L-U für die ganze Geschichte.
 - **Tom:** LU-Alert nutzt verschiedene Warnstufen.  
   → L-U Alert nutzt verschiedene Warnstufen.
+- **Tom:** Und manche Tests auf dem Telefon erreichen Sie nur, wenn Sie „LU-Alert Test“ in den Telefoneinstellungen einschalten — oder „Test“ in der App.  
+  → Und manche Tests auf dem Telefon erreichen Sie nur, wenn Sie „L-U Alert Test“ in den Telefoneinstellungen einschalten — oder „Test“ in der App.
 - **Tom:** Zum Beispiel — die Polizei, das Feuerwehr- und Rettungskorps, also der CGDIS, der Wetterdienst MeteoLux, das Wasserwirtschaftsamt, die Lebensmittelbehörde, und das Hochkommissariat für nationalen Schutz.  
   → Zum Beispiel — die Polizei, das Feuerwehr- und Rettungskorps, also der C-G-D-I-S, der Wetterdienst MeteoLux, das Wasserwirtschaftsamt, die Lebensmittelbehörde, und das Hochkommissariat für nationalen Schutz.
 - **Tom:** Und noch etwas — es gibt keine Werbung auf LU-Alert.  
@@ -3590,8 +5648,8 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Und drei — merken Sie sich die Website, L-U Bindestrich Alert Punkt L-U, und merken Sie sich die goldene Regel: Dort überprüfen, niemals persönliche Daten weitergeben.
 - **Tom:** LU-Alert ist Luxemburgs nationales Warn- und Informationssystem, gestartet im Herbst 2024.  
   → L-U Alert ist Luxemburgs nationales Warn- und Informationssystem, gestartet im Herbst 2024.
-- **Tom:** Es erreicht Sie auf Ihrem Telefon — per Cell Broadcast und standortbasierter SMS, ohne Anmeldung — und auch über die App, Websites, die Medien und, bei Nuklearalarm, Sirenen.  
-  → Es erreicht Sie auf Ihrem Telefon — per Cell Broadcast und standortbasierter S-M-S, ohne Anmeldung — und auch über die App, Websites, die Medien und, bei Nuklearalarm, Sirenen.
+- **Tom:** Es erreicht Sie auf Ihrem Telefon — per Cell Broadcast und standortbasierter SMS, ohne Anmeldung — und auch über die App, Websites, die Medien und, bei ernster Gefahr, Sirenen.  
+  → Es erreicht Sie auf Ihrem Telefon — per Cell Broadcast und standortbasierter S-M-S, ohne Anmeldung — und auch über die App, Websites, die Medien und, bei ernster Gefahr, Sirenen.
 - **Tom:** Wenn Sie nicht sicher sind, prüfen Sie lu-alert Punkt l-u.  
   → Wenn Sie nicht sicher sind, prüfen Sie L-U Bindestrich Alert Punkt L-U.
 - **Anna:** Das war unsere Folge über LU-Alert.  
@@ -3637,14 +5695,16 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 - **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
   → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
 
-### maison_orientation (14)
+### maison_orientation (15)
 
 - **Tom:** Sie können einen Termin buchen, und das geht online — über MyGuichet.lu.  
   → Sie können einen Termin buchen, und das geht online — über MyGuichet Punkt L-U.
 - **Tom:** *(lacht)* Ja, das kommt immer wieder, weil es das Tor zu so vielen Diensten ist.  
   → Ja, das kommt immer wieder, weil es das Tor zu so vielen Diensten ist.
-- **Tom:** Und es gibt eine kostenlose Telefonleitung — 8002, 8181 — und eine E-Mail-Adresse, info at m-o Punkt l-u.  
-  → Und es gibt eine kostenlose Telefonleitung — acht null null zwei, acht eins acht eins — und eine E-Mail-Adresse, info at M-O Punkt L-U.
+- **Tom:** Und es gibt eine kostenlose Telefonleitung — 8002, 8181 — und eine E-Mail-Adresse: info, at, maison Bindestrich orientation Punkt public Punkt l-u.  
+  → Und es gibt eine kostenlose Telefonleitung — acht null null zwei, acht eins acht eins — und eine E-Mail-Adresse: info, at, maison Bindestrich orientation Punkt public Punkt L-U.
+- **Tom:** Sie ist freiwillig, und dafür brauchen Sie einen Termin, über MyGuichet.lu — vor Ort oder online.  
+  → Sie ist freiwillig, und dafür brauchen Sie einen Termin, über MyGuichet Punkt L-U — vor Ort oder online.
 - **Tom:** Zweitens das SIA — der Dienst für die Integration und Aufnahme von Schülern in der Schule.  
   → Zweitens das S-I-A — der Dienst für die Integration und Aufnahme von Schülern in der Schule.
 - **Tom:** Dann, drittens — der Dienst für Berufsorientierung der ADEM, und die Vermittlung von Lehrstellen.  
@@ -3653,8 +5713,8 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Die Adem ist die Arbeitsagentur, und hier helfen sie bei der beruflichen Orientierung und bei der Suche nach einer Lehrstelle.
 - **Tom:** Viertens — die ATVA, die Agentur für den Übergang in ein eigenständiges Leben.  
   → Viertens — die A-T-V-A, die Agentur für den Übergang in ein eigenständiges Leben.
-- **Tom:** Die Website ist maison-orientation, alles in einem Wort, Punkt public Punkt l-u.  
-  → Die Website ist maison-orientation, alles in einem Wort, Punkt public Punkt L-U.
+- **Tom:** Die Website ist maison, Bindestrich, orientation, Punkt public Punkt l-u.  
+  → Die Website ist maison, Bindestrich, orientation, Punkt public Punkt L-U.
 - **Tom:** Sie haben sogar eine Broschürenreihe, die BOOST heißt, mit genau dieser Art von Ratschlägen.  
   → Sie haben sogar eine Broschürenreihe, die Boost heißt, mit genau dieser Art von Ratschlägen.
 - **Tom:** Wenn Sie möchten, buchen Sie einen Termin über MyGuichet.lu — wählen Sie online oder vor Ort.  
@@ -3668,20 +5728,43 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 - **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
   → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
 
-### myguichet (9)
+### mediateursante (6)
+
+- **Anna:** Luxemburg hat zwei davon: die Mediationsstelle im Gesundheitswesen und die Nationale Gesundheitskasse, die CNS.  
+  → Luxemburg hat zwei davon: die Mediationsstelle im Gesundheitswesen und die Nationale Gesundheitskasse, die C-N-S.
+- **Anna:** Für die Erstattung selbst, und für eine vorherige Genehmigung, ist die CNS die Kontaktstelle.  
+  → Für die Erstattung selbst, und für eine vorherige Genehmigung, ist die C-N-S die Kontaktstelle.
+- **Tom:** Viertens: Die Stelle beantwortet auch Fragen zur Versorgung über die Grenzen hinweg, gemeinsam mit der CNS.  
+  → Viertens: Die Stelle beantwortet auch Fragen zur Versorgung über die Grenzen hinweg, gemeinsam mit der C-N-S.
+- **Anna:** Alle Informationen finden Sie auf mediateursante Punkt public Punkt l-u.  
+  → Alle Informationen finden Sie auf médiateur santé Punkt public Punkt L-U.
+- **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
+  → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
+- **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
+  → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
+
+### myguichet (13)
 
 - **Tom:** Es heißt MyGuichet.lu.  
   → Es heißt MyGuichet Punkt L-U.
 - **Anna:** Was ist MyGuichet.lu?  
   → Was ist MyGuichet Punkt L-U?
-- **Tom:** Okay, also... MyGuichet.lu ist das Informationsportal, das Ihre Interaktionen mit dem Staat vereinfacht.  
-  → Okay, also... MyGuichet Punkt L-U ist das Informationsportal, das Ihre Interaktionen mit dem Staat vereinfacht.
+- **Tom:** Guichet.lu ist die Informationsseite des Staates, und MyGuichet.lu ist der dazugehörige sichere Online-Bereich.  
+  → Guichet Punkt L-U ist die Informationsseite des Staates, und MyGuichet Punkt L-U ist der dazugehörige sichere Online-Bereich.
+- **Tom:** MyGuichet.lu ist sicher, und es ist Ihre zentrale Anlaufstelle bei den öffentlichen Verwaltungen.  
+  → MyGuichet Punkt L-U ist sicher, und es ist Ihre zentrale Anlaufstelle bei den öffentlichen Verwaltungen.
 - **Tom:** Die Website, ja — Guichet.lu gibt es auf Französisch, Deutsch und Englisch.  
   → Die Website, ja — Guichet Punkt L-U gibt es auf Französisch, Deutsch und Englisch.
+- **Tom:** Und Sie können ihn sogar mit Ihrem Smartphone nutzen, über die App GouvID des Staates.  
+  → Und Sie können ihn sogar mit Ihrem Smartphone nutzen, über die App Gouv I-D des Staates.
 - **Tom:** Sie gehen auf Guichet.lu, Sie klicken auf „Anmelden", und Sie folgen den Schritten mit Ihrer E-Mail und Ihrem Matricule.  
   → Sie gehen auf Guichet Punkt L-U, Sie klicken auf „Anmelden", und Sie folgen den Schritten mit Ihrer E-Mail und Ihrem Matricule.
+- **Tom:** Und wenn Sie Bürger eines anderen EU-Landes sind, auch bei den Europawahlen.  
+  → Und wenn Sie Bürger eines anderen E-U-Landes sind, auch bei den Europawahlen.
 - **Tom:** MyGuichet.lu ist die sichere Online-Plattform des luxemburgischen Staates.  
   → MyGuichet Punkt L-U ist die sichere Online-Plattform des luxemburgischen Staates.
+- **Anna:** Und auf Guichet.lu gibt es jetzt einen KI-Assistenten: Sie tippen Ihre Frage in Ihren eigenen Worten ein, in Ihrer Sprache, und er hilft Ihnen, das richtige Verfahren zu finden.  
+  → Und auf Guichet Punkt L-U gibt es jetzt einen K-I-Assistenten: Sie tippen Ihre Frage in Ihren eigenen Worten ein, in Ihrer Sprache, und er hilft Ihnen, das richtige Verfahren zu finden.
 - **Anna:** Das war unsere Folge über MyGuichet.lu.  
   → Das war unsere Folge über MyGuichet Punkt L-U.
 - **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
@@ -3689,7 +5772,58 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 - **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
   → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
 
-### onis (37)
+### ombudsman (24)
+
+- **Tom:** Und die zweite ist das OKaJu, der Ombudsman für Kinder und Jugendliche.  
+  → Und die zweite ist das Okadschuh, der Ombudsman für Kinder und Jugendliche.
+- **Tom:** Auf der Website ombudsman Punkt l-u, auf Französisch und auf Englisch.  
+  → Auf der Website ombudsman Punkt L-U, auf Französisch und auf Englisch.
+- **Anna:** Kommen wir jetzt zur zweiten Institution, dem OKaJu.  
+  → Kommen wir jetzt zur zweiten Institution, dem Okadschuh.
+- **Anna:** Und was ist der Auftrag des OKaJu?  
+  → Und was ist der Auftrag des Okadschuh?
+- **Anna:** Ist das OKaJu unabhängig, so wie der Ombudsman?  
+  → Ist das Okadschuh unabhängig, so wie der Ombudsman?
+- **Anna:** Das OKaJu ist zuerst einmal für jedes Kind und jeden Jugendlichen unter achtzehn Jahren da.  
+  → Das Okadschuh ist zuerst einmal für jedes Kind und jeden Jugendlichen unter achtzehn Jahren da.
+- **Anna:** Wer denkt, dass seine Rechte nicht geachtet werden, kann sich selbst beim OKaJu melden.  
+  → Wer denkt, dass seine Rechte nicht geachtet werden, kann sich selbst beim Okadschuh melden.
+- **Anna:** Alle Schritte beim OKaJu sind kostenlos, und sie sind vertraulich.  
+  → Alle Schritte beim Okadschuh sind kostenlos, und sie sind vertraulich.
+- **Tom:** Mit welchen Fragen kommen die Menschen zum OKaJu?  
+  → Mit welchen Fragen kommen die Menschen zum Okadschuh?
+- **Tom:** Um das OKaJu zu erreichen, können Sie anrufen, eine E-Mail schreiben oder das Kontaktformular auf der Website ausfüllen.  
+  → Um das Okadschuh zu erreichen, können Sie anrufen, eine E-Mail schreiben oder das Kontaktformular auf der Website ausfüllen.
+- **Tom:** Wenn die Frage nicht in den Bereich des OKaJu fällt, verweist das Team Sie an die richtige Stelle.  
+  → Wenn die Frage nicht in den Bereich des Okadschuh fällt, verweist das Team Sie an die richtige Stelle.
+- **Anna:** Und wenn die Anfrage wirklich für das OKaJu ist?  
+  → Und wenn die Anfrage wirklich für das Okadschuh ist?
+- **Anna:** Trifft das OKaJu danach eine Entscheidung?  
+  → Trifft das Okadschuh danach eine Entscheidung?
+- **Tom:** Das OKaJu ist kein Richter, und es kann keine Entscheidung durchsetzen.  
+  → Das Okadschuh ist kein Richter, und es kann keine Entscheidung durchsetzen.
+- **Anna:** Arbeitet das OKaJu nur an einzelnen Fällen?  
+  → Arbeitet das Okadschuh nur an einzelnen Fällen?
+- **Tom:** Jugendliche zwischen dreizehn und achtzehn Jahren treffen sich regelmäßig, sprechen über Kinderrechte und beraten das OKaJu.  
+  → Jugendliche zwischen dreizehn und achtzehn Jahren treffen sich regelmäßig, sprechen über Kinderrechte und beraten das Okadschuh.
+- **Anna:** Wo finden wir das OKaJu im Internet?  
+  → Wo finden wir das Okadschuh im Internet?
+- **Tom:** Die Adresse ist okaju Punkt l-u.  
+  → Die Adresse ist Okadschuh Punkt L-U.
+- **Anna:** Der Ombudsman und das OKaJu befinden sich im selben Gebäude in Luxemburg-Stadt: im Haus der Menschenrechte.  
+  → Der Ombudsman und das Okadschuh befinden sich im selben Gebäude in Luxemburg-Stadt: im Haus der Menschenrechte.
+- **Anna:** Drittens: Das OKaJu verteidigt die Rechte der Kinder und Jugendlichen unter achtzehn Jahren.  
+  → Drittens: Das Okadschuh verteidigt die Rechte der Kinder und Jugendlichen unter achtzehn Jahren.
+- **Anna:** Sie finden sie auf ombudsman Punkt l-u und auf okaju Punkt l-u.  
+  → Sie finden sie auf ombudsman Punkt L-U und auf Okadschuh Punkt L-U.
+- **Anna:** Das war unsere Folge über den Ombudsman und das OKaJu.  
+  → Das war unsere Folge über den Ombudsman und das Okadschuh.
+- **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
+  → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
+- **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
+  → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
+
+### onis (43)
 
 - **Anna:** ONIS.  
   → Onis.
@@ -3709,8 +5843,10 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Und diese zweite Seite — die Inklusionsseite — ist die Aufgabe von Onis.
 - **Anna:** Der FNS kümmert sich um das Geld.  
   → Der F-N-S kümmert sich um das Geld.
-- **Anna:** ONIS kümmert sich um die Menschen und ihren Weg nach vorn.  
-  → Onis kümmert sich um die Menschen und ihren Weg nach vorn.
+- **Anna:** Für Menschen, die bereit sind, eine Arbeit zu suchen, ist die Inklusionsseite die ADEM, die Arbeitsagentur.  
+  → Für Menschen, die bereit sind, eine Arbeit zu suchen, ist die Inklusionsseite die Adem, die Arbeitsagentur.
+- **Anna:** Aber für Menschen, die noch weit von der Arbeit entfernt sind, ist es ONIS — es kümmert sich um die Menschen und ihren Weg nach vorn.  
+  → Aber für Menschen, die noch weit von der Arbeit entfernt sind, ist es Onis — es kümmert sich um die Menschen und ihren Weg nach vorn.
 - **Anna:** REVIS ist nicht als Scheck gedacht, den du für immer bekommst, allein zu Hause.  
   → Revis ist nicht als Scheck gedacht, den du für immer bekommst, allein zu Hause.
 - **Tom:** ONIS ist also das Amt, das mit dir über die Brücke geht.  
@@ -3725,12 +5861,20 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Onis arbeitet mit zwei Arten von Maßnahmen.
 - **Tom:** Wenn ich eine Person bin, die anfängt, REVIS zu bekommen, was passiert dann eigentlich mit ONIS?  
   → Wenn ich eine Person bin, die anfängt, Revis zu bekommen, was passiert dann eigentlich mit Onis?
-- **Anna:** Normalerweise beginnt es mit einer Einladung — du wirst zu einem Treffen eingeladen, einem Empfang, bei ONIS.  
-  → Normalerweise beginnt es mit einer Einladung — du wirst zu einem Treffen eingeladen, einem Empfang, bei Onis.
+- **Anna:** Eigentlich beginnt es bei der ADEM.  
+  → Eigentlich beginnt es bei der Adem.
+- **Anna:** Wenn du unter fünfundsechzig bist und arbeiten kannst, schaut sich die ADEM zuerst deine Situation an.  
+  → Wenn du unter fünfundsechzig bist und arbeiten kannst, schaut sich die Adem zuerst deine Situation an.
+- **Anna:** Wenn du bereit für eine Arbeit bist, begleitet dich die ADEM.  
+  → Wenn du bereit für eine Arbeit bist, begleitet dich die Adem.
+- **Anna:** Aber wenn es zuerst andere Schwierigkeiten zu lösen gibt, schickt dich die ADEM zu ONIS.  
+  → Aber wenn es zuerst andere Schwierigkeiten zu lösen gibt, schickt dich die Adem zu Onis.
+- **Anna:** Dann lädt dich ONIS zu einer Informationsversammlung ein — und dort unterschreibst du etwas, das Kooperationserklärung heißt.  
+  → Dann lädt dich Onis zu einer Informationsversammlung ein — und dort unterschreibst du etwas, das Kooperationserklärung heißt.
 - **Anna:** Auf Französisch ein „agent régional d'inclusion sociale", ein ARIS.  
   → Auf Französisch ein „agent régional d'inclusion sociale", ein Aris.
-- **Anna:** Es stimmt, dass REVIS Mitwirkung verlangt — das ist die Kooperationserklärung.  
-  → Es stimmt, dass Revis Mitwirkung verlangt — das ist die Kooperationserklärung.
+- **Anna:** Es stimmt, dass REVIS Mitwirkung verlangt — das ist die Kooperationserklärung — und wenn jemand wiederholt nicht mitmacht, kann die Zahlung gekürzt oder ausgesetzt werden.  
+  → Es stimmt, dass Revis Mitwirkung verlangt — das ist die Kooperationserklärung — und wenn jemand wiederholt nicht mitmacht, kann die Zahlung gekürzt oder ausgesetzt werden.
 - **Anna:** Und genau das ist die Falle, die REVIS und ONIS zu vermeiden versuchen.  
   → Und genau das ist die Falle, die Revis und Onis zu vermeiden versuchen.
 - **Tom:** Der Scheck ist der Boden; ONIS ist die Treppe.  
@@ -3741,6 +5885,8 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Also beantragt Paulo Revis.
 - **Anna:** Der FNS regelt die Geldseite — er bekommt das Mindesteinkommen, damit er leben kann.  
   → Der F-N-S regelt die Geldseite — er bekommt das Mindesteinkommen, damit er leben kann.
+- **Anna:** Die ADEM schaut sich seine Situation an, sieht, dass er noch nicht bereit für eine Arbeit ist, und schickt ihn zu ONIS.  
+  → Die Adem schaut sich seine Situation an, sieht, dass er noch nicht bereit für eine Arbeit ist, und schickt ihn zu Onis.
 - **Anna:** Und dann tritt ONIS in sein Leben.  
   → Und dann tritt Onis in sein Leben.
 - **Anna:** Das ist die stille Philosophie hinter ONIS.  
@@ -3755,8 +5901,8 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Und für die Revis-Leistung selbst gibt es die Informationen auf guichet Punkt L-U, und die Geldseite ist der Nationale Solidaritätsfonds, den wir in einer anderen Folge behandelt haben.
 - **Anna:** ONIS, das Nationale Amt für soziale Inklusion, ist das staatliche Amt, das die „Inklusionsseite" von REVIS regelt, Luxemburgs Eingliederungseinkommen.  
   → Onis, das Nationale Amt für soziale Inklusion, ist das staatliche Amt, das die „Inklusionsseite" von Revis regelt, Luxemburgs Eingliederungseinkommen.
-- **Anna:** Während der Nationale Solidaritätsfonds das Geld zahlt, hilft ONIS den Menschen, die am weitesten von der Arbeit entfernt sind, voranzukommen — zuerst durch Stabilisierungsmaßnahmen, dann durch Aktivierungsmaßnahmen.  
-  → Während der Nationale Solidaritätsfonds das Geld zahlt, hilft Onis den Menschen, die am weitesten von der Arbeit entfernt sind, voranzukommen — zuerst durch Stabilisierungsmaßnahmen, dann durch Aktivierungsmaßnahmen.
+- **Anna:** Während der Nationale Solidaritätsfonds das Geld zahlt, hilft ONIS den Menschen, die am weitesten von der Arbeit entfernt sind — denen, die die ADEM zu ihm schickt — voranzukommen — zuerst durch Stabilisierungsmaßnahmen, dann durch Aktivierungsmaßnahmen.  
+  → Während der Nationale Solidaritätsfonds das Geld zahlt, hilft Onis den Menschen, die am weitesten von der Arbeit entfernt sind — denen, die die Adem zu ihm schickt — voranzukommen — zuerst durch Stabilisierungsmaßnahmen, dann durch Aktivierungsmaßnahmen.
 - **Tom:** Also... ob für dich, oder für jemanden, der dir am Herzen liegt — denk daran, hinter dem REVIS-Scheck steht auch eine helfende Hand.  
   → Also... ob für dich, oder für jemanden, der dir am Herzen liegt — denk daran, hinter dem Revis-Scheck steht auch eine helfende Hand.
 - **Tom:** ONIS.  
@@ -3770,8 +5916,8 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 
 - **Tom:** Der zweite ist das Luxembourg Institute of Science and Technology, oft LIST genannt.  
   → Der zweite ist das Luxembourg Institute of Science and Technology, oft List genannt.
-- **Anna:** Das LIST arbeitet an angewandter Wissenschaft und Technologie... Materialien, Umwelt und digitale Werkzeuge, die die Industrie nutzen kann.  
-  → Das List arbeitet an angewandter Wissenschaft und Technologie... Materialien, Umwelt und digitale Werkzeuge, die die Industrie nutzen kann.
+- **Anna:** Das LIST arbeitet an angewandter Wissenschaft und Technologie.  
+  → Das List arbeitet an angewandter Wissenschaft und Technologie.
 - **Tom:** Der dritte ist das Luxembourg Institute of Health, oder LIH.  
   → Der dritte ist das Luxembourg Institute of Health, oder L-I-H.
 - **Tom:** Der vierte ist das Luxembourg Institute of Socio-Economic Research, oder LISER.  
@@ -3782,14 +5928,75 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Es ist der Fonds National de la Recherche, oft F-N-R genannt.
 - **Tom:** Der FNR betreibt nicht hauptsächlich selbst Forschung.  
   → Der F-N-R betreibt nicht hauptsächlich selbst Forschung.
-- **Tom:** Zweitens... dazu gehören die Universität Luxemburg, die Institute LIST, LIH und LISER, der Geldgeber FNR und Luxinnovation.  
-  → Zweitens... dazu gehören die Universität Luxemburg, die Institute List, L-I-H und Liser, der Geldgeber F-N-R und Luxinnovation.
+- **Tom:** Zweitens, dazu gehören die Universität Luxemburg, die Institute LIST, LIH und LISER, der Geldgeber FNR und Luxinnovation.  
+  → Zweitens, dazu gehören die Universität Luxemburg, die Institute List, L-I-H und Liser, der Geldgeber F-N-R und Luxinnovation.
 - **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
   → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
 - **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
   → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
 
-### snj (25)
+### simpa (29)
+
+- **Anna:** Er heißt SIMPA.  
+  → Er heißt Simpa.
+- **Tom:** Der SIMPA ist der Nationale Dienst für Information und Mediation im Bereich der Dienstleistungen für ältere Menschen.  
+  → Der Simpa ist der Nationale Dienst für Information und Mediation im Bereich der Dienstleistungen für ältere Menschen.
+- **Tom:** Der volle Name ist lang, deshalb sagen alle einfach SIMPA.  
+  → Der volle Name ist lang, deshalb sagen alle einfach Simpa.
+- **Tom:** Wenn der SIMPA seine Arbeit vorstellt, fasst er das Gesetz in vier Ideen zusammen: mehr Information, mehr Transparenz, mehr Qualität und mehr Mitbestimmung für die Menschen, die die Angebote nutzen.  
+  → Wenn der Simpa seine Arbeit vorstellt, fasst er das Gesetz in vier Ideen zusammen: mehr Information, mehr Transparenz, mehr Qualität und mehr Mitbestimmung für die Menschen, die die Angebote nutzen.
+- **Anna:** Der SIMPA hilft, diese Ideen für alle Dienstleistungen für ältere Menschen umzusetzen, die vom Ministerium zugelassen sind.  
+  → Der Simpa hilft, diese Ideen für alle Dienstleistungen für ältere Menschen umzusetzen, die vom Ministerium zugelassen sind.
+- **Tom:** Wer genau kann sich an den SIMPA wenden, und was kostet das?  
+  → Wer genau kann sich an den Simpa wenden, und was kostet das?
+- **Anna:** Und es kostet nichts: Alle Angebote des SIMPA sind kostenlos.  
+  → Und es kostet nichts: Alle Angebote des Simpa sind kostenlos.
+- **Tom:** Der SIMPA beschreibt seine Arbeit mit drei einfachen Ideen: zuhören, verstehen und erklären, und den Dialog stärken.  
+  → Der Simpa beschreibt seine Arbeit mit drei einfachen Ideen: zuhören, verstehen und erklären, und den Dialog stärken.
+- **Anna:** Und zum Zuhören hat der SIMPA eine Telefonlinie, die älter ist als der Dienst selbst: das Seniorentelefon, das es seit 1999 gibt.  
+  → Und zum Zuhören hat der Simpa eine Telefonlinie, die älter ist als der Dienst selbst: das Seniorentelefon, das es seit 1999 gibt.
+- **Anna:** Die Nummer lautet 247-86000.  
+  → Die Nummer lautet zwei vier sieben acht sechs null null null.
+- **Anna:** Es meldet sich jemand aus dem Team des SIMPA, auf Luxemburgisch, Französisch, Deutsch, Portugiesisch oder Englisch.  
+  → Es meldet sich jemand aus dem Team des Simpa, auf Luxemburgisch, Französisch, Deutsch, Portugiesisch oder Englisch.
+- **Tom:** Die dritte Idee ist der Dialog: Der SIMPA möchte eine gute Kommunikation zwischen den Bewohnern oder Nutzern und den Trägerorganisationen, damit ein kleines Problem gelöst werden kann, bevor es zu einem echten Konflikt wird.  
+  → Die dritte Idee ist der Dialog: Der Simpa möchte eine gute Kommunikation zwischen den Bewohnern oder Nutzern und den Trägerorganisationen, damit ein kleines Problem gelöst werden kann, bevor es zu einem echten Konflikt wird.
+- **Tom:** Jede Trägerorganisation muss ein Beschwerdeverfahren haben, und wie man es erreicht, steht im Einrichtungskonzept des Dienstes, das man auf infosenior Punkt l-u lesen kann.  
+  → Jede Trägerorganisation muss ein Beschwerdeverfahren haben, und wie man es erreicht, steht im Einrichtungskonzept des Dienstes, das man auf infosenior Punkt L-U lesen kann.
+- **Tom:** Dann kann der SIMPA eine Mediation anbieten, wenn alle Beteiligten einverstanden sind.  
+  → Dann kann der Simpa eine Mediation anbieten, wenn alle Beteiligten einverstanden sind.
+- **Anna:** Kann ein Sohn oder eine Tochter den SIMPA bitten, in einer Mediation für die eigene Mutter zu sprechen?  
+  → Kann ein Sohn oder eine Tochter den Simpa bitten, in einer Mediation für die eigene Mutter zu sprechen?
+- **Tom:** Das ist nicht möglich, denn der SIMPA vertritt niemanden.  
+  → Das ist nicht möglich, denn der Simpa vertritt niemanden.
+- **Anna:** Gibt es Situationen, in denen der SIMPA nicht die richtige Adresse ist?  
+  → Gibt es Situationen, in denen der Simpa nicht die richtige Adresse ist?
+- **Anna:** Viele Familien haben auch Fragen zum Geld, und die Website des SIMPA gibt einen Überblick über die öffentlichen Hilfen, zum Beispiel die Pflegeversicherung, eine Ergänzungsleistung namens COMPA oder die Hilfen zum Wohnen.  
+  → Viele Familien haben auch Fragen zum Geld, und die Website des Simpa gibt einen Überblick über die öffentlichen Hilfen, zum Beispiel die Pflegeversicherung, eine Ergänzungsleistung namens Compa oder die Hilfen zum Wohnen.
+- **Anna:** Das gehört nicht zu seiner Arbeit: Der SIMPA erledigt die Formalitäten nicht selbst, aber er sagt Ihnen, welche Stelle zuständig ist.  
+  → Das gehört nicht zu seiner Arbeit: Der Simpa erledigt die Formalitäten nicht selbst, aber er sagt Ihnen, welche Stelle zuständig ist.
+- **Anna:** Und um alle zugelassenen Dienste an einem Ort zu sehen, gibt es das öffentliche Register auf infosenior Punkt l-u.  
+  → Und um alle zugelassenen Dienste an einem Ort zu sehen, gibt es das öffentliche Register auf infosenior Punkt L-U.
+- **Tom:** Wie erreicht man den SIMPA, wenn man eine Frage hat oder einen Termin möchte?  
+  → Wie erreicht man den Simpa, wenn man eine Frage hat oder einen Termin möchte?
+- **Anna:** Die Website ist simpa Punkt l-u, und es gibt sie auf Französisch und auf Deutsch.  
+  → Die Website ist simpa Punkt L-U, und es gibt sie auf Französisch und auf Deutsch.
+- **Tom:** Wenn der SIMPA sich vorstellt, endet er mit drei Dingen, die man sich merken sollte.  
+  → Wenn der Simpa sich vorstellt, endet er mit drei Dingen, die man sich merken sollte.
+- **Anna:** Erstens, wen man anrufen kann: das Seniorentelefon, unter 247-86000, für eine Information, für einen Rat, oder einfach für jemanden, der zuhört.  
+  → Erstens, wen man anrufen kann: das Seniorentelefon, unter zwei vier sieben acht sechs null null null, für eine Information, für einen Rat, oder einfach für jemanden, der zuhört.
+- **Tom:** Zweitens: Der SIMPA hört zu, zeigt den richtigen Weg und bietet eine Mediation an, wenn es Streit mit einem Dienst gibt.  
+  → Zweitens: Der Simpa hört zu, zeigt den richtigen Weg und bietet eine Mediation an, wenn es Streit mit einem Dienst gibt.
+- **Anna:** Drittens: Alle zugelassenen Dienste finden Sie auf einen Blick auf infosenior Punkt l-u.  
+  → Drittens: Alle zugelassenen Dienste finden Sie auf einen Blick auf infosenior Punkt L-U.
+- **Anna:** Das war unsere Folge über den SIMPA, den Dienst für Information und Mediation für ältere Menschen.  
+  → Das war unsere Folge über den Simpa, den Dienst für Information und Mediation für ältere Menschen.
+- **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
+  → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
+- **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
+  → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
+
+### snj (26)
 
 - **Anna:** Der SNJ hat ein schönes Motto auf Luxemburgisch... „Jonker staark maachen".  
   → Der S-N-J hat ein schönes Motto auf Luxemburgisch... „Jonker staark maachen".
@@ -3815,14 +6022,16 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Wenn ein junger Mensch als Au-pair nach Luxemburg kommt und bei einer Gastfamilie lebt, begleitet der S-N-J das.
 - **Anna:** Mehr erfahren Sie unter au Bindestrich pair Punkt lu.  
   → Mehr erfahren Sie unter au Bindestrich pair Punkt L-U.
-- **Anna:** Der SNJ untersucht die Situation junger Menschen, in Zusammenarbeit mit der Universität Luxemburg.  
-  → Der S-N-J untersucht die Situation junger Menschen, in Zusammenarbeit mit der Universität Luxemburg.
+- **Anna:** Der SNJ hört jungen Menschen zu, durch Umfragen und Gesprächsgruppen.  
+  → Der S-N-J hört jungen Menschen zu, durch Umfragen und Gesprächsgruppen.
+- **Tom:** Der neueste läuft von 2026 bis 2030, und der SNJ hat geholfen, ihn vorzubereiten.  
+  → Der neueste läuft von 2026 bis 2030, und der S-N-J hat geholfen, ihn vorzubereiten.
 - **Anna:** Und es gibt BEE SECURE, das viele Menschen kennen.  
   → Und es gibt Bee Secure, das viele Menschen kennen.
 - **Tom:** BEE SECURE fördert die sichere und verantwortungsvolle Nutzung des Internets und neuer Technologien.  
   → Bee Secure fördert die sichere und verantwortungsvolle Nutzung des Internets und neuer Technologien.
-- **Anna:** Der SNJ hat fünf Bildungszentren und lokale Jugendantennen im ganzen Land für die individuelle Begleitung.  
-  → Der S-N-J hat fünf Bildungszentren und lokale Jugendantennen im ganzen Land für die individuelle Begleitung.
+- **Anna:** Der SNJ hat fünf Bildungszentren, dazu kommt ein neues in Esch-sur-Alzette, und lokale Jugendantennen im ganzen Land für die individuelle Begleitung.  
+  → Der S-N-J hat fünf Bildungszentren, dazu kommt ein neues in Esch-sur-Alzette, und lokale Jugendantennen im ganzen Land für die individuelle Begleitung.
 - **Anna:** Wie kann ein junger Mensch oder ein Elternteil den SNJ tatsächlich nutzen?  
   → Wie kann ein junger Mensch oder ein Elternteil den S-N-J tatsächlich nutzen?
 - **Tom:** Erstens... wenn Sie einen jungen Menschen kennen, der unsicher ist, was er nach der Schule tun soll, kann der SNJ ihm helfen, ein Lebensprojekt aufzubauen.  
@@ -3918,8 +6127,8 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Wenn der Staat also ein neues Gesetz plant, das das lokale Leben berührt, ist Syvicol da, um die Städte und Dörfer zu vertreten.
 - **Tom:** Wenn ein Gesetzentwurf die Gemeinden betrifft, prüft SYVICOL ihn und gibt ein Gutachten ab.  
   → Wenn ein Gesetzentwurf die Gemeinden betrifft, prüft Syvicol ihn und gibt ein Gutachten ab.
-- **Tom:** SYVICOL ist also eine Brücke... die lokale Erfahrung hinauf zu nationalen Entscheidungen trägt.  
-  → Syvicol ist also eine Brücke... die lokale Erfahrung hinauf zu nationalen Entscheidungen trägt.
+- **Tom:** SYVICOL ist also eine Brücke, die lokale Erfahrung hinauf zu nationalen Entscheidungen trägt.  
+  → Syvicol ist also eine Brücke, die lokale Erfahrung hinauf zu nationalen Entscheidungen trägt.
 - **Anna:** Durch SYVICOL können sich die Gemeinden gegenseitig beraten und von dem lernen, was andere versucht haben.  
   → Durch Syvicol können sich die Gemeinden gegenseitig beraten und von dem lernen, was andere versucht haben.
 - **Anna:** Ein kommunaler Mandatsträger zu sein ist eine große Verantwortung, und SYVICOL hilft mit Information und Weiterbildung.  
@@ -3945,7 +6154,7 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 - **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
   → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
 
-### workinluxembourg (17)
+### workinluxembourg (20)
 
 - **Tom:** Aufgebaut wurde es gemeinsam vom Wirtschaftsministerium, vom Arbeitsministerium, von ADEM — das ist die nationale Arbeitsagentur —, von der Handelskammer, der Handwerkskammer und einer Agentur namens Luxinnovation.  
   → Aufgebaut wurde es gemeinsam vom Wirtschaftsministerium, vom Arbeitsministerium, von Adem — das ist die nationale Arbeitsagentur —, von der Handelskammer, der Handwerkskammer und einer Agentur namens Luxinnovation.
@@ -3955,10 +6164,16 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Adem — das ist die nationale Arbeitsagentur, die du erwähnt hast.
 - **Tom:** ADEM ist Luxemburgs öffentlicher Arbeitsvermittlungsdienst.  
   → Adem ist Luxemburgs öffentlicher Arbeitsvermittlungsdienst.
-- **Tom:** Tatsächlich hat die Plattform bereits rund elftausend Kandidatinnen und Kandidaten aus aller Welt, die von ADEM vorausgewählt wurden.  
-  → Tatsächlich hat die Plattform bereits rund elftausend Kandidatinnen und Kandidaten aus aller Welt, die von Adem vorausgewählt wurden.
-- **Tom:** Laut dem IMD World Talent Ranking ist es weltweit das zweitbeste Land, wenn es darum geht, Talente anzuziehen.  
-  → Laut dem I-M-D World Talent Ranking ist es weltweit das zweitbeste Land, wenn es darum geht, Talente anzuziehen.
+- **Tom:** Jedes Profil wird von ADEM vorab geprüft, und Arbeitgeber durchsuchen die Datenbank und kontaktieren Kandidaten direkt.  
+  → Jedes Profil wird von Adem vorab geprüft, und Arbeitgeber durchsuchen die Datenbank und kontaktieren Kandidaten direkt.
+- **Anna:** Von ADEM vorab geprüft.  
+  → Von Adem vorab geprüft.
+- **Tom:** Der Arbeitgeber muss nicht zuerst vor Ort nach jemandem suchen, und so gibt ADEM innerhalb weniger Tage grünes Licht.  
+  → Der Arbeitgeber muss nicht zuerst vor Ort nach jemandem suchen, und so gibt Adem innerhalb weniger Tage grünes Licht.
+- **Tom:** Du erreichst den Talent Desk per E-Mail unter contact@talentdesk.lu, oder du besuchst ihn nach Terminvereinbarung auf Kirchberg.  
+  → Du erreichst den Talent Desk per E-Mail unter contact at talentdesk Punkt L-U, oder du besuchst ihn nach Terminvereinbarung auf Kirchberg.
+- **Tom:** Und das IMD World Talent Ranking zählt es weltweit zu den besten Ländern, wenn es darum geht, Talente anzuziehen.  
+  → Und das I-M-D World Talent Ranking zählt es weltweit zu den besten Ländern, wenn es darum geht, Talente anzuziehen.
 - **Tom:** Also findet sie das Portal — workinluxembourg.com.  
   → Also findet sie das Portal — workinluxembourg Punkt com.
 - **Tom:** Dann geht sie zum Job Board, erstellt ein Profil und bewirbt sich auf ein paar offene Stellen — echte Jobs, über ADEM.  
@@ -3982,19 +6197,31 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 - **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
   → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
 
-### zesumme (2)
+### zesumme (8)
 
+- **Tom:** Die Plattform wurde 2022 gestartet und ist Teil einer größeren Anstrengung zur Verwaltungsvereinfachung.  
+  → Die Plattform wurde zweitausendzweiundzwanzig gestartet und ist Teil einer größeren Anstrengung zur Verwaltungsvereinfachung.
+- **Tom:** Lange Zeit musste man, wenn man persönlich Hilfe bei einem Verfahren wollte, zum Empfangsschalter von Guichet.lu in Luxemburg-Stadt gehen.  
+  → Lange Zeit musste man, wenn man persönlich Hilfe bei einem Verfahren wollte, zum Empfangsschalter von Guichet Punkt L-U in Luxemburg-Stadt gehen.
+- **Tom:** Er heißt Guichet.lu on tour.  
+  → Er heißt Guichet Punkt L-U on tour.
+- **Tom:** Sie können Hilfe bei einem Verfahren bekommen, oder bei der Nutzung von MyGuichet.lu.  
+  → Sie können Hilfe bei einem Verfahren bekommen, oder bei der Nutzung von MyGuichet Punkt L-U.
+- **Tom:** Zweitens: Sie wird vom Ministerium für Digitalisierung betrieben und wurde 2022 gestartet, als Teil von „Einfach Lëtzebuerg".  
+  → Zweitens: Sie wird vom Ministerium für Digitalisierung betrieben und wurde zweitausendzweiundzwanzig gestartet, als Teil von „Einfach Lëtzebuerg".
+- **Tom:** Und viertens: Sie hat bereits geholfen, echte Dienste zu verändern, wie den Bus von Guichet.lu, der den Schalter näher zu den Menschen bringt.  
+  → Und viertens: Sie hat bereits geholfen, echte Dienste zu verändern, wie den Bus von Guichet Punkt L-U, der den Schalter näher zu den Menschen bringt.
 - **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
   → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
 - **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
   → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
 
-### zukunftskeess (12)
+### zukunftskeess (13)
 
 - **Anna:** Ihr Zuhause im Internet ist c-a-e Punkt l-u.  
   → Ihr Zuhause im Internet ist C-A-E Punkt L-U.
 - **Tom:** cae.lu.  
-  → cae Punkt L-U.
+  → C-A-E Punkt L-U.
 - **Anna:** Für die genaue Zahl von heute schaust du also auf die offizielle Seite — das ist die Seite „soziale Parameter" auf guichet Punkt l-u.  
   → Für die genaue Zahl von heute schaust du also auf die offizielle Seite — das ist die Seite „soziale Parameter" auf guichet Punkt L-U.
 - **Anna:** Die meisten Dinge kann man online erledigen, über MyGuichet.lu — die digitale Plattform des Staates.  
@@ -4006,11 +6233,13 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 - **Anna:** Erstens — geh auf die Website, c-a-e Punkt l-u, oder auf MyGuichet.lu.  
   → Erstens — geh auf die Website, C-A-E Punkt L-U, oder auf MyGuichet Punkt L-U.
 - **Tom:** cae.lu.  
-  → cae Punkt L-U.
+  → C-A-E Punkt L-U.
+- **Anna:** Und wenn dein Kind achtzehn wird, aber in der Schule bleibt, schick das Formular zurück, damit das Kindergeld bis fünfundzwanzig weiterläuft — das geht jetzt auch online, auf MyGuichet.lu.  
+  → Und wenn dein Kind achtzehn wird, aber in der Schule bleibt, schick das Formular zurück, damit das Kindergeld bis fünfundzwanzig weiterläuft — das geht jetzt auch online, auf MyGuichet Punkt L-U.
 - **Anna:** Die Zukunftskeess — die Zukunftskasse (Caisse pour l'avenir des enfants), cae.lu — ist die staatliche Stelle für Familienleistungen in Luxemburg.  
-  → Die Zukunftskeess — die Zukunftskasse (Caisse pour l'avenir des enfants), cae Punkt L-U — ist die staatliche Stelle für Familienleistungen in Luxemburg.
+  → Die Zukunftskeess — die Zukunftskasse (Caisse pour l'avenir des enfants), C-A-E Punkt L-U — ist die staatliche Stelle für Familienleistungen in Luxemburg.
 - **Tom:** cae.lu.  
-  → cae Punkt L-U.
+  → C-A-E Punkt L-U.
 - **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
   → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
 - **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  

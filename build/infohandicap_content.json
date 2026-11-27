@@ -1,0 +1,215 @@
+{
+ "en": {
+  "title": "Info-Handicap – Nothing About Us Without Us",
+  "description": "Info-Handicap is the National Council for Persons with Disabilities in Luxembourg. Discover its information and advice service for everyone, its work for accessibility, the SAMT service that helps people learn to travel by public transport, its training for companies and staff, and the free sunflower strap and card for hidden disabilities.",
+  "topics": [
+   "What Info-Handicap is",
+   "Its member organisations",
+   "Nothing about us without us",
+   "Information and advice for everyone",
+   "The disability guide",
+   "Accessibility and the EureWelcome label",
+   "Learning to use public transport (SAMT)",
+   "Training, the sunflower and elections"
+  ],
+  "questions": [
+   {
+    "text": "What is Info-Handicap?",
+    "options": [
+     "The national council for people with disabilities, a non-profit association",
+     "A State administration that pays the allowances for people with disabilities",
+     "A private insurance company that covers people with a disability",
+     "A hospital department that treats people with a disability"
+    ],
+    "correct": 0,
+    "explanation": "Info-Handicap is the National Council for Persons with Disabilities in Luxembourg. It is a non-profit association that has worked for the rights of people with disabilities since 1993 and brings together more than sixty member organisations."
+   },
+   {
+    "text": "Who can contact Info-Handicap's information and advice service?",
+    "options": [
+     "Everyone: people with or without a disability, families, employers",
+     "Only people whose disability has been officially recognised",
+     "Only the member associations and the people who work for them",
+     "Only employers who want to hire a person with a disability"
+    ],
+    "correct": 0,
+    "explanation": "The service is open to everyone: people with or without a disability, their families and friends, employers, people who work with people with disabilities, and anyone who is interested."
+   },
+   {
+    "text": "What do you need to get a sunflower strap and card from Info-Handicap?",
+    "options": [
+     "Nothing: they are free, without registration and without proof",
+     "A medical certificate that describes your disability in detail",
+     "A membership card from one of Info-Handicap's member associations",
+     "A request form signed by your doctor and by your commune"
+    ],
+    "correct": 0,
+    "explanation": "Info-Handicap gives the strap and the card free of charge to anyone who asks, without registration and without proof. You simply go to its office in Luxembourg City on a weekday."
+   },
+   {
+    "text": "What does the SAMT service help people with disabilities to do?",
+    "options": [
+     "Learn to use public transport on their own and safely",
+     "Get a driving licence that is adapted to their disability",
+     "Buy an electric wheelchair at a price reduced by the State",
+     "Book a taxi whose fare is paid back by the commune"
+    ],
+    "correct": 0,
+    "explanation": "SAMT helps people with disabilities learn to use public transport on their own and safely: a first talk, a personal learning plan, practice with a trainer, and preparation for the unexpected, such as a cancelled bus."
+   },
+   {
+    "text": "What does Info-Handicap's motto \"Nothing about us without us\" mean?",
+    "options": [
+     "Decisions about people with disabilities should never be taken without them",
+     "People with disabilities should take every decision alone, without anyone else",
+     "Only doctors should decide what people with disabilities really need",
+     "Information about people with disabilities must always stay secret"
+    ],
+    "correct": 0,
+    "explanation": "The motto, which comes from the European Disability Forum, means that decisions about people with disabilities should never be taken without them. People with disabilities take an active part in Info-Handicap's work."
+   }
+  ]
+ },
+ "fr": {
+  "title": "Info-Handicap – Rien sur nous, sans nous",
+  "description": "Info-Handicap est le Conseil national des personnes handicapées au Luxembourg. Découvrez son service d'information et de conseil ouvert à tous, son travail pour l'accessibilité, le service SAMT qui aide à apprendre à voyager en transports publics, ses formations pour les entreprises et le personnel, et la lanière et la carte tournesol gratuites pour les handicaps invisibles.",
+  "topics": [
+   "Ce qu'est Info-Handicap",
+   "Ses organisations membres",
+   "Rien sur nous, sans nous",
+   "Information et conseil pour tous",
+   "Le Guide du Handicap",
+   "L'accessibilité et le label EureWelcome",
+   "Apprendre à utiliser les transports publics (SAMT)",
+   "Formations, tournesol et élections"
+  ],
+  "questions": [
+   {
+    "text": "Qu'est-ce qu'Info-Handicap ?",
+    "options": [
+     "Le conseil national des personnes handicapées, une association sans but lucratif",
+     "Une administration de l'État qui paie les allocations aux personnes handicapées",
+     "Une compagnie d'assurance privée qui couvre les personnes en situation de handicap",
+     "Un service hospitalier qui soigne les personnes en situation de handicap"
+    ],
+    "correct": 0,
+    "explanation": "Info-Handicap est le Conseil national des personnes handicapées au Luxembourg. C'est une association sans but lucratif qui défend depuis 1993 les droits des personnes en situation de handicap et qui réunit plus de soixante organisations membres."
+   },
+   {
+    "text": "Qui peut s'adresser au service d'information et de conseil d'Info-Handicap ?",
+    "options": [
+     "Tout le monde : personnes avec ou sans handicap, familles, employeurs",
+     "Seulement les personnes dont le handicap est officiellement reconnu",
+     "Seulement les associations membres et les personnes qui y travaillent",
+     "Seulement les employeurs qui veulent engager une personne handicapée"
+    ],
+    "correct": 0,
+    "explanation": "Le service est ouvert à tous : personnes en situation de handicap ou non, familles et amis, employeurs, personnes qui travaillent avec des personnes handicapées, et toute personne intéressée."
+   },
+   {
+    "text": "De quoi avez-vous besoin pour obtenir une lanière et une carte tournesol auprès d'Info-Handicap ?",
+    "options": [
+     "De rien : elles sont gratuites, sans inscription et sans justificatif",
+     "D'un certificat médical qui décrit votre handicap en détail",
+     "D'une carte de membre d'une des associations membres d'Info-Handicap",
+     "D'un formulaire de demande signé par votre médecin et votre commune"
+    ],
+    "correct": 0,
+    "explanation": "Info-Handicap donne gratuitement la lanière et la carte à toute personne qui le demande, sans inscription et sans justificatif. Il suffit de se rendre à son bureau à Luxembourg-ville un jour de semaine."
+   },
+   {
+    "text": "À quoi le service SAMT aide-t-il les personnes en situation de handicap ?",
+    "options": [
+     "À apprendre à utiliser les transports publics de manière autonome et en sécurité",
+     "À obtenir un permis de conduire adapté à leur handicap",
+     "À acheter un fauteuil roulant électrique à un prix réduit par l'État",
+     "À réserver un taxi dont le prix est remboursé par la commune"
+    ],
+    "correct": 0,
+    "explanation": "SAMT aide les personnes en situation de handicap à apprendre à utiliser les transports publics de manière autonome et en toute sécurité : un premier entretien, un plan d'apprentissage personnalisé, l'entraînement avec un formateur et la préparation aux imprévus, comme un bus supprimé."
+   },
+   {
+    "text": "Que veut dire la devise d'Info-Handicap « Rien sur nous, sans nous » ?",
+    "options": [
+     "Les décisions qui concernent les personnes handicapées ne doivent jamais être prises sans elles",
+     "Les personnes handicapées doivent prendre toutes les décisions seules, sans personne d'autre",
+     "Seuls les médecins doivent décider de ce dont les personnes handicapées ont vraiment besoin",
+     "Les informations sur les personnes handicapées doivent toujours rester secrètes"
+    ],
+    "correct": 0,
+    "explanation": "Cette devise, qui vient du Forum européen des personnes handicapées, veut dire que les décisions qui concernent les personnes handicapées ne doivent jamais être prises sans elles. Les personnes en situation de handicap participent activement au travail d'Info-Handicap."
+   }
+  ]
+ },
+ "de": {
+  "title": "Info-Handicap – Nichts über uns ohne uns",
+  "description": "Info-Handicap ist der Nationale Rat der Menschen mit Behinderungen in Luxemburg. Entdecken Sie seine Informations- und Beratungsstelle für alle, seine Arbeit für Barrierefreiheit, den Dienst SAMT, der hilft, das Fahren mit öffentlichen Verkehrsmitteln zu lernen, seine Kurse für Unternehmen und Mitarbeitende, und das kostenlose Sonnenblumen-Band mit Karte für unsichtbare Behinderungen.",
+  "topics": [
+   "Was Info-Handicap ist",
+   "Seine Mitgliedsorganisationen",
+   "Nichts über uns ohne uns",
+   "Information und Beratung für alle",
+   "Der Ratgeber zum Thema Behinderung",
+   "Barrierefreiheit und das Label EureWelcome",
+   "Öffentliche Verkehrsmittel nutzen lernen (SAMT)",
+   "Weiterbildung, Sonnenblume und Wahlen"
+  ],
+  "questions": [
+   {
+    "text": "Was ist Info-Handicap?",
+    "options": [
+     "Der Nationale Rat der Menschen mit Behinderungen, ein gemeinnütziger Verein",
+     "Eine staatliche Verwaltung, die Leistungen an Menschen mit Behinderungen zahlt",
+     "Eine private Versicherung, die Menschen mit einer Behinderung absichert",
+     "Eine Krankenhausabteilung, die Menschen mit einer Behinderung behandelt"
+    ],
+    "correct": 0,
+    "explanation": "Info-Handicap ist der Nationale Rat der Menschen mit Behinderungen in Luxemburg. Es ist ein gemeinnütziger Verein, der sich seit 1993 für die Rechte von Menschen mit Behinderungen einsetzt und mehr als sechzig Mitgliedsorganisationen vereint."
+   },
+   {
+    "text": "Wer kann sich an die Informations- und Beratungsstelle von Info-Handicap wenden?",
+    "options": [
+     "Alle: Menschen mit oder ohne Behinderung, Familien, Arbeitgeber",
+     "Nur Menschen, deren Behinderung offiziell anerkannt ist",
+     "Nur die Mitgliedsvereinigungen und die Menschen, die dort arbeiten",
+     "Nur Arbeitgeber, die einen Menschen mit Behinderung einstellen wollen"
+    ],
+    "correct": 0,
+    "explanation": "Die Beratungsstelle ist für alle offen: Menschen mit oder ohne Behinderung, ihre Familien und Freunde, Arbeitgeber, Menschen, die mit Menschen mit Behinderungen arbeiten, und alle, die sich dafür interessieren."
+   },
+   {
+    "text": "Was brauchen Sie, um bei Info-Handicap ein Sonnenblumen-Band und eine Karte zu bekommen?",
+    "options": [
+     "Nichts: Sie sind kostenlos, ohne Anmeldung und ohne Nachweis",
+     "Ein ärztliches Attest, das Ihre Behinderung genau beschreibt",
+     "Eine Mitgliedskarte einer der Mitgliedsvereinigungen von Info-Handicap",
+     "Ein Antragsformular, das Ihr Arzt und Ihre Gemeinde unterschrieben haben"
+    ],
+    "correct": 0,
+    "explanation": "Info-Handicap gibt das Band und die Karte kostenlos an alle, die danach fragen, ohne Anmeldung und ohne Nachweis. Man geht einfach an einem Werktag in das Büro in Luxemburg-Stadt."
+   },
+   {
+    "text": "Wobei hilft der Dienst SAMT Menschen mit Behinderungen?",
+    "options": [
+     "Öffentliche Verkehrsmittel selbstständig und sicher nutzen zu lernen",
+     "Einen Führerschein zu bekommen, der an ihre Behinderung angepasst ist",
+     "Einen elektrischen Rollstuhl zu einem vom Staat gesenkten Preis zu kaufen",
+     "Ein Taxi zu buchen, dessen Fahrpreis die Gemeinde zurückzahlt"
+    ],
+    "correct": 0,
+    "explanation": "SAMT hilft Menschen mit Behinderungen, öffentliche Verkehrsmittel selbstständig und sicher zu nutzen: ein erstes Gespräch, ein persönlicher Lernplan, Üben mit einem Trainer und Vorbereitung auf Unerwartetes, zum Beispiel einen ausgefallenen Bus."
+   },
+   {
+    "text": "Was bedeutet das Motto von Info-Handicap „Nichts über uns ohne uns“?",
+    "options": [
+     "Entscheidungen über Menschen mit Behinderungen sollen nie ohne sie getroffen werden",
+     "Menschen mit Behinderungen sollen alle Entscheidungen allein treffen, ohne andere",
+     "Nur Ärzte sollen entscheiden, was Menschen mit Behinderungen wirklich brauchen",
+     "Informationen über Menschen mit Behinderungen müssen immer geheim bleiben"
+    ],
+    "correct": 0,
+    "explanation": "Das Motto stammt vom Europäischen Behindertenforum und bedeutet, dass Entscheidungen über Menschen mit Behinderungen nie ohne sie getroffen werden sollen. Menschen mit Behinderungen arbeiten bei Info-Handicap aktiv mit."
+   }
+  ]
+ }
+}

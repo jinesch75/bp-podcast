@@ -26,7 +26,8 @@ WORDS = {"ADEM": "Adem", "REVIS": "Revis", "ONIS": "Onis", "SYVICOL": "Syvicol",
          "LISER": "Liser", "LIST": "List", "ASTA": "Asta", "OSAPS": "Osaps", "ARIS": "Aris", "AMIF": "Amif",
          "BOOST": "Boost", "BEE SECURE": "Bee Secure", "UNESCO": "Unesco", "IBAN": "Iban",
          "PIN": "Pin", "CSIRT": "C-Sirt", "PAN-Bio": "Pan-Bio",
-         "SIMPA": "Simpa", "COMPA": "Compa"}
+         "SIMPA": "Simpa", "COMPA": "Compa",
+         "SAMT": "Samt", "MOSAIK": "Mosaik"}   # infohandicap ep (2026-11-27): said as words, not A/B tested — check by ear
 # EN LISER/STATEC: Jacques's A/B choices D/D (2026-11-17)
 # EN ADEM: A/B choice E "Addem", one pronunciation everywhere (2026-11-20)
 WORDS_LANG = {"en": {"FEDER": "Feder", "LISER": "Lyser", "STATEC": "Statek", "ADEM": "Addem"}, "fr": {"FEDER": "Féder"}, "de": {"FEDER": "Feder"}}
@@ -82,6 +83,9 @@ NAMES = {
            (r"(?i)\bokaju\b", "Okadjou")],   # ombudsman ep: Jacques 2026-11-23 "OKA-JUU", J as in "juice" (was "Okayou")
     #jepeuxvoter ep (2026-11-20)
     "de": [(r"\bwurde 1988 von\b", "wurde neunzehnhundertachtundachtzig von"),   # LAR ep (2026-11-26), written out like the KJT year (pre-emptive)
+           (r"\bseit 1993 für\b", "seit neunzehnhundertdreiundneunzig für"),   # infohandicap ep (2026-11-27), pre-emptive like LAR/KJT
+           (r"\bVolkszählung von 2021\b", "Volkszählung von zweitausendeinundzwanzig"),   # infohandicap ep, pre-emptive
+           (r"\bim Jahr 2023 dürfen\b", "im Jahr zweitausenddreiundzwanzig dürfen"),   # infohandicap ep, pre-emptive   # LAR ep (2026-11-26), written out like the KJT year (pre-emptive)
            (r"\bwurde 1992 gegründet\b", "wurde neunzehnhundertzweiundneunzig gegründet"),
            (r"\bwurde 2022 gestartet\b", "wurde zweitausendzweiundzwanzig gestartet"),   # Zesumme Vereinfachen: Jacques 2026-11-26, year not pronounced correctly   # KJT ep: Jacques 2026-11-26, Tom said "1990"
            (r"\bvom 23\. August 2023\b", "vom dreiundzwanzigsten August zweitausenddreiundzwanzig"),   # SIMPA ep (2026-11-26), was slow
@@ -138,6 +142,8 @@ def rules(lang):
         (r"\bkjt\b", "K-J-T"),
         # lar.lu (LAR ep, 2026-11-26): "L-A-R dot L-U"; only before dot/point/Punkt
         (r"\blar(?= (?:dot|point|Punkt) )", "L-A-R"),
+        # info@iha.lu (infohandicap ep, 2026-11-27): "info at I-H-A dot L-U"
+        (r"\biha(?= (?:dot|point|Punkt) )", "I-H-A"),
         # cet.lu (CET ep, 2026-11-23): "C-E-T dot L-U"; only before dot/point/Punkt, because "cet" is a French word
         (r"\bcet(?= (?:dot|point|Punkt) )", "C-E-T"),
         # consommateurs ep (2026-11-24): ulc.lu -> "U-L-C dot L-U", cecluxembourg.lu -> "C-E-C Luxembourg dot L-U"
@@ -170,7 +176,7 @@ def rules(lang):
         # KJT ep (2026-11-24): helpline numbers digit by digit, with a small pause between the two groups
         if lang == "fr":   # like "cent-douze" for 112: three "un" in a row were not clearly audible
             r.append((r"\b116 111\b", "cent seize, cent onze"))
-        for num in ("116 111", "8002 4444", "8002 1234"):
+        for num in ("116 111", "8002 4444", "8002 1234", "366 466"):   # 366 466: Info-Handicap (2026-11-27)
             g1, g2 = num.split()
             r.append((r"\b" + num + r"\b", " ".join(DIGITS[lang][int(c)] for c in g1) + ", " + " ".join(DIGITS[lang][int(c)] for c in g2)))
         r.append((r"\b\d(?:-\d)+\b", _digits(lang)))                      # 2-4-7, 8-0-0-2
