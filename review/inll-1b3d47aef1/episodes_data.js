@@ -6,7 +6,7 @@ const EPISODES = [
   "title": "INLL – Learning Luxembourgish and Other Languages",
   "description": "The National Institute of Languages Luxembourg (INLL) is a public centre where adults learn more than ten languages and can have their skills certified. Discover how to enrol through MyINL, the many ways to learn Luxembourgish, including the intensive Moving Languages course, how the Sproochentest for nationality works, and the other certificates and trainings.",
   "audio": "../../podcast_inll.mp3",
-  "duration": 644.23,
+  "duration": 644.13,
   "topics": [
    "What the INLL is",
    "More than ten languages, three sites",
@@ -450,123 +450,118 @@ const EPISODES = [
    },
    {
     "speaker": "Tom",
-    "text": "Good to know.",
+    "text": "Good to know, and one thing the INLL does not offer is the citizenship courses for nationality: these are organised by the Adult Education Service and its partners.",
     "t": 471.85
-   },
-   {
-    "speaker": "Tom",
-    "text": "One thing the INLL does not offer is the citizenship courses for nationality: these are organised by the Adult Education Service and its partners.",
-    "t": 472.72
    },
    {
     "speaker": "Anna",
     "text": "Besides the Sproochentest, are there other certificates in Luxembourgish that you can take?",
-    "t": 482.38
+    "t": 482.8
    },
    {
     "speaker": "Tom",
     "text": "Yes, there are two more: the first is a national diploma for Luxembourgish as a foreign language, from level A2 to C1, which can be useful at work, and you do not need to have followed a course at the INLL to take it.",
-    "t": 487.37
+    "t": 487.79
    },
    {
     "speaker": "Tom",
     "text": "The second is a short test of Luxembourgish spelling.",
-    "t": 501.91
+    "t": 502.33
    },
    {
     "speaker": "Tom",
     "text": "And for other languages, the INLL is an exam centre for well-known international certificates, such as the Cambridge exams for English or the Goethe certificate for German.",
-    "t": 504.79
+    "t": 505.21
    },
    {
     "speaker": "Anna",
     "text": "The INLL does not only teach learners: it also trains teachers.",
-    "t": 514.76
+    "t": 515.18
    },
    {
     "speaker": "Anna",
     "text": "There is a training for people who want to teach Luxembourgish to adults, one for teaching languages for work, and one to become a communication coach: a colleague who helps others to speak Luxembourgish in a team with many nationalities.",
-    "t": 520.18
+    "t": 520.6
    },
    {
     "speaker": "Tom",
     "text": "And one last tip: if you work in Luxembourg, there is a special language leave to learn Luxembourgish, and our episode about lifelong learning explains it.",
-    "t": 535.62
+    "t": 536.04
    },
    {
     "speaker": "Tom",
     "text": "The website of the institute is inll dot l-u, in four languages, with the questions people ask most often and a contact form.",
-    "t": 543.98
+    "t": 544.4
    },
    {
     "speaker": "Anna",
     "text": "Before we finish, what are the main points to keep in mind from this episode?",
-    "t": 553.1
+    "t": 553.52
    },
    {
     "speaker": "Tom",
     "text": "First, the INLL is a public institute where adults can learn more than ten languages, including Luxembourgish, at three sites, in class, online or at their own pace.",
-    "t": 557.55
+    "t": 557.97
    },
    {
     "speaker": "Tom",
     "text": "Second, you sign up through MyINL, with a recommended level: beginners choose A1, the others take a short test and an orientation talk.",
-    "t": 569.05
+    "t": 569.47
    },
    {
     "speaker": "Anna",
     "text": "And third, the Sproochentest, the Luxembourgish test for nationality, has a speaking part and a listening part, and you can take it again as often as you need.",
-    "t": 578.81
+    "t": 579.23
    },
    {
     "speaker": "Anna",
     "text": "Because every new language opens a door to new people.",
-    "t": 588.52
+    "t": 588.94
    },
    {
     "speaker": "Anna",
     "text": "That was our episode about the INLL, the National Institute of Languages Luxembourg.",
-    "t": 591.62
+    "t": 592.04
    },
    {
     "speaker": "Anna",
     "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
-    "t": 597.69
+    "t": 598.11
    },
    {
     "speaker": "Anna",
     "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
-    "t": 607.39
+    "t": 607.28
    },
    {
     "speaker": "Anna",
     "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
-    "t": 625.68
+    "t": 625.57
    },
    {
     "speaker": "Anna",
     "text": "And the activities are free of charge.",
-    "t": 632.43
+    "t": 632.32
    },
    {
     "speaker": "Anna",
     "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
-    "t": 634.63
+    "t": 634.52
    },
    {
     "speaker": "Tom",
     "text": "Thank you, everyone.",
-    "t": 639.32
+    "t": 639.21
    },
    {
     "speaker": "Tom",
     "text": "Take care, and see you next time!",
-    "t": 640.49
+    "t": 640.38
    },
    {
     "speaker": "Anna",
     "text": "Thank you so much for listening.",
-    "t": 642.63
+    "t": 642.52
    }
   ],
   "questions": [
@@ -770,7 +765,7 @@ const EPISODES = [
    }
   ],
   "audio_fr": "../../podcast_inll_fr.mp3",
-  "duration_fr": 600.95,
+  "duration_fr": 601.36,
   "segments_fr": [
    {
     "speaker": "Anna",
@@ -980,346 +975,341 @@ const EPISODES = [
    {
     "speaker": "Tom",
     "text": "Une fois votre niveau connu, vous choisissez votre cours, dans la limite des places disponibles, et vous payez dans le délai prévu.",
-    "t": 201.49
+    "t": 201.46
    },
    {
     "speaker": "Anna",
     "text": "Et le prix d'un cours : est-ce que tout le monde paie la même chose ?",
-    "t": 208.57
+    "t": 208.54
    },
    {
     "speaker": "Tom",
     "text": "Le prix de chaque cours est indiqué sur MyINL, et les livres ne sont pas compris.",
-    "t": 212.06
+    "t": 212.03
    },
    {
     "speaker": "Tom",
     "text": "Certaines personnes paient un tarif beaucoup plus bas, par exemple les demandeurs d'emploi envoyés à un cours par l'ADEM, ou les personnes qui ont signé le contrat d'accueil et d'intégration.",
-    "t": 216.72
+    "t": 216.69
    },
    {
     "speaker": "Tom",
     "text": "Elles ont besoin d'un bon ou d'un certificat du service concerné.",
-    "t": 225.78
+    "t": 225.75
    },
    {
     "speaker": "Anna",
     "text": "Nous arrivons maintenant au cœur de notre sujet : le luxembourgeois.",
-    "t": 229.4
+    "t": 229.37
    },
    {
     "speaker": "Anna",
     "text": "Que trouve à l'INLL une personne qui veut l'apprendre ?",
-    "t": 232.85
+    "t": 232.82
    },
    {
     "speaker": "Tom",
     "text": "Il y a beaucoup de façons de l'apprendre : les cours classiques ont deux ou trois leçons par semaine, mais vous pouvez aussi apprendre en ligne par vidéo, ou combiner des leçons sur place avec un travail en ligne.",
-    "t": 235.98
+    "t": 235.95
    },
    {
     "speaker": "Tom",
     "text": "Dans les cours hybrides, vous décidez même pour chaque leçon si vous venez sur place ou si vous suivez depuis chez vous.",
-    "t": 246.23
+    "t": 246.2
    },
    {
     "speaker": "Anna",
     "text": "Une formule est assez nouvelle, et elle s'appelle Moving Languages.",
-    "t": 252.54
+    "t": 252.51
    },
    {
     "speaker": "Anna",
     "text": "C'est un cours intensif de luxembourgeois ou de français qui dure huit semaines, avec trois heures de cours par jour.",
-    "t": 255.92
+    "t": 255.89
    },
    {
     "speaker": "Anna",
     "text": "On apprend avec le mouvement et avec les cinq sens, et uniquement dans la nouvelle langue, dès le premier jour.",
-    "t": 261.07
+    "t": 261.04
    },
    {
     "speaker": "Tom",
     "text": "Huit semaines, cela paraît court : qu'est-ce qu'on peut vraiment atteindre en si peu de temps ?",
-    "t": 266.69
+    "t": 266.66
    },
    {
     "speaker": "Anna",
     "text": "L'objectif est le niveau A2 à l'oral, pour des personnes qui commencent sans aucune connaissance.",
-    "t": 271.59
+    "t": 271.56
    },
    {
     "speaker": "Anna",
     "text": "Autrement dit, après deux mois, vous pouvez mener des conversations simples de la vie de tous les jours.",
-    "t": 276.32
+    "t": 276.29
    },
    {
     "speaker": "Anna",
     "text": "La méthode vient du Liechtenstein, et l'INLL l'a développée au Luxembourg avec le Service de la formation des adultes.",
-    "t": 280.91
+    "t": 280.88
    },
    {
     "speaker": "Tom",
     "text": "Et pour les personnes qui ont peu de temps et qui préfèrent apprendre à leur rythme, y a-t-il aussi quelque chose ?",
-    "t": 287.93
+    "t": 287.9
    },
    {
     "speaker": "Anna",
     "text": "Oui : il existe un cours de luxembourgeois en autonomie guidée.",
-    "t": 293.46
+    "t": 293.43
    },
    {
     "speaker": "Anna",
     "text": "Vous travaillez surtout seul, sur une plateforme en ligne, avec quelques séances vidéo en direct et une séance de soutien en ligne chaque semaine.",
-    "t": 297.01
+    "t": 296.98
    },
    {
     "speaker": "Anna",
     "text": "À la fin, vous passez un test oral sur place, à Luxembourg-ville.",
-    "t": 303.58
+    "t": 303.55
    },
    {
     "speaker": "Tom",
     "text": "Et entre les leçons, l'INLL a même son propre podcast, en luxembourgeois simple pour débutants.",
-    "t": 306.82
+    "t": 306.79
    },
    {
     "speaker": "Tom",
     "text": "Sur place, les apprenants trouvent aussi une médiathèque, des tandems linguistiques, et des événements où l'on se rencontre et où l'on parle dans les langues que l'on apprend.",
-    "t": 312.85
+    "t": 312.82
    },
    {
     "speaker": "Anna",
     "text": "Comment savoir si je progresse : y a-t-il un test à la fin d'un cours ?",
-    "t": 321.82
+    "t": 321.79
    },
    {
     "speaker": "Tom",
     "text": "Dans la plupart des cours semestriels, votre travail est évalué au fil du cours, avec un test oral à la fin, et il faut réussir pour passer au niveau suivant.",
-    "t": 325.52
+    "t": 325.49
    },
    {
     "speaker": "Tom",
     "text": "Vous recevez ensuite un bilan de compétences qui indique votre niveau, et vous pouvez le télécharger sur MyINL, avec un certificat de participation.",
-    "t": 334.22
+    "t": 334.19
    },
    {
     "speaker": "Anna",
     "text": "Cela nous amène au test dont beaucoup d'auditeurs ont entendu parler : le Sproochentest.",
-    "t": 342.46
+    "t": 342.43
    },
    {
     "speaker": "Anna",
     "text": "C'est le test de langue luxembourgeoise pour la nationalité, et c'est l'INLL qui l'organise.",
-    "t": 347.65
+    "t": 347.62
    },
    {
     "speaker": "Anna",
     "text": "Beaucoup de personnes qui demandent la nationalité luxembourgeoise doivent le réussir, et c'est le seul certificat qui compte pour cette demande.",
-    "t": 353.23
+    "t": 353.2
    },
    {
     "speaker": "Tom",
     "text": "Comment se passe le test lui-même : y a-t-il un long texte à écrire ?",
-    "t": 359.63
+    "t": 359.6
    },
    {
     "speaker": "Anna",
     "text": "Non, il n'y a pas de rédaction : le test a deux parties, pendant la même demi-journée.",
-    "t": 363.81
+    "t": 363.78
    },
    {
     "speaker": "Anna",
     "text": "D'abord l'expression orale, au niveau A2 : pendant environ dix minutes, vous parlez avec un examinateur d'un sujet de la vie quotidienne, comme le travail, la famille ou les loisirs, et vous décrivez une image.",
-    "t": 367.99
+    "t": 367.96
    },
    {
     "speaker": "Anna",
     "text": "Ensuite la compréhension orale, au niveau B1 : vous écoutez trois enregistrements, par exemple un message à la radio et une conversation, et vous répondez à des questions sur une tablette.",
-    "t": 378.95
+    "t": 378.92
    },
    {
     "speaker": "Tom",
     "text": "Et comment réussit-on : les deux parties comptent-elles de la même façon ?",
-    "t": 388.48
+    "t": 388.45
    },
    {
     "speaker": "Anna",
     "text": "L'oral compte le plus : vous réussissez si vous obtenez au moins la moitié des points à cette partie.",
-    "t": 392.68
+    "t": 392.65
    },
    {
     "speaker": "Anna",
     "text": "Si votre note à l'oral est un peu plus basse, un bon résultat en compréhension peut compenser, à condition que la moyenne des deux parties atteigne la moitié des points.",
-    "t": 397.47
+    "t": 397.44
    },
    {
     "speaker": "Tom",
     "text": "Cela paraît juste : où le test a-t-il lieu, et comment s'inscrit-on ?",
-    "t": 405.26
+    "t": 405.23
    },
    {
     "speaker": "Anna",
     "text": "Il a lieu à Luxembourg-ville et à Belval, et on s'inscrit par MyINL.",
-    "t": 409.21
+    "t": 409.18
    },
    {
     "speaker": "Anna",
     "text": "La demande est très forte, il vaut donc mieux réserver tôt.",
-    "t": 412.98
+    "t": 412.95
    },
    {
     "speaker": "Anna",
     "text": "Si vous ne venez pas sans raison valable, les frais ne sont pas remboursés.",
-    "t": 415.79
+    "t": 415.76
    },
    {
     "speaker": "Anna",
     "text": "Et si vous avez un handicap, vous pouvez demander des conditions adaptées, avec un document médical.",
-    "t": 419.13
+    "t": 419.1
    },
    {
     "speaker": "Tom",
     "text": "Et si cela ne marche pas la première fois, peut-on réessayer ?",
-    "t": 424.32
+    "t": 424.29
    },
    {
     "speaker": "Anna",
     "text": "Oui, autant de fois que nécessaire : vous pouvez vous réinscrire dès que vous avez reçu votre résultat précédent.",
-    "t": 427.64
+    "t": 427.61
    },
    {
     "speaker": "Anna",
     "text": "Une fois réussi, votre certificat n'expire pas.",
-    "t": 433.14
+    "t": 433.11
    },
    {
     "speaker": "Anna",
     "text": "Et sur le site, vous trouvez des exemples de test pour vous préparer à la maison.",
-    "t": 435.53
+    "t": 435.5
    },
    {
     "speaker": "Tom",
-    "text": "Bon à savoir.",
-    "t": 439.36
-   },
-   {
-    "speaker": "Tom",
-    "text": "Ce que l'INLL ne propose pas, ce sont les cours de citoyenneté pour la nationalité : ils sont organisés par le Service de la formation des adultes et ses partenaires.",
-    "t": 440.59
+    "text": "Bon à savoir, et ce que l'INLL ne propose pas, ce sont les cours de citoyenneté pour la nationalité : ils sont organisés par le Service de la formation des adultes et ses partenaires.",
+    "t": 439.33
    },
    {
     "speaker": "Anna",
     "text": "En plus du Sproochentest, y a-t-il d'autres certificats de luxembourgeois que l'on peut passer ?",
-    "t": 449.62
+    "t": 450.05
    },
    {
     "speaker": "Tom",
     "text": "Oui, il y en a deux autres : le premier est un diplôme national de luxembourgeois langue étrangère, du niveau A2 au niveau C1, qui peut être utile au travail, et vous n'avez pas besoin d'avoir suivi un cours à l'INLL pour le passer.",
-    "t": 454.12
+    "t": 454.55
    },
    {
     "speaker": "Tom",
     "text": "Le second est un court test d'orthographe luxembourgeoise.",
-    "t": 466.43
+    "t": 466.86
    },
    {
     "speaker": "Tom",
     "text": "Et pour les autres langues, l'INLL est un centre d'examen pour des certificats internationaux bien connus, comme le DELF et le DALF pour le français ou le certificat Goethe pour l'allemand.",
-    "t": 469.83
+    "t": 470.26
    },
    {
     "speaker": "Anna",
     "text": "L'INLL ne forme pas seulement les apprenants : il forme aussi des enseignants.",
-    "t": 480.42
+    "t": 480.85
    },
    {
     "speaker": "Anna",
     "text": "Il y a une formation pour les personnes qui veulent enseigner le luxembourgeois aux adultes, une pour enseigner les langues à des fins professionnelles, et une pour devenir coach en communication : un collègue qui aide les autres à parler luxembourgeois dans une équipe aux nombreuses nationalités.",
-    "t": 485.04
+    "t": 485.47
    },
    {
     "speaker": "Tom",
     "text": "Et un dernier conseil : si vous travaillez au Luxembourg, il existe un congé linguistique spécial pour apprendre le luxembourgeois, et notre épisode sur la formation tout au long de la vie l'explique.",
-    "t": 499.15
+    "t": 499.58
    },
    {
     "speaker": "Tom",
     "text": "Le site de l'institut est inll point l-u, en quatre langues, avec les questions les plus fréquentes et un formulaire de contact.",
-    "t": 509.14
+    "t": 509.57
    },
    {
     "speaker": "Anna",
     "text": "Avant de terminer, quels sont les points principaux à retenir de cet épisode ?",
-    "t": 517.74
+    "t": 518.17
    },
    {
     "speaker": "Tom",
     "text": "Premièrement, l'INLL est un institut public où les adultes peuvent apprendre plus de dix langues, dont le luxembourgeois, sur trois sites, en classe, en ligne ou à leur rythme.",
-    "t": 521.61
+    "t": 522.04
    },
    {
     "speaker": "Tom",
     "text": "Deuxièmement, on s'inscrit par MyINL, avec un niveau recommandé : les débutants choisissent A1, les autres passent un court test et un entretien d'orientation.",
-    "t": 532.34
+    "t": 532.77
    },
    {
     "speaker": "Anna",
     "text": "Et troisièmement, le Sproochentest, le test de luxembourgeois pour la nationalité, a une partie orale et une partie d'écoute, et vous pouvez le repasser autant de fois que nécessaire.",
-    "t": 542.96
+    "t": 543.39
    },
    {
     "speaker": "Anna",
     "text": "Parce que chaque nouvelle langue ouvre une porte vers de nouvelles personnes.",
-    "t": 551.91
+    "t": 552.34
    },
    {
     "speaker": "Anna",
     "text": "C'était notre épisode sur l'INLL, l'Institut national des langues Luxembourg.",
-    "t": 555.47
+    "t": 555.9
    },
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
-    "t": 560.28
+    "t": 560.71
    },
    {
     "speaker": "Anna",
     "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
-    "t": 568.33
+    "t": 568.76
    },
    {
     "speaker": "Anna",
     "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
-    "t": 584.78
+    "t": 585.21
    },
    {
     "speaker": "Anna",
     "text": "Et les activités sont gratuites.",
-    "t": 589.43
+    "t": 589.86
    },
    {
     "speaker": "Anna",
     "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
-    "t": 591.25
+    "t": 591.68
    },
    {
     "speaker": "Tom",
     "text": "Merci à tous.",
-    "t": 595.63
+    "t": 596.06
    },
    {
     "speaker": "Tom",
     "text": "Prenez soin de vous, et à la prochaine !",
-    "t": 596.88
+    "t": 597.31
    },
    {
     "speaker": "Anna",
     "text": "Merci beaucoup de nous avoir écoutés.",
-    "t": 599.17
+    "t": 599.6
    }
   ],
   "audio_de": "../../podcast_inll_de.mp3",
-  "duration_de": 694.91,
+  "duration_de": 694.36,
   "segments_de": [
    {
     "speaker": "Anna",
@@ -1374,497 +1364,492 @@ const EPISODES = [
    {
     "speaker": "Tom",
     "text": "Fangen wir mit den Grundlagen an: Was für eine Einrichtung ist das INLL, und wer steht dahinter?",
-    "t": 59.95
+    "t": 59.93
    },
    {
     "speaker": "Anna",
     "text": "Das INLL ist ein öffentliches Zentrum, in dem Erwachsene Sprachen lernen und ihre Sprachkenntnisse zertifizieren lassen können.",
-    "t": 66.47
+    "t": 66.45
    },
    {
     "speaker": "Anna",
     "text": "Es untersteht dem Ministerium für Bildung, Kinder und Jugend.",
-    "t": 75.61
+    "t": 75.59
    },
    {
     "speaker": "Anna",
     "text": "Seine Ziele sind, die Mehrsprachigkeit zu fördern, den Menschen zu helfen, Arbeit zu finden und an der Gesellschaft teilzuhaben, und Menschen über Sprachen zusammenzubringen.",
-    "t": 79.42
+    "t": 79.4
    },
    {
     "speaker": "Tom",
     "text": "Das passt sehr gut zu diesem Land: Luxemburg hat drei Verwaltungssprachen, viele Menschen aus dem Ausland und viele Grenzgänger, und das INLL berücksichtigt das in seiner Art zu unterrichten.",
-    "t": 89.68
+    "t": 89.66
    },
    {
     "speaker": "Anna",
     "text": "Welche Sprachen kann man dort eigentlich lernen?",
-    "t": 102.05
+    "t": 102.03
    },
    {
     "speaker": "Anna",
     "text": "Nur die Sprachen des Landes, oder auch andere?",
-    "t": 104.57
+    "t": 104.55
    },
    {
     "speaker": "Tom",
     "text": "Die Auswahl ist viel größer: mehr als zehn Sprachen.",
-    "t": 107.56
+    "t": 107.54
    },
    {
     "speaker": "Tom",
     "text": "Natürlich Luxemburgisch, Französisch und Deutsch, aber auch Englisch, Portugiesisch, Spanisch, Italienisch und Niederländisch, und sogar Russisch, Arabisch, Chinesisch, Japanisch und Koreanisch.",
-    "t": 111.23
+    "t": 111.21
    },
    {
     "speaker": "Anna",
     "text": "Das ist eine lange Liste.",
-    "t": 126.85
+    "t": 126.83
    },
    {
     "speaker": "Anna",
     "text": "Und wo finden die Kurse statt?",
-    "t": 128.41
+    "t": 128.39
    },
    {
     "speaker": "Anna",
     "text": "Muss jeder nach Luxemburg-Stadt fahren?",
-    "t": 130.24
+    "t": 130.22
    },
    {
     "speaker": "Tom",
     "text": "Nicht unbedingt, denn das INLL hat drei Standorte.",
-    "t": 132.73
+    "t": 132.71
    },
    {
     "speaker": "Tom",
     "text": "Der größte ist in Luxemburg-Stadt, und es gibt zwei weitere: einen in Belval, im Süden des Landes, und einen in Mersch, in der Mitte.",
-    "t": 136.61
+    "t": 136.59
    },
    {
     "speaker": "Tom",
     "text": "Nicht jede Sprache wird an jedem Standort unterrichtet, aber Luxemburgisch, Französisch, Deutsch und Englisch gibt es an allen drei.",
-    "t": 145.9
+    "t": 145.88
    },
    {
     "speaker": "Anna",
     "text": "Und für wen sind die Kurse gedacht: Kann ein Jugendlicher mit seinen Eltern mitkommen?",
-    "t": 153.66
+    "t": 153.64
    },
    {
     "speaker": "Tom",
     "text": "Nein, die Kurse sind nur für Erwachsene.",
-    "t": 158.38
+    "t": 158.36
    },
    {
     "speaker": "Tom",
     "text": "Und etwas überrascht viele Menschen: Jeder Kurs wird in der Sprache gehalten, die man lernt, ab der allerersten Stunde, auch für echte Anfänger.",
-    "t": 160.98
+    "t": 160.96
    },
    {
     "speaker": "Anna",
     "text": "Man taucht also direkt in die neue Sprache ein.",
-    "t": 168.95
+    "t": 168.93
    },
    {
     "speaker": "Anna",
     "text": "Das kann am Anfang ein wenig Angst machen, aber so gewöhnt man sich auch schnell daran.",
-    "t": 171.69
+    "t": 171.67
    },
    {
     "speaker": "Anna",
     "text": "Wie sind die Niveaus aufgebaut?",
-    "t": 176.25
+    "t": 176.23
    },
    {
     "speaker": "Tom",
     "text": "Das INLL folgt der europäischen Skala für Sprachen, die von A1 für Anfänger bis C2 für Menschen reicht, die eine Sprache beherrschen.",
-    "t": 178.31
+    "t": 178.29
    },
    {
     "speaker": "Tom",
     "text": "Die meisten Kurse dauern ein Semester: Ein Semester beginnt im Herbst, im September, und das andere im Frühling, im Februar.",
-    "t": 188.26
+    "t": 188.24
    },
    {
     "speaker": "Anna",
     "text": "Sprechen wir über die Anmeldung, denn da zögern viele.",
-    "t": 195.83
+    "t": 195.81
    },
    {
     "speaker": "Anna",
     "text": "Wie bekomme ich einen Platz in einem Kurs?",
-    "t": 198.78
+    "t": 198.76
    },
    {
     "speaker": "Tom",
     "text": "Alles läuft über das Online-Portal MyINL.",
-    "t": 201.59
+    "t": 201.57
    },
    {
     "speaker": "Tom",
     "text": "Dort legen Sie ein Konto an, und Sie brauchen ein empfohlenes Niveau, denn erst mit diesem Niveau können Sie sich für einen Kurs anmelden.",
-    "t": 205.15
+    "t": 205.13
    },
    {
     "speaker": "Tom",
     "text": "Echte Anfänger können die erste Stufe, A1, einfach selbst wählen.",
-    "t": 212.52
+    "t": 212.5
    },
    {
     "speaker": "Anna",
     "text": "Und wenn ich die Sprache schon ein wenig spreche, wie findet das INLL mein Niveau heraus?",
-    "t": 217.33
+    "t": 217.31
    },
    {
     "speaker": "Tom",
     "text": "Dann machen Sie zuerst einen kurzen Test online, und danach vereinbaren Sie ein Orientierungsgespräch mit einer Lehrkraft am INLL, die Ihnen Ihr empfohlenes Niveau gibt.",
-    "t": 223.62
+    "t": 223.6
    },
    {
     "speaker": "Tom",
     "text": "Diese Gespräche sind das ganze Schuljahr über möglich.",
-    "t": 234.47
+    "t": 234.45
    },
    {
     "speaker": "Tom",
     "text": "Wenn Sie Ihr Niveau haben, wählen Sie Ihren Kurs, solange es freie Plätze gibt, und Sie bezahlen innerhalb der Frist.",
-    "t": 237.65
+    "t": 237.63
    },
    {
     "speaker": "Anna",
     "text": "Und was kostet ein Kurs, zahlt jeder dasselbe?",
-    "t": 244.67
+    "t": 244.48
    },
    {
     "speaker": "Tom",
     "text": "Der Preis jedes Kurses steht auf MyINL, und Bücher sind nicht inbegriffen.",
-    "t": 247.95
+    "t": 247.76
    },
    {
     "speaker": "Tom",
     "text": "Manche Menschen zahlen einen viel niedrigeren Preis, zum Beispiel Arbeitsuchende, die von der ADEM in einen Kurs geschickt werden, oder Menschen, die den Aufnahme- und Integrationsvertrag unterschrieben haben.",
-    "t": 253.17
+    "t": 252.98
    },
    {
     "speaker": "Tom",
     "text": "Sie brauchen dafür einen Gutschein oder eine Bescheinigung der zuständigen Stelle.",
-    "t": 264.46
+    "t": 264.27
    },
    {
     "speaker": "Anna",
     "text": "Jetzt kommen wir zum Kern unseres Themas: Luxemburgisch.",
-    "t": 269.07
+    "t": 268.88
    },
    {
     "speaker": "Anna",
     "text": "Was findet jemand, der es lernen möchte, am INLL?",
-    "t": 272.77
+    "t": 272.58
    },
    {
     "speaker": "Tom",
     "text": "Es gibt viele Arten, es zu lernen: Klassische Kurse haben zwei oder drei Stunden pro Woche, aber Sie können auch online per Video lernen, oder Stunden vor Ort mit Arbeit online verbinden.",
-    "t": 277.45
+    "t": 277.26
    },
    {
     "speaker": "Tom",
     "text": "In hybriden Kursen entscheiden Sie sogar für jede Stunde, ob Sie vor Ort sind oder von zu Hause aus teilnehmen.",
-    "t": 288.35
+    "t": 288.16
    },
    {
     "speaker": "Anna",
     "text": "Ein Format ist ziemlich neu, und es heißt Moving Languages.",
-    "t": 294.76
+    "t": 294.57
    },
    {
     "speaker": "Anna",
     "text": "Das ist ein Intensivkurs in Luxemburgisch oder Französisch, der acht Wochen dauert, mit drei Stunden Unterricht pro Tag.",
-    "t": 298.47
+    "t": 298.28
    },
    {
     "speaker": "Anna",
     "text": "Man lernt mit Bewegung und mit allen fünf Sinnen, und nur in der neuen Sprache, vom ersten Tag an.",
-    "t": 305.42
+    "t": 305.23
    },
    {
     "speaker": "Tom",
     "text": "Acht Wochen klingt kurz: Was kann man in dieser Zeit wirklich erreichen?",
-    "t": 311.36
+    "t": 311.17
    },
    {
     "speaker": "Anna",
     "text": "Das Ziel ist das Niveau A2 im Sprechen, für Menschen, die ganz ohne Vorkenntnisse anfangen.",
-    "t": 315.52
+    "t": 315.33
    },
    {
     "speaker": "Anna",
     "text": "Mit anderen Worten: Nach zwei Monaten können Sie einfache Gespräche im Alltag führen.",
-    "t": 320.92
+    "t": 320.73
    },
    {
     "speaker": "Anna",
     "text": "Die Methode stammt aus Liechtenstein, und das INLL hat sie in Luxemburg zusammen mit dem Dienst für Erwachsenenbildung entwickelt.",
-    "t": 326.45
+    "t": 326.26
    },
    {
     "speaker": "Tom",
     "text": "Und für Menschen, die wenig Zeit haben und lieber in ihrem eigenen Tempo lernen, gibt es da auch etwas?",
-    "t": 334.43
+    "t": 334.24
    },
    {
     "speaker": "Anna",
     "text": "Ja: Es gibt einen Kurs, in dem man Luxemburgisch begleitet und selbstständig lernt.",
-    "t": 340.35
+    "t": 340.16
    },
    {
     "speaker": "Anna",
     "text": "Sie arbeiten vor allem allein, auf einer Online-Plattform, mit einigen Live-Videositzungen und einer wöchentlichen Online-Begleitstunde.",
-    "t": 345.19
+    "t": 345
    },
    {
     "speaker": "Anna",
     "text": "Am Ende machen Sie einen mündlichen Test vor Ort, in Luxemburg-Stadt.",
-    "t": 352.91
+    "t": 352.72
    },
    {
     "speaker": "Tom",
     "text": "Und zwischen den Stunden hat das INLL sogar einen eigenen Podcast, in einfachem Luxemburgisch für Anfänger.",
-    "t": 357.19
+    "t": 357
    },
    {
     "speaker": "Tom",
     "text": "Vor Ort finden die Lernenden außerdem eine Mediathek, Sprachtandems und Veranstaltungen, bei denen man sich trifft und in den Sprachen spricht, die man lernt.",
-    "t": 364.77
+    "t": 364.58
    },
    {
     "speaker": "Anna",
     "text": "Woran merke ich, dass ich Fortschritte mache: Gibt es am Ende eines Kurses einen Test?",
-    "t": 374.35
+    "t": 374.16
    },
    {
     "speaker": "Tom",
     "text": "In den meisten Semesterkursen wird Ihre Arbeit laufend bewertet, mit einem mündlichen Test am Ende, und Sie müssen bestehen, um in die nächste Stufe zu kommen.",
-    "t": 379.8
+    "t": 379.61
    },
    {
     "speaker": "Tom",
     "text": "Danach bekommen Sie eine Kompetenzbescheinigung, die Ihr Niveau zeigt, und Sie können sie auf MyINL herunterladen, zusammen mit einer Teilnahmebescheinigung.",
-    "t": 388.54
+    "t": 388.35
    },
    {
     "speaker": "Anna",
     "text": "Damit kommen wir zu dem Test, von dem viele Zuhörer schon gehört haben: dem Sproochentest.",
-    "t": 397.82
+    "t": 397.63
    },
    {
     "speaker": "Anna",
     "text": "Das ist der Luxemburgisch-Test für die Staatsangehörigkeit, und das INLL organisiert ihn.",
-    "t": 403.46
+    "t": 403.27
    },
    {
     "speaker": "Anna",
     "text": "Viele Menschen, die die luxemburgische Staatsangehörigkeit beantragen, müssen ihn bestehen, und er ist die einzige Bescheinigung, die für diesen Antrag zählt.",
-    "t": 409.15
+    "t": 408.96
    },
    {
     "speaker": "Tom",
     "text": "Wie läuft der Test selbst ab, und muss man einen langen Text schreiben?",
-    "t": 417.77
+    "t": 417.58
    },
    {
     "speaker": "Anna",
     "text": "Nein, es gibt keinen Aufsatz: Der Test hat zwei Teile, am selben halben Tag.",
-    "t": 421.79
+    "t": 421.6
    },
    {
     "speaker": "Anna",
     "text": "Zuerst das Sprechen, auf Niveau A2: Etwa zehn Minuten lang sprechen Sie mit einem Prüfer über ein Alltagsthema, wie Arbeit, Familie oder Hobbys, und Sie beschreiben ein Bild.",
-    "t": 426.94
+    "t": 426.75
    },
    {
     "speaker": "Anna",
     "text": "Danach das Hörverstehen, auf Niveau B1: Sie hören drei Aufnahmen, zum Beispiel eine Radiomeldung und ein Gespräch, und Sie beantworten Fragen auf einem Tablet.",
-    "t": 438.78
+    "t": 438.59
    },
    {
     "speaker": "Tom",
     "text": "Und wie besteht man: Zählen beide Teile gleich viel?",
-    "t": 449.61
+    "t": 449.42
    },
    {
     "speaker": "Anna",
     "text": "Das Sprechen zählt am meisten: Sie bestehen, wenn Sie dort mindestens die Hälfte der Punkte erreichen.",
-    "t": 452.96
+    "t": 452.77
    },
    {
     "speaker": "Anna",
     "text": "Wenn Ihre Note im Sprechen etwas niedriger ist, kann ein gutes Ergebnis im Hörverstehen das ausgleichen, solange der Durchschnitt beider Teile die Hälfte der Punkte erreicht.",
-    "t": 458.54
+    "t": 458.35
    },
    {
     "speaker": "Tom",
     "text": "Das klingt fair: Wo findet der Test statt, und wie meldet man sich an?",
-    "t": 468.12
+    "t": 467.93
    },
    {
     "speaker": "Anna",
     "text": "Er findet in Luxemburg-Stadt und in Belval statt, und man meldet sich über MyINL an.",
-    "t": 472.46
+    "t": 472.27
    },
    {
     "speaker": "Anna",
     "text": "Die Nachfrage ist sehr groß, deshalb sollte man früh buchen.",
-    "t": 478.09
+    "t": 477.9
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie ohne triftigen Grund nicht erscheinen, wird die Gebühr nicht erstattet.",
-    "t": 481.85
+    "t": 481.66
    },
    {
     "speaker": "Anna",
     "text": "Und wenn Sie eine Behinderung haben, können Sie angepasste Bedingungen beantragen, mit einem ärztlichen Dokument.",
-    "t": 486.31
+    "t": 486.12
    },
    {
     "speaker": "Tom",
     "text": "Und wenn es beim ersten Mal nicht klappt, kann man es noch einmal versuchen?",
-    "t": 492.57
+    "t": 492.38
    },
    {
     "speaker": "Anna",
     "text": "Ja, so oft wie nötig: Sie können sich wieder anmelden, sobald Sie Ihr vorheriges Ergebnis erhalten haben.",
-    "t": 496.31
+    "t": 496.12
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie bestanden haben, läuft Ihre Bescheinigung nicht ab.",
-    "t": 502.7
+    "t": 502.51
    },
    {
     "speaker": "Anna",
     "text": "Und auf der Website finden Sie Beispieltests, um sich zu Hause vorzubereiten.",
-    "t": 506.1
+    "t": 505.91
    },
    {
     "speaker": "Tom",
-    "text": "Gut zu wissen.",
-    "t": 510.66
-   },
-   {
-    "speaker": "Tom",
-    "text": "Was das INLL nicht anbietet, sind die Kurse zur Staatsbürgerkunde für die Staatsangehörigkeit: Diese organisiert der Dienst für Erwachsenenbildung mit seinen Partnern.",
-    "t": 511.66
+    "text": "Gut zu wissen, und was das INLL nicht anbietet, sind die Kurse zur Staatsbürgerkunde für die Staatsangehörigkeit: Diese organisiert der Dienst für Erwachsenenbildung mit seinen Partnern.",
+    "t": 510.47
    },
    {
     "speaker": "Anna",
     "text": "Gibt es neben dem Sproochentest noch andere Bescheinigungen in Luxemburgisch, die man machen kann?",
-    "t": 523.48
+    "t": 522.92
    },
    {
     "speaker": "Tom",
     "text": "Ja, es gibt noch zwei: Die erste ist ein nationales Diplom für Luxemburgisch als Fremdsprache, von Niveau A2 bis C1, das bei der Arbeit nützlich sein kann, und Sie müssen dafür keinen Kurs am INLL besucht haben.",
-    "t": 528.74
+    "t": 528.18
    },
    {
     "speaker": "Tom",
     "text": "Die zweite ist ein kurzer Test zur luxemburgischen Rechtschreibung.",
-    "t": 542.84
+    "t": 542.28
    },
    {
     "speaker": "Tom",
     "text": "Und für andere Sprachen ist das INLL ein Prüfungszentrum für bekannte internationale Zertifikate, wie das Goethe-Zertifikat für Deutsch oder die Cambridge-Prüfungen für Englisch.",
-    "t": 546.46
+    "t": 545.9
    },
    {
     "speaker": "Anna",
     "text": "Das INLL bildet nicht nur Lernende aus: Es bildet auch Lehrkräfte aus.",
-    "t": 557.87
+    "t": 557.31
    },
    {
     "speaker": "Anna",
     "text": "Es gibt eine Ausbildung für Menschen, die Erwachsenen Luxemburgisch unterrichten möchten, eine für den Sprachunterricht im Beruf, und eine, um Kommunikationscoach zu werden: eine Person im Betrieb, die den Kollegen hilft, in einem Team mit vielen Nationalitäten Luxemburgisch zu sprechen.",
-    "t": 563.23
+    "t": 562.67
    },
    {
     "speaker": "Tom",
     "text": "Und ein letzter Tipp: Wenn Sie in Luxemburg arbeiten, gibt es einen besonderen Sprachurlaub, um Luxemburgisch zu lernen, und unsere Folge über lebenslanges Lernen erklärt ihn.",
-    "t": 579.19
+    "t": 578.63
    },
    {
     "speaker": "Tom",
     "text": "Die Website des Instituts ist inll Punkt l-u, in vier Sprachen, mit den häufigsten Fragen und einem Kontaktformular.",
-    "t": 589.34
+    "t": 588.78
    },
    {
     "speaker": "Anna",
     "text": "Bevor wir zum Schluss kommen: Was sind die wichtigsten Punkte aus dieser Folge?",
-    "t": 598.75
+    "t": 598.19
    },
    {
     "speaker": "Tom",
     "text": "Erstens: Das INLL ist ein öffentliches Institut, an dem Erwachsene mehr als zehn Sprachen lernen können, auch Luxemburgisch, an drei Standorten, im Kurs, online oder im eigenen Tempo.",
-    "t": 603.31
+    "t": 602.75
    },
    {
     "speaker": "Tom",
     "text": "Zweitens: Man meldet sich über MyINL an, mit einem empfohlenen Niveau: Anfänger wählen A1, die anderen machen einen kurzen Test und ein Orientierungsgespräch.",
-    "t": 616.88
+    "t": 616.32
    },
    {
     "speaker": "Anna",
     "text": "Und drittens: Der Sproochentest, der Luxemburgisch-Test für die Staatsangehörigkeit, hat einen Sprechteil und einen Hörteil, und Sie können ihn so oft wie nötig wiederholen.",
-    "t": 628.46
+    "t": 627.9
    },
    {
     "speaker": "Anna",
     "text": "Denn jede neue Sprache öffnet eine Tür zu neuen Menschen.",
-    "t": 639.52
+    "t": 638.96
    },
    {
     "speaker": "Anna",
     "text": "Das war unsere Folge über das INLL, das Nationale Sprachinstitut Luxemburg.",
-    "t": 643.35
+    "t": 642.79
    },
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
-    "t": 649.39
+    "t": 648.83
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
-    "t": 658.31
+    "t": 657.75
    },
    {
     "speaker": "Anna",
     "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
-    "t": 676.64
+    "t": 676.08
    },
    {
     "speaker": "Anna",
     "text": "Und die Aktivitäten sind kostenlos.",
-    "t": 682.34
+    "t": 681.78
    },
    {
     "speaker": "Anna",
     "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
-    "t": 684.59
+    "t": 684.03
    },
    {
     "speaker": "Tom",
     "text": "Danke an alle.",
-    "t": 689.48
+    "t": 688.92
    },
    {
     "speaker": "Tom",
     "text": "Passen Sie auf sich auf, und bis zum nächsten Mal!",
-    "t": 690.58
+    "t": 690.02
    },
    {
     "speaker": "Anna",
     "text": "Vielen Dank fürs Zuhören.",
-    "t": 693.37
+    "t": 692.81
    }
   ],
   "segments_lb": [
@@ -2075,53 +2060,53 @@ const EPISODES = [
    },
    {
     "speaker": "Tom",
-    "text": "Gutt ze wëssen. Wat den INLL net ubitt, sinn d'Coursen iwwer d'Biergerschaft fir d'Nationalitéit: Déi organiséiert de Service fir Erwuessenebildung mat senge Partner.",
+    "text": "Gutt ze wëssen, a wat den INLL net ubitt, sinn d'Coursen iwwer d'Biergerschaft fir d'Nationalitéit: Déi organiséiert de Service fir Erwuessenebildung mat senge Partner.",
     "t": 471.85
    },
    {
     "speaker": "Anna",
     "text": "Gëtt et nieft dem Sproochentest nach aner Zertifikater op Lëtzebuergesch, déi ee maache kann?",
-    "t": 482.38
+    "t": 482.8
    },
    {
     "speaker": "Tom",
     "text": "Jo, et ginn der nach zwee: Dat éischt ass en nationalen Diplom fir Lëtzebuergesch als Friemsprooch, vum Niveau A2 bis C1, deen op der Aarbecht nëtzlech ka sinn, an Dir musst dofir kee Cours um INLL besicht hunn. Dat zweet ass e kuerzen Test zur lëtzebuergescher Orthografie. A fir aner Sprooche ass den INLL en Examenszentrum fir bekannt international Zertifikater, wéi d'Cambridge-Examen fir Englesch oder de Goethe-Zertifikat fir Däitsch.",
-    "t": 487.37
+    "t": 487.79
    },
    {
     "speaker": "Anna",
     "text": "Den INLL bild net nëmme Léierend aus: E bild och Enseignanten aus. Et gëtt eng Formatioun fir Leit, déi Erwuessener Lëtzebuergesch léiere wëllen, eng fir de Sproochunterrecht am Beruff, an eng, fir Kommunikatiounscoach ze ginn: eng Persoun am Betrib, déi de Kolleegen hëlleft, an enger Equipe mat ville Nationalitéiten Lëtzebuergesch ze schwätzen.",
-    "t": 514.76
+    "t": 515.18
    },
    {
     "speaker": "Tom",
     "text": "An e leschten Tipp: Wann Dir zu Lëtzebuerg schafft, gëtt et e spezielle Sproochecongé fir Lëtzebuergesch ze léieren, an eis Episod iwwer d'Liewenslaangt Léieren erkläert en. De Site vum Institut ass inll Punkt l-u, a véier Sproochen, mat de Froen, déi am dackste gestallt ginn, an engem Kontaktformular.",
-    "t": 535.62
+    "t": 536.04
    },
    {
     "speaker": "Anna",
     "text": "Ier mer ophalen: Wat sinn déi wichtegst Punkten aus dëser Episod?",
-    "t": 553.1
+    "t": 553.52
    },
    {
     "speaker": "Tom",
     "text": "Éischtens: Den INLL ass en ëffentlechen Institut, wou Erwuessener méi wéi zéng Sprooche léiere kënnen, och Lëtzebuergesch, op dräi Sitten, am Cours, online oder an hirem eegene Rhythmus. Zweetens: Ee mellt sech iwwer MyINL un, mat engem recommandéierten Niveau: Ufänger wielen A1, déi aner maachen e kuerzen Test an en Orientéierungsgespréich.",
-    "t": 557.55
+    "t": 557.97
    },
    {
     "speaker": "Anna",
     "text": "An drëttens: De Sproochentest, de Lëtzebuergesch-Test fir d'Nationalitéit, huet e Schwätzdeel an en Héierdeel, an Dir kënnt en sou dacks wéi néideg widderhuelen. Well all nei Sprooch eng Dier zu neie Leit opmécht. Dat war eis Episod iwwer den INLL, den Nationale Sproochinstitut vu Lëtzebuerg. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir aner Aktivitéite vum Biergerpakt entdecke wëllt, wéi gefouert Visitten, Online-Informatiounsversammlungen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. En ass fir all Awunner op, Lëtzebuerger an Net-Lëtzebuerger, an och fir d'Grenzgänger. An d'Aktivitéite si gratis. Dir musst just gratis um Biergerpakt matmaachen, op biergerpakt.lu.",
-    "t": 578.81
+    "t": 579.23
    },
    {
     "speaker": "Tom",
     "text": "Merci, alleguer. Passt op Iech op, a bis d'nächst Kéier!",
-    "t": 639.32
+    "t": 639.21
    },
    {
     "speaker": "Anna",
     "text": "Villmools Merci fir d'Nolauschteren.",
-    "t": 642.63
+    "t": 642.52
    }
   ]
  }

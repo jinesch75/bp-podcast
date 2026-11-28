@@ -2,7 +2,7 @@
 
 **Deel vum Biergerpakt-Programm**
 **Moderatioun:** Anna (Fra) an Tom (Mann)
-**Längt:** ongeféier 10 Minutten — lues geschwat, an engem einfache Lëtzebuergesch
+**Längt:** ongeféier 11 Minutten — lues geschwat, an engem einfache Lëtzebuergesch
 
 ---
 

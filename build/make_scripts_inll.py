@@ -9,7 +9,7 @@ HEAD = {
  "de": ("# Podcast-Skript — „Das INLL – Luxemburgisch und andere Sprachen lernen“", "**Teil des Biergerpakt-Programms**", "**Moderation:** Anna (Frau) und Tom (Mann)", "**Länge:** etwa {MIN} Minuten — langsam gesprochen, in einfachem Deutsch"),
  "lb": ("# Podcast-Skript — „Den INLL – Lëtzebuergesch an aner Sprooche léieren“", "**Deel vum Biergerpakt-Programm**", "**Moderatioun:** Anna (Fra) an Tom (Mann)", "**Längt:** ongeféier {MIN} Minutten — lues geschwat, an engem einfache Lëtzebuergesch"),
 }
-MIN = {"en": 10, "fr": 10, "de": 11, "lb": 10}   # estimate before recording; update after
+MIN = {"en": 11, "fr": 10, "de": 12, "lb": 11}   # EN 10:44, FR 10:01, DE 11:34 (28 Nov 2026)
 OUTRO_START = {"en": "This podcast is part of the Biergerpakt, a programme", "fr": "Ce podcast fait partie du Biergerpakt, un programme",
                "de": "Dieser Podcast ist Teil des Biergerpakt, ein Programm", "lb": "Dëse Podcast ass Deel vum Biergerpakt, engem Programm"}
 SOURCES = {
