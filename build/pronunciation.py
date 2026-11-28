@@ -17,7 +17,7 @@ OR = {"en": "or", "fr": "ou", "de": "oder", "lb": "oder"}
 EMERGENCY_112 = {"en": "one-one-two", "fr": "cent-douze", "de": "eins-eins-zwei"}
 
 # Acronyms said letter by letter -> written "C-N-S" so every voice spells them.
-LETTERS = ["INLL", "LAR", "KJT", "CJF", "CNPD", "GDPR", "RGPD", "DSGVO", "CAE", "CCSS", "CET", "ULC", "CEC", "CNS", "FNS", "SNJ", "CNAP", "AAA", "DSP", "CGDIS", "CSU", "CIS", "CNIS", "INFS", "INFPC",
+LETTERS = ["CFL", "RGTR", "INLL", "LAR", "KJT", "CJF", "CNPD", "GDPR", "RGPD", "DSGVO", "CAE", "CCSS", "CET", "ULC", "CEC", "CNS", "FNS", "SNJ", "CNAP", "AAA", "DSP", "CGDIS", "CSU", "CIS", "CNIS", "INFS", "INFPC",
            "ASBL", "EBL", "ONE", "FNR", "LIH", "SES", "IMD", "FSE", "ESF", "GAP", "SIA", "ATVA", "OTP", "QR",
            "ID", "CV", "SMS", "GDP", "PIB", "BIP", "VAT", "TVA", "ATM", "AVC", "EU", "UE"]
 LETTERS_LANG = {"en": ["IT", "AI"], "fr": ["IA"], "de": ["IT", "KI"]}
@@ -27,7 +27,8 @@ WORDS = {"ADEM": "Adem", "REVIS": "Revis", "ONIS": "Onis", "SYVICOL": "Syvicol",
          "BOOST": "Boost", "BEE SECURE": "Bee Secure", "UNESCO": "Unesco", "IBAN": "Iban",
          "PIN": "Pin", "CSIRT": "C-Sirt", "PAN-Bio": "Pan-Bio",
          "SIMPA": "Simpa", "COMPA": "Compa",
-         "SAMT": "Samt", "MOSAIK": "Mosaik"}   # infohandicap ep (2026-11-27): said as words, not A/B tested — check by ear
+         "SAMT": "Samt", "MOSAIK": "Mosaik",
+         "ASTI": "Asti", "CEFIS": "Cefis"}   # gemengepakt ep (2026-11-28): said as words, not A/B tested — check by ear   # infohandicap ep (2026-11-27): said as words, not A/B tested — check by ear
 # EN LISER/STATEC: Jacques's A/B choices D/D (2026-11-17)
 # EN ADEM: A/B choice E "Addem", one pronunciation everywhere (2026-11-20)
 WORDS_LANG = {"en": {"FEDER": "Feder", "LISER": "Lyser", "STATEC": "Statek", "ADEM": "Addem"}, "fr": {"FEDER": "Féder"}, "de": {"FEDER": "Feder"}}
@@ -38,7 +39,8 @@ EMPHASIS = {"en": ["NOT", "AND"], "fr": ["PAS", "ET"], "de": ["NICHT", "UND"]}
 # Luxembourgish names: phonetic spellings chosen by Jacques from the A/B test (2026-09-30).
 # Everything not listed here was judged fine as written.
 NAMES = {
-    "en": [(r"\b23 August 2023\b", "the twenty-third of August, twenty twenty-three"),   # SIMPA ep: Jacques 2026-11-26, the date was garbled
+    "en": [(r"(?i)\bmobiliteit\b", "Mobilitayt"),   # mobiliteit ep (2026-11-28): A/B build/el_test/pron_mobiliteit_en_AB.mp3, B used pending Jacques's choice
+           (r"\b23 August 2023\b", "the twenty-third of August, twenty twenty-three"),   # SIMPA ep: Jacques 2026-11-26, the date was garbled
            (r"(?i)\bZukunftskeess\b", "Tsoo-koonfts-kehs"),                   # A/B choice C, closer to German (2026-11-16; was "Tsoo-koonfts-kayss")
            (r"(?i)\ballocation de rentrée scolaire\b", "allo-cah-syon de ron-tray sko-lair"),  # A/B choice B (2026-11-16)
            (r"(?i)\bPensiounskeess\b", "Pen-si-yons-kees"),
@@ -64,7 +66,8 @@ NAMES = {
            (r"\bHowald\b", "Hoh-wald"),   # consommateurs ep: Jacques 2026-11-24 "HO-WALD", Wald as in Waldorf (A/B build/el_test/pron_howald_en_AB.mp3, B used)
            (r"(?i)\bokaju\b", "Oka-joo")],   # ombudsman ep: Jacques 2026-11-23 "OKA-JUU", J as in "juice" (was "Oh-kah-yoo")
     #jepeuxvoter ep (2026-11-20)                         # website said the French way, A/B choice A (2026-11-13)
-    "fr": [(r"\b23 août 2023\b", "vingt-trois août deux mille vingt-trois"),   # SIMPA ep (2026-11-26)
+    "fr": [(r"(?i)\bmobiliteit\b", "Mobilitaït"),   # mobiliteit ep (2026-11-28): A/B build/el_test/pron_mobiliteit_fr_AB.mp3, B used pending Jacques's choice
+           (r"\b23 août 2023\b", "vingt-trois août deux mille vingt-trois"),   # SIMPA ep (2026-11-26)
            (r"\bÄddi\b", "Addi"),                                             # no "Ä" in French
            (r"(?i)\bZukunftskeess\b", "Tsoukounftskéss"),                     # FR 1B
            (r"(?i)\bPensiounskeess\b", "Pènnsiounskéss"),                     # FR 2B
@@ -82,7 +85,9 @@ NAMES = {
            (r"(?i)\bclubaktivplus\b", "Club Aktiv Plus"),
            (r"(?i)\bokaju\b", "Okadjou")],   # ombudsman ep: Jacques 2026-11-23 "OKA-JUU", J as in "juice" (was "Okayou")
     #jepeuxvoter ep (2026-11-20)
-    "de": [(r"\bwurde 1988 von\b", "wurde neunzehnhundertachtundachtzig von"),   # LAR ep (2026-11-26), written out like the KJT year (pre-emptive)
+    "de": [(r"\bseit Anfang des Jahres 2024\b", "seit Anfang des Jahres zweitausendvierundzwanzig"),   # gemengepakt ep (2026-11-28), pre-emptive like LAR/KJT
+           (r"\bvon 2021 bis 2023\b", "von zweitausendeinundzwanzig bis zweitausenddreiundzwanzig"),   # gemengepakt ep, pre-emptive
+           (r"\bwurde 1988 von\b", "wurde neunzehnhundertachtundachtzig von"),   # LAR ep (2026-11-26), written out like the KJT year (pre-emptive)
            (r"\bseit 1993 für\b", "seit neunzehnhundertdreiundneunzig für"),
            (r"\baus dem Jahr 1900\b", "aus dem Jahr neunzehnhundert"),   # nationalite ep (2026-11-27), pre-emptive like LAR/KJT   # infohandicap ep (2026-11-27), pre-emptive like LAR/KJT
            (r"\bVolkszählung von 2021\b", "Volkszählung von zweitausendeinundzwanzig"),   # infohandicap ep, pre-emptive
@@ -180,7 +185,7 @@ def rules(lang):
         # KJT ep (2026-11-24): helpline numbers digit by digit, with a small pause between the two groups
         if lang == "fr":   # like "cent-douze" for 112: three "un" in a row were not clearly audible
             r.append((r"\b116 111\b", "cent seize, cent onze"))
-        for num in ("116 111", "8002 4444", "8002 1234", "366 466"):   # 366 466: Info-Handicap (2026-11-27)
+        for num in ("116 111", "8002 4444", "8002 1234", "366 466", "2465 2465"):   # 2465 2465: mobiliteit.lu call centre (2026-11-28)   # 366 466: Info-Handicap (2026-11-27)
             g1, g2 = num.split()
             r.append((r"\b" + num + r"\b", " ".join(DIGITS[lang][int(c)] for c in g1) + ", " + " ".join(DIGITS[lang][int(c)] for c in g2)))
         r.append((r"\b\d(?:-\d)+\b", _digits(lang)))                      # 2-4-7, 8-0-0-2

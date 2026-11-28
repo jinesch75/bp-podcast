@@ -16,15 +16,16 @@ def clip(role, lang, text):
     if not os.path.exists(p): open(p, "wb").write(el.request("POST", f"/text-to-speech/{vid}", key, body, query="?output_format=mp3_44100_128"))
     return p
 def dur(p): return float(subprocess.run(["ffprobe","-v","error","-show_entries","format=duration","-of","csv=p=0",p],capture_output=True,text=True).stdout)
+TGT = os.environ.get("TGT_LANG", "en")   # voices to test (mobiliteit ep, 2026-11-28: TGT_LANG=fr / de)
 REF = os.environ.get("REF_LANG", "fr"); REF_ROLE = os.environ.get("REF_ROLE", "Anna")   # REF_LANG=en REF_ROLE=Tom: Tom's English voice as reference
 parts = [(f"{REF.upper()} reference ({REF_ROLE}'s {REF} voice)", clip(REF_ROLE, REF, fr_ref))]
 for i, o in enumerate(opts):
-    parts += [(f"{chr(65+i)} Anna: {o}", clip("Anna", "en", carrier.format(x=o))), (f"{chr(65+i)} Tom: {o}", clip("Tom", "en", carrier.format(x=o)))]
+    parts += [(f"{chr(65+i)} Anna: {o}", clip("Anna", TGT, carrier.format(x=o))), (f"{chr(65+i)} Tom: {o}", clip("Tom", TGT, carrier.format(x=o)))]
 t = 0.0; inputs = []; lines = []
 for lab, p in parts:
     lines.append(f"{int(t//60)}:{t%60:04.1f}  {lab}"); t += dur(p) + 1.0; inputs += ["-i", p]
 n = len(parts)
 filt = "".join(f"[{i}:a]aresample=44100,apad=pad_dur=1.0[a{i}];" for i in range(n)) + "".join(f"[a{i}]" for i in range(n)) + f"concat=n={n}:v=0:a=1,loudnorm=I=-20[o]"
-out = f"build/el_test/pron_{name}_en_AB.mp3"
+out = f"build/el_test/pron_{name}_{TGT}_AB.mp3"
 subprocess.run(["ffmpeg","-y","-v","error",*inputs,"-filter_complex",filt,"-map","[o]","-b:a","128k",out], check=True)
 print(out); print("\n".join(lines))

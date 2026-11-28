@@ -1,0 +1,215 @@
+{
+ "en": {
+  "title": "On the Move for Free – Public Transport and mobiliteit.lu",
+  "description": "Buses, trains and trams are free in Luxembourg, but how does it all work? Discover what is free and what you still pay for, first class and cross-border tickets, how mobiliteit.lu and its app plan your trip in real time, bikes and night buses, transport for people with reduced mobility, and who to contact.",
+  "topics": [
+   "Free public transport for everyone",
+   "Trains, buses and the tram",
+   "First class tickets",
+   "Crossing the border",
+   "Mobiliteit.lu: who is behind it",
+   "The app: real time, alerts and My Mix",
+   "Bikes, luggage and night buses",
+   "Adapto, Mobibus and the call centre"
+  ],
+  "questions": [
+   {
+    "text": "Since when has public transport been free in the whole of Luxembourg?",
+    "options": [
+     "Since March 2020, for residents, cross-border workers and tourists",
+     "Since January 2026, but only for people who live in Luxembourg",
+     "Since March 2021, but only on buses and not on the trains",
+     "Since 2015, but only for pupils, students and older people"
+    ],
+    "correct": 0,
+    "explanation": "Since March 2020, buses, trams and trains in second class have been free in the whole country, for everyone. Luxembourg was the first country in the world to make all its public transport free."
+   },
+   {
+    "text": "When do you still have to pay for public transport?",
+    "options": [
+     "On the tram, and on all buses after nine o'clock in the evening",
+     "In first class on the train, and for the part of a trip beyond the border",
+     "In second class on long trips, and on every night bus in the country",
+     "On city buses at weekends, and for any bicycle you take on the train"
+    ],
+    "correct": 1,
+    "explanation": "Only first class on the train and the part of a journey abroad are paid. Free travel ends at the border; on cross-border buses you need a RegioZone ticket after the last stop in Luxembourg."
+   },
+   {
+    "text": "Since 2026, how do you buy a first class or a cross-border ticket?",
+    "options": [
+     "From the bus driver, paying in cash when you get on at the front",
+     "Only with the special travel card, loaded at a ticket counter",
+     "In the CFL go app, on the CFL website or at a ticket machine",
+     "By sending a text message to the mobiliteit.lu call centre"
+    ],
+    "correct": 2,
+    "explanation": "The old travel card is no longer valid and tickets are no longer sold on buses. You buy them in the CFL apps, on the CFL website or at a ticket machine; staff at the big CFL sales centres can help."
+   },
+   {
+    "text": "What does the My Mix feature of the mobiliteit.lu app do?",
+    "options": [
+     "It lets you pay for first class tickets in several currencies",
+     "It shares your trip with friends so that you can travel together",
+     "It plays music to you while you wait for your bus at the stop",
+     "It suggests trips that combine your favourite ways of travelling"
+    ],
+    "correct": 3,
+    "explanation": "In My Mix you choose the ways you like to travel, such as bus, train, bike, car or walking, and the app suggests trips that combine them, with details such as travel time, distance and environmental impact."
+   },
+   {
+    "text": "What is Adapto?",
+    "options": [
+     "A free night bus that many communes run at weekends and on holidays",
+     "An on-demand transport for people whose disability strongly reduces their mobility",
+     "A bike-sharing service with stations near the main railway stations",
+     "A cross-border ticket for people who work in a neighbouring country"
+    ],
+    "correct": 1,
+    "explanation": "Adapto is organised by the Public Transport Administration for people with a lasting disability that strongly reduces their mobility. You need an Adapto card, you book each trip in advance, and it works only inside Luxembourg."
+   }
+  ]
+ },
+ "fr": {
+  "title": "En route gratuitement – Les transports publics et mobiliteit.lu",
+  "description": "Les bus, les trains et les trams sont gratuits au Luxembourg, mais comment tout cela fonctionne-t-il ? Découvrez ce qui est gratuit et ce qui reste payant, les billets de première classe et transfrontaliers, comment mobiliteit.lu et son application planifient votre trajet en temps réel, le vélo et les bus de nuit, le transport des personnes à mobilité réduite, et qui contacter.",
+  "topics": [
+   "Des transports publics gratuits pour tous",
+   "Les trains, les bus et le tram",
+   "Les billets de première classe",
+   "Passer la frontière",
+   "Mobiliteit.lu : qui se trouve derrière",
+   "L'application : temps réel, alertes et My Mix",
+   "Vélos, bagages et bus de nuit",
+   "Adapto, Mobibus et la centrale d'appels"
+  ],
+  "questions": [
+   {
+    "text": "Depuis quand les transports publics sont-ils gratuits dans tout le Luxembourg ?",
+    "options": [
+     "Depuis mars 2020, pour les résidents, les frontaliers et les touristes",
+     "Depuis janvier 2026, mais seulement pour les personnes qui habitent au Luxembourg",
+     "Depuis mars 2021, mais seulement dans les bus et pas dans les trains",
+     "Depuis 2015, mais seulement pour les élèves, les étudiants et les seniors"
+    ],
+    "correct": 0,
+    "explanation": "Depuis mars 2020, les bus, les trams et les trains en deuxième classe sont gratuits dans tout le pays, pour tout le monde. Le Luxembourg a été le premier pays au monde à rendre tous ses transports publics gratuits."
+   },
+   {
+    "text": "Quand faut-il encore payer les transports publics ?",
+    "options": [
+     "Dans le tram, et dans tous les bus après neuf heures du soir",
+     "En première classe dans le train, et pour la partie d'un trajet au-delà de la frontière",
+     "En deuxième classe pour les longs trajets, et dans tous les bus de nuit du pays",
+     "Dans les bus urbains le week-end, et pour tout vélo emporté dans le train"
+    ],
+    "correct": 1,
+    "explanation": "Seules la première classe dans le train et la partie d'un trajet à l'étranger sont payantes. La gratuité s'arrête à la frontière ; dans les bus transfrontaliers, il faut un billet RegioZone après le dernier arrêt au Luxembourg."
+   },
+   {
+    "text": "Depuis 2026, comment achète-t-on un billet de première classe ou un billet transfrontalier ?",
+    "options": [
+     "Auprès du chauffeur de bus, en payant en espèces en montant à l'avant",
+     "Uniquement avec la carte de transport spéciale, rechargée à un guichet",
+     "Dans l'application CFL go, sur le site internet des CFL ou à un distributeur",
+     "En envoyant un SMS à la centrale d'appels de mobiliteit.lu"
+    ],
+    "correct": 2,
+    "explanation": "L'ancienne carte de transport n'est plus valable et les billets ne sont plus vendus dans les bus. On les achète dans les applications des CFL, sur le site des CFL ou à un distributeur ; le personnel des grands centres de vente des CFL peut aider."
+   },
+   {
+    "text": "À quoi sert la fonction My Mix de l'application mobiliteit.lu ?",
+    "options": [
+     "Elle permet de payer les billets de première classe en plusieurs devises",
+     "Elle partage votre trajet avec vos amis pour que vous voyagiez ensemble",
+     "Elle vous fait écouter de la musique pendant que vous attendez votre bus",
+     "Elle propose des trajets qui combinent vos façons préférées de vous déplacer"
+    ],
+    "correct": 3,
+    "explanation": "Dans My Mix, vous choisissez vos façons préférées de vous déplacer, comme le bus, le train, le vélo, la voiture ou la marche, et l'application propose des trajets qui les combinent, avec par exemple la durée, la distance et l'impact sur l'environnement."
+   },
+   {
+    "text": "Qu'est-ce qu'Adapto ?",
+    "options": [
+     "Un bus de nuit gratuit que beaucoup de communes proposent le week-end",
+     "Un transport à la demande pour les personnes dont le handicap réduit fortement la mobilité",
+     "Un service de vélos en libre-service avec des stations près des grandes gares",
+     "Un billet transfrontalier pour les personnes qui travaillent dans un pays voisin"
+    ],
+    "correct": 1,
+    "explanation": "Adapto est organisé par l'Administration des transports publics pour les personnes avec un handicap durable qui réduit fortement leur mobilité. Il faut une carte Adapto, chaque trajet se réserve à l'avance, et le service fonctionne uniquement au Luxembourg."
+   }
+  ]
+ },
+ "de": {
+  "title": "Kostenlos unterwegs – Der öffentliche Verkehr und mobiliteit.lu",
+  "description": "Busse, Züge und Straßenbahnen sind in Luxemburg kostenlos, aber wie funktioniert das alles? Erfahren Sie, was kostenlos ist und was Sie noch bezahlen, wie es mit Fahrkarten für die erste Klasse und über die Grenze aussieht, wie mobiliteit.lu und seine App Ihre Fahrt in Echtzeit planen, was für Fahrräder und Nachtbusse gilt, welche Angebote es für Menschen mit eingeschränkter Mobilität gibt, und an wen Sie sich wenden können.",
+  "topics": [
+   "Kostenloser öffentlicher Verkehr für alle",
+   "Züge, Busse und die Straßenbahn",
+   "Fahrkarten für die erste Klasse",
+   "Über die Grenze fahren",
+   "Mobiliteit.lu: wer dahintersteckt",
+   "Die App: Echtzeit, Benachrichtigungen und My Mix",
+   "Fahrräder, Gepäck und Nachtbusse",
+   "Adapto, Mobibus und das Callcenter"
+  ],
+  "questions": [
+   {
+    "text": "Seit wann ist der öffentliche Verkehr in ganz Luxemburg kostenlos?",
+    "options": [
+     "Seit März 2020, für Einwohner, Grenzgänger und Touristen",
+     "Seit Januar 2026, aber nur für Menschen, die in Luxemburg wohnen",
+     "Seit März 2021, aber nur in den Bussen und nicht in den Zügen",
+     "Seit 2015, aber nur für Schüler, Studierende und ältere Menschen"
+    ],
+    "correct": 0,
+    "explanation": "Seit März 2020 sind Busse, Straßenbahnen und Züge in der zweiten Klasse im ganzen Land für alle kostenlos. Luxemburg war das erste Land der Welt, das seinen gesamten öffentlichen Verkehr kostenlos gemacht hat."
+   },
+   {
+    "text": "Wann muss man für den öffentlichen Verkehr noch bezahlen?",
+    "options": [
+     "In der Straßenbahn, und in allen Bussen nach neun Uhr abends",
+     "In der ersten Klasse im Zug, und für den Teil einer Fahrt hinter der Grenze",
+     "In der zweiten Klasse auf langen Strecken, und in jedem Nachtbus im Land",
+     "In den Stadtbussen am Wochenende, und für jedes Fahrrad im Zug"
+    ],
+    "correct": 1,
+    "explanation": "Nur die erste Klasse im Zug und der Teil einer Fahrt im Ausland kosten Geld. Die kostenlose Fahrt endet an der Grenze; in grenzüberschreitenden Bussen braucht man nach der letzten Haltestelle in Luxemburg eine RegioZone-Fahrkarte."
+   },
+   {
+    "text": "Wie kauft man seit 2026 eine Fahrkarte für die erste Klasse oder über die Grenze?",
+    "options": [
+     "Beim Busfahrer, bar bezahlt beim Einsteigen an der vorderen Tür",
+     "Nur mit der besonderen Fahrkarte, die man am Schalter auflädt",
+     "In der App CFL go, auf der Website der CFL oder an einem Automaten",
+     "Mit einer SMS an das Callcenter von mobiliteit.lu"
+    ],
+    "correct": 2,
+    "explanation": "Die alte Karte ist nicht mehr gültig, und im Bus werden keine Fahrkarten mehr verkauft. Man kauft sie in den Apps der CFL, auf der Website der CFL oder an einem Automaten; das Personal in den großen Verkaufsstellen der CFL hilft dabei."
+   },
+   {
+    "text": "Wozu dient die Funktion My Mix der App von mobiliteit.lu?",
+    "options": [
+     "Damit kann man Fahrkarten für die erste Klasse in mehreren Währungen bezahlen",
+     "Sie teilt Ihre Fahrt mit Freunden, damit Sie zusammen reisen können",
+     "Sie spielt Ihnen Musik vor, während Sie an der Haltestelle warten",
+     "Sie schlägt Fahrten vor, die Ihre liebsten Arten, unterwegs zu sein, kombinieren"
+    ],
+    "correct": 3,
+    "explanation": "In My Mix wählen Sie aus, wie Sie gerne unterwegs sind, etwa mit Bus, Zug, Fahrrad, Auto oder zu Fuß, und die App schlägt Fahrten vor, die das kombinieren, zum Beispiel mit Fahrzeit, Entfernung und Auswirkung auf die Umwelt."
+   },
+   {
+    "text": "Was ist Adapto?",
+    "options": [
+     "Ein kostenloser Nachtbus, den viele Gemeinden am Wochenende anbieten",
+     "Ein Fahrdienst auf Bestellung für Menschen, deren Behinderung die Mobilität stark einschränkt",
+     "Ein Verleih von Fahrrädern mit Stationen in der Nähe der großen Bahnhöfe",
+     "Eine grenzüberschreitende Fahrkarte für Menschen, die im Nachbarland arbeiten"
+    ],
+    "correct": 1,
+    "explanation": "Adapto wird von der Verwaltung für öffentlichen Verkehr für Menschen mit einer dauerhaften Behinderung organisiert, die ihre Mobilität stark einschränkt. Man braucht eine Adapto-Karte, jede Fahrt wird im Voraus gebucht, und der Dienst gilt nur in Luxemburg."
+   }
+  ]
+ }
+}
