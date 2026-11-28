@@ -14,6 +14,7 @@ Usage (from the project root):
   python3 build/finish_episode.py <key> [en,fr,de] [options]
 
   --new             new episode: runs build/inject_<key>.js first if the key is not in episodes_data.js yet,
+                    and marks it pending: it waits for Jacques's validation in the admin space before it is public;
                     and evens out the quiz answers (balance_quiz_answers.js --write)
   --no-retakes      pitch check, no retakes (no credits for retakes); still puts a changed recording live
   --check-only      pitch + listening check and report only: no retakes, nothing put live, nothing changed
@@ -286,7 +287,7 @@ NODE_EP = ("const fs=require('fs');const s=fs.readFileSync('episodes_data.js','u
            "const E=new Function(s.slice(s.indexOf('const EPISODES'))+'\\nreturn EPISODES;')();"
            "const e=E.find(x=>x.key===process.argv[1]);"
            "console.log(JSON.stringify(e?{number:e.number,title:e.title,duration:e.duration,duration_fr:e.duration_fr,"
-           "duration_de:e.duration_de,audio:e.audio,audio_fr:e.audio_fr,audio_de:e.audio_de,status:e.status}:null))")
+           "duration_de:e.duration_de,audio:e.audio,audio_fr:e.audio_fr,audio_de:e.audio_de,status:e.status,pending:!!e.pending}:null))")
 def episode():
     out = subprocess.run(["node", "-e", NODE_EP, KEY], cwd=ROOT, capture_output=True, text=True)
     if out.returncode != 0: die("could not read episodes_data.js:\n" + out.stderr[-800:])
@@ -307,6 +308,11 @@ def golive():
         print("  " + "\n  ".join(out.strip().splitlines()[-3:]))
         if code != 0: die(f"{inj} failed:\n" + out[-1200:])
         S["injected"] = True
+    if S.get("injected") and not (episode() or {}).get("pending"):
+        # Every new episode waits for Jacques's validation in the admin space before it is on the public list.
+        code, out = run(["node", "build/mark_pending.js", KEY], ENV(), 60)
+        if code != 0: die("build/mark_pending.js failed:\n" + out[-800:])
+        print("  waiting for validation in the admin space (not on the public list yet)")
     todo = []
     for l in LANGS:
         rec = f"{seg_dir(l)}/podcast_{KEY}{sfx(l)}.mp3"; live = os.path.join(ROOT, f"podcast_{KEY}{sfx(l)}.mp3")
@@ -381,6 +387,8 @@ def report():
     if not any_left: L.append("- nothing flagged")
     L.append("  (A short line that stays off in every take: join it to the next sentence, in all four languages.)")
     if KEY in tok: L += ["", f"Review page: {SITE}/review/{KEY}-{tok[KEY]}/"]
+    if ep.get("pending"):
+        L.append(f"Not on the public list yet: waiting for your validation at {SITE}/admin/#validation (once pushed)")
     L.append(f"Word file for the partner: Relecture partenaires/Biergerpakt_Capsule_{KEY}_relecture.docx")
     if CHECK_ONLY:
         txt = "\n".join(L); open(os.path.join(W, "report.md"), "w").write(txt + "\n")

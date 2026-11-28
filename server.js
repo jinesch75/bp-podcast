@@ -7,6 +7,10 @@
 //    Each request only adds 1 to a counter for that day.
 // 3. /admin/ — the admin space (audience figures + episode status), protected by a password that
 //    lives only in the Railway variable ADMIN_PASSWORD (never in the repository, which is public).
+// 4. Validation: an episode marked "pending": true in episodes_data.js (every new episode, see
+//    build/mark_pending.js) is left out of the public /episodes_data.js until it is validated in the
+//    admin space. Validations are kept in the volume (admin.json), so they take effect at once,
+//    without a deploy. Review pages have their own copy of the episode and are not affected.
 //
 // Data is kept in a Railway volume (variable RAILWAY_VOLUME_MOUNT_PATH, set by Railway when a
 // volume is attached; DATA_DIR overrides it). Without a volume the data would be lost at every deploy.
@@ -70,17 +74,21 @@ function readBody(req, limit) {
 }
 
 // ── Episodes (read from episodes_data.js) ────────────────
-let EPISODES = [], EP_KEYS = new Set(), REVIEW = {};
+const DATA_FILE = path.join(ROOT, 'episodes_data.js');
+let EPISODES = [], EP_KEYS = new Set(), REVIEW = {}, RAW = null, DATA_MTIME = 0;
 function loadEpisodes() {
   try {
-    const code = fs.readFileSync(path.join(ROOT, 'episodes_data.js'), 'utf8');
+    DATA_MTIME = fs.statSync(DATA_FILE).mtimeMs;
+    const code = fs.readFileSync(DATA_FILE, 'utf8');
     const list = vm.runInNewContext(code + '\n;EPISODES', {}, { timeout: 5000 });
+    RAW = list;
     EPISODES = list.map((e) => ({
       id: e.id, key: e.key, number: Number(String(e.number).replace(/\D/g, '')) || e.id,
-      title: e.title, title_fr: e.title_fr || '', duration: Math.round(e.duration || 0)
+      title: e.title, title_fr: e.title_fr || '', pending: !!e.pending,
+      duration: Math.round(e.duration || 0), duration_fr: Math.round(e.duration_fr || 0), duration_de: Math.round(e.duration_de || 0)
     }));
     EP_KEYS = new Set(EPISODES.map((e) => e.key));
-  } catch (e) { console.error('Could not read episodes_data.js:', e.message); }
+  } catch (e) { RAW = null; console.error('Could not read episodes_data.js:', e.message); }
   // Review pages: folders review/<key>-<token>/
   REVIEW = {};
   try {
@@ -162,6 +170,42 @@ function allStatus() {
 }
 function saveAdmin() { writeJsonAtomic(ADMIN_FILE, adminData); }
 
+// ── Validation (pending episodes) ────────────────────────
+// adminData.validated[key] = "YYYY-MM-DD" (day it was validated and put online).
+if (!adminData.validated || typeof adminData.validated !== 'object') adminData.validated = {};
+function isOnline(e) { return !e.pending || !!adminData.validated[e.key]; }
+function reloadIfChanged() {
+  try { if (fs.statSync(DATA_FILE).mtimeMs !== DATA_MTIME) loadEpisodes(); } catch (e) { /* keep what we have */ }
+}
+let pubCache = null;                 // { sig, body, gz, etag }
+function publicData() {
+  reloadIfChanged();
+  if (!RAW) return null;
+  const sig = DATA_MTIME + '|' + RAW.filter((e) => e.pending && adminData.validated[e.key]).map((e) => e.key).join(',');
+  if (pubCache && pubCache.sig === sig) return pubCache;
+  const list = RAW.filter(isOnline);
+  const body = Buffer.from('// Biergerpakt Podcast — published episodes (episodes waiting for validation are left out)\n' +
+    'const EPISODES = ' + JSON.stringify(list) + ';\n', 'utf8');
+  pubCache = {
+    sig, body, gz: zlib.gzipSync(body, { level: 6 }),
+    etag: 'W/"p-' + crypto.createHash('sha1').update(body).digest('hex').slice(0, 16) + '"'
+  };
+  return pubCache;
+}
+function servePublicData(req, res) {
+  const d = publicData();
+  if (!d) return send(res, 503, 'Episodes unavailable');
+  const headers = { 'Content-Type': MIME['.js'], 'ETag': d.etag, 'Cache-Control': 'no-cache', 'Vary': 'Accept-Encoding',
+    'X-Content-Type-Options': 'nosniff', 'Referrer-Policy': 'same-origin' };
+  if (req.headers['if-none-match'] === d.etag) { res.writeHead(304, headers); return res.end(); }
+  const gz = /\bgzip\b/.test(req.headers['accept-encoding'] || '');
+  const buf = gz ? d.gz : d.body;
+  if (gz) headers['Content-Encoding'] = 'gzip';
+  headers['Content-Length'] = buf.length;
+  res.writeHead(200, headers);
+  res.end(req.method === 'HEAD' ? undefined : buf);
+}
+
 // ── Admin login ──────────────────────────────────────────
 const sessions = new Map();          // token -> expiry (ms). In memory only: a redeploy logs out.
 const SESSION_MS = 12 * 3600 * 1000;
@@ -233,9 +277,12 @@ function handleLogout(req, res) {
 async function handleAdminApi(req, res, p) {
   if (!isAdmin(req)) return sendJson(res, 401, { error: 'login' });
   if (req.method === 'GET' && p === '/api/admin/data') {
+    reloadIfChanged();
     return sendJson(res, 200, {
       today: today(), since: stats.since, days: stats.days,
-      episodes: EPISODES.map((e) => Object.assign({}, e, { review: REVIEW[e.key] || null })),
+      episodes: EPISODES.map((e) => Object.assign({}, e, {
+        review: REVIEW[e.key] || null, online: isOnline(e), validatedOn: (e.pending && adminData.validated[e.key]) || ''
+      })),
       status: allStatus()
     });
   }
@@ -256,6 +303,18 @@ async function handleAdminApi(req, res, p) {
     adminData.episodes[m.key] = cur;
     try { saveAdmin(); } catch (e) { return sendJson(res, 500, { error: 'save' }); }
     return sendJson(res, 200, { ok: true, status: cur });
+  }
+  if (req.method === 'POST' && p === '/api/admin/validate') {
+    if (req.headers['x-bp-admin'] !== '1') return sendJson(res, 403, { error: 'header' });
+    let m = null;
+    try { m = JSON.parse(await readBody(req, 2048)); } catch (e) { return sendJson(res, 400, { error: 'json' }); }
+    const ep = m && EPISODES.find((e) => e.key === m.key);
+    if (!ep || typeof m.online !== 'boolean') return sendJson(res, 400, { error: 'key' });
+    if (!ep.pending) return sendJson(res, 400, { error: 'not pending' });
+    if (m.online) adminData.validated[ep.key] = adminData.validated[ep.key] || today();
+    else delete adminData.validated[ep.key];
+    try { saveAdmin(); } catch (e) { return sendJson(res, 500, { error: 'save' }); }
+    return sendJson(res, 200, { ok: true, online: isOnline(ep), validatedOn: adminData.validated[ep.key] || '' });
   }
   return sendJson(res, 404, { error: 'not found' });
 }
@@ -284,6 +343,8 @@ function serveStatic(req, res, urlPath, query) {
   let file = path.join(ROOT, ...parts);
   if (file !== ROOT && !file.startsWith(ROOT + path.sep)) return send(res, 404, 'Not found');
   if (parts.length === 1 && /^(server\.js|package(-lock)?\.json)$/.test(parts[0])) return send(res, 404, 'Not found');
+  // Old copies of the episode data (backups) would show episodes still waiting for validation.
+  if (parts.length === 1 && /^episodes_data\..+\.js$/.test(parts[0])) return send(res, 404, 'Not found');
 
   let st;
   try { st = fs.statSync(file); } catch (e) { return send(res, 404, 'Not found'); }
@@ -358,6 +419,7 @@ const server = http.createServer((req, res) => {
     if (p === '/api/admin/logout') return req.method === 'POST' ? handleLogout(req, res) : send(res, 405, '');
     if (p.startsWith('/api/admin/')) return handleAdminApi(req, res, p);
     if (req.method !== 'GET' && req.method !== 'HEAD') return send(res, 405, 'Method not allowed');
+    if (p === '/episodes_data.js') return servePublicData(req, res);
     return serveStatic(req, res, p, query);
   }).catch((e) => {
     console.error('Error on', p, e.message);   // the address only; nothing about the visitor
@@ -370,6 +432,7 @@ process.on('SIGTERM', shutdown);
 process.on('SIGINT', shutdown);
 
 server.listen(PORT, '0.0.0.0', () => {
-  console.log('Biergerpakt Podcast on port ' + PORT + ' — ' + EPISODES.length + ' episodes — data in ' + DATA_DIR +
+  console.log('Biergerpakt Podcast on port ' + PORT + ' — ' + EPISODES.length + ' episodes (' +
+    EPISODES.filter((e) => !isOnline(e)).length + ' waiting for validation) — data in ' + DATA_DIR +
     (ADMIN_PASSWORD ? '' : ' — admin OFF (no ADMIN_PASSWORD)'));
 });

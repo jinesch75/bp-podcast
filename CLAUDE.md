@@ -22,6 +22,9 @@ Site: static `index.html` + `app.js` + `episodes_data.js`, served by `server.js`
 6. Add a short dated section to `BUILD_GUIDE.md`. If the length changed a lot, update the `**Length:**` line of the scripts.
 7. End the reply to Jacques with: durations, the "still worth a listen" lines from the report, the review link,
    and the git push commands (see below).
+8. A new episode is **not** on the public list until Jacques validates it in the admin space
+   (`/admin/` → Validation). `finish_episode.py --new` marks it `pending: true` (`build/mark_pending.js`);
+   never remove that flag or publish a new episode yourself. Tell Jacques it is waiting for his validation.
 
 "Check the pitch" of an existing episode = the same command (text unchanged → 0 credits except retakes).
 `--check-only` measures and reports without changing anything.
@@ -83,6 +86,9 @@ Site: static `index.html` + `app.js` + `episodes_data.js`, served by `server.js`
 - Luxembourgish is hidden on the site, but **keep all LB data** (`segments_lb`, `*_lb` fields, `_lb.md` scripts).
 - The temporary password screen is for the main site only, never for review pages.
 - Admin space `/admin/`: no individual or personal data about listeners.
+- Validation (Jacques, 28 Nov 2026): episodes with `pending: true` are left out of the public `/episodes_data.js`
+  by `server.js` until validated in the admin space. Validations live in the Railway volume (`admin.json`),
+  so they take effect at once, without a push. Review pages are not affected.
 - The ElevenLabs key lives only in `.env`. Never commit `.env` or paste the key anywhere.
 
 ## Git

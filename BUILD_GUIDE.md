@@ -860,3 +860,20 @@ New episode (Jacques: "Do a new episode about commune's Pakt vum Zesummeliewen")
 - Kept (durable): definition and values (art. 1); four tools (art. 2); signed by commune (or group), ministry, Syvicol; any size of commune; pilot 2021–2023; "more than fifty communes" since 2024 (53 in Feb 2026); three aims; at most six years; cycles in five steps; workshops open to everyone living or working there, accessible information; steering committee ≥ 5 (composition); coordinator internal/external/shared, State subsidy; ministry advisers (free advice), ASTI + CEFIS; committee in every commune after each communal election, replaces the integration committees, recommended name, open to residents of all nationalities and cross-border workers, appointed by the council, ≥ 1 councillor, call for candidates, missions, elects the representatives to the Higher Council; Biergerguide (ministry + Syvicol + commune, five languages, two parts); Biergerpakt: commune receives "a small amount" per member living or working there; good practices (five themes); forum (once a year national, several times regional); evaluation six months before the end, new application by the new council; label. NOT said: subsidy amounts (30,000 / 3,000–8,000 / 5 € per member), number of advisers, exact count of communes, the email address, names.
 - `pronunciation.py` (went into commit f44e21d with episode 60): WORDS "ASTI" → "Asti", "CEFIS" → "Cefis"; DE years written out pre-emptively ("seit Anfang des Jahres 2024", "von 2021 bis 2023"). **Not A/B tested — check by ear:** "Gemengepakt" in the EN and FR voices, "gemengen dot zesummeliewen dot L-U", "Asti"/"Cefis", "Biergerguide".
 - Recorded with `finish_episode.py gemengepakt en,fr,de --new` (≈ 9,700 credits EN + ≈ 21,000 FR/DE + ≈ 4,300 retakes; stopped once on the ElevenLabs quota until Jacques raised the limit), then short lines joined in all four languages with `build/apply_join_gemengepakt_2026_11.py` (pass 1: "…change of view: in the past…", "…the whole point: the actions…", "…a moment ago: what is that exactly?", "…in our communes: it meets…"; pass 2: "Yes, you can: the commune…"; same in FR/DE/LB), 110 → 105 sentences, and `--reset` twice (≈ 2,000 + 1,000 credits for retakes). **Durations: EN 10:38, FR 10:04, DE 11:46.** Review page review/gemengepakt-63de45d4f9/. Content `build/gemengepakt_content.json`, injector `build/inject_gemengepakt.js`. Backup: `episodes_data.pre_gemengepakt.js`. Partner for the review: the ministry's Division du vivre-ensemble interculturel (gemengen.zesummeliewen@fm.etat.lu) and the Syvicol.
+
+## Validation before publishing (28 Nov 2026)
+
+New episodes now wait for Jacques's validation before they appear on the public list.
+
+- `episodes_data.js`: an episode with `"pending": true` is waiting. Set by `build/mark_pending.js <key>`
+  (`--off` removes it); `finish_episode.py --new` calls it automatically after `inject_<key>.js`.
+  Episodes 58–61 (inll, nationalite, mobiliteit, gemengepakt) were marked pending on this date.
+- `server.js` serves `/episodes_data.js` itself: it leaves out pending episodes that are not validated
+  (cached, own ETag, gzip). Old copies `episodes_data.*.js` are no longer served.
+- Admin space, first tab **Validation**: lists waiting episodes (lengths, review page, finished ticks) with
+  "Validate and put online" (two clicks). Validated episodes can be taken off the public list again.
+  API: `POST /api/admin/validate {key, online}`; stored in `admin.json` → `validated[key] = "YYYY-MM-DD"`.
+  Takes effect at once, no push needed.
+- Review pages (`review/<key>-<token>/`) have their own copy of the episode, so they work while it waits.
+- The audio files and the repository are public as before: "pending" hides the episode from the site's list,
+  it does not make it secret.

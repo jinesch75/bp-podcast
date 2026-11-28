@@ -9,7 +9,7 @@ if (EPISODES.find(e => e.key === 'simpa')) { console.log('simpa already present'
 const c = JSON.parse(fs.readFileSync('build/simpa_content.json', 'utf8'));
 const id = Math.max(...EPISODES.map(e => e.id)) + 1;
 EPISODES.push({
-  id, key: 'simpa', number: 'Episode ' + id,
+  id, key: 'simpa', number: 'Episode ' + id, pending: true,
   title: c.en.title, description: c.en.description,
   audio: 'podcast_simpa.mp3', duration: 0,
   topics: c.en.topics, segments: [], questions: c.en.questions,

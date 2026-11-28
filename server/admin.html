@@ -94,6 +94,23 @@
   .seg button.on { background: var(--navy); color: #fff; }
   .msg { padding: 40px; text-align: center; color: var(--text-3); }
 
+  .badge { display: inline-block; min-width: 20px; padding: 1px 6px; margin-left: 6px; border-radius: 10px; background: var(--orange); color: #fff;
+           font-size: .72rem; font-weight: 700; text-align: center; vertical-align: 1px; }
+  .badge:empty { display: none; }
+  .tag-wait { display: inline-block; margin-left: 6px; padding: 1px 7px; border-radius: 6px; background: var(--orange-light); color: var(--orange-dark);
+              font-size: .72rem; font-weight: 700; white-space: nowrap; vertical-align: 1px; }
+  .v-title small { display: block; color: var(--text-3); font-size: .8rem; margin-top: 2px; }
+  .v-len { white-space: nowrap; font-variant-numeric: tabular-nums; color: var(--text-2); font-size: .85rem; }
+  .v-st { white-space: nowrap; font-size: .8rem; color: var(--text-2); }
+  .v-st b { font-weight: 700; } .v-st .ok { color: var(--green); } .v-st .no { color: #BBB; }
+  .btn { border: 0; border-radius: 8px; padding: 8px 14px; font-weight: 700; cursor: pointer; white-space: nowrap; }
+  .btn-go { background: var(--green); color: #fff; } .btn-go:hover { background: #22672F; }
+  .btn-go.confirm { background: var(--orange); } .btn-go.confirm:hover { background: var(--orange-dark); }
+  .btn:disabled { opacity: .6; cursor: default; }
+  .v-actions { text-align: right; white-space: nowrap; }
+  .v-actions .cancel { margin-left: 6px; }
+  .v-ok { color: var(--green); font-weight: 600; white-space: nowrap; }
+
   @media (max-width: 760px) {
     .tiles { grid-template-columns: repeat(2, 1fr); }
     .bar { gap: 10px; } .brand { display: none; }
@@ -107,6 +124,7 @@
   <div class="bar">
     <div class="brand">Biergerpakt Podcast <span>· Admin</span></div>
     <nav>
+      <button data-tab="validation">Validation<span class="badge" id="v-badge"></span></button>
       <button data-tab="audience" class="on">Audience</button>
       <button data-tab="episodes">Episodes</button>
     </nav>
@@ -116,6 +134,36 @@
 
 <main>
   <div class="msg" id="loading">Loading…</div>
+
+  <!-- ── Validation ───────────────────────── -->
+  <section class="tab" id="tab-validation">
+    <div class="head">
+      <div>
+        <h1>Validation</h1>
+        <p class="sub">Every new episode comes here first. It is not on the public list of episodes until you validate it.
+          Its review page works all the time, so you (and the partner) can listen before it goes online.</p>
+      </div>
+    </div>
+    <div class="card">
+      <h2 id="v-wait-title">Waiting for validation</h2>
+      <div class="scroll">
+        <table>
+          <thead><tr><th>#</th><th>Episode</th><th>Length</th><th>Listen</th><th class="hide-sm">Finished (script · audio)</th><th></th></tr></thead>
+          <tbody id="v-wait"></tbody>
+        </table>
+      </div>
+    </div>
+    <div class="card" id="v-done-card">
+      <h2>Validated and online</h2>
+      <div class="scroll">
+        <table>
+          <thead><tr><th>#</th><th>Episode</th><th>Validated on</th><th></th></tr></thead>
+          <tbody id="v-done"></tbody>
+        </table>
+      </div>
+      <p class="sub">“Take off the public list” sends the episode back to “Waiting for validation”. Nothing is deleted.</p>
+    </div>
+  </section>
 
   <!-- ── Audience ─────────────────────────── -->
   <section class="tab on" id="tab-audience">
@@ -248,20 +296,25 @@
       .then(function (r) { if (r.status === 401) { location.reload(); throw 0; } return r.json(); })
       .then(function (j) {
         D = j; $('loading').hidden = true; document.body.classList.remove('loading');
-        renderAudience(); renderEpisodes();
+        renderAudience(); renderEpisodes(); renderValidation();
+        if (!location.hash && waiting().length) openTab('validation');
       })
       .catch(function (e) { if (e !== 0) $('loading').textContent = 'The data could not be loaded. Reload the page to try again.'; });
   }
 
   // ── Tabs ───────────────────────────────
+  function openTab(name) {
+    var b = document.querySelector('nav button[data-tab="' + name + '"]'); if (!b) return;
+    document.querySelectorAll('nav button').forEach(function (x) { x.classList.toggle('on', x === b); });
+    document.querySelectorAll('.tab').forEach(function (t) { t.classList.toggle('on', t.id === 'tab-' + name); });
+  }
   document.querySelectorAll('nav button').forEach(function (b) {
     b.addEventListener('click', function () {
-      document.querySelectorAll('nav button').forEach(function (x) { x.classList.toggle('on', x === b); });
-      document.querySelectorAll('.tab').forEach(function (t) { t.classList.toggle('on', t.id === 'tab-' + b.getAttribute('data-tab')); });
+      openTab(b.getAttribute('data-tab'));
       try { history.replaceState(null, '', '#' + b.getAttribute('data-tab')); } catch (e) {}
     });
   });
-  if (location.hash === '#episodes') document.querySelector('nav button[data-tab=episodes]').click();
+  if (location.hash === '#episodes' || location.hash === '#validation') openTab(location.hash.slice(1));
 
   $('logout').addEventListener('click', function () {
     fetch('/api/admin/logout', { method: 'POST', credentials: 'same-origin' }).then(function () { location.reload(); });
@@ -455,7 +508,7 @@
       var s = st(e.key);
       return '<tr class="' + (isDone(e.key, 'all', 'both') ? 'done' : '') + '" data-key="' + esc(e.key) + '">' +
         '<td class="n">' + e.number + '</td>' +
-        '<td class="title">' + esc(e.title) + '</td>' +
+        '<td class="title">' + esc(e.title) + (e.online === false ? '<span class="tag-wait">waiting for validation</span>' : '') + '</td>' +
         '<td class="hide-sm">' + (e.review ? '<a href="' + esc(e.review) + '" target="_blank" rel="noopener">Open ↗</a>' : '<span class="date">—</span>') + '</td>' +
         LANGS.map(function (l) {
           return PARTS.map(function (p, i) {
@@ -519,6 +572,74 @@
   $('q').addEventListener('input', renderEpisodes);
   $('fin-lang').addEventListener('change', renderEpisodes);
   $('fin-part').addEventListener('change', renderEpisodes);
+
+  // ── Validation ─────────────────────────
+  function waiting() { return D.episodes.filter(function (e) { return e.pending && !e.online; }); }
+  function mmss(s) { s = Math.round(s || 0); return s ? Math.floor(s / 60) + ':' + ('0' + s % 60).slice(-2) : '—'; }
+  function stSummary(key) {
+    return LANGS.map(function (l) {
+      return '<span>' + l.toUpperCase() + ' ' + PARTS.map(function (p) {
+        var f = !!item(key, l, p).finished;
+        return '<b class="' + (f ? 'ok' : 'no') + '" title="' + LNAME[l] + ' ' + p + (f ? ' finished' : ' not finished') + '">' + (f ? '✓' : '·') + '</b>';
+      }).join('') + '</span>';
+    }).join(' &nbsp; ');
+  }
+  function renderValidation() {
+    var w = waiting().sort(function (a, b) { return a.number - b.number; });
+    var done = D.episodes.filter(function (e) { return e.pending && e.online; })
+      .sort(function (a, b) { return (b.validatedOn || '').localeCompare(a.validatedOn || '') || b.number - a.number; });
+    $('v-badge').textContent = w.length ? String(w.length) : '';
+    $('v-wait-title').textContent = 'Waiting for validation (' + w.length + ')';
+    $('v-wait').innerHTML = w.length ? w.map(function (e) {
+      return '<tr data-key="' + esc(e.key) + '"><td class="n">' + e.number + '</td>' +
+        '<td class="v-title">' + esc(e.title) + (e.title_fr ? '<small>' + esc(e.title_fr) + '</small>' : '') + '</td>' +
+        '<td class="v-len">EN ' + mmss(e.duration) + '<br>FR ' + mmss(e.duration_fr) + '<br>DE ' + mmss(e.duration_de) + '</td>' +
+        '<td>' + (e.review ? '<a href="' + esc(e.review) + '" target="_blank" rel="noopener">Review page ↗</a>' : '<span class="date">no review page</span>') + '</td>' +
+        '<td class="v-st hide-sm">' + stSummary(e.key) + '</td>' +
+        '<td class="v-actions"><button class="btn btn-go v-go">Validate and put online</button></td></tr>';
+    }).join('') : '<tr><td colspan="6" class="empty">Nothing is waiting. New episodes will appear here.</td></tr>';
+    $('v-done-card').hidden = !done.length;
+    $('v-done').innerHTML = done.map(function (e) {
+      return '<tr data-key="' + esc(e.key) + '"><td class="n">' + e.number + '</td><td>' + esc(e.title) + '</td>' +
+        '<td class="v-ok">✓ ' + (e.validatedOn ? niceDay(e.validatedOn) : '') + '</td>' +
+        '<td class="v-actions"><button class="link-btn v-off">Take off the public list</button></td></tr>';
+    }).join('');
+  }
+  function setOnline(key, online, btn) {
+    btn.disabled = true;
+    fetch('/api/admin/validate', {
+      method: 'POST', credentials: 'same-origin',
+      headers: { 'Content-Type': 'application/json', 'X-BP-Admin': '1' }, body: JSON.stringify({ key: key, online: online })
+    }).then(function (r) {
+      if (r.status === 401) { location.reload(); throw 0; }
+      if (!r.ok) throw 1;
+      return r.json();
+    }).then(function (j) {
+      D.episodes.forEach(function (e) { if (e.key === key) { e.online = j.online; e.validatedOn = j.validatedOn; } });
+      renderValidation(); renderEpisodes();
+    }).catch(function (e) {
+      if (e === 0) return;
+      btn.disabled = false; btn.textContent = 'Not saved — try again';
+    });
+  }
+  $('v-wait').addEventListener('click', function (ev) {
+    var tr = ev.target.closest('tr'); if (!tr) return;
+    var key = tr.getAttribute('data-key');
+    if (ev.target.classList.contains('cancel')) { renderValidation(); return; }
+    var b = ev.target.closest('.v-go'); if (!b) return;
+    if (!b.classList.contains('confirm')) {      // first click asks for confirmation
+      b.classList.add('confirm'); b.textContent = 'Yes, put it online';
+      b.insertAdjacentHTML('afterend', '<button class="link-btn cancel">Cancel</button>');
+      return;
+    }
+    setOnline(key, true, b);
+  });
+  $('v-done').addEventListener('click', function (ev) {
+    var b = ev.target.closest('.v-off'); if (!b) return;
+    var tr = b.closest('tr');
+    if (!b.classList.contains('confirm')) { b.classList.add('confirm'); b.textContent = 'Click again to take it off'; return; }
+    setOnline(tr.getAttribute('data-key'), false, b);
+  });
 
   load();
 })();
