@@ -1,0 +1,215 @@
+{
+ "en": {
+  "title": "Living Together in Your Commune – The Communal Pact",
+  "description": "What is the Gemengepakt, the communal pact for intercultural living together? Discover who signs it, its five steps and citizen workshops, the steering committee and the coordinator, the committee on living together that every commune has, the Biergerguide, the link with the Biergerpakt, and good ideas from the communes.",
+  "topics": [
+   "What intercultural living together means",
+   "Who signs the communal pact",
+   "The three aims and the five steps",
+   "Citizen workshops",
+   "The steering committee and the coordinator",
+   "The committee on living together",
+   "The Biergerguide and the Biergerpakt",
+   "Good practices and where to find them"
+  ],
+  "questions": [
+   {
+    "text": "Who signs the communal pact for intercultural living together?",
+    "options": [
+     "The commune, the ministry in charge of living together, and the Syvicol",
+     "Only the mayor of the commune, together with the national police",
+     "The commune and the European Union, through its office in Luxembourg",
+     "Every resident of the commune, at the town hall, once a year"
+    ],
+    "correct": 0,
+    "explanation": "The pact is signed by the commune (or a group of communes), the ministry in charge of living together and the Syvicol, the association of Luxembourg's towns and communes."
+   },
+   {
+    "text": "What happens in the third step of each cycle of the pact?",
+    "options": [
+     "The commune's leaders decide whether to take part in the pact",
+     "The ministry closes the pact and sends a final report to the commune",
+     "Citizen workshops, where people come up with concrete actions together",
+     "The communal council votes on a new budget for roads and buildings"
+    ],
+    "correct": 2,
+    "explanation": "Each cycle has five steps: political commitment, a look at the current situation, citizen workshops that come up with concrete actions, putting the actions into practice, and evaluation."
+   },
+   {
+    "text": "Who can become a member of the commune's committee on living together?",
+    "options": [
+     "Only Luxembourgish citizens who have lived in the commune for ten years",
+     "Only members of the communal council and their deputies",
+     "Only people who were born in the commune or whose parents were",
+     "People who live or work in the commune, including cross-border workers"
+    ],
+    "correct": 3,
+    "explanation": "The committee is for everyone who lives or works in the commune: Luxembourgers, residents of other nationalities and cross-border workers. The communal council appoints the members, and at least one councillor sits on it."
+   },
+   {
+    "text": "What is the Biergerguide?",
+    "options": [
+     "A national map of all the cycling paths and walks in Luxembourg",
+     "A guide written for one commune, in five languages, to discover it and get involved",
+     "A form that newcomers must fill in at the town hall within three days",
+     "A list of the ministry's advisers with their phone numbers and hours"
+    ],
+    "correct": 1,
+    "explanation": "The Biergerguide is prepared by the ministry with the Syvicol and the commune, in five languages. Part one is \"I discover my commune\", part two \"I get involved in my commune\"."
+   },
+   {
+    "text": "How does a commune benefit when its residents join the Biergerpakt?",
+    "options": [
+     "The commune can lower its local taxes for all of its residents",
+     "The commune gets an extra seat on the national council for living together",
+     "Every year, the commune receives a small amount from the State for each member",
+     "The commune no longer needs a committee on living together"
+    ],
+    "correct": 2,
+    "explanation": "Each year, the commune receives a small amount from the State for each Biergerpakt member who lives or works there. So when you join, your commune benefits too."
+   }
+  ]
+ },
+ "fr": {
+  "title": "Vivre ensemble dans votre commune – Le pacte communal",
+  "description": "Qu'est-ce que le Gemengepakt, le pacte communal du vivre-ensemble interculturel ? Découvrez qui le signe, ses cinq étapes et ses ateliers citoyens, le comité de pilotage et le coordinateur, la commission du vivre-ensemble que chaque commune possède, le Biergerguide, le lien avec le Biergerpakt, et les bonnes idées des communes.",
+  "topics": [
+   "Ce que veut dire le vivre-ensemble interculturel",
+   "Qui signe le pacte communal",
+   "Les trois objectifs et les cinq étapes",
+   "Les ateliers citoyens",
+   "Le comité de pilotage et le coordinateur",
+   "La commission du vivre-ensemble",
+   "Le Biergerguide et le Biergerpakt",
+   "Les bonnes pratiques et où les trouver"
+  ],
+  "questions": [
+   {
+    "text": "Qui signe le pacte communal du vivre-ensemble interculturel ?",
+    "options": [
+     "La commune, le ministère chargé du vivre-ensemble, et le Syvicol",
+     "Seulement le bourgmestre de la commune, avec la police nationale",
+     "La commune et l'Union européenne, par son bureau au Luxembourg",
+     "Chaque habitant de la commune, à la maison communale, une fois par an"
+    ],
+    "correct": 0,
+    "explanation": "Le pacte est signé par la commune (ou un groupement de communes), le ministère chargé du vivre-ensemble et le Syvicol, le syndicat des villes et communes luxembourgeoises."
+   },
+   {
+    "text": "Que se passe-t-il à la troisième étape de chaque cycle du pacte ?",
+    "options": [
+     "Les responsables de la commune décident de participer ou non au pacte",
+     "Le ministère clôture le pacte et envoie un rapport final à la commune",
+     "Des ateliers citoyens, où l'on imagine ensemble des actions concrètes",
+     "Le conseil communal vote un nouveau budget pour les routes et les bâtiments"
+    ],
+    "correct": 2,
+    "explanation": "Chaque cycle compte cinq étapes : l'engagement politique, un état des lieux, des ateliers citoyens qui imaginent des actions concrètes, la mise en œuvre des actions, et l'évaluation."
+   },
+   {
+    "text": "Qui peut devenir membre de la commission communale du vivre-ensemble ?",
+    "options": [
+     "Seulement les Luxembourgeois qui habitent la commune depuis dix ans",
+     "Seulement les membres du conseil communal et leurs suppléants",
+     "Seulement les personnes nées dans la commune ou dont les parents y sont nés",
+     "Les personnes qui vivent ou travaillent dans la commune, frontaliers compris"
+    ],
+    "correct": 3,
+    "explanation": "La commission est ouverte à toutes les personnes qui vivent ou travaillent dans la commune : Luxembourgeois, résidents d'autres nationalités et travailleurs frontaliers. Le conseil communal nomme les membres, et au moins un conseiller communal en fait partie."
+   },
+   {
+    "text": "Qu'est-ce que le Biergerguide ?",
+    "options": [
+     "Une carte nationale de toutes les pistes cyclables et promenades du pays",
+     "Un guide écrit pour une commune, en cinq langues, pour la découvrir et s'y engager",
+     "Un formulaire que les nouveaux arrivants doivent remplir en trois jours",
+     "Une liste des conseillers du ministère avec leurs numéros et leurs horaires"
+    ],
+    "correct": 1,
+    "explanation": "Le Biergerguide est préparé par le ministère avec le Syvicol et la commune, en cinq langues. La première partie s'appelle « Je découvre ma commune », la deuxième « Je m'engage dans ma commune »."
+   },
+   {
+    "text": "Qu'apporte à la commune l'adhésion de ses habitants au Biergerpakt ?",
+    "options": [
+     "La commune peut baisser ses impôts locaux pour tous ses habitants",
+     "La commune obtient un siège de plus au conseil national du vivre-ensemble",
+     "Chaque année, la commune reçoit de l'État un petit montant par membre",
+     "La commune n'a plus besoin d'une commission du vivre-ensemble"
+    ],
+    "correct": 2,
+    "explanation": "Chaque année, la commune reçoit de l'État un petit montant pour chaque membre du Biergerpakt qui y habite ou y travaille. Quand vous adhérez, votre commune en profite donc aussi."
+   }
+  ]
+ },
+ "de": {
+  "title": "Zusammenleben in Ihrer Gemeinde – Der Gemeindepakt",
+  "description": "Was ist der Gemengepakt, der Gemeindepakt für interkulturelles Zusammenleben? Erfahren Sie, wer ihn unterschreibt, welche fünf Schritte und Bürgerwerkstätten es gibt, was der Lenkungsausschuss und der Koordinator tun, was die Kommission für das Zusammenleben ist, die jede Gemeinde hat, und lernen Sie den Biergerguide, die Verbindung zum Biergerpakt und gute Ideen der Gemeinden kennen.",
+  "topics": [
+   "Was interkulturelles Zusammenleben bedeutet",
+   "Wer den Gemeindepakt unterschreibt",
+   "Die drei Ziele und die fünf Schritte",
+   "Bürgerwerkstätten",
+   "Lenkungsausschuss und Koordinator",
+   "Die Kommission für das Zusammenleben",
+   "Der Biergerguide und der Biergerpakt",
+   "Gute Beispiele und wo man sie findet"
+  ],
+  "questions": [
+   {
+    "text": "Wer unterschreibt den Gemeindepakt für interkulturelles Zusammenleben?",
+    "options": [
+     "Die Gemeinde, das für das Zusammenleben zuständige Ministerium und der Syvicol",
+     "Nur der Bürgermeister der Gemeinde, zusammen mit der Polizei",
+     "Die Gemeinde und die Europäische Union über ihr Büro in Luxemburg",
+     "Alle Einwohner der Gemeinde, einmal im Jahr im Rathaus"
+    ],
+    "correct": 0,
+    "explanation": "Der Pakt wird von der Gemeinde (oder einem Gemeindeverbund), dem für das Zusammenleben zuständigen Ministerium und dem Syvicol, dem Verband der luxemburgischen Städte und Gemeinden, unterschrieben."
+   },
+   {
+    "text": "Was geschieht im dritten Schritt jedes Zyklus des Pakts?",
+    "options": [
+     "Die Verantwortlichen der Gemeinde entscheiden, ob sie mitmachen",
+     "Das Ministerium beendet den Pakt und schickt einen Abschlussbericht",
+     "Bürgerwerkstätten, in denen man gemeinsam konkrete Aktionen entwickelt",
+     "Der Gemeinderat stimmt über einen neuen Haushalt für Straßen ab"
+    ],
+    "correct": 2,
+    "explanation": "Jeder Zyklus hat fünf Schritte: politisches Engagement, Bestandsaufnahme, Bürgerwerkstätten mit konkreten Aktionen, Umsetzung der Aktionen und Bewertung."
+   },
+   {
+    "text": "Wer kann Mitglied der Gemeindekommission für das Zusammenleben werden?",
+    "options": [
+     "Nur Luxemburger, die seit zehn Jahren in der Gemeinde wohnen",
+     "Nur Mitglieder des Gemeinderats und ihre Stellvertreter",
+     "Nur Menschen, die in der Gemeinde geboren sind oder deren Eltern dort geboren sind",
+     "Menschen, die in der Gemeinde leben oder arbeiten, auch Grenzgänger"
+    ],
+    "correct": 3,
+    "explanation": "Die Kommission ist für alle, die in der Gemeinde leben oder arbeiten: Luxemburger, Einwohner anderer Nationalitäten und Grenzgänger. Der Gemeinderat ernennt die Mitglieder, und mindestens ein Gemeinderatsmitglied gehört dazu."
+   },
+   {
+    "text": "Was ist der Biergerguide?",
+    "options": [
+     "Eine landesweite Karte aller Radwege und Wanderwege in Luxemburg",
+     "Ein Leitfaden für eine Gemeinde, in fünf Sprachen, um sie zu entdecken und sich einzubringen",
+     "Ein Formular, das Neuankömmlinge innerhalb von drei Tagen ausfüllen müssen",
+     "Eine Liste der Berater des Ministeriums mit Telefonnummern und Zeiten"
+    ],
+    "correct": 1,
+    "explanation": "Der Biergerguide wird vom Ministerium mit dem Syvicol und der Gemeinde erstellt, in fünf Sprachen. Der erste Teil heißt „Ich entdecke meine Gemeinde“, der zweite „Ich engagiere mich in meiner Gemeinde“."
+   },
+   {
+    "text": "Was hat eine Gemeinde davon, wenn ihre Einwohner dem Biergerpakt beitreten?",
+    "options": [
+     "Die Gemeinde kann ihre Gemeindesteuern für alle Einwohner senken",
+     "Die Gemeinde bekommt einen zusätzlichen Sitz im nationalen Rat",
+     "Jedes Jahr erhält die Gemeinde vom Staat einen kleinen Betrag pro Mitglied",
+     "Die Gemeinde braucht dann keine Kommission für das Zusammenleben mehr"
+    ],
+    "correct": 2,
+    "explanation": "Jedes Jahr erhält die Gemeinde vom Staat einen kleinen Betrag für jedes Mitglied des Biergerpakt, das dort wohnt oder arbeitet. Wenn Sie beitreten, profitiert also auch Ihre Gemeinde."
+   }
+  ]
+ }
+}
