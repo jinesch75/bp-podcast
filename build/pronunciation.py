@@ -17,7 +17,7 @@ OR = {"en": "or", "fr": "ou", "de": "oder", "lb": "oder"}
 EMERGENCY_112 = {"en": "one-one-two", "fr": "cent-douze", "de": "eins-eins-zwei"}
 
 # Acronyms said letter by letter -> written "C-N-S" so every voice spells them.
-LETTERS = ["LAR", "KJT", "CJF", "CNPD", "GDPR", "RGPD", "DSGVO", "CAE", "CCSS", "CET", "ULC", "CEC", "CNS", "FNS", "SNJ", "CNAP", "AAA", "DSP", "CGDIS", "CSU", "CIS", "CNIS", "INFS", "INFPC",
+LETTERS = ["INLL", "LAR", "KJT", "CJF", "CNPD", "GDPR", "RGPD", "DSGVO", "CAE", "CCSS", "CET", "ULC", "CEC", "CNS", "FNS", "SNJ", "CNAP", "AAA", "DSP", "CGDIS", "CSU", "CIS", "CNIS", "INFS", "INFPC",
            "ASBL", "EBL", "ONE", "FNR", "LIH", "SES", "IMD", "FSE", "ESF", "GAP", "SIA", "ATVA", "OTP", "QR",
            "ID", "CV", "SMS", "GDP", "PIB", "BIP", "VAT", "TVA", "ATM", "AVC", "EU", "UE"]
 LETTERS_LANG = {"en": ["IT", "AI"], "fr": ["IA"], "de": ["IT", "KI"]}
@@ -83,7 +83,8 @@ NAMES = {
            (r"(?i)\bokaju\b", "Okadjou")],   # ombudsman ep: Jacques 2026-11-23 "OKA-JUU", J as in "juice" (was "Okayou")
     #jepeuxvoter ep (2026-11-20)
     "de": [(r"\bwurde 1988 von\b", "wurde neunzehnhundertachtundachtzig von"),   # LAR ep (2026-11-26), written out like the KJT year (pre-emptive)
-           (r"\bseit 1993 für\b", "seit neunzehnhundertdreiundneunzig für"),   # infohandicap ep (2026-11-27), pre-emptive like LAR/KJT
+           (r"\bseit 1993 für\b", "seit neunzehnhundertdreiundneunzig für"),
+           (r"\baus dem Jahr 1900\b", "aus dem Jahr neunzehnhundert"),   # nationalite ep (2026-11-27), pre-emptive like LAR/KJT   # infohandicap ep (2026-11-27), pre-emptive like LAR/KJT
            (r"\bVolkszählung von 2021\b", "Volkszählung von zweitausendeinundzwanzig"),   # infohandicap ep, pre-emptive
            (r"\bim Jahr 2023 dürfen\b", "im Jahr zweitausenddreiundzwanzig dürfen"),   # infohandicap ep, pre-emptive   # LAR ep (2026-11-26), written out like the KJT year (pre-emptive)
            (r"\bwurde 1992 gegründet\b", "wurde neunzehnhundertzweiundneunzig gegründet"),
@@ -144,6 +145,9 @@ def rules(lang):
         (r"\blar(?= (?:dot|point|Punkt) )", "L-A-R"),
         # info@iha.lu (infohandicap ep, 2026-11-27): "info at I-H-A dot L-U"
         (r"\biha(?= (?:dot|point|Punkt) )", "I-H-A"),
+        # INLL ep (2026-11-27): inll.lu -> "I-N-L-L dot L-U"; the MyINL portal -> "My I-N-L" (not A/B tested, check by ear)
+        (r"\binll(?= (?:dot|point|Punkt) )", "I-N-L-L"),
+        (r"\bMyINL\b", "My I-N-L"),
         # cet.lu (CET ep, 2026-11-23): "C-E-T dot L-U"; only before dot/point/Punkt, because "cet" is a French word
         (r"\bcet(?= (?:dot|point|Punkt) )", "C-E-T"),
         # consommateurs ep (2026-11-24): ulc.lu -> "U-L-C dot L-U", cecluxembourg.lu -> "C-E-C Luxembourg dot L-U"

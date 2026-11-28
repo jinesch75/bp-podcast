@@ -1,0 +1,215 @@
+{
+ "en": {
+  "title": "INLL – Learning Luxembourgish and Other Languages",
+  "description": "The National Institute of Languages Luxembourg (INLL) is a public centre where adults learn more than ten languages and can have their skills certified. Discover how to enrol through MyINL, the many ways to learn Luxembourgish, including the intensive Moving Languages course, how the Sproochentest for nationality works, and the other certificates and trainings.",
+  "topics": [
+   "What the INLL is",
+   "More than ten languages, three sites",
+   "Courses in the language from day one",
+   "Enrolling through MyINL",
+   "Ways to learn Luxembourgish",
+   "Moving Languages",
+   "The Sproochentest for nationality",
+   "Other certificates and teacher training"
+  ],
+  "questions": [
+   {
+    "text": "What is the INLL?",
+    "options": [
+     "A public centre where adults learn languages and can get them certified",
+     "A private language school that only teaches Luxembourgish to children",
+     "A university faculty that trains translators for the European institutions",
+     "An office of the commune that registers new residents and their languages"
+    ],
+    "correct": 0,
+    "explanation": "The INLL, the National Institute of Languages Luxembourg, is a public centre where adults learn more than ten languages and can have their language skills certified. It comes under the Ministry of Education, Children and Youth."
+   },
+   {
+    "text": "How do you enrol in a course at the INLL?",
+    "options": [
+     "Through the online portal MyINL, with a recommended level",
+     "At your commune, with your identity card and a recent photo",
+     "By sending a letter to the Ministry before the end of June",
+     "By phoning the INLL, which gives you a place straight away"
+    ],
+    "correct": 0,
+    "explanation": "Everything goes through MyINL. You need a recommended level: complete beginners can choose A1 themselves, the others take a short online test and an orientation talk with a teacher."
+   },
+   {
+    "text": "In which language are the INLL courses taught?",
+    "options": [
+     "In the language you are learning, from the very first lesson",
+     "In French for beginners, and later in the language you learn",
+     "In English at every level, so that everybody understands",
+     "In German or in French, as you choose when you enrol"
+    ],
+    "correct": 0,
+    "explanation": "Every course is taught in the language you are learning, from the very first lesson, even for complete beginners. The courses are for adults only."
+   },
+   {
+    "text": "What are the two parts of the Sproochentest?",
+    "options": [
+     "Speaking at level A2 and listening at level B1",
+     "Writing an essay at level B1 and reading at level A2",
+     "A grammar test on paper and a test on Luxembourg history",
+     "Reading a text aloud and translating it into French"
+    ],
+    "correct": 0,
+    "explanation": "The Sproochentest has a speaking part at level A2 (about ten minutes with an examiner) and a listening part at level B1 (three recordings, answers on a tablet), on the same half day. You can take it again as often as you need."
+   },
+   {
+    "text": "What is Moving Languages?",
+    "options": [
+     "An intensive eight-week course in Luxembourgish or French, with movement",
+     "A mobile app that translates Luxembourgish into many other languages",
+     "A course for children who move to Luxembourg with their parents",
+     "A free bus tour of the country with a Luxembourgish-speaking guide"
+    ],
+    "correct": 0,
+    "explanation": "Moving Languages is an intensive course in Luxembourgish or French: eight weeks, three hours a day, only in the new language, learning with movement and the five senses. The goal is level A2 in speaking for people who start from zero."
+   }
+  ]
+ },
+ "fr": {
+  "title": "L'INLL – Apprendre le luxembourgeois et d'autres langues",
+  "description": "L'Institut national des langues Luxembourg (INLL) est un centre public où les adultes apprennent plus de dix langues et peuvent faire certifier leurs compétences. Découvrez comment s'inscrire par MyINL, les nombreuses façons d'apprendre le luxembourgeois, dont le cours intensif Moving Languages, le fonctionnement du Sproochentest pour la nationalité, et les autres certificats et formations.",
+  "topics": [
+   "Ce qu'est l'INLL",
+   "Plus de dix langues, trois sites",
+   "Des cours dans la langue dès le premier jour",
+   "S'inscrire par MyINL",
+   "Les façons d'apprendre le luxembourgeois",
+   "Moving Languages",
+   "Le Sproochentest pour la nationalité",
+   "Autres certificats et formation des enseignants"
+  ],
+  "questions": [
+   {
+    "text": "Qu'est-ce que l'INLL ?",
+    "options": [
+     "Un centre public où les adultes apprennent des langues et les font certifier",
+     "Une école de langues privée qui enseigne le luxembourgeois aux enfants",
+     "Une faculté universitaire qui forme des traducteurs pour l'Union européenne",
+     "Un bureau de la commune qui enregistre les nouveaux résidents et leurs langues"
+    ],
+    "correct": 0,
+    "explanation": "L'INLL, l'Institut national des langues Luxembourg, est un centre public où les adultes apprennent plus de dix langues et peuvent faire certifier leurs compétences linguistiques. Il dépend du Ministère de l'Éducation nationale, de l'Enfance et de la Jeunesse."
+   },
+   {
+    "text": "Comment s'inscrit-on à un cours de l'INLL ?",
+    "options": [
+     "Par le portail en ligne MyINL, avec un niveau recommandé",
+     "À la commune, avec sa carte d'identité et une photo récente",
+     "En envoyant une lettre au ministère avant la fin du mois de juin",
+     "En téléphonant à l'INLL, qui donne une place tout de suite"
+    ],
+    "correct": 0,
+    "explanation": "Tout passe par MyINL. Il faut un niveau recommandé : les vrais débutants peuvent choisir A1 eux-mêmes, les autres passent un court test en ligne et un entretien d'orientation avec un enseignant."
+   },
+   {
+    "text": "Dans quelle langue les cours de l'INLL sont-ils donnés ?",
+    "options": [
+     "Dans la langue que l'on apprend, dès la toute première leçon",
+     "En français pour les débutants, puis dans la langue apprise",
+     "En anglais à tous les niveaux, pour que tout le monde comprenne",
+     "En allemand ou en français, au choix lors de l'inscription"
+    ],
+    "correct": 0,
+    "explanation": "Chaque cours est donné dans la langue que l'on apprend, dès la toute première leçon, même pour les vrais débutants. Les cours sont réservés aux adultes."
+   },
+   {
+    "text": "Quelles sont les deux parties du Sproochentest ?",
+    "options": [
+     "L'expression orale au niveau A2 et la compréhension orale au niveau B1",
+     "Une rédaction au niveau B1 et la lecture d'un texte au niveau A2",
+     "Un test de grammaire sur papier et un test sur l'histoire du pays",
+     "La lecture d'un texte à voix haute et sa traduction en français"
+    ],
+    "correct": 0,
+    "explanation": "Le Sproochentest a une partie orale au niveau A2 (environ dix minutes avec un examinateur) et une partie de compréhension au niveau B1 (trois enregistrements, réponses sur tablette), pendant la même demi-journée. On peut le repasser autant de fois que nécessaire."
+   },
+   {
+    "text": "Qu'est-ce que Moving Languages ?",
+    "options": [
+     "Un cours intensif de huit semaines en luxembourgeois ou en français, avec du mouvement",
+     "Une application qui traduit le luxembourgeois dans beaucoup d'autres langues",
+     "Un cours pour les enfants qui arrivent au Luxembourg avec leurs parents",
+     "Un tour du pays en bus, gratuit, avec un guide qui parle luxembourgeois"
+    ],
+    "correct": 0,
+    "explanation": "Moving Languages est un cours intensif de luxembourgeois ou de français : huit semaines, trois heures par jour, uniquement dans la nouvelle langue, en apprenant avec le mouvement et les cinq sens. L'objectif est le niveau A2 à l'oral pour des personnes qui partent de zéro."
+   }
+  ]
+ },
+ "de": {
+  "title": "Das INLL – Luxemburgisch und andere Sprachen lernen",
+  "description": "Das Nationale Sprachinstitut Luxemburg (INLL) ist ein öffentliches Zentrum, in dem Erwachsene mehr als zehn Sprachen lernen und ihre Kenntnisse zertifizieren lassen können. Erfahren Sie, wie man sich über MyINL anmeldet, welche Wege es gibt, Luxemburgisch zu lernen, darunter den Intensivkurs Moving Languages, wie der Sproochentest für die Staatsangehörigkeit abläuft, und welche anderen Zertifikate und Ausbildungen es gibt.",
+  "topics": [
+   "Was das INLL ist",
+   "Mehr als zehn Sprachen, drei Standorte",
+   "Unterricht in der Sprache ab dem ersten Tag",
+   "Anmeldung über MyINL",
+   "Wege, Luxemburgisch zu lernen",
+   "Moving Languages",
+   "Der Sproochentest für die Staatsangehörigkeit",
+   "Weitere Zertifikate und Lehrerausbildung"
+  ],
+  "questions": [
+   {
+    "text": "Was ist das INLL?",
+    "options": [
+     "Ein öffentliches Zentrum, in dem Erwachsene Sprachen lernen und zertifizieren lassen",
+     "Eine private Sprachschule, die Kindern nur Luxemburgisch beibringt",
+     "Eine Fakultät der Universität, die Übersetzer für die EU-Institutionen ausbildet",
+     "Ein Büro der Gemeinde, das neue Einwohner und ihre Sprachen registriert"
+    ],
+    "correct": 0,
+    "explanation": "Das INLL, das Nationale Sprachinstitut Luxemburg, ist ein öffentliches Zentrum, in dem Erwachsene mehr als zehn Sprachen lernen und ihre Sprachkenntnisse zertifizieren lassen können. Es untersteht dem Ministerium für Bildung, Kinder und Jugend."
+   },
+   {
+    "text": "Wie meldet man sich für einen Kurs am INLL an?",
+    "options": [
+     "Über das Online-Portal MyINL, mit einem empfohlenen Niveau",
+     "Bei der Gemeinde, mit dem Personalausweis und einem neuen Foto",
+     "Mit einem Brief an das Ministerium vor Ende Juni",
+     "Per Telefon beim INLL, das sofort einen Platz vergibt"
+    ],
+    "correct": 0,
+    "explanation": "Alles läuft über MyINL. Man braucht ein empfohlenes Niveau: Echte Anfänger können A1 selbst wählen, die anderen machen einen kurzen Online-Test und ein Orientierungsgespräch mit einer Lehrkraft."
+   },
+   {
+    "text": "In welcher Sprache werden die Kurse am INLL gehalten?",
+    "options": [
+     "In der Sprache, die man lernt, ab der allerersten Stunde",
+     "Auf Französisch für Anfänger, später in der gelernten Sprache",
+     "Auf Englisch auf allen Niveaus, damit alle alles verstehen",
+     "Auf Deutsch oder Französisch, je nach Wahl bei der Anmeldung"
+    ],
+    "correct": 0,
+    "explanation": "Jeder Kurs wird in der Sprache gehalten, die man lernt, ab der allerersten Stunde, auch für echte Anfänger. Die Kurse sind nur für Erwachsene."
+   },
+   {
+    "text": "Welche zwei Teile hat der Sproochentest?",
+    "options": [
+     "Sprechen auf Niveau A2 und Hörverstehen auf Niveau B1",
+     "Einen Aufsatz auf Niveau B1 und Lesen auf Niveau A2",
+     "Einen Grammatiktest auf Papier und einen Test zur Geschichte",
+     "Einen Text vorlesen und ihn ins Französische übersetzen"
+    ],
+    "correct": 0,
+    "explanation": "Der Sproochentest hat einen Sprechteil auf Niveau A2 (etwa zehn Minuten mit einem Prüfer) und einen Hörteil auf Niveau B1 (drei Aufnahmen, Antworten auf einem Tablet), am selben halben Tag. Man kann ihn so oft wie nötig wiederholen."
+   },
+   {
+    "text": "Was ist Moving Languages?",
+    "options": [
+     "Ein achtwöchiger Intensivkurs in Luxemburgisch oder Französisch, mit Bewegung",
+     "Eine App, die Luxemburgisch in viele andere Sprachen übersetzt",
+     "Ein Kurs für Kinder, die mit ihren Eltern nach Luxemburg ziehen",
+     "Eine kostenlose Busrundfahrt durch das Land mit luxemburgischem Guide"
+    ],
+    "correct": 0,
+    "explanation": "Moving Languages ist ein Intensivkurs in Luxemburgisch oder Französisch: acht Wochen, drei Stunden pro Tag, nur in der neuen Sprache, mit Bewegung und allen fünf Sinnen. Ziel ist das Niveau A2 im Sprechen für Menschen ohne Vorkenntnisse."
+   }
+  ]
+ }
+}

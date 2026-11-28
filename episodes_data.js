@@ -119831,12 +119831,12 @@ const EPISODES = [
    {
     "text": "What is the CET, the Centre for Equal Treatment?",
     "options": [
-     "An independent body that promotes equal treatment",
      "A court that judges discrimination cases and sets the fines",
      "A ministry office that gives residence permits to newcomers",
-     "A trade union that negotiates pay for workers in every sector"
+     "A trade union that negotiates pay for workers in every sector",
+     "An independent body that promotes equal treatment"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "The CET was created by the law of 28 November 2006. It is an independent body whose task is to promote, analyse and monitor equal treatment between all persons, without discrimination. It is led by a college of five members."
    },
    {
@@ -119844,43 +119844,43 @@ const EPISODES = [
     "options": [
      "Discrimination because of a person's age",
      "Discrimination because of a person's disability",
-     "Discrimination because of a person's sexual orientation",
-     "Discrimination because of a person's nationality"
+     "Discrimination because of a person's nationality",
+     "Discrimination because of a person's sexual orientation"
     ],
-    "correct": 3,
+    "correct": 2,
     "explanation": "The CET can act on six grounds: race or ethnic origin, sex, sexual orientation, religion or beliefs, disability, and age. The law also names nationality, but the CET's website says that it does not handle complaints based on nationality."
    },
    {
     "text": "A rule is the same for everybody, but it puts certain people at a particular disadvantage, without an objective reason. What is this called?",
     "options": [
-     "It is called indirect discrimination",
      "It is called direct discrimination",
      "It is called professional secrecy",
-     "It is called a national awareness campaign"
+     "It is called a national awareness campaign",
+     "It is called indirect discrimination"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Indirect discrimination means that a rule looks neutral but in reality puts certain people at a particular disadvantage. Such a rule can only be accepted if there is an objective reason for it and if it is appropriate and necessary to reach that aim."
    },
    {
     "text": "Who can use the \"Report a discrimination\" form on cet.lu?",
     "options": [
-     "Only people who have the Luxembourgish nationality",
      "Victims, and also people who witnessed a case",
+     "Only people who have the Luxembourgish nationality",
      "Only lawyers and associations acting for a client",
      "Only employees with a written permission from their employer"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "You can write to the CET as a victim, and also as a witness. Messages can be sent in Luxembourgish, German, French or English. You can also phone, send a letter or an email, and a visit in person is possible by appointment only."
    },
    {
     "text": "Before a civil or administrative court, a person presents facts that suggest discrimination. What happens next?",
     "options": [
      "The CET takes the decision in the place of the judge",
-     "The person must pay a deposit before the case can go on",
      "The other side must prove there was equal treatment",
+     "The person must pay a deposit before the case can go on",
      "The case is automatically sent on to a criminal court"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "Before civil and administrative courts, the burden of proof is shared: once the person has presented facts that suggest discrimination, the other side must prove that equal treatment was respected. This rule does not apply in criminal proceedings."
    }
   ],
@@ -119904,12 +119904,12 @@ const EPISODES = [
    {
     "text": "Qu'est-ce que le CET, le Centre pour l'égalité de traitement ?",
     "options": [
-     "Un organisme indépendant qui promeut et surveille l'égalité de traitement",
      "Un tribunal qui juge les cas de discrimination et fixe les amendes",
      "Un bureau du ministère qui délivre les titres de séjour aux arrivants",
-     "Un syndicat qui négocie les salaires des travailleurs de tous les secteurs"
+     "Un syndicat qui négocie les salaires des travailleurs de tous les secteurs",
+     "Un organisme indépendant qui promeut et surveille l'égalité de traitement"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Le CET a été créé par la loi du 28 novembre 2006. C'est un organisme indépendant dont la mission est de promouvoir, d'analyser et de surveiller l'égalité de traitement entre toutes les personnes, sans discrimination. Il est dirigé par un collège de cinq membres."
    },
    {
@@ -119917,43 +119917,43 @@ const EPISODES = [
     "options": [
      "La discrimination à cause de l'âge d'une personne",
      "La discrimination à cause du handicap d'une personne",
-     "La discrimination à cause de l'orientation sexuelle d'une personne",
-     "La discrimination à cause de la nationalité d'une personne"
+     "La discrimination à cause de la nationalité d'une personne",
+     "La discrimination à cause de l'orientation sexuelle d'une personne"
     ],
-    "correct": 3,
+    "correct": 2,
     "explanation": "Le CET peut agir pour six motifs : la race ou l'origine ethnique, le sexe, l'orientation sexuelle, la religion ou les convictions, le handicap et l'âge. La loi cite aussi la nationalité, mais le site du CET précise qu'il ne traite pas les plaintes fondées sur la nationalité."
    },
    {
     "text": "Une règle est la même pour tout le monde, mais elle désavantage particulièrement certaines personnes, sans raison objective. Comment cela s'appelle-t-il ?",
     "options": [
-     "Cela s'appelle une discrimination indirecte",
      "Cela s'appelle une discrimination directe",
      "Cela s'appelle le secret professionnel",
-     "Cela s'appelle une campagne de sensibilisation"
+     "Cela s'appelle une campagne de sensibilisation",
+     "Cela s'appelle une discrimination indirecte"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Il y a discrimination indirecte quand une règle a l'air neutre mais désavantage en réalité particulièrement certaines personnes. Une telle règle ne peut être acceptée que s'il existe une raison objective et si elle est appropriée et nécessaire pour atteindre ce but."
    },
    {
     "text": "Qui peut utiliser le formulaire « Signalez une discrimination » sur cet.lu ?",
     "options": [
-     "Seulement les personnes qui ont la nationalité luxembourgeoise",
      "Les victimes, et aussi les témoins d'une discrimination",
+     "Seulement les personnes qui ont la nationalité luxembourgeoise",
      "Seulement les avocats et les associations qui agissent pour un client",
      "Seulement les salariés qui ont une autorisation écrite de leur employeur"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Vous pouvez écrire au CET comme victime, et aussi comme témoin. Les messages peuvent être envoyés en luxembourgeois, en allemand, en français ou en anglais. Vous pouvez aussi téléphoner, envoyer une lettre ou un e-mail ; une visite sur place est possible uniquement sur rendez-vous."
    },
    {
     "text": "Devant un tribunal civil ou administratif, une personne présente des faits qui laissent supposer une discrimination. Que se passe-t-il ensuite ?",
     "options": [
      "Le CET prend la décision à la place du juge",
-     "La personne doit payer une caution pour que l'affaire continue",
      "L'autre partie doit prouver qu'il y a eu égalité de traitement",
+     "La personne doit payer une caution pour que l'affaire continue",
      "L'affaire est envoyée automatiquement devant un tribunal pénal"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "Devant les juridictions civiles et administratives, la charge de la preuve est partagée : une fois que la personne a présenté des faits qui laissent supposer une discrimination, c'est à l'autre partie de prouver que l'égalité de traitement a été respectée. Cette règle ne s'applique pas dans les procédures pénales."
    }
   ],
@@ -119973,12 +119973,12 @@ const EPISODES = [
    {
     "text": "Was ist das CET, das Zentrum für Gleichbehandlung?",
     "options": [
-     "Eine unabhängige Einrichtung, die die Gleichbehandlung fördert",
      "Ein Gericht, das über Diskriminierungsfälle urteilt und Geldstrafen festlegt",
      "Ein Büro des Ministeriums, das Aufenthaltstitel für Neuankömmlinge ausstellt",
-     "Eine Gewerkschaft, die die Löhne der Arbeitnehmer aller Branchen aushandelt"
+     "Eine Gewerkschaft, die die Löhne der Arbeitnehmer aller Branchen aushandelt",
+     "Eine unabhängige Einrichtung, die die Gleichbehandlung fördert"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Das CET wurde durch das Gesetz vom 28. November 2006 geschaffen. Es ist eine unabhängige Einrichtung mit der Aufgabe, die Gleichbehandlung aller Menschen zu fördern, zu analysieren und zu beobachten, ohne Diskriminierung. Es wird von einem Kollegium aus fünf Mitgliedern geleitet."
    },
    {
@@ -119986,43 +119986,43 @@ const EPISODES = [
     "options": [
      "Diskriminierung wegen des Alters einer Person",
      "Diskriminierung wegen der Behinderung einer Person",
-     "Diskriminierung wegen der sexuellen Orientierung einer Person",
-     "Diskriminierung wegen der Staatsangehörigkeit einer Person"
+     "Diskriminierung wegen der Staatsangehörigkeit einer Person",
+     "Diskriminierung wegen der sexuellen Orientierung einer Person"
     ],
-    "correct": 3,
+    "correct": 2,
     "explanation": "Das CET kann bei sechs Motiven tätig werden: Rasse oder ethnische Zugehörigkeit, Geschlecht, sexuelle Orientierung, Religion oder Glaubensbekenntnis, Behinderung und Alter. Das Gesetz nennt auch die Staatsangehörigkeit, aber laut der Website des CET ist es für Beschwerden wegen der Staatsangehörigkeit nicht zuständig."
    },
    {
     "text": "Eine Regel ist für alle gleich, benachteiligt aber bestimmte Menschen besonders, ohne sachlichen Grund. Wie nennt man das?",
     "options": [
-     "Das nennt man indirekte Diskriminierung",
      "Das nennt man direkte Diskriminierung",
      "Das nennt man das Berufsgeheimnis",
-     "Das nennt man eine Sensibilisierungskampagne"
+     "Das nennt man eine Sensibilisierungskampagne",
+     "Das nennt man indirekte Diskriminierung"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Indirekte Diskriminierung bedeutet, dass eine Regel neutral aussieht, aber in Wirklichkeit bestimmte Menschen besonders benachteiligt. Eine solche Regel kann nur erlaubt sein, wenn es einen sachlichen Grund dafür gibt und wenn sie angemessen und notwendig ist, um dieses Ziel zu erreichen."
    },
    {
     "text": "Wer kann das Formular „Eine Diskriminierung melden“ auf cet.lu benutzen?",
     "options": [
-     "Nur Personen, die die luxemburgische Staatsangehörigkeit haben",
      "Opfer, und auch Zeugen, die es bei jemand anderem gesehen haben",
+     "Nur Personen, die die luxemburgische Staatsangehörigkeit haben",
      "Nur Anwälte und Vereinigungen, die für einen Klienten handeln",
      "Nur Angestellte mit einer schriftlichen Erlaubnis ihres Arbeitgebers"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Sie können dem CET als Opfer schreiben, und auch als Zeuge. Nachrichten können auf Luxemburgisch, Deutsch, Französisch oder Englisch geschickt werden. Sie können auch anrufen, einen Brief oder eine E-Mail schicken; ein persönlicher Besuch ist nur nach Vereinbarung möglich."
    },
    {
     "text": "Vor einem Zivil- oder Verwaltungsgericht legt eine Person Tatsachen vor, die eine Diskriminierung vermuten lassen. Was passiert dann?",
     "options": [
      "Das CET trifft die Entscheidung an der Stelle des Richters",
-     "Die Person muss eine Kaution zahlen, damit das Verfahren weitergeht",
      "Die andere Seite muss die Gleichbehandlung beweisen",
+     "Die Person muss eine Kaution zahlen, damit das Verfahren weitergeht",
      "Der Fall wird automatisch an ein Strafgericht weitergeleitet"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "Vor Zivil- und Verwaltungsgerichten ist die Beweislast geteilt: Sobald die Person Tatsachen vorgelegt hat, die eine Diskriminierung vermuten lassen, muss die andere Seite beweisen, dass die Gleichbehandlung eingehalten wurde. Diese Regel gilt nicht in Strafverfahren."
    }
   ],
@@ -122711,45 +122711,45 @@ const EPISODES = [
    {
     "text": "In which situation can the Ombudsman help you?",
     "options": [
-     "You have a conflict with your employer about your salary",
      "You disagree with a decision taken by a public administration",
+     "You have a conflict with your employer about your salary",
      "You have a dispute with a neighbour about a garden fence",
      "You have a problem with your bank about a personal loan"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The Ombudsman deals with complaints about the administrations of the State, the communes and the public establishments that depend on them. It cannot help in a conflict with a neighbour, an employer, a bank, a company or another private person."
    },
    {
     "text": "What must you do before you send a complaint to the Ombudsman?",
     "options": [
      "Pay a registration fee at the office of your commune",
-     "Ask a lawyer to open a case before the administrative court",
      "Contact the administration yourself, ideally in writing",
+     "Ask a lawyer to open a case before the administrative court",
      "Wait one full year after the decision of the administration"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "You must first contact the administration yourself to ask for an explanation or to contest the decision, ideally in writing and by registered letter. If you have no answer after one month, or if the answer does not satisfy you, you can contact the Ombudsman."
    },
    {
     "text": "Does a complaint to the Ombudsman stop the deadline for going to court?",
     "options": [
-     "Yes, all deadlines are stopped until the Ombudsman has answered",
      "No, the deadlines for an appeal before a court keep running",
+     "Yes, all deadlines are stopped until the Ombudsman has answered",
      "Yes, but only if the complaint was sent by registered letter",
      "No, because a court appeal is no longer possible afterwards"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "A complaint to the Ombudsman does not interrupt the deadlines for an appeal. If you also want to go before a court, you must still do it in time. The Ombudsman is not a judge and does not replace the courts."
    },
    {
     "text": "Who can contact the OKaJu?",
     "options": [
-     "Children and young people, parents and people close to the child",
      "Only parents who live in Luxembourg and are helped by a lawyer",
      "Only teachers and educators, through the director of their school",
-     "Only young people over eighteen who have already finished school"
+     "Only young people over eighteen who have already finished school",
+     "Children and young people, parents and people close to the child"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Every child and young person under eighteen can contact the OKaJu, and so can parents or legal guardians and any person who has a personal relationship with the child. Professionals can report a worrying situation through a secure platform. It is free of charge and confidential."
    },
    {
@@ -122757,10 +122757,10 @@ const EPISODES = [
     "options": [
      "It can cancel the decision and order the service to take a new one",
      "It can take the case to court in the place of the child's family",
-     "It can give a fine to the administration or institution concerned",
-     "It can make recommendations, but it cannot impose a decision"
+     "It can make recommendations, but it cannot impose a decision",
+     "It can give a fine to the administration or institution concerned"
     ],
-    "correct": 3,
+    "correct": 2,
     "explanation": "The OKaJu looks for a solution that everyone can accept. If that does not work, it can make recommendations, with a deadline to put them into practice. It is not a judge, it cannot impose a decision, and it cannot intervene in a case that is already before a court."
    }
   ],
@@ -122784,45 +122784,45 @@ const EPISODES = [
    {
     "text": "Dans quelle situation l'Ombudsman peut-il vous aider ?",
     "options": [
-     "Vous avez un conflit avec votre employeur au sujet de votre salaire",
      "Vous n'êtes pas d'accord avec une décision d'une administration publique",
+     "Vous avez un conflit avec votre employeur au sujet de votre salaire",
      "Vous avez un litige avec un voisin au sujet d'une clôture de jardin",
      "Vous avez un problème avec votre banque au sujet d'un prêt personnel"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "L'Ombudsman traite les réclamations qui concernent les administrations de l'État, les communes et les établissements publics qui en dépendent. Il ne peut pas aider dans un conflit avec un voisin, un employeur, une banque, une entreprise ou une autre personne privée."
    },
    {
     "text": "Que devez-vous faire avant d'envoyer une réclamation à l'Ombudsman ?",
     "options": [
      "Payer des frais d'inscription au bureau de votre commune",
-     "Demander à un avocat de saisir le tribunal administratif",
      "Contacter vous-même l'administration, de préférence par écrit",
+     "Demander à un avocat de saisir le tribunal administratif",
      "Attendre une année entière après la décision de l'administration"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "Vous devez d'abord contacter vous-même l'administration pour demander une explication ou contester la décision, de préférence par écrit et par lettre recommandée. Sans réponse après un mois, ou si la réponse ne vous satisfait pas, vous pouvez contacter l'Ombudsman."
    },
    {
     "text": "Une réclamation auprès de l'Ombudsman arrête-t-elle le délai pour aller devant un tribunal ?",
     "options": [
-     "Oui, tous les délais sont arrêtés jusqu'à la réponse de l'Ombudsman",
      "Non, les délais pour un recours devant un tribunal continuent de courir",
+     "Oui, tous les délais sont arrêtés jusqu'à la réponse de l'Ombudsman",
      "Oui, mais seulement si la réclamation a été envoyée en recommandé",
      "Non, car un recours devant un tribunal n'est plus possible ensuite"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Une réclamation auprès de l'Ombudsman n'interrompt pas les délais de recours. Si vous voulez aussi aller devant un tribunal, vous devez toujours le faire à temps. L'Ombudsman n'est pas un juge et ne remplace pas les tribunaux."
    },
    {
     "text": "Qui peut contacter l'OKaJu ?",
     "options": [
-     "Les enfants et les jeunes, les parents et les proches de l'enfant",
      "Seulement les parents qui habitent au Luxembourg et ont un avocat",
      "Seulement les enseignants et les éducateurs, par le directeur de l'école",
-     "Seulement les jeunes de plus de dix-huit ans qui ont fini l'école"
+     "Seulement les jeunes de plus de dix-huit ans qui ont fini l'école",
+     "Les enfants et les jeunes, les parents et les proches de l'enfant"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Chaque enfant et chaque jeune de moins de dix-huit ans peut contacter l'OKaJu, tout comme les parents ou les tuteurs légaux et toute personne qui a une relation personnelle avec l'enfant. Les professionnels peuvent signaler une situation préoccupante sur une plateforme sécurisée. C'est gratuit et confidentiel."
    },
    {
@@ -122830,10 +122830,10 @@ const EPISODES = [
     "options": [
      "Il peut annuler la décision et ordonner au service d'en prendre une nouvelle",
      "Il peut saisir le tribunal à la place de la famille de l'enfant",
-     "Il peut donner une amende à l'administration ou à l'institution concernée",
-     "Il peut faire des recommandations, mais il ne peut pas imposer une décision"
+     "Il peut faire des recommandations, mais il ne peut pas imposer une décision",
+     "Il peut donner une amende à l'administration ou à l'institution concernée"
     ],
-    "correct": 3,
+    "correct": 2,
     "explanation": "L'OKaJu cherche une solution que tout le monde peut accepter. Si cela ne fonctionne pas, il peut faire des recommandations, avec un délai pour les mettre en pratique. Ce n'est pas un juge, il ne peut pas imposer une décision et il ne peut pas intervenir dans une affaire qui est déjà devant un tribunal."
    }
   ],
@@ -122853,45 +122853,45 @@ const EPISODES = [
    {
     "text": "In welcher Situation kann der Ombudsman Ihnen helfen?",
     "options": [
-     "Sie haben einen Konflikt mit Ihrem Arbeitgeber wegen Ihres Gehalts",
      "Sie sind mit einer Entscheidung einer Verwaltung nicht einverstanden",
+     "Sie haben einen Konflikt mit Ihrem Arbeitgeber wegen Ihres Gehalts",
      "Sie haben einen Streit mit einem Nachbarn wegen eines Gartenzauns",
      "Sie haben ein Problem mit Ihrer Bank wegen eines privaten Kredits"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Der Ombudsman kümmert sich um Beschwerden über die Verwaltungen des Staates, die Gemeinden und die öffentlichen Einrichtungen, die von ihnen abhängen. Er kann nicht helfen bei einem Konflikt mit einem Nachbarn, einem Arbeitgeber, einer Bank, einem Unternehmen oder einer anderen Privatperson."
    },
    {
     "text": "Was müssen Sie tun, bevor Sie eine Beschwerde an den Ombudsman schicken?",
     "options": [
      "Eine Anmeldegebühr im Büro Ihrer Gemeinde bezahlen",
-     "Einen Anwalt bitten, vor dem Verwaltungsgericht zu klagen",
      "Selbst die Verwaltung kontaktieren, am besten schriftlich",
+     "Einen Anwalt bitten, vor dem Verwaltungsgericht zu klagen",
      "Ein ganzes Jahr nach der Entscheidung der Verwaltung warten"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "Sie müssen zuerst selbst die Verwaltung kontaktieren, um eine Erklärung zu verlangen oder die Entscheidung anzufechten, am besten schriftlich und per Einschreiben. Wenn Sie nach einem Monat keine Antwort haben, oder wenn die Antwort Sie nicht zufriedenstellt, können Sie den Ombudsman kontaktieren."
    },
    {
     "text": "Stoppt eine Beschwerde beim Ombudsman die Frist für den Weg vor Gericht?",
     "options": [
-     "Ja, alle Fristen ruhen, bis der Ombudsman geantwortet hat",
      "Nein, die Fristen für eine Klage vor Gericht laufen weiter",
+     "Ja, alle Fristen ruhen, bis der Ombudsman geantwortet hat",
      "Ja, aber nur, wenn die Beschwerde per Einschreiben geschickt wurde",
      "Nein, denn eine Klage vor Gericht ist danach nicht mehr möglich"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Eine Beschwerde beim Ombudsman unterbricht die Rechtsmittelfristen nicht. Wenn Sie auch vor ein Gericht gehen möchten, müssen Sie das trotzdem rechtzeitig tun. Der Ombudsman ist kein Richter und ersetzt die Gerichte nicht."
    },
    {
     "text": "Wer kann sich an das OKaJu wenden?",
     "options": [
-     "Kinder und Jugendliche, Eltern und Menschen, die dem Kind nahestehen",
      "Nur Eltern, die in Luxemburg wohnen und einen Anwalt genommen haben",
      "Nur Lehrer und Erzieher, und zwar über den Direktor ihrer Schule",
-     "Nur Jugendliche über achtzehn Jahren, die die Schule beendet haben"
+     "Nur Jugendliche über achtzehn Jahren, die die Schule beendet haben",
+     "Kinder und Jugendliche, Eltern und Menschen, die dem Kind nahestehen"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Jedes Kind und jeder Jugendliche unter achtzehn Jahren kann sich an das OKaJu wenden, ebenso die Eltern oder gesetzlichen Vertreter und jede Person, die eine persönliche Beziehung zu dem Kind hat. Fachleute können eine besorgniserregende Situation über eine gesicherte Plattform melden. Das ist kostenlos und vertraulich."
    },
    {
@@ -122899,10 +122899,10 @@ const EPISODES = [
     "options": [
      "Es kann die Entscheidung aufheben und eine neue Entscheidung anordnen",
      "Es kann anstelle der Familie des Kindes vor Gericht klagen",
-     "Es kann der betroffenen Verwaltung oder Einrichtung eine Geldstrafe geben",
-     "Es kann Empfehlungen geben, aber keine Entscheidung durchsetzen"
+     "Es kann Empfehlungen geben, aber keine Entscheidung durchsetzen",
+     "Es kann der betroffenen Verwaltung oder Einrichtung eine Geldstrafe geben"
     ],
-    "correct": 3,
+    "correct": 2,
     "explanation": "Das OKaJu sucht eine Lösung, die alle annehmen können. Wenn das nicht gelingt, kann es Empfehlungen geben, mit einer Frist für die Umsetzung. Es ist kein Richter, es kann keine Entscheidung durchsetzen, und es kann nicht in einen Fall eingreifen, der schon vor einem Gericht liegt."
    }
   ],
@@ -125862,44 +125862,44 @@ const EPISODES = [
     "text": "For which kind of problem is the ULC your contact?",
     "options": [
      "A decision of a public administration that you do not want to accept",
-     "A dispute between two companies about an unpaid invoice",
      "A dispute with a shop or a craftsman established in Luxembourg",
+     "A dispute between two companies about an unpaid invoice",
      "A disagreement with your employer about your working hours"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "The ULC deals with disputes between a consumer and a professional established in Luxembourg. It is not competent for problems with a public administration: for those, there is the Ombudsman."
    },
    {
     "text": "What can you get from the ULC even if you are not a member?",
     "options": [
-     "The complete analysis of a file with all your documents",
      "A first telephone consultation with an adviser, free of charge",
+     "The complete analysis of a file with all your documents",
      "A contribution to the costs of a lawyer or of a judicial expert",
      "The visit of a technical adviser to your building site"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "People who are not yet members can call the ULC for a first free telephone consultation. The analysis of a complete file and the personal assistance in a dispute are reserved for members."
    },
    {
     "text": "Whom does the European Consumer Centre Luxembourg help?",
     "options": [
      "Companies in Luxembourg that are in a dispute with a supplier in another European country",
-     "Private persons who sold an object to another private person in a neighbouring country",
      "Consumers living in Luxembourg, with a professional in another EU country, Iceland or Norway",
+     "Private persons who sold an object to another private person in a neighbouring country",
      "Residents who do not accept a decision taken by a public administration in another country"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "The centre informs, advises and assists consumers who live in Luxembourg and have a problem with a professional in another country of the European Union, in Iceland or in Norway. Its services are free of charge."
    },
    {
     "text": "What must you do before the European Consumer Centre can act?",
     "options": [
-     "Complain to the company yourself, in writing",
      "Pay a registration fee and become a member of the centre",
      "Ask a lawyer in the country of the company to open a case",
-     "Wait one full year after the date of your purchase"
+     "Wait one full year after the date of your purchase",
+     "Complain to the company yourself, in writing"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "The first step is always to write to the company yourself and to explain what happened and what you are asking for. The centre can only act if you have first complained to the company. Its website offers model letters and emails."
    },
    {
@@ -125907,10 +125907,10 @@ const EPISODES = [
     "options": [
      "Normally two days, if the parcel has not been opened",
      "Normally two years, the same period as the legal guarantee",
-     "There is normally no such right for purchases on the internet",
-     "Normally fourteen days, a minimum right in the whole EU"
+     "Normally fourteen days, a minimum right in the whole EU",
+     "There is normally no such right for purchases on the internet"
     ],
-    "correct": 3,
+    "correct": 2,
     "explanation": "For purchases made at a distance, for example online, by phone or by post, you normally have fourteen days to change your mind. There are exceptions, such as personalised products or concert tickets, and this right does not exist for purchases in a shop or at a fair."
    }
   ],
@@ -125935,44 +125935,44 @@ const EPISODES = [
     "text": "Pour quel type de problème l'ULC est-elle votre contact ?",
     "options": [
      "Une décision d'une administration publique que vous n'acceptez pas",
-     "Un litige entre deux entreprises au sujet d'une facture impayée",
      "Un litige avec un magasin ou un artisan établi au Luxembourg",
+     "Un litige entre deux entreprises au sujet d'une facture impayée",
      "Un désaccord avec votre employeur sur vos horaires de travail"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "L'ULC s'occupe des litiges entre un consommateur et un professionnel établi au Luxembourg. Elle n'est pas compétente pour les problèmes avec une administration publique : pour cela, il y a l'Ombudsman."
    },
    {
     "text": "Que pouvez-vous obtenir de l'ULC même si vous n'êtes pas membre ?",
     "options": [
-     "L'analyse complète d'un dossier avec tous vos documents",
      "Une première consultation téléphonique gratuite avec un conseiller",
+     "L'analyse complète d'un dossier avec tous vos documents",
      "Une participation aux frais d'un avocat ou d'un expert",
      "La visite d'un conseiller technique sur votre chantier de construction"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Les personnes qui ne sont pas encore membres peuvent appeler l'ULC pour une première consultation téléphonique gratuite. L'analyse d'un dossier complet et l'assistance personnelle dans un litige sont réservées aux membres."
    },
    {
     "text": "Qui le Centre européen des consommateurs Luxembourg aide-t-il ?",
     "options": [
      "Les entreprises du Luxembourg qui sont en litige avec un fournisseur établi dans un autre pays européen",
-     "Les personnes privées qui ont vendu un objet à une autre personne privée dans un pays voisin du Luxembourg",
      "Les consommateurs qui habitent au Luxembourg, face à un professionnel d'un autre pays de l'UE, d'Islande ou de Norvège",
+     "Les personnes privées qui ont vendu un objet à une autre personne privée dans un pays voisin du Luxembourg",
      "Les résidents qui n'acceptent pas une décision prise par une administration publique d'un autre pays"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "Le centre informe, conseille et assiste les consommateurs qui habitent au Luxembourg et qui ont un problème avec un professionnel dans un autre pays de l'Union européenne, en Islande ou en Norvège. Ses services sont gratuits."
    },
    {
     "text": "Que devez-vous faire avant que le Centre européen des consommateurs puisse agir ?",
     "options": [
-     "Réclamer vous-même, par écrit, auprès de l'entreprise",
      "Payer des frais d'inscription et devenir membre du centre",
      "Demander à un avocat du pays de l'entreprise d'ouvrir un dossier",
-     "Attendre une année entière après la date de votre achat"
+     "Attendre une année entière après la date de votre achat",
+     "Réclamer vous-même, par écrit, auprès de l'entreprise"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "La première étape est toujours d'écrire vous-même à l'entreprise et d'expliquer ce qui s'est passé et ce que vous demandez. Le centre ne peut agir que si vous avez d'abord réclamé auprès de l'entreprise. Son site propose des modèles de lettres et d'e-mails."
    },
    {
@@ -125980,10 +125980,10 @@ const EPISODES = [
     "options": [
      "Normalement deux jours, si le colis n'a pas été ouvert",
      "Normalement deux ans, la même durée que la garantie légale",
-     "Il n'existe normalement pas de tel droit pour les achats sur internet",
-     "Normalement quatorze jours, un droit minimum dans toute l'UE"
+     "Normalement quatorze jours, un droit minimum dans toute l'UE",
+     "Il n'existe normalement pas de tel droit pour les achats sur internet"
     ],
-    "correct": 3,
+    "correct": 2,
     "explanation": "Pour les achats à distance, par exemple en ligne, par téléphone ou par correspondance, vous avez normalement quatorze jours pour changer d'avis. Il y a des exceptions, comme les produits personnalisés ou les billets de concert, et ce droit n'existe pas pour les achats dans un magasin ou sur une foire."
    }
   ],
@@ -126004,44 +126004,44 @@ const EPISODES = [
     "text": "Bei welcher Art von Problem ist die ULC Ihr Ansprechpartner?",
     "options": [
      "Eine Entscheidung einer öffentlichen Verwaltung, die Sie nicht akzeptieren",
-     "Ein Streit zwischen zwei Unternehmen über eine unbezahlte Rechnung",
      "Ein Streit mit einem Geschäft oder einem Handwerker mit Sitz in Luxemburg",
+     "Ein Streit zwischen zwei Unternehmen über eine unbezahlte Rechnung",
      "Eine Meinungsverschiedenheit mit Ihrem Arbeitgeber über Ihre Arbeitszeiten"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "Die ULC kümmert sich um Streitfälle zwischen einem Verbraucher und einem Gewerbetreibenden mit Sitz in Luxemburg. Für Probleme mit einer öffentlichen Verwaltung ist sie nicht zuständig: Dafür gibt es den Ombudsman."
    },
    {
     "text": "Was können Sie von der ULC bekommen, auch wenn Sie kein Mitglied sind?",
     "options": [
-     "Die vollständige Prüfung einer Akte mit allen Ihren Unterlagen",
      "Eine kostenlose erste telefonische Beratung mit einem Berater",
+     "Die vollständige Prüfung einer Akte mit allen Ihren Unterlagen",
      "Eine Beteiligung an den Kosten für einen Anwalt oder Gutachter",
      "Den Besuch eines technischen Beraters auf Ihrer Baustelle"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Personen, die noch kein Mitglied sind, können die ULC für eine kostenlose erste telefonische Beratung anrufen. Die Prüfung einer vollständigen Akte und die persönliche Unterstützung in einem Streitfall sind den Mitgliedern vorbehalten."
    },
    {
     "text": "Wem hilft das Europäische Verbraucherzentrum Luxemburg?",
     "options": [
      "Unternehmen in Luxemburg, die einen Streit mit einem Lieferanten in einem anderen europäischen Land haben",
-     "Privatpersonen, die einen Gegenstand an eine andere Privatperson in einem Nachbarland verkauft haben",
      "Verbrauchern, die in Luxemburg wohnen, gegenüber einem Unternehmen in einem anderen EU-Land, in Island oder Norwegen",
+     "Privatpersonen, die einen Gegenstand an eine andere Privatperson in einem Nachbarland verkauft haben",
      "Einwohnern, die eine Entscheidung einer öffentlichen Verwaltung in einem anderen Land nicht akzeptieren"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "Das Zentrum informiert, berät und unterstützt Verbraucher, die in Luxemburg wohnen und ein Problem mit einem Unternehmen in einem anderen Land der Europäischen Union, in Island oder in Norwegen haben. Seine Dienste sind kostenlos."
    },
    {
     "text": "Was müssen Sie tun, bevor das Europäische Verbraucherzentrum handeln kann?",
     "options": [
-     "Sich selbst schriftlich bei dem Unternehmen beschweren",
      "Eine Anmeldegebühr bezahlen und Mitglied des Zentrums werden",
      "Einen Anwalt im Land des Unternehmens bitten, eine Akte zu eröffnen",
-     "Ein ganzes Jahr nach dem Datum Ihres Kaufs abwarten"
+     "Ein ganzes Jahr nach dem Datum Ihres Kaufs abwarten",
+     "Sich selbst schriftlich bei dem Unternehmen beschweren"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Der erste Schritt ist immer, selbst an das Unternehmen zu schreiben und zu erklären, was passiert ist und was Sie verlangen. Das Zentrum kann nur handeln, wenn Sie sich zuerst bei dem Unternehmen beschwert haben. Auf seiner Website gibt es Musterbriefe und Muster-E-Mails."
    },
    {
@@ -126049,10 +126049,10 @@ const EPISODES = [
     "options": [
      "Normalerweise zwei Tage, wenn das Paket nicht geöffnet wurde",
      "Normalerweise zwei Jahre, genauso lange wie die gesetzliche Garantie",
-     "Für Käufe im Internet gibt es normalerweise kein solches Recht",
-     "Normalerweise vierzehn Tage, ein Mindestrecht in der ganzen EU"
+     "Normalerweise vierzehn Tage, ein Mindestrecht in der ganzen EU",
+     "Für Käufe im Internet gibt es normalerweise kein solches Recht"
     ],
-    "correct": 3,
+    "correct": 2,
     "explanation": "Bei Käufen im Fernabsatz, zum Beispiel online, am Telefon oder per Post, haben Sie normalerweise vierzehn Tage Zeit, um es sich anders zu überlegen. Es gibt Ausnahmen, etwa für personalisierte Produkte oder Konzertkarten, und dieses Recht gibt es nicht bei Käufen in einem Geschäft oder auf einer Messe."
    }
   ],
@@ -129042,33 +129042,33 @@ const EPISODES = [
     "text": "What is the CNPD?",
     "options": [
      "A private company that stores the personal data of all residents",
-     "A court that judges disputes between companies and their clients",
      "An independent public institution that supervises data protection",
+     "A court that judges disputes between companies and their clients",
      "A ministry department that issues identity cards and passports"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "The CNPD, the National Commission for Data Protection, is an independent public institution. It checks that personal data is processed lawfully and supervises the rules on data protection, such as the GDPR."
    },
    {
     "text": "You want to use one of your data protection rights. What is the first step?",
     "options": [
-     "Send a registered letter to the Chamber of Deputies",
      "Contact the organisation that processes your data",
+     "Send a registered letter to the Chamber of Deputies",
      "Go to court together with a lawyer straight away",
      "File a report at the nearest police station first"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The first step is always to contact the organisation itself, called the data controller, preferably in writing. Only if that does not work do you turn to the CNPD."
    },
    {
     "text": "How long does an organisation normally have to answer a request for access?",
     "options": [
-     "One month, with up to two more for a complex request",
      "One week, with one more week for a complex request",
      "Six months, or a full year for a complex request",
-     "There is no time limit, as each organisation decides"
+     "There is no time limit, as each organisation decides",
+     "One month, with up to two more for a complex request"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "The organisation must answer within one month. For a complex request, it can take up to two more months, but it has to tell you why. In principle, the answer and the copy of your data are free."
    },
    {
@@ -129076,10 +129076,10 @@ const EPISODES = [
     "options": [
      "Advertising letters that are sent to your home address",
      "Decisions that are taken by a computer inside a bank",
-     "Old photographs that are stored on your own phone",
-     "Search engine results that appear for your name"
+     "Search engine results that appear for your name",
+     "Old photographs that are stored on your own phone"
     ],
-    "correct": 3,
+    "correct": 2,
     "explanation": "De-referencing means asking a search engine to remove certain results that appear when someone types your first name and surname. The content itself stays on the website that published it."
    },
    {
@@ -129087,10 +129087,10 @@ const EPISODES = [
     "options": [
      "Ask the CNPD to pay you compensation for the delay",
      "Delete your data yourself in the organisation's system",
-     "Nothing at all, as organisations are free not to answer",
-     "Lodge a complaint with the CNPD using its online form"
+     "Lodge a complaint with the CNPD using its online form",
+     "Nothing at all, as organisations are free not to answer"
     ],
-    "correct": 3,
+    "correct": 2,
     "explanation": "If you get no answer, or if you are not satisfied with it, you can lodge a complaint with the CNPD. It recommends its online complaint form, and you attach the documents that show what you have already done. For damages, you have to go to court."
    }
   ],
@@ -129115,33 +129115,33 @@ const EPISODES = [
     "text": "Qu'est-ce que la CNPD ?",
     "options": [
      "Une entreprise privée qui conserve les données personnelles des résidents",
-     "Un tribunal qui juge les litiges entre les entreprises et leurs clients",
      "Un établissement public indépendant qui contrôle la protection des données",
+     "Un tribunal qui juge les litiges entre les entreprises et leurs clients",
      "Un service ministériel qui délivre les cartes d'identité et les passeports"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "La CNPD, la Commission nationale pour la protection des données, est un établissement public indépendant. Elle vérifie que les données personnelles sont traitées de manière légale et contrôle le respect des règles de protection des données, comme le RGPD."
    },
    {
     "text": "Vous voulez exercer l'un de vos droits. Quelle est la première étape ?",
     "options": [
-     "Envoyer un courrier recommandé à la Chambre des Députés",
      "Contacter l'organisme qui traite vos données personnelles",
+     "Envoyer un courrier recommandé à la Chambre des Députés",
      "Saisir tout de suite le tribunal avec l'aide d'un avocat",
      "Déposer d'abord une plainte au commissariat de police"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "La première étape est toujours de contacter l'organisme lui-même, appelé responsable du traitement, de préférence par écrit. C'est seulement si cela ne fonctionne pas que vous vous adressez à la CNPD."
    },
    {
     "text": "De combien de temps un organisme dispose-t-il normalement pour répondre à une demande d'accès ?",
     "options": [
-     "Un mois, et jusqu'à deux mois de plus si la demande est complexe",
      "Une semaine, et une semaine de plus si la demande est complexe",
      "Six mois, et une année entière si la demande est complexe",
-     "Il n'y a aucun délai, car chaque organisme décide lui-même"
+     "Il n'y a aucun délai, car chaque organisme décide lui-même",
+     "Un mois, et jusqu'à deux mois de plus si la demande est complexe"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "L'organisme doit répondre dans un délai d'un mois. Pour une demande complexe, il peut prendre jusqu'à deux mois de plus, mais il doit vous expliquer pourquoi. En principe, la réponse et la copie de vos données sont gratuites."
    },
    {
@@ -129149,10 +129149,10 @@ const EPISODES = [
     "options": [
      "Sur les lettres publicitaires envoyées à votre domicile",
      "Sur les décisions prises par un ordinateur dans une banque",
-     "Sur les anciennes photos conservées dans votre téléphone",
-     "Sur les résultats d'un moteur de recherche pour votre nom"
+     "Sur les résultats d'un moteur de recherche pour votre nom",
+     "Sur les anciennes photos conservées dans votre téléphone"
     ],
-    "correct": 3,
+    "correct": 2,
     "explanation": "Le déréférencement consiste à demander à un moteur de recherche de retirer certains résultats qui apparaissent quand quelqu'un tape votre prénom et votre nom. Le contenu lui-même reste sur le site qui l'a publié."
    },
    {
@@ -129160,10 +129160,10 @@ const EPISODES = [
     "options": [
      "Demander à la CNPD de vous verser une indemnité pour le retard",
      "Supprimer vous-même vos données dans le système de l'organisme",
-     "Rien du tout, car les organismes sont libres de ne pas répondre",
-     "Introduire une réclamation auprès de la CNPD avec son formulaire en ligne"
+     "Introduire une réclamation auprès de la CNPD avec son formulaire en ligne",
+     "Rien du tout, car les organismes sont libres de ne pas répondre"
     ],
-    "correct": 3,
+    "correct": 2,
     "explanation": "Sans réponse, ou si la réponse ne vous satisfait pas, vous pouvez introduire une réclamation auprès de la CNPD. Elle recommande son formulaire en ligne, et vous joignez les documents qui montrent ce que vous avez déjà fait. Pour des dommages et intérêts, il faut saisir le tribunal."
    }
   ],
@@ -129184,33 +129184,33 @@ const EPISODES = [
     "text": "Was ist die CNPD?",
     "options": [
      "Ein privates Unternehmen, das die Daten aller Einwohner speichert",
-     "Ein Gericht, das Streitfälle zwischen Firmen und Kunden entscheidet",
      "Eine unabhängige öffentliche Einrichtung, die den Datenschutz überwacht",
+     "Ein Gericht, das Streitfälle zwischen Firmen und Kunden entscheidet",
      "Eine Abteilung im Ministerium, die Ausweise und Reisepässe ausstellt"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "Die CNPD, die Nationale Kommission für den Datenschutz, ist eine unabhängige öffentliche Einrichtung. Sie prüft, ob persönliche Daten rechtmäßig verarbeitet werden, und überwacht die Datenschutzregeln, zum Beispiel die DSGVO."
    },
    {
     "text": "Sie möchten eines Ihrer Datenschutzrechte nutzen. Was ist der erste Schritt?",
     "options": [
-     "Ein Einschreiben an die Abgeordnetenkammer schicken",
      "Sich an die Organisation wenden, die Ihre Daten verarbeitet",
+     "Ein Einschreiben an die Abgeordnetenkammer schicken",
      "Sofort zusammen mit einem Anwalt vor Gericht gehen",
      "Zuerst eine Anzeige bei der nächsten Polizeistelle machen"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Der erste Schritt ist immer, sich an die Organisation selbst zu wenden, den sogenannten Verantwortlichen, am besten schriftlich. Erst wenn das nicht funktioniert, wenden Sie sich an die CNPD."
    },
    {
     "text": "Wie lange hat eine Organisation normalerweise Zeit, um auf einen Auskunftsantrag zu antworten?",
     "options": [
-     "Einen Monat, und bis zu zwei Monate mehr bei einem komplizierten Antrag",
      "Eine Woche, und eine Woche mehr bei einem komplizierten Antrag",
      "Sechs Monate, und ein ganzes Jahr bei einem komplizierten Antrag",
-     "Es gibt keine Frist, denn jede Organisation entscheidet das selbst"
+     "Es gibt keine Frist, denn jede Organisation entscheidet das selbst",
+     "Einen Monat, und bis zu zwei Monate mehr bei einem komplizierten Antrag"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Die Organisation muss innerhalb eines Monats antworten. Bei einem komplizierten Antrag kann sie bis zu zwei weitere Monate brauchen, muss Ihnen aber sagen, warum. Grundsätzlich sind die Antwort und die Kopie Ihrer Daten kostenlos."
    },
    {
@@ -129218,10 +129218,10 @@ const EPISODES = [
     "options": [
      "Um Werbebriefe, die an Ihre Wohnadresse geschickt werden",
      "Um Entscheidungen, die ein Computer in einer Bank trifft",
-     "Um alte Fotos, die auf Ihrem eigenen Handy gespeichert sind",
-     "Um Ergebnisse einer Suchmaschine zu Ihrem Namen"
+     "Um Ergebnisse einer Suchmaschine zu Ihrem Namen",
+     "Um alte Fotos, die auf Ihrem eigenen Handy gespeichert sind"
     ],
-    "correct": 3,
+    "correct": 2,
     "explanation": "Dereferenzierung bedeutet, eine Suchmaschine zu bitten, bestimmte Ergebnisse zu entfernen, die erscheinen, wenn jemand Ihren Vornamen und Nachnamen eingibt. Der Inhalt selbst bleibt auf der Website, die ihn veröffentlicht hat."
    },
    {
@@ -129229,10 +129229,10 @@ const EPISODES = [
     "options": [
      "Von der CNPD eine Entschädigung für die Verspätung verlangen",
      "Ihre Daten selbst im System der Organisation löschen",
-     "Gar nichts, denn Organisationen müssen nicht antworten",
-     "Bei der CNPD mit dem Online-Formular eine Beschwerde einreichen"
+     "Bei der CNPD mit dem Online-Formular eine Beschwerde einreichen",
+     "Gar nichts, denn Organisationen müssen nicht antworten"
     ],
-    "correct": 3,
+    "correct": 2,
     "explanation": "Wenn Sie keine Antwort bekommen oder damit nicht zufrieden sind, können Sie bei der CNPD eine Beschwerde einreichen. Sie empfiehlt ihr Online-Beschwerdeformular, und Sie legen die Unterlagen bei, die zeigen, was Sie schon unternommen haben. Für Schadenersatz müssen Sie vor Gericht gehen."
    }
   ],
@@ -132063,54 +132063,54 @@ const EPISODES = [
     "options": [
      "A private insurance company that pays back the costs of treatments",
      "A court that judges the mistakes made by doctors and by hospitals",
-     "A hospital department that organises appointments with specialists",
-     "An independent State service that informs and mediates in health matters"
+     "An independent State service that informs and mediates in health matters",
+     "A hospital department that organises appointments with specialists"
     ],
-    "correct": 3,
+    "correct": 2,
     "explanation": "The National Health Information and Mediation Service is an independent service of the State, created by the law of 24 July 2014. It informs about rights in health care, mediates in conflicts between patients and providers, and is a contact point for cross-border care."
    },
    {
     "text": "You have a problem with a treatment. What does the service advise you to do first?",
     "options": [
-     "Send a written complaint to the Ministry of Health straight away",
      "Talk directly with your provider, if possible in a separate appointment",
+     "Send a written complaint to the Ministry of Health straight away",
      "Stop paying all the bills until the provider has apologised to you",
      "Go to court with a lawyer before speaking with anybody else"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "A direct conversation very often solves a disagreement. The website suggests asking for a separate appointment for this subject. Hospitals and many other providers also have a person or service in charge of complaints."
    },
    {
     "text": "Who decides on the solution in a health mediation?",
     "options": [
-     "The patient and the provider themselves, helped by the mediator",
      "The mediator alone, after listening to the patient and the provider",
      "A medical expert who is chosen and paid by the hospital concerned",
-     "The National Health Fund, on the basis of the patient file"
+     "The National Health Fund, on the basis of the patient file",
+     "The patient and the provider themselves, helped by the mediator"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "The mediator is not a judge and has no power to decide. The mediator listens to all sides equally and guides the dialogue. The agreement comes from the people themselves."
    },
    {
     "text": "You disagree with a decision of the National Health Fund (CNS) about a reimbursement. Is the health mediator the right address?",
     "options": [
      "Yes, because the health mediator can change every decision of the CNS",
-     "Yes, but only if the treatment took place in a hospital in Luxembourg",
      "No, for such a decision you can turn to the Ombudsman or the social courts",
+     "Yes, but only if the treatment took place in a hospital in Luxembourg",
      "No, because the health mediator only deals with questions from doctors"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "The health mediation service is not the right contact for a disagreement with a decision of a social security body such as the CNS. For this, you can contact the Ombudsman, or go to the social courts."
    },
    {
     "text": "Luxembourg has two national contact points for cross-border health care. Which ones?",
     "options": [
-     "The health mediation service and the National Health Fund (CNS)",
      "The Ministry of Foreign Affairs and the embassy of your country",
      "The emergency service 112 and the pharmacy that is on duty",
-     "The communal administration and the hospital nearest to the border"
+     "The communal administration and the hospital nearest to the border",
+     "The health mediation service and the National Health Fund (CNS)"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "The health mediation service informs patients, for example about the health system in Luxembourg, their rights and what to do in a disagreement. For reimbursement and prior authorisation of care abroad, the contact point is the CNS."
    }
   ],
@@ -132137,54 +132137,54 @@ const EPISODES = [
     "options": [
      "Une compagnie d'assurance privée qui rembourse les frais des traitements",
      "Un tribunal qui juge les erreurs commises par les médecins et les hôpitaux",
-     "Un service d'hôpital qui organise les rendez-vous chez les spécialistes",
-     "Un service indépendant de l'État qui informe et fait de la médiation en santé"
+     "Un service indépendant de l'État qui informe et fait de la médiation en santé",
+     "Un service d'hôpital qui organise les rendez-vous chez les spécialistes"
     ],
-    "correct": 3,
+    "correct": 2,
     "explanation": "Le Service national d'information et de médiation dans le domaine de la santé est un service indépendant de l'État, créé par la loi du 24 juillet 2014. Il informe sur les droits dans le domaine de la santé, fait de la médiation dans les conflits entre patients et prestataires, et il est un point de contact pour les soins transfrontaliers."
    },
    {
     "text": "Vous avez un problème avec un traitement. Que conseille le service en premier ?",
     "options": [
-     "Envoyer tout de suite une plainte écrite au ministère de la Santé",
      "Parler directement avec votre prestataire, si possible lors d'un rendez-vous séparé",
+     "Envoyer tout de suite une plainte écrite au ministère de la Santé",
      "Ne plus payer aucune facture tant que le prestataire ne s'est pas excusé",
      "Aller au tribunal avec un avocat avant de parler avec qui que ce soit"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Le dialogue direct permet très souvent de résoudre un différend. Le site propose de demander un rendez-vous séparé pour ce sujet. Les hôpitaux et beaucoup d'autres prestataires ont aussi une personne ou un service chargé des plaintes."
    },
    {
     "text": "Qui décide de la solution dans une médiation en santé ?",
     "options": [
-     "Le patient et le prestataire eux-mêmes, avec l'aide du médiateur",
      "Le médiateur seul, après avoir écouté le patient et le prestataire",
      "Un expert médical qui est choisi et payé par l'hôpital concerné",
-     "La Caisse nationale de santé, sur la base du dossier patient"
+     "La Caisse nationale de santé, sur la base du dossier patient",
+     "Le patient et le prestataire eux-mêmes, avec l'aide du médiateur"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Le médiateur n'est pas un juge et n'a aucun pouvoir de décision. Il écoute toutes les parties de la même manière et guide le dialogue. L'accord vient des personnes elles-mêmes."
    },
    {
     "text": "Vous n'êtes pas d'accord avec une décision de la Caisse nationale de santé (CNS) sur un remboursement. Le Médiateur santé est-il le bon interlocuteur ?",
     "options": [
      "Oui, car le Médiateur santé peut modifier toutes les décisions de la CNS",
-     "Oui, mais seulement si le traitement a eu lieu dans un hôpital au Luxembourg",
      "Non, pour une telle décision il y a l'Ombudsman ou les juridictions sociales",
+     "Oui, mais seulement si le traitement a eu lieu dans un hôpital au Luxembourg",
      "Non, car le Médiateur santé ne traite que les questions des médecins"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "Le service n'est pas le bon interlocuteur pour un désaccord avec une décision d'un organisme de sécurité sociale comme la CNS. Pour cela, vous pouvez contacter l'Ombudsman, ou saisir les juridictions sociales."
    },
    {
     "text": "Le Luxembourg a deux points de contact nationaux pour les soins de santé transfrontaliers. Lesquels ?",
     "options": [
-     "Le service de médiation santé et la Caisse nationale de santé (CNS)",
      "Le ministère des Affaires étrangères et l'ambassade de votre pays",
      "Le service d'urgence 112 et la pharmacie qui est de garde",
-     "L'administration communale et l'hôpital le plus proche de la frontière"
+     "L'administration communale et l'hôpital le plus proche de la frontière",
+     "Le service de médiation santé et la Caisse nationale de santé (CNS)"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Le service de médiation santé informe les patients, par exemple sur le système de santé au Luxembourg, sur leurs droits et sur ce qu'il faut faire en cas de différend. Pour le remboursement et l'autorisation préalable de soins à l'étranger, le point de contact est la CNS."
    }
   ],
@@ -132206,54 +132206,54 @@ const EPISODES = [
     "options": [
      "Eine private Versicherungsgesellschaft, die die Kosten von Behandlungen erstattet",
      "Ein Gericht, das über die Fehler von Ärzten und von Krankenhäusern urteilt",
-     "Eine Abteilung im Krankenhaus, die Termine bei Fachärzten organisiert",
-     "Eine unabhängige staatliche Stelle, die im Gesundheitswesen informiert und vermittelt"
+     "Eine unabhängige staatliche Stelle, die im Gesundheitswesen informiert und vermittelt",
+     "Eine Abteilung im Krankenhaus, die Termine bei Fachärzten organisiert"
     ],
-    "correct": 3,
+    "correct": 2,
     "explanation": "Die Nationale Informations- und Mediationsstelle im Gesundheitswesen ist eine unabhängige staatliche Stelle, geschaffen durch das Gesetz vom 24. Juli 2014. Sie informiert über die Rechte im Gesundheitswesen, vermittelt bei Streitigkeiten zwischen Patienten und Dienstleistern und ist eine Kontaktstelle für die grenzüberschreitende Versorgung."
    },
    {
     "text": "Sie haben ein Problem mit einer Behandlung. Was rät die Stelle zuerst?",
     "options": [
-     "Sofort eine schriftliche Beschwerde an das Gesundheitsministerium schicken",
      "Direkt mit Ihrem Dienstleister sprechen, möglichst in einem eigenen Termin",
+     "Sofort eine schriftliche Beschwerde an das Gesundheitsministerium schicken",
      "Keine Rechnung mehr bezahlen, bis sich der Dienstleister entschuldigt hat",
      "Mit einem Anwalt vor Gericht gehen, bevor Sie mit jemandem sprechen"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Ein direktes Gespräch löst sehr oft eine Meinungsverschiedenheit. Die Internetseite schlägt vor, um einen eigenen Termin für dieses Thema zu bitten. Krankenhäuser und viele andere Dienstleister haben auch eine Person oder einen Dienst für Beschwerden."
    },
    {
     "text": "Wer entscheidet in einer Mediation im Gesundheitsbereich über die Lösung?",
     "options": [
-     "Der Patient und der Dienstleister selbst, mit der Hilfe des Mediators",
      "Der Mediator allein, nachdem er Patient und Dienstleister angehört hat",
      "Ein medizinischer Experte, den das betroffene Krankenhaus auswählt und bezahlt",
-     "Die Nationale Gesundheitskasse, auf der Grundlage der Patientenakte"
+     "Die Nationale Gesundheitskasse, auf der Grundlage der Patientenakte",
+     "Der Patient und der Dienstleister selbst, mit der Hilfe des Mediators"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Der Mediator ist kein Richter und hat keine Entscheidungsbefugnis. Er hört allen Seiten gleich zu und begleitet den Dialog. Die Einigung kommt von den Menschen selbst."
    },
    {
     "text": "Sie sind mit einer Entscheidung der Nationalen Gesundheitskasse (CNS) über eine Erstattung nicht einverstanden. Ist der Mediator für das Gesundheitswesen der richtige Ansprechpartner?",
     "options": [
      "Ja, denn der Mediator kann jede Entscheidung der CNS selbst ändern",
-     "Ja, aber nur wenn die Behandlung in einem Krankenhaus in Luxemburg stattfand",
      "Nein, dafür können Sie sich an den Ombudsman oder die Sozialgerichte wenden",
+     "Ja, aber nur wenn die Behandlung in einem Krankenhaus in Luxemburg stattfand",
      "Nein, denn der Mediator behandelt nur die Fragen von Ärzten und Zahnärzten"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "Die Stelle ist nicht der richtige Ansprechpartner, wenn Sie mit einer Entscheidung einer Einrichtung der sozialen Sicherheit wie der CNS nicht einverstanden sind. Dafür können Sie sich an den Ombudsman wenden, oder an die Sozialgerichte."
    },
    {
     "text": "Luxemburg hat zwei nationale Kontaktstellen für die grenzüberschreitende Gesundheitsversorgung. Welche?",
     "options": [
-     "Die Mediationsstelle im Gesundheitswesen und die Nationale Gesundheitskasse (CNS)",
      "Das Außenministerium und die Botschaft Ihres Herkunftslandes in Luxemburg",
      "Den Notruf 112 und die Apotheke, die gerade Bereitschaftsdienst hat",
-     "Die Gemeindeverwaltung und das Krankenhaus, das der Grenze am nächsten liegt"
+     "Die Gemeindeverwaltung und das Krankenhaus, das der Grenze am nächsten liegt",
+     "Die Mediationsstelle im Gesundheitswesen und die Nationale Gesundheitskasse (CNS)"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Die Mediationsstelle informiert Patienten, zum Beispiel über das Gesundheitssystem in Luxemburg, über ihre Rechte und darüber, was bei einer Meinungsverschiedenheit zu tun ist. Für die Erstattung und die vorherige Genehmigung einer Behandlung im Ausland ist die CNS die Kontaktstelle."
    }
   ],
@@ -134558,44 +134558,44 @@ const EPISODES = [
     "text": "Which number can children and young people call to reach the Kanner-Jugendtelefon?",
     "options": [
      "8002 1234",
-     "8002 4444",
      "116 111",
+     "8002 4444",
      "247 86000"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "The line for children and young people is 116 111. The number 8002 4444 is the Elterentelefon for parents, and 8002 1234 is the BEE SECURE Helpline."
    },
    {
     "text": "What does a child have to tell the counsellor at the start of a call to 116 111?",
     "options": [
-     "Their full name and the name of their school",
      "Nothing personal, because the call is anonymous",
+     "Their full name and the name of their school",
      "The telephone number of one of their parents",
      "Their home address, so that a letter can follow"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The call is anonymous: you do not have to say who you are or where you live. It is also confidential and free of charge."
    },
    {
     "text": "What is special about the chat counselling of the KJT?",
     "options": [
-     "It is answered by a computer program, day and night",
      "The counsellors are trained young people themselves",
+     "It is answered by a computer program, day and night",
      "It is reserved for parents and for grandparents",
      "It can only be used to report illegal content"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The website describes the chat as peer-to-peer: the chat counsellors are young people themselves, who have been trained and who also bring in their own experience."
    },
    {
     "text": "Who can call the Elterentelefon?",
     "options": [
-     "Parents, grandparents and adults responsible for children",
      "Only children and teenagers under the age of eighteen",
      "Only teachers and other professionals from schools",
-     "Only people who want to report an illegal website"
+     "Only people who want to report an illegal website",
+     "Parents, grandparents and adults responsible for children"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "The Elterentelefon is for parents, grandparents and every adult who is responsible for children or teenagers. It is free, anonymous and confidential."
    },
    {
@@ -134603,10 +134603,10 @@ const EPISODES = [
     "options": [
      "Blocking advertising calls on a mobile phone",
      "Asking questions about bringing up children",
-     "Ordering posters and leaflets for a classroom",
-     "Reporting illegal content found on the internet"
+     "Reporting illegal content found on the internet",
+     "Ordering posters and leaflets for a classroom"
     ],
-    "correct": 3,
+    "correct": 2,
     "explanation": "The BEE SECURE Stopline is a website where you can report illegal content found online: images of sexual abuse of minors, racist, revisionist or discriminatory content, and content linked to terrorism."
    }
   ],
@@ -134631,44 +134631,44 @@ const EPISODES = [
     "text": "Quel numéro les enfants et les jeunes peuvent-ils appeler pour joindre le Kanner-Jugendtelefon ?",
     "options": [
      "8002 1234",
-     "8002 4444",
      "116 111",
+     "8002 4444",
      "247 86000"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "La ligne pour enfants et jeunes est le 116 111. Le 8002 4444 est l'Elterentelefon (Écoute parents), et le 8002 1234 est la BEE SECURE Helpline."
    },
    {
     "text": "Que doit dire un enfant au conseiller au début d'un appel au 116 111 ?",
     "options": [
-     "Son nom complet et le nom de son école",
      "Rien de personnel, car l'appel est anonyme",
+     "Son nom complet et le nom de son école",
      "Le numéro de téléphone d'un de ses parents",
      "Son adresse, pour recevoir ensuite une lettre"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "L'appel est anonyme : il n'est pas nécessaire de dire qui l'on est ni où l'on habite. Il est aussi confidentiel et gratuit."
    },
    {
     "text": "Qu'est-ce qui rend le conseil par chat du KJT particulier ?",
     "options": [
-     "Un programme informatique y répond jour et nuit",
      "Les conseillers sont eux-mêmes des jeunes formés",
+     "Un programme informatique y répond jour et nuit",
      "Il est réservé aux parents et aux grands-parents",
      "Il sert seulement à signaler des contenus illégaux"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Le site décrit le chat comme un service de pair à pair : les conseillers du chat sont eux-mêmes des jeunes, qui ont suivi une formation et qui apportent aussi leur propre expérience."
    },
    {
     "text": "Qui peut appeler l'Elterentelefon (Écoute parents) ?",
     "options": [
-     "Les parents, les grands-parents et les adultes responsables d'enfants",
      "Seulement les enfants et les adolescents de moins de dix-huit ans",
      "Seulement les enseignants et les autres professionnels des écoles",
-     "Seulement les personnes qui veulent signaler un site illégal"
+     "Seulement les personnes qui veulent signaler un site illégal",
+     "Les parents, les grands-parents et les adultes responsables d'enfants"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "L'Elterentelefon s'adresse aux parents, aux grands-parents et à tout adulte responsable d'enfants ou d'adolescents. Il est gratuit, anonyme et confidentiel."
    },
    {
@@ -134676,10 +134676,10 @@ const EPISODES = [
     "options": [
      "À bloquer les appels publicitaires sur un téléphone",
      "À poser des questions sur l'éducation des enfants",
-     "À commander des affiches et des dépliants pour une classe",
-     "À signaler des contenus illégaux trouvés sur Internet"
+     "À signaler des contenus illégaux trouvés sur Internet",
+     "À commander des affiches et des dépliants pour une classe"
     ],
-    "correct": 3,
+    "correct": 2,
     "explanation": "La BEE SECURE Stopline est un site où l'on peut signaler des contenus illégaux trouvés en ligne : représentations d'abus sexuels sur des mineurs, contenus racistes, révisionnistes ou discriminatoires, et contenus liés au terrorisme."
    }
   ],
@@ -134700,44 +134700,44 @@ const EPISODES = [
     "text": "Welche Nummer können Kinder und Jugendliche anrufen, um das Kanner-Jugendtelefon zu erreichen?",
     "options": [
      "8002 1234",
-     "8002 4444",
      "116 111",
+     "8002 4444",
      "247 86000"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "Die Nummer für Kinder und Jugendliche ist die 116 111. Die 8002 4444 ist das Elterentelefon, und die 8002 1234 ist die BEE SECURE Helpline."
    },
    {
     "text": "Was muss ein Kind dem Berater am Anfang eines Anrufs bei der 116 111 sagen?",
     "options": [
-     "Seinen vollen Namen und den Namen seiner Schule",
      "Nichts Persönliches, denn der Anruf ist anonym",
+     "Seinen vollen Namen und den Namen seiner Schule",
      "Die Telefonnummer von einem seiner Elternteile",
      "Seine Adresse, damit ein Brief folgen kann"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Der Anruf ist anonym: Man muss nicht sagen, wer man ist oder wo man wohnt. Er ist außerdem vertraulich und kostenlos."
    },
    {
     "text": "Was ist das Besondere an der Chatberatung des KJT?",
     "options": [
-     "Ein Computerprogramm antwortet dort Tag und Nacht",
      "Die Berater sind selbst ausgebildete junge Menschen",
+     "Ein Computerprogramm antwortet dort Tag und Nacht",
      "Sie ist nur für Eltern und für Großeltern gedacht",
      "Man kann dort nur illegale Inhalte melden"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Die Website beschreibt den Chat als Peer-to-Peer-Angebot: Die Chatberater sind selbst junge Menschen, die eine Ausbildung gemacht haben und auch ihre eigenen Erfahrungen mitbringen."
    },
    {
     "text": "Wer kann das Elterentelefon anrufen?",
     "options": [
-     "Eltern, Großeltern und Erwachsene, die mit Kindern zu tun haben",
      "Nur Kinder und Jugendliche unter achtzehn Jahren",
      "Nur Lehrkräfte und andere Fachleute aus Schulen",
-     "Nur Personen, die eine illegale Website melden wollen"
+     "Nur Personen, die eine illegale Website melden wollen",
+     "Eltern, Großeltern und Erwachsene, die mit Kindern zu tun haben"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Das Elterentelefon ist für Eltern, Großeltern und alle Erwachsenen da, die mit Kindern oder Jugendlichen zu tun haben. Es ist kostenlos, anonym und vertraulich."
    },
    {
@@ -134745,10 +134745,10 @@ const EPISODES = [
     "options": [
      "Um Werbeanrufe auf dem Handy zu blockieren",
      "Um Fragen zur Erziehung von Kindern zu stellen",
-     "Um Plakate und Faltblätter für eine Klasse zu bestellen",
-     "Um illegale Inhalte aus dem Internet zu melden"
+     "Um illegale Inhalte aus dem Internet zu melden",
+     "Um Plakate und Faltblätter für eine Klasse zu bestellen"
     ],
-    "correct": 3,
+    "correct": 2,
     "explanation": "Die BEE SECURE Stopline ist eine Website, auf der man illegale Inhalte aus dem Internet melden kann: Darstellungen von sexuellem Missbrauch von Minderjährigen, rassistische, revisionistische oder diskriminierende Inhalte und Inhalte, die mit Terrorismus zu tun haben."
    }
   ],
@@ -136653,11 +136653,11 @@ const EPISODES = [
     "text": "Which telephone line is now part of SIMPA?",
     "options": [
      "The emergency number 112, for ambulances and firefighters",
-     "The Kanner-Jugendtelefon, for teenagers",
      "The Seniorentelefon, for questions about ageing",
+     "The Kanner-Jugendtelefon, for teenagers",
      "The helpline of the National Health Fund, for patients"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "SIMPA includes the Seniorentelefon, a line for any question or worry linked to ageing, which has existed since 1999. Its number is 247-86000."
    },
    {
@@ -136665,43 +136665,43 @@ const EPISODES = [
     "options": [
      "A small fee for each telephone call",
      "A yearly membership fee for each family",
-     "A fee that is paid only if the mediation succeeds",
-     "Nothing: all of its services are free of charge"
+     "Nothing: all of its services are free of charge",
+     "A fee that is paid only if the mediation succeeds"
     ],
-    "correct": 3,
+    "correct": 2,
     "explanation": "The SIMPA website says it clearly: all of its services are free of charge."
    },
    {
     "text": "You are unhappy with a service for older people. What does SIMPA recommend as the first step?",
     "options": [
-     "Speak directly with the organisation that runs it",
      "Go straight to court together with a lawyer",
      "Write to the ministry and ask it to close the service",
-     "Ask the Ombudsman to decide who is right"
+     "Ask the Ombudsman to decide who is right",
+     "Speak directly with the organisation that runs it"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "SIMPA first recommends a direct conversation with the organisation. Every organisation must have a way to handle complaints; its contact details are in the establishment plan on infosenior.lu."
    },
    {
     "text": "In a mediation organised by SIMPA, who decides on the solution?",
     "options": [
      "The mediator decides which side is right",
-     "The ministry decides after the last meeting",
      "The people involved find their own agreement",
+     "The ministry decides after the last meeting",
      "The family of the older person decides alone"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "The mediator is neutral and has no power to decide. She helps the people to find their own agreement, with the older person at the centre."
    },
    {
     "text": "Which of these situations is NOT handled by SIMPA?",
     "options": [
-     "A problem with the meals in a residential facility",
      "A disagreement with a doctor about health care",
+     "A problem with the meals in a residential facility",
      "A conflict about home care between a family and a service",
      "A disagreement about the activities in a day centre"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Questions about health care belong to the health mediator. Administrative decisions of social security bodies go to the Ombudsman or the social courts, and conflicts between staff members are also outside SIMPA's remit."
    }
   ],
@@ -136726,11 +136726,11 @@ const EPISODES = [
     "text": "Quelle ligne téléphonique fait aujourd'hui partie du SIMPA ?",
     "options": [
      "Le numéro d'urgence 112, pour les ambulances et les pompiers",
-     "Le Kanner-Jugendtelefon, pour les adolescents",
      "Le Seniorentelefon, pour les questions liées à l'âge",
+     "Le Kanner-Jugendtelefon, pour les adolescents",
      "La ligne d'aide de la Caisse nationale de santé"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "Le SIMPA comprend le Seniorentelefon, une ligne pour toute question ou préoccupation liée à l'âge, qui existe depuis 1999. Son numéro est le 247-86000."
    },
    {
@@ -136738,43 +136738,43 @@ const EPISODES = [
     "options": [
      "Une petite somme pour chaque appel téléphonique",
      "Une cotisation annuelle pour chaque famille",
-     "Des frais payés seulement si la médiation réussit",
-     "Rien : tous ses services sont entièrement gratuits"
+     "Rien : tous ses services sont entièrement gratuits",
+     "Des frais payés seulement si la médiation réussit"
     ],
-    "correct": 3,
+    "correct": 2,
     "explanation": "Le site du SIMPA le dit clairement : tous ses services sont entièrement gratuits."
    },
    {
     "text": "Vous n'êtes pas satisfait d'un service pour personnes âgées. Quelle première étape le SIMPA recommande-t-il ?",
     "options": [
-     "Parler directement avec l'organisme qui le gère",
      "Aller tout de suite au tribunal avec un avocat",
      "Écrire au ministère pour demander la fermeture du service",
-     "Demander à l'Ombudsman de dire qui a raison"
+     "Demander à l'Ombudsman de dire qui a raison",
+     "Parler directement avec l'organisme qui le gère"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Le SIMPA recommande d'abord un échange direct avec l'organisme. Chaque organisme doit avoir un dispositif de réclamation ; ses coordonnées figurent dans le projet d'établissement, sur infosenior.lu."
    },
    {
     "text": "Dans une médiation du SIMPA, qui décide de la solution ?",
     "options": [
      "La médiatrice décide laquelle des deux parties a raison",
-     "Le ministère décide après la dernière rencontre",
      "Les personnes concernées trouvent leur propre accord",
+     "Le ministère décide après la dernière rencontre",
      "La famille de la personne âgée décide seule"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "La médiatrice est neutre et n'a aucun pouvoir de décision. Elle aide les personnes à trouver leur propre accord, avec la personne âgée au centre."
    },
    {
     "text": "Laquelle de ces situations n'est PAS traitée par le SIMPA ?",
     "options": [
-     "Un problème avec les repas dans une structure d'hébergement",
      "Un désaccord avec un médecin sur des soins de santé",
+     "Un problème avec les repas dans une structure d'hébergement",
      "Un conflit sur les soins à domicile entre une famille et un service",
      "Un désaccord sur les activités dans un centre de jour"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Les questions de soins de santé relèvent du médiateur de la santé. Les décisions administratives des organismes de sécurité sociale relèvent de l'Ombudsman ou des juridictions sociales, et les conflits entre membres du personnel ne sont pas non plus de la compétence du SIMPA."
    }
   ],
@@ -136795,11 +136795,11 @@ const EPISODES = [
     "text": "Welche Telefonlinie gehört heute zum SIMPA?",
     "options": [
      "Die Notrufnummer 112, für Rettungswagen und Feuerwehr",
-     "Das Kanner-Jugendtelefon, für Jugendliche",
      "Das Seniorentelefon, für Fragen rund ums Älterwerden",
+     "Das Kanner-Jugendtelefon, für Jugendliche",
      "Die Hotline der Nationalen Gesundheitskasse für Patienten"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "Zum SIMPA gehört das Seniorentelefon, eine Linie für jede Frage und jede Sorge rund ums Älterwerden, die es seit 1999 gibt. Die Nummer lautet 247-86000."
    },
    {
@@ -136807,43 +136807,43 @@ const EPISODES = [
     "options": [
      "Eine kleine Gebühr für jeden Telefonanruf",
      "Einen Jahresbeitrag für jede Familie",
-     "Eine Gebühr, nur wenn die Mediation gelingt",
-     "Nichts: Alle seine Angebote sind kostenlos"
+     "Nichts: Alle seine Angebote sind kostenlos",
+     "Eine Gebühr, nur wenn die Mediation gelingt"
     ],
-    "correct": 3,
+    "correct": 2,
     "explanation": "Die Website des SIMPA sagt es klar: Alle seine Angebote sind kostenlos."
    },
    {
     "text": "Sie sind mit einem Dienst für ältere Menschen unzufrieden. Welchen ersten Schritt empfiehlt der SIMPA?",
     "options": [
-     "Direkt mit der Trägerorganisation sprechen",
      "Sofort mit einem Anwalt vor Gericht gehen",
      "Dem Ministerium schreiben, um den Dienst zu schließen",
-     "Den Ombudsman bitten, zu entscheiden, wer recht hat"
+     "Den Ombudsman bitten, zu entscheiden, wer recht hat",
+     "Direkt mit der Trägerorganisation sprechen"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Der SIMPA empfiehlt zuerst ein direktes Gespräch mit der Trägerorganisation. Jede Organisation muss ein Beschwerdeverfahren haben; wie man es erreicht, steht im Einrichtungskonzept auf infosenior.lu."
    },
    {
     "text": "Wer entscheidet bei einer Mediation des SIMPA über die Lösung?",
     "options": [
      "Die Mediatorin entscheidet, welche Seite recht hat",
-     "Das Ministerium entscheidet nach dem letzten Treffen",
      "Die Beteiligten finden ihre eigene Einigung",
+     "Das Ministerium entscheidet nach dem letzten Treffen",
      "Die Familie des älteren Menschen entscheidet allein"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "Die Mediatorin ist neutral und hat keine Entscheidungsmacht. Sie hilft den Beteiligten, ihre eigene Einigung zu finden, mit dem älteren Menschen im Mittelpunkt."
    },
    {
     "text": "Welche dieser Situationen behandelt der SIMPA NICHT?",
     "options": [
-     "Ein Problem mit dem Essen in einer Wohnstruktur",
      "Einen Streit mit einem Arzt über die Behandlung",
+     "Ein Problem mit dem Essen in einer Wohnstruktur",
      "Einen Konflikt um die Pflege zu Hause zwischen Familie und Dienst",
      "Einen Streit über die Aktivitäten in einer Tagesstätte"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Fragen zur Gesundheitsversorgung gehören zum Mediator für das Gesundheitswesen. Verwaltungsentscheidungen der Sozialversicherung gehören zum Ombudsman oder zu den Sozialgerichten, und Konflikte zwischen Mitarbeitenden sind ebenfalls nicht Sache des SIMPA."
    }
   ],
@@ -138664,32 +138664,32 @@ const EPISODES = [
     "options": [
      "You call the LAR office, and the pilot decides to come",
      "You send a request with the form on the LAR website",
-     "You ask the nearest hospital to send its own helicopter",
-     "You call 112, and the emergency control centre decides"
+     "You call 112, and the emergency control centre decides",
+     "You ask the nearest hospital to send its own helicopter"
     ],
-    "correct": 3,
+    "correct": 2,
     "explanation": "You do not call the helicopter yourself. You call 112, and the emergency control centre decides whether the helicopter is the best help, depending on how serious the situation is, how easy the place is to reach and which teams are available."
    },
    {
     "text": "Does the LAR rescue helicopter only come for members?",
     "options": [
-     "No, it also carries out rescue missions for non-members",
      "Yes, non-members always have to wait for a road ambulance",
      "Yes, unless the non-member pays the full cost in advance",
-     "No, but only members are then flown to a hospital"
+     "No, but only members are then flown to a hospital",
+     "No, it also carries out rescue missions for non-members"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "LAR is part of the emergency system in Luxembourg, so it also carries out rescue missions for people who are not members. Membership fees help to keep the service available for everyone."
    },
    {
     "text": "A member falls seriously ill abroad. Who decides whether and how the member can travel home?",
     "options": [
      "The member, by booking a flight home on the internet",
-     "The travel agency that sold the holiday to the member",
      "A doctor from LAR, after talking with the doctor abroad",
+     "The travel agency that sold the holiday to the member",
      "The embassy of Luxembourg in the country of the stay"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "After the call to the alert centre, a doctor from LAR speaks directly with the treating doctor abroad. Then LAR's medical team decides whether, when and how the patient can travel safely."
    },
    {
@@ -138697,21 +138697,21 @@ const EPISODES = [
     "options": [
      "On the very same day that the online form is sent",
      "Only after three full years of paid membership",
-     "One week after the membership card arrives by post",
-     "One month after LAR receives the first membership fee"
+     "One month after LAR receives the first membership fee",
+     "One week after the membership card arrives by post"
     ],
-    "correct": 3,
+    "correct": 2,
     "explanation": "The cover starts one month after LAR receives the first membership fee. After that, the membership must be renewed every year."
    },
    {
     "text": "Who is covered by an LAR family membership?",
     "options": [
-     "All relatives, including grandparents, uncles and cousins",
      "A couple at the same address and their children up to 18",
+     "All relatives, including grandparents, uncles and cousins",
      "Only married couples, but not the children of the household",
      "Any friends who travel abroad together with the member"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "A family membership covers a couple who officially live at the same address, married or not, and the children of the household up to the age of 18. Other people living in the household are not covered."
    }
   ],
@@ -138738,32 +138738,32 @@ const EPISODES = [
     "options": [
      "On appelle le bureau de la LAR, et le pilote décide de venir",
      "On envoie une demande avec le formulaire du site de la LAR",
-     "On demande à l'hôpital le plus proche d'envoyer son hélicoptère",
-     "On appelle le 112, et le central des secours décide"
+     "On appelle le 112, et le central des secours décide",
+     "On demande à l'hôpital le plus proche d'envoyer son hélicoptère"
     ],
-    "correct": 3,
+    "correct": 2,
     "explanation": "On n'appelle pas soi-même l'hélicoptère. On appelle le 112, et le central des secours décide si l'hélicoptère est la meilleure aide, selon la gravité de la situation, l'accès au lieu et les équipes disponibles."
    },
    {
     "text": "L'hélicoptère de secours de la LAR vient-il seulement pour les membres ?",
     "options": [
-     "Non, elle intervient aussi pour les non-membres",
      "Oui, les non-membres doivent toujours attendre une ambulance",
      "Oui, sauf si le non-membre paie tout le coût à l'avance",
-     "Non, mais seuls les membres sont ensuite amenés à l'hôpital"
+     "Non, mais seuls les membres sont ensuite amenés à l'hôpital",
+     "Non, elle intervient aussi pour les non-membres"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "La LAR fait partie du système de secours au Luxembourg : elle intervient donc aussi pour des personnes qui ne sont pas membres. Les cotisations aident à garder ce service disponible pour tout le monde."
    },
    {
     "text": "Un membre tombe gravement malade à l'étranger. Qui décide s'il peut rentrer, et comment ?",
     "options": [
      "Le membre lui-même, en réservant un vol de retour sur internet",
-     "L'agence de voyages qui a vendu les vacances au membre",
      "Un médecin de la LAR, après avoir parlé avec le médecin sur place",
+     "L'agence de voyages qui a vendu les vacances au membre",
      "L'ambassade du Luxembourg dans le pays du séjour"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "Après l'appel au centre d'alerte, un médecin de la LAR parle directement avec le médecin qui soigne le patient. Puis l'équipe médicale de la LAR décide si, quand et comment le patient peut voyager en sécurité."
    },
    {
@@ -138771,21 +138771,21 @@ const EPISODES = [
     "options": [
      "Le jour même où le formulaire en ligne est envoyé",
      "Seulement après trois années complètes d'adhésion",
-     "Une semaine après l'arrivée de la carte de membre",
-     "Un mois après que la LAR a reçu la première cotisation"
+     "Un mois après que la LAR a reçu la première cotisation",
+     "Une semaine après l'arrivée de la carte de membre"
     ],
-    "correct": 3,
+    "correct": 2,
     "explanation": "La couverture commence un mois après que la LAR a reçu la première cotisation. Ensuite, l'adhésion doit être renouvelée chaque année."
    },
    {
     "text": "Qui est couvert par une affiliation familiale de la LAR ?",
     "options": [
-     "Toute la famille, y compris les grands-parents et les cousins",
      "Un couple à la même adresse et leurs enfants jusqu'à 18 ans",
+     "Toute la famille, y compris les grands-parents et les cousins",
      "Seulement les couples mariés, sans les enfants du foyer",
      "Tous les amis qui voyagent à l'étranger avec le membre"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "L'affiliation familiale couvre un couple qui habite officiellement à la même adresse, marié ou non, et les enfants du foyer jusqu'à 18 ans. Les autres personnes du foyer ne sont pas couvertes."
    }
   ],
@@ -138807,32 +138807,32 @@ const EPISODES = [
     "options": [
      "Man ruft das Büro der LAR an, und der Pilot entscheidet",
      "Man schickt eine Anfrage über das Formular der LAR-Website",
-     "Man bittet das nächste Krankenhaus, seinen Hubschrauber zu schicken",
-     "Man ruft die 112 an, und die Notrufzentrale entscheidet"
+     "Man ruft die 112 an, und die Notrufzentrale entscheidet",
+     "Man bittet das nächste Krankenhaus, seinen Hubschrauber zu schicken"
     ],
-    "correct": 3,
+    "correct": 2,
     "explanation": "Man ruft den Hubschrauber nicht selbst. Man ruft die 112 an, und die Notrufzentrale entscheidet, ob der Hubschrauber die beste Hilfe ist, je nachdem, wie ernst die Lage ist, wie gut der Ort erreichbar ist und welche Teams verfügbar sind."
    },
    {
     "text": "Kommt der Rettungshubschrauber der LAR nur für Mitglieder?",
     "options": [
-     "Nein, sie fliegt auch Rettungseinsätze für Nichtmitglieder",
      "Ja, Nichtmitglieder müssen immer auf einen Krankenwagen warten",
      "Ja, außer das Nichtmitglied zahlt die Kosten im Voraus",
-     "Nein, aber nur Mitglieder werden danach ins Krankenhaus geflogen"
+     "Nein, aber nur Mitglieder werden danach ins Krankenhaus geflogen",
+     "Nein, sie fliegt auch Rettungseinsätze für Nichtmitglieder"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Die LAR ist Teil des Rettungssystems in Luxemburg und fliegt deshalb auch Rettungseinsätze für Menschen, die keine Mitglieder sind. Die Mitgliedsbeiträge helfen, den Dienst für alle verfügbar zu halten."
    },
    {
     "text": "Ein Mitglied wird im Ausland schwer krank. Wer entscheidet, ob und wie es nach Hause reisen kann?",
     "options": [
      "Das Mitglied selbst, indem es im Internet einen Rückflug bucht",
-     "Das Reisebüro, das dem Mitglied den Urlaub verkauft hat",
      "Ein Arzt der LAR, nach einem Gespräch mit dem Arzt im Ausland",
+     "Das Reisebüro, das dem Mitglied den Urlaub verkauft hat",
      "Die Botschaft Luxemburgs im Land des Aufenthalts"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "Nach dem Anruf bei der Alarmzentrale spricht ein Arzt der LAR direkt mit dem behandelnden Arzt im Ausland. Dann entscheidet das medizinische Team der LAR, ob, wann und wie der Patient sicher reisen kann."
    },
    {
@@ -138840,21 +138840,21 @@ const EPISODES = [
     "options": [
      "Am selben Tag, an dem das Online-Formular abgeschickt wird",
      "Erst nach drei vollen Jahren bezahlter Mitgliedschaft",
-     "Eine Woche, nachdem die Mitgliedskarte angekommen ist",
-     "Einen Monat, nachdem die LAR den ersten Beitrag erhalten hat"
+     "Einen Monat, nachdem die LAR den ersten Beitrag erhalten hat",
+     "Eine Woche, nachdem die Mitgliedskarte angekommen ist"
     ],
-    "correct": 3,
+    "correct": 2,
     "explanation": "Der Schutz beginnt einen Monat, nachdem die LAR den ersten Mitgliedsbeitrag erhalten hat. Danach muss die Mitgliedschaft jedes Jahr erneuert werden."
    },
    {
     "text": "Wer ist durch eine Familienmitgliedschaft der LAR geschützt?",
     "options": [
-     "Alle Verwandten, auch Großeltern, Onkel und Cousins",
      "Ein Paar an derselben Adresse und seine Kinder bis 18",
+     "Alle Verwandten, auch Großeltern, Onkel und Cousins",
      "Nur verheiratete Paare, ohne die Kinder im Haushalt",
      "Alle Freunde, die mit dem Mitglied ins Ausland reisen"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Die Familienmitgliedschaft schützt ein Paar, das offiziell an derselben Adresse wohnt, verheiratet oder nicht, und die Kinder im Haushalt bis 18 Jahre. Andere Personen im Haushalt sind nicht geschützt."
    }
   ],
@@ -140713,23 +140713,23 @@ const EPISODES = [
    {
     "text": "What is Info-Handicap?",
     "options": [
-     "The national council for people with disabilities, a non-profit association",
      "A State administration that pays the allowances for people with disabilities",
      "A private insurance company that covers people with a disability",
-     "A hospital department that treats people with a disability"
+     "A hospital department that treats people with a disability",
+     "The national council for people with disabilities, a non-profit association"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Info-Handicap is the National Council for Persons with Disabilities in Luxembourg. It is a non-profit association that has worked for the rights of people with disabilities since 1993 and brings together more than sixty member organisations."
    },
    {
     "text": "Who can contact Info-Handicap's information and advice service?",
     "options": [
      "Only people whose disability has been officially recognised",
-     "Only the member associations and the people who work for them",
      "Everyone: people with or without a disability, families, employers",
+     "Only the member associations and the people who work for them",
      "Only employers who want to hire a person with a disability"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "The service is open to everyone: people with or without a disability, their families and friends, employers, people who work with people with disabilities, and anyone who is interested."
    },
    {
@@ -140737,32 +140737,32 @@ const EPISODES = [
     "options": [
      "A medical certificate that describes your disability in detail",
      "A membership card from one of Info-Handicap's member associations",
-     "A request form signed by your doctor and by your commune",
-     "Nothing: they are free, without registration and without proof"
+     "Nothing: they are free, without registration and without proof",
+     "A request form signed by your doctor and by your commune"
     ],
-    "correct": 3,
+    "correct": 2,
     "explanation": "Info-Handicap gives the strap and the card free of charge to anyone who asks, without registration and without proof. You simply go to its office in Luxembourg City on a weekday."
    },
    {
     "text": "What does the SAMT service help people with disabilities to do?",
     "options": [
-     "Get a driving licence that is adapted to their disability",
      "Learn to use public transport on their own and safely",
+     "Get a driving licence that is adapted to their disability",
      "Buy an electric wheelchair at a price reduced by the State",
      "Book a taxi whose fare is paid back by the commune"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "SAMT helps people with disabilities learn to use public transport on their own and safely: a first talk, a personal learning plan, practice with a trainer, and preparation for the unexpected, such as a cancelled bus."
    },
    {
     "text": "What does Info-Handicap's motto \"Nothing about us without us\" mean?",
     "options": [
-     "Decisions about people with disabilities should never be taken without them",
      "People with disabilities should take every decision alone, without anyone else",
      "Only doctors should decide what people with disabilities really need",
-     "Information about people with disabilities must always stay secret"
+     "Information about people with disabilities must always stay secret",
+     "Decisions about people with disabilities should never be taken without them"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "The motto, which comes from the European Disability Forum, means that decisions about people with disabilities should never be taken without them. People with disabilities take an active part in Info-Handicap's work."
    }
   ],
@@ -140786,23 +140786,23 @@ const EPISODES = [
    {
     "text": "Qu'est-ce qu'Info-Handicap ?",
     "options": [
-     "Le conseil national des personnes handicapées, une association sans but lucratif",
      "Une administration de l'État qui paie les allocations aux personnes handicapées",
      "Une compagnie d'assurance privée qui couvre les personnes en situation de handicap",
-     "Un service hospitalier qui soigne les personnes en situation de handicap"
+     "Un service hospitalier qui soigne les personnes en situation de handicap",
+     "Le conseil national des personnes handicapées, une association sans but lucratif"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Info-Handicap est le Conseil national des personnes handicapées au Luxembourg. C'est une association sans but lucratif qui défend depuis 1993 les droits des personnes en situation de handicap et qui réunit plus de soixante organisations membres."
    },
    {
     "text": "Qui peut s'adresser au service d'information et de conseil d'Info-Handicap ?",
     "options": [
      "Seulement les personnes dont le handicap est officiellement reconnu",
-     "Seulement les associations membres et les personnes qui y travaillent",
      "Tout le monde : personnes avec ou sans handicap, familles, employeurs",
+     "Seulement les associations membres et les personnes qui y travaillent",
      "Seulement les employeurs qui veulent engager une personne handicapée"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "Le service est ouvert à tous : personnes en situation de handicap ou non, familles et amis, employeurs, personnes qui travaillent avec des personnes handicapées, et toute personne intéressée."
    },
    {
@@ -140810,32 +140810,32 @@ const EPISODES = [
     "options": [
      "D'un certificat médical qui décrit votre handicap en détail",
      "D'une carte de membre d'une des associations membres d'Info-Handicap",
-     "D'un formulaire de demande signé par votre médecin et votre commune",
-     "De rien : elles sont gratuites, sans inscription et sans justificatif"
+     "De rien : elles sont gratuites, sans inscription et sans justificatif",
+     "D'un formulaire de demande signé par votre médecin et votre commune"
     ],
-    "correct": 3,
+    "correct": 2,
     "explanation": "Info-Handicap donne gratuitement la lanière et la carte à toute personne qui le demande, sans inscription et sans justificatif. Il suffit de se rendre à son bureau à Luxembourg-ville un jour de semaine."
    },
    {
     "text": "À quoi le service SAMT aide-t-il les personnes en situation de handicap ?",
     "options": [
-     "À obtenir un permis de conduire adapté à leur handicap",
      "À apprendre à utiliser les transports publics de manière autonome et en sécurité",
+     "À obtenir un permis de conduire adapté à leur handicap",
      "À acheter un fauteuil roulant électrique à un prix réduit par l'État",
      "À réserver un taxi dont le prix est remboursé par la commune"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "SAMT aide les personnes en situation de handicap à apprendre à utiliser les transports publics de manière autonome et en toute sécurité : un premier entretien, un plan d'apprentissage personnalisé, l'entraînement avec un formateur et la préparation aux imprévus, comme un bus supprimé."
    },
    {
     "text": "Que veut dire la devise d'Info-Handicap « Rien sur nous, sans nous » ?",
     "options": [
-     "Les décisions qui concernent les personnes handicapées ne doivent jamais être prises sans elles",
      "Les personnes handicapées doivent prendre toutes les décisions seules, sans personne d'autre",
      "Seuls les médecins doivent décider de ce dont les personnes handicapées ont vraiment besoin",
-     "Les informations sur les personnes handicapées doivent toujours rester secrètes"
+     "Les informations sur les personnes handicapées doivent toujours rester secrètes",
+     "Les décisions qui concernent les personnes handicapées ne doivent jamais être prises sans elles"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Cette devise, qui vient du Forum européen des personnes handicapées, veut dire que les décisions qui concernent les personnes handicapées ne doivent jamais être prises sans elles. Les personnes en situation de handicap participent activement au travail d'Info-Handicap."
    }
   ],
@@ -140855,23 +140855,23 @@ const EPISODES = [
    {
     "text": "Was ist Info-Handicap?",
     "options": [
-     "Der Nationale Rat der Menschen mit Behinderungen, ein gemeinnütziger Verein",
      "Eine staatliche Verwaltung, die Leistungen an Menschen mit Behinderungen zahlt",
      "Eine private Versicherung, die Menschen mit einer Behinderung absichert",
-     "Eine Krankenhausabteilung, die Menschen mit einer Behinderung behandelt"
+     "Eine Krankenhausabteilung, die Menschen mit einer Behinderung behandelt",
+     "Der Nationale Rat der Menschen mit Behinderungen, ein gemeinnütziger Verein"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Info-Handicap ist der Nationale Rat der Menschen mit Behinderungen in Luxemburg. Es ist ein gemeinnütziger Verein, der sich seit 1993 für die Rechte von Menschen mit Behinderungen einsetzt und mehr als sechzig Mitgliedsorganisationen vereint."
    },
    {
     "text": "Wer kann sich an die Informations- und Beratungsstelle von Info-Handicap wenden?",
     "options": [
      "Nur Menschen, deren Behinderung offiziell anerkannt ist",
-     "Nur die Mitgliedsvereinigungen und die Menschen, die dort arbeiten",
      "Alle: Menschen mit oder ohne Behinderung, Familien, Arbeitgeber",
+     "Nur die Mitgliedsvereinigungen und die Menschen, die dort arbeiten",
      "Nur Arbeitgeber, die einen Menschen mit Behinderung einstellen wollen"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "Die Beratungsstelle ist für alle offen: Menschen mit oder ohne Behinderung, ihre Familien und Freunde, Arbeitgeber, Menschen, die mit Menschen mit Behinderungen arbeiten, und alle, die sich dafür interessieren."
    },
    {
@@ -140879,32 +140879,32 @@ const EPISODES = [
     "options": [
      "Ein ärztliches Attest, das Ihre Behinderung genau beschreibt",
      "Eine Mitgliedskarte einer der Mitgliedsvereinigungen von Info-Handicap",
-     "Ein Antragsformular, das Ihr Arzt und Ihre Gemeinde unterschrieben haben",
-     "Nichts: Sie sind kostenlos, ohne Anmeldung und ohne Nachweis"
+     "Nichts: Sie sind kostenlos, ohne Anmeldung und ohne Nachweis",
+     "Ein Antragsformular, das Ihr Arzt und Ihre Gemeinde unterschrieben haben"
     ],
-    "correct": 3,
+    "correct": 2,
     "explanation": "Info-Handicap gibt das Band und die Karte kostenlos an alle, die danach fragen, ohne Anmeldung und ohne Nachweis. Man geht einfach an einem Werktag in das Büro in Luxemburg-Stadt."
    },
    {
     "text": "Wobei hilft der Dienst SAMT Menschen mit Behinderungen?",
     "options": [
-     "Einen Führerschein zu bekommen, der an ihre Behinderung angepasst ist",
      "Öffentliche Verkehrsmittel selbstständig und sicher nutzen zu lernen",
+     "Einen Führerschein zu bekommen, der an ihre Behinderung angepasst ist",
      "Einen elektrischen Rollstuhl zu einem vom Staat gesenkten Preis zu kaufen",
      "Ein Taxi zu buchen, dessen Fahrpreis die Gemeinde zurückzahlt"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "SAMT hilft Menschen mit Behinderungen, öffentliche Verkehrsmittel selbstständig und sicher zu nutzen: ein erstes Gespräch, ein persönlicher Lernplan, Üben mit einem Trainer und Vorbereitung auf Unerwartetes, zum Beispiel einen ausgefallenen Bus."
    },
    {
     "text": "Was bedeutet das Motto von Info-Handicap „Nichts über uns ohne uns“?",
     "options": [
-     "Entscheidungen über Menschen mit Behinderungen sollen nie ohne sie getroffen werden",
      "Menschen mit Behinderungen sollen alle Entscheidungen allein treffen, ohne andere",
      "Nur Ärzte sollen entscheiden, was Menschen mit Behinderungen wirklich brauchen",
-     "Informationen über Menschen mit Behinderungen müssen immer geheim bleiben"
+     "Informationen über Menschen mit Behinderungen müssen immer geheim bleiben",
+     "Entscheidungen über Menschen mit Behinderungen sollen nie ohne sie getroffen werden"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Das Motto stammt vom Europäischen Behindertenforum und bedeutet, dass Entscheidungen über Menschen mit Behinderungen nie ohne sie getroffen werden sollen. Menschen mit Behinderungen arbeiten bei Info-Handicap aktiv mit."
    }
   ],
@@ -142231,6 +142231,4227 @@ const EPISODES = [
     "speaker": "Anna",
     "text": "Villmools Merci fir d'Nolauschteren.",
     "t": 643.37
+   }
+  ]
+ },
+ {
+  "id": 58,
+  "key": "inll",
+  "number": "Episode 58",
+  "title": "INLL – Learning Luxembourgish and Other Languages",
+  "description": "The National Institute of Languages Luxembourg (INLL) is a public centre where adults learn more than ten languages and can have their skills certified. Discover how to enrol through MyINL, the many ways to learn Luxembourgish, including the intensive Moving Languages course, how the Sproochentest for nationality works, and the other certificates and trainings.",
+  "audio": "podcast_inll.mp3",
+  "duration": 644.23,
+  "topics": [
+   "What the INLL is",
+   "More than ten languages, three sites",
+   "Courses in the language from day one",
+   "Enrolling through MyINL",
+   "Ways to learn Luxembourgish",
+   "Moving Languages",
+   "The Sproochentest for nationality",
+   "Other certificates and teacher training"
+  ],
+  "segments": [
+   {
+    "speaker": "Anna",
+    "text": "Hello, and welcome!",
+    "t": 0.65
+   },
+   {
+    "speaker": "Anna",
+    "text": "It's really nice to have you with us today.",
+    "t": 2.01
+   },
+   {
+    "speaker": "Tom",
+    "text": "Hello everyone!",
+    "t": 4.45
+   },
+   {
+    "speaker": "Anna",
+    "text": "This podcast is part of the Biergerpakt.",
+    "t": 5.58
+   },
+   {
+    "speaker": "Anna",
+    "text": "That's a programme of living together in Luxembourg, organized by the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees.",
+    "t": 8.09
+   },
+   {
+    "speaker": "Anna",
+    "text": "The idea is to help residents, and also cross-border workers, to discover Luxembourg — or maybe re-discover Luxembourg — and to meet new people.",
+    "t": 17.58
+   },
+   {
+    "speaker": "Tom",
+    "text": "Imagine that you have just moved to Luxembourg.",
+    "t": 27.49
+   },
+   {
+    "speaker": "Tom",
+    "text": "At the bakery, at work or in front of the school, people switch from one language to another all day long, and you would love to join in, maybe even in Luxembourgish.",
+    "t": 30.02
+   },
+   {
+    "speaker": "Anna",
+    "text": "Many listeners know that feeling, and there is a public institute that helps with exactly this: the National Institute of Languages Luxembourg, or INLL for short.",
+    "t": 39.94
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is our topic today, with one big question: how can adults learn Luxembourgish?",
+    "t": 51.19
+   },
+   {
+    "speaker": "Tom",
+    "text": "Let's start with the basics, then: what kind of place is the INLL, and who is behind it?",
+    "t": 57.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "The INLL is a public centre where adults learn languages and can have their language skills certified.",
+    "t": 63.02
+   },
+   {
+    "speaker": "Anna",
+    "text": "It comes under the Ministry of Education, Children and Youth.",
+    "t": 70.2
+   },
+   {
+    "speaker": "Anna",
+    "text": "Its aims are to promote multilingualism, to help people find work and take part in society, and to bring people together through languages.",
+    "t": 73.73
+   },
+   {
+    "speaker": "Tom",
+    "text": "That fits this country very well: Luxembourg has three administrative languages, many people from abroad, and many cross-border workers, and the INLL takes this into account in the way it teaches.",
+    "t": 82.66
+   },
+   {
+    "speaker": "Anna",
+    "text": "Which languages can you actually learn there?",
+    "t": 95.15
+   },
+   {
+    "speaker": "Anna",
+    "text": "Only the languages of the country, or others too?",
+    "t": 97.59
+   },
+   {
+    "speaker": "Tom",
+    "text": "The choice is much wider than that: more than ten languages.",
+    "t": 100.9
+   },
+   {
+    "speaker": "Tom",
+    "text": "Of course Luxembourgish, French and German, but also English, Portuguese, Spanish, Italian and Dutch, and even Russian, Arabic, Chinese, Japanese and Korean.",
+    "t": 104.9
+   },
+   {
+    "speaker": "Anna",
+    "text": "That is quite a list.",
+    "t": 116.84
+   },
+   {
+    "speaker": "Anna",
+    "text": "And where do the courses take place?",
+    "t": 118.33
+   },
+   {
+    "speaker": "Anna",
+    "text": "Does everybody have to travel to Luxembourg City?",
+    "t": 120.33
+   },
+   {
+    "speaker": "Tom",
+    "text": "Not necessarily, because the INLL has three sites.",
+    "t": 123.46
+   },
+   {
+    "speaker": "Tom",
+    "text": "The biggest one is in Luxembourg City, and there are two more: one in Belval, in the south of the country, and one in Mersch, in the centre.",
+    "t": 127.09
+   },
+   {
+    "speaker": "Tom",
+    "text": "Not every language is taught at every site, but Luxembourgish, French, German and English are taught at all three.",
+    "t": 135.43
+   },
+   {
+    "speaker": "Anna",
+    "text": "And who are the courses for: can a teenager come along with their parents?",
+    "t": 142.66
+   },
+   {
+    "speaker": "Tom",
+    "text": "No, the courses are for adults only.",
+    "t": 147.38
+   },
+   {
+    "speaker": "Tom",
+    "text": "And here is something that surprises many people: every course is taught in the language you are learning, from the very first lesson, even for complete beginners.",
+    "t": 149.6
+   },
+   {
+    "speaker": "Anna",
+    "text": "Straight into the new language, then.",
+    "t": 159.29
+   },
+   {
+    "speaker": "Anna",
+    "text": "That can feel a little scary at first, but it is also a good way to get used to it quickly.",
+    "t": 161.4
+   },
+   {
+    "speaker": "Anna",
+    "text": "How are the levels organised?",
+    "t": 166.95
+   },
+   {
+    "speaker": "Tom",
+    "text": "The INLL follows the European scale for languages, which goes from A1 for beginners up to C2 for people who master a language.",
+    "t": 169.09
+   },
+   {
+    "speaker": "Tom",
+    "text": "Most courses last one semester: one semester starts in autumn, in September, and the other one in spring, in February.",
+    "t": 176.97
+   },
+   {
+    "speaker": "Anna",
+    "text": "Let's talk about signing up, because that is where many people hesitate.",
+    "t": 183.46
+   },
+   {
+    "speaker": "Anna",
+    "text": "How do I get a place in a course?",
+    "t": 187.63
+   },
+   {
+    "speaker": "Tom",
+    "text": "Everything goes through the online portal MyINL.",
+    "t": 189.82
+   },
+   {
+    "speaker": "Tom",
+    "text": "You create an account there, and you need a recommended level, because that level is what lets you enrol in a course.",
+    "t": 193.43
+   },
+   {
+    "speaker": "Tom",
+    "text": "Complete beginners can simply choose the first level, A1, themselves.",
+    "t": 199.68
+   },
+   {
+    "speaker": "Anna",
+    "text": "And if I already speak a little of the language, how does the INLL find out my level?",
+    "t": 204.5
+   },
+   {
+    "speaker": "Tom",
+    "text": "Then you first take a short test online, and after that you book an orientation talk with a teacher at the INLL, who gives you your recommended level.",
+    "t": 210.2
+   },
+   {
+    "speaker": "Tom",
+    "text": "These talks are possible all through the school year.",
+    "t": 218.54
+   },
+   {
+    "speaker": "Tom",
+    "text": "Once you have your level, you choose your course, as long as there are places left, and you pay within the deadline.",
+    "t": 221.57
+   },
+   {
+    "speaker": "Anna",
+    "text": "What about the price of a course: does everybody pay the same?",
+    "t": 227.74
+   },
+   {
+    "speaker": "Tom",
+    "text": "The fee of each course is shown on MyINL, and books are not included.",
+    "t": 231.74
+   },
+   {
+    "speaker": "Tom",
+    "text": "Some people pay a much lower fee, for example jobseekers sent to a course by ADEM, or people who signed the reception and integration contract.",
+    "t": 236.4
+   },
+   {
+    "speaker": "Tom",
+    "text": "They need a voucher or a certificate from the service concerned.",
+    "t": 245.11
+   },
+   {
+    "speaker": "Anna",
+    "text": "Now we come to the heart of our topic: Luxembourgish.",
+    "t": 248.54
+   },
+   {
+    "speaker": "Anna",
+    "text": "What can somebody who wants to learn it find at the INLL?",
+    "t": 252.09
+   },
+   {
+    "speaker": "Tom",
+    "text": "There are many ways to learn it: classic courses have two or three lessons a week, but you can also learn online by video call, or combine lessons on site with work online.",
+    "t": 256
+   },
+   {
+    "speaker": "Tom",
+    "text": "In hybrid courses, you even decide for each lesson whether you come in or join from home.",
+    "t": 265.76
+   },
+   {
+    "speaker": "Anna",
+    "text": "One format is quite new, and it is called Moving Languages.",
+    "t": 270.62
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is an intensive course in Luxembourgish or in French that lasts eight weeks, with three hours of lessons a day.",
+    "t": 274.46
+   },
+   {
+    "speaker": "Anna",
+    "text": "You learn with movement and with all five senses, and only in the new language, from the first day.",
+    "t": 281.28
+   },
+   {
+    "speaker": "Tom",
+    "text": "Eight weeks sounds short: what can you really reach in that time?",
+    "t": 287.08
+   },
+   {
+    "speaker": "Anna",
+    "text": "The goal is the level A2 in speaking, for people who start with no knowledge at all.",
+    "t": 291.33
+   },
+   {
+    "speaker": "Anna",
+    "text": "In other words, after two months you can manage simple everyday conversations.",
+    "t": 296.53
+   },
+   {
+    "speaker": "Anna",
+    "text": "The method comes from Liechtenstein, and the INLL developed it in Luxembourg together with the Adult Education Service.",
+    "t": 301.61
+   },
+   {
+    "speaker": "Tom",
+    "text": "And what about people who have little time and would rather learn at their own pace?",
+    "t": 309.39
+   },
+   {
+    "speaker": "Tom",
+    "text": "Is there something for them too?",
+    "t": 313.49
+   },
+   {
+    "speaker": "Anna",
+    "text": "Yes: there is a guided self-study course in Luxembourgish.",
+    "t": 315.41
+   },
+   {
+    "speaker": "Anna",
+    "text": "You work mostly on your own, on an online platform, with a few live video sessions and a weekly online support session.",
+    "t": 319.1
+   },
+   {
+    "speaker": "Anna",
+    "text": "At the end, you take a speaking test on site, in Luxembourg City.",
+    "t": 326.73
+   },
+   {
+    "speaker": "Tom",
+    "text": "And between lessons, the INLL even has its own podcast, in simple Luxembourgish for beginners.",
+    "t": 331.31
+   },
+   {
+    "speaker": "Tom",
+    "text": "On site, learners also find a media library, language tandems, and events where people meet and talk in the languages they are learning.",
+    "t": 337.9
+   },
+   {
+    "speaker": "Anna",
+    "text": "How do I know whether I am making progress: is there a test at the end of a course?",
+    "t": 345.64
+   },
+   {
+    "speaker": "Tom",
+    "text": "In most semester courses, your work is assessed along the way, with a speaking test at the end, and you need to pass to move up to the next level.",
+    "t": 350.43
+   },
+   {
+    "speaker": "Tom",
+    "text": "You then get a skills assessment that shows your level, and you can download it from MyINL, together with a certificate of attendance.",
+    "t": 358.37
+   },
+   {
+    "speaker": "Anna",
+    "text": "That brings us to the test that many listeners have heard of: the Sproochentest.",
+    "t": 365.8
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is the Luxembourgish language test for nationality, and the INLL organises it.",
+    "t": 370.65
+   },
+   {
+    "speaker": "Anna",
+    "text": "Many people who apply for Luxembourg nationality have to pass it, and it is the only certificate that counts for that application.",
+    "t": 377.3
+   },
+   {
+    "speaker": "Tom",
+    "text": "What happens in the test itself: is there a long text to write?",
+    "t": 384.77
+   },
+   {
+    "speaker": "Anna",
+    "text": "No, there is no essay: the test has two parts, on the same half day.",
+    "t": 388.58
+   },
+   {
+    "speaker": "Anna",
+    "text": "First, speaking, at level A2: for about ten minutes, you talk with an examiner about an everyday topic, such as work, family or hobbies, and you describe a picture.",
+    "t": 393.17
+   },
+   {
+    "speaker": "Anna",
+    "text": "Second, listening, at level B1: you hear three recordings, for example a radio message and a conversation, and you answer questions on a tablet.",
+    "t": 404.67
+   },
+   {
+    "speaker": "Tom",
+    "text": "And how do you pass: do the two parts count the same?",
+    "t": 415.47
+   },
+   {
+    "speaker": "Anna",
+    "text": "Speaking counts the most: you pass if you get at least half of the points there.",
+    "t": 418.73
+   },
+   {
+    "speaker": "Anna",
+    "text": "If your speaking mark is a little lower, a good listening result can make up for it, as long as the average of both parts reaches half of the points.",
+    "t": 423.69
+   },
+   {
+    "speaker": "Tom",
+    "text": "That sounds fair, so where does the test take place, and how do you sign up?",
+    "t": 432.67
+   },
+   {
+    "speaker": "Anna",
+    "text": "It takes place in Luxembourg City and in Belval, and you sign up through MyINL.",
+    "t": 436.57
+   },
+   {
+    "speaker": "Anna",
+    "text": "Demand is very high, so it is wise to book early.",
+    "t": 442.2
+   },
+   {
+    "speaker": "Anna",
+    "text": "If you do not come and have no valid reason, the fee is not refunded.",
+    "t": 445.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "And if you have a disability, you can ask for adapted conditions, with a medical document.",
+    "t": 450.44
+   },
+   {
+    "speaker": "Tom",
+    "text": "And if it does not work out the first time, can you try again?",
+    "t": 455.94
+   },
+   {
+    "speaker": "Anna",
+    "text": "Yes, as often as you need: you can register again once you have received your previous result.",
+    "t": 458.77
+   },
+   {
+    "speaker": "Anna",
+    "text": "Once you pass, your certificate does not expire.",
+    "t": 464.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "And on the website, you find example tests to prepare at home.",
+    "t": 468.25
+   },
+   {
+    "speaker": "Tom",
+    "text": "Good to know.",
+    "t": 471.85
+   },
+   {
+    "speaker": "Tom",
+    "text": "One thing the INLL does not offer is the citizenship courses for nationality: these are organised by the Adult Education Service and its partners.",
+    "t": 472.72
+   },
+   {
+    "speaker": "Anna",
+    "text": "Besides the Sproochentest, are there other certificates in Luxembourgish that you can take?",
+    "t": 482.38
+   },
+   {
+    "speaker": "Tom",
+    "text": "Yes, there are two more: the first is a national diploma for Luxembourgish as a foreign language, from level A2 to C1, which can be useful at work, and you do not need to have followed a course at the INLL to take it.",
+    "t": 487.37
+   },
+   {
+    "speaker": "Tom",
+    "text": "The second is a short test of Luxembourgish spelling.",
+    "t": 501.91
+   },
+   {
+    "speaker": "Tom",
+    "text": "And for other languages, the INLL is an exam centre for well-known international certificates, such as the Cambridge exams for English or the Goethe certificate for German.",
+    "t": 504.79
+   },
+   {
+    "speaker": "Anna",
+    "text": "The INLL does not only teach learners: it also trains teachers.",
+    "t": 514.76
+   },
+   {
+    "speaker": "Anna",
+    "text": "There is a training for people who want to teach Luxembourgish to adults, one for teaching languages for work, and one to become a communication coach: a colleague who helps others to speak Luxembourgish in a team with many nationalities.",
+    "t": 520.18
+   },
+   {
+    "speaker": "Tom",
+    "text": "And one last tip: if you work in Luxembourg, there is a special language leave to learn Luxembourgish, and our episode about lifelong learning explains it.",
+    "t": 535.62
+   },
+   {
+    "speaker": "Tom",
+    "text": "The website of the institute is inll dot l-u, in four languages, with the questions people ask most often and a contact form.",
+    "t": 543.98
+   },
+   {
+    "speaker": "Anna",
+    "text": "Before we finish, what are the main points to keep in mind from this episode?",
+    "t": 553.1
+   },
+   {
+    "speaker": "Tom",
+    "text": "First, the INLL is a public institute where adults can learn more than ten languages, including Luxembourgish, at three sites, in class, online or at their own pace.",
+    "t": 557.55
+   },
+   {
+    "speaker": "Tom",
+    "text": "Second, you sign up through MyINL, with a recommended level: beginners choose A1, the others take a short test and an orientation talk.",
+    "t": 569.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "And third, the Sproochentest, the Luxembourgish test for nationality, has a speaking part and a listening part, and you can take it again as often as you need.",
+    "t": 578.81
+   },
+   {
+    "speaker": "Anna",
+    "text": "Because every new language opens a door to new people.",
+    "t": 588.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "That was our episode about the INLL, the National Institute of Languages Luxembourg.",
+    "t": 591.62
+   },
+   {
+    "speaker": "Anna",
+    "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
+    "t": 597.69
+   },
+   {
+    "speaker": "Anna",
+    "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
+    "t": 607.39
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
+    "t": 625.68
+   },
+   {
+    "speaker": "Anna",
+    "text": "And the activities are free of charge.",
+    "t": 632.43
+   },
+   {
+    "speaker": "Anna",
+    "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
+    "t": 634.63
+   },
+   {
+    "speaker": "Tom",
+    "text": "Thank you, everyone.",
+    "t": 639.32
+   },
+   {
+    "speaker": "Tom",
+    "text": "Take care, and see you next time!",
+    "t": 640.49
+   },
+   {
+    "speaker": "Anna",
+    "text": "Thank you so much for listening.",
+    "t": 642.63
+   }
+  ],
+  "questions": [
+   {
+    "text": "What is the INLL?",
+    "options": [
+     "A public centre where adults learn languages and can get them certified",
+     "A private language school that only teaches Luxembourgish to children",
+     "A university faculty that trains translators for the European institutions",
+     "An office of the commune that registers new residents and their languages"
+    ],
+    "correct": 0,
+    "explanation": "The INLL, the National Institute of Languages Luxembourg, is a public centre where adults learn more than ten languages and can have their language skills certified. It comes under the Ministry of Education, Children and Youth."
+   },
+   {
+    "text": "How do you enrol in a course at the INLL?",
+    "options": [
+     "At your commune, with your identity card and a recent photo",
+     "By sending a letter to the Ministry before the end of June",
+     "By phoning the INLL, which gives you a place straight away",
+     "Through the online portal MyINL, with a recommended level"
+    ],
+    "correct": 3,
+    "explanation": "Everything goes through MyINL. You need a recommended level: complete beginners can choose A1 themselves, the others take a short online test and an orientation talk with a teacher."
+   },
+   {
+    "text": "In which language are the INLL courses taught?",
+    "options": [
+     "In French for beginners, and later in the language you learn",
+     "In English at every level, so that everybody understands",
+     "In the language you are learning, from the very first lesson",
+     "In German or in French, as you choose when you enrol"
+    ],
+    "correct": 2,
+    "explanation": "Every course is taught in the language you are learning, from the very first lesson, even for complete beginners. The courses are for adults only."
+   },
+   {
+    "text": "What are the two parts of the Sproochentest?",
+    "options": [
+     "Writing an essay at level B1 and reading at level A2",
+     "Speaking at level A2 and listening at level B1",
+     "A grammar test on paper and a test on Luxembourg history",
+     "Reading a text aloud and translating it into French"
+    ],
+    "correct": 1,
+    "explanation": "The Sproochentest has a speaking part at level A2 (about ten minutes with an examiner) and a listening part at level B1 (three recordings, answers on a tablet), on the same half day. You can take it again as often as you need."
+   },
+   {
+    "text": "What is Moving Languages?",
+    "options": [
+     "An intensive eight-week course in Luxembourgish or French, with movement",
+     "A mobile app that translates Luxembourgish into many other languages",
+     "A course for children who move to Luxembourg with their parents",
+     "A free bus tour of the country with a Luxembourgish-speaking guide"
+    ],
+    "correct": 0,
+    "explanation": "Moving Languages is an intensive course in Luxembourgish or French: eight weeks, three hours a day, only in the new language, learning with movement and the five senses. The goal is level A2 in speaking for people who start from zero."
+   }
+  ],
+  "categories": [
+   "inclusion",
+   "work",
+   "civic"
+  ],
+  "title_fr": "L'INLL – Apprendre le luxembourgeois et d'autres langues",
+  "description_fr": "L'Institut national des langues Luxembourg (INLL) est un centre public où les adultes apprennent plus de dix langues et peuvent faire certifier leurs compétences. Découvrez comment s'inscrire par MyINL, les nombreuses façons d'apprendre le luxembourgeois, dont le cours intensif Moving Languages, le fonctionnement du Sproochentest pour la nationalité, et les autres certificats et formations.",
+  "topics_fr": [
+   "Ce qu'est l'INLL",
+   "Plus de dix langues, trois sites",
+   "Des cours dans la langue dès le premier jour",
+   "S'inscrire par MyINL",
+   "Les façons d'apprendre le luxembourgeois",
+   "Moving Languages",
+   "Le Sproochentest pour la nationalité",
+   "Autres certificats et formation des enseignants"
+  ],
+  "questions_fr": [
+   {
+    "text": "Qu'est-ce que l'INLL ?",
+    "options": [
+     "Un centre public où les adultes apprennent des langues et les font certifier",
+     "Une école de langues privée qui enseigne le luxembourgeois aux enfants",
+     "Une faculté universitaire qui forme des traducteurs pour l'Union européenne",
+     "Un bureau de la commune qui enregistre les nouveaux résidents et leurs langues"
+    ],
+    "correct": 0,
+    "explanation": "L'INLL, l'Institut national des langues Luxembourg, est un centre public où les adultes apprennent plus de dix langues et peuvent faire certifier leurs compétences linguistiques. Il dépend du Ministère de l'Éducation nationale, de l'Enfance et de la Jeunesse."
+   },
+   {
+    "text": "Comment s'inscrit-on à un cours de l'INLL ?",
+    "options": [
+     "À la commune, avec sa carte d'identité et une photo récente",
+     "En envoyant une lettre au ministère avant la fin du mois de juin",
+     "En téléphonant à l'INLL, qui donne une place tout de suite",
+     "Par le portail en ligne MyINL, avec un niveau recommandé"
+    ],
+    "correct": 3,
+    "explanation": "Tout passe par MyINL. Il faut un niveau recommandé : les vrais débutants peuvent choisir A1 eux-mêmes, les autres passent un court test en ligne et un entretien d'orientation avec un enseignant."
+   },
+   {
+    "text": "Dans quelle langue les cours de l'INLL sont-ils donnés ?",
+    "options": [
+     "En français pour les débutants, puis dans la langue apprise",
+     "En anglais à tous les niveaux, pour que tout le monde comprenne",
+     "Dans la langue que l'on apprend, dès la toute première leçon",
+     "En allemand ou en français, au choix lors de l'inscription"
+    ],
+    "correct": 2,
+    "explanation": "Chaque cours est donné dans la langue que l'on apprend, dès la toute première leçon, même pour les vrais débutants. Les cours sont réservés aux adultes."
+   },
+   {
+    "text": "Quelles sont les deux parties du Sproochentest ?",
+    "options": [
+     "Une rédaction au niveau B1 et la lecture d'un texte au niveau A2",
+     "L'expression orale au niveau A2 et la compréhension orale au niveau B1",
+     "Un test de grammaire sur papier et un test sur l'histoire du pays",
+     "La lecture d'un texte à voix haute et sa traduction en français"
+    ],
+    "correct": 1,
+    "explanation": "Le Sproochentest a une partie orale au niveau A2 (environ dix minutes avec un examinateur) et une partie de compréhension au niveau B1 (trois enregistrements, réponses sur tablette), pendant la même demi-journée. On peut le repasser autant de fois que nécessaire."
+   },
+   {
+    "text": "Qu'est-ce que Moving Languages ?",
+    "options": [
+     "Un cours intensif de huit semaines en luxembourgeois ou en français, avec du mouvement",
+     "Une application qui traduit le luxembourgeois dans beaucoup d'autres langues",
+     "Un cours pour les enfants qui arrivent au Luxembourg avec leurs parents",
+     "Un tour du pays en bus, gratuit, avec un guide qui parle luxembourgeois"
+    ],
+    "correct": 0,
+    "explanation": "Moving Languages est un cours intensif de luxembourgeois ou de français : huit semaines, trois heures par jour, uniquement dans la nouvelle langue, en apprenant avec le mouvement et les cinq sens. L'objectif est le niveau A2 à l'oral pour des personnes qui partent de zéro."
+   }
+  ],
+  "title_de": "Das INLL – Luxemburgisch und andere Sprachen lernen",
+  "description_de": "Das Nationale Sprachinstitut Luxemburg (INLL) ist ein öffentliches Zentrum, in dem Erwachsene mehr als zehn Sprachen lernen und ihre Kenntnisse zertifizieren lassen können. Erfahren Sie, wie man sich über MyINL anmeldet, welche Wege es gibt, Luxemburgisch zu lernen, darunter den Intensivkurs Moving Languages, wie der Sproochentest für die Staatsangehörigkeit abläuft, und welche anderen Zertifikate und Ausbildungen es gibt.",
+  "topics_de": [
+   "Was das INLL ist",
+   "Mehr als zehn Sprachen, drei Standorte",
+   "Unterricht in der Sprache ab dem ersten Tag",
+   "Anmeldung über MyINL",
+   "Wege, Luxemburgisch zu lernen",
+   "Moving Languages",
+   "Der Sproochentest für die Staatsangehörigkeit",
+   "Weitere Zertifikate und Lehrerausbildung"
+  ],
+  "questions_de": [
+   {
+    "text": "Was ist das INLL?",
+    "options": [
+     "Ein öffentliches Zentrum, in dem Erwachsene Sprachen lernen und zertifizieren lassen",
+     "Eine private Sprachschule, die Kindern nur Luxemburgisch beibringt",
+     "Eine Fakultät der Universität, die Übersetzer für die EU-Institutionen ausbildet",
+     "Ein Büro der Gemeinde, das neue Einwohner und ihre Sprachen registriert"
+    ],
+    "correct": 0,
+    "explanation": "Das INLL, das Nationale Sprachinstitut Luxemburg, ist ein öffentliches Zentrum, in dem Erwachsene mehr als zehn Sprachen lernen und ihre Sprachkenntnisse zertifizieren lassen können. Es untersteht dem Ministerium für Bildung, Kinder und Jugend."
+   },
+   {
+    "text": "Wie meldet man sich für einen Kurs am INLL an?",
+    "options": [
+     "Bei der Gemeinde, mit dem Personalausweis und einem neuen Foto",
+     "Mit einem Brief an das Ministerium vor Ende Juni",
+     "Per Telefon beim INLL, das sofort einen Platz vergibt",
+     "Über das Online-Portal MyINL, mit einem empfohlenen Niveau"
+    ],
+    "correct": 3,
+    "explanation": "Alles läuft über MyINL. Man braucht ein empfohlenes Niveau: Echte Anfänger können A1 selbst wählen, die anderen machen einen kurzen Online-Test und ein Orientierungsgespräch mit einer Lehrkraft."
+   },
+   {
+    "text": "In welcher Sprache werden die Kurse am INLL gehalten?",
+    "options": [
+     "Auf Französisch für Anfänger, später in der gelernten Sprache",
+     "Auf Englisch auf allen Niveaus, damit alle alles verstehen",
+     "In der Sprache, die man lernt, ab der allerersten Stunde",
+     "Auf Deutsch oder Französisch, je nach Wahl bei der Anmeldung"
+    ],
+    "correct": 2,
+    "explanation": "Jeder Kurs wird in der Sprache gehalten, die man lernt, ab der allerersten Stunde, auch für echte Anfänger. Die Kurse sind nur für Erwachsene."
+   },
+   {
+    "text": "Welche zwei Teile hat der Sproochentest?",
+    "options": [
+     "Einen Aufsatz auf Niveau B1 und Lesen auf Niveau A2",
+     "Sprechen auf Niveau A2 und Hörverstehen auf Niveau B1",
+     "Einen Grammatiktest auf Papier und einen Test zur Geschichte",
+     "Einen Text vorlesen und ihn ins Französische übersetzen"
+    ],
+    "correct": 1,
+    "explanation": "Der Sproochentest hat einen Sprechteil auf Niveau A2 (etwa zehn Minuten mit einem Prüfer) und einen Hörteil auf Niveau B1 (drei Aufnahmen, Antworten auf einem Tablet), am selben halben Tag. Man kann ihn so oft wie nötig wiederholen."
+   },
+   {
+    "text": "Was ist Moving Languages?",
+    "options": [
+     "Ein achtwöchiger Intensivkurs in Luxemburgisch oder Französisch, mit Bewegung",
+     "Eine App, die Luxemburgisch in viele andere Sprachen übersetzt",
+     "Ein Kurs für Kinder, die mit ihren Eltern nach Luxemburg ziehen",
+     "Eine kostenlose Busrundfahrt durch das Land mit luxemburgischem Guide"
+    ],
+    "correct": 0,
+    "explanation": "Moving Languages ist ein Intensivkurs in Luxemburgisch oder Französisch: acht Wochen, drei Stunden pro Tag, nur in der neuen Sprache, mit Bewegung und allen fünf Sinnen. Ziel ist das Niveau A2 im Sprechen für Menschen ohne Vorkenntnisse."
+   }
+  ],
+  "audio_fr": "podcast_inll_fr.mp3",
+  "duration_fr": 600.95,
+  "segments_fr": [
+   {
+    "speaker": "Anna",
+    "text": "Bonjour et bienvenue !",
+    "t": 0.65
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est vraiment un plaisir de vous avoir avec nous aujourd'hui.",
+    "t": 1.89
+   },
+   {
+    "speaker": "Tom",
+    "text": "Bonjour à tous !",
+    "t": 4.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ce podcast fait partie du Biergerpakt.",
+    "t": 6.04
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil.",
+    "t": 8.11
+   },
+   {
+    "speaker": "Anna",
+    "text": "L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.",
+    "t": 15.71
+   },
+   {
+    "speaker": "Tom",
+    "text": "Imaginez que vous venez d'arriver au Luxembourg.",
+    "t": 23.13
+   },
+   {
+    "speaker": "Tom",
+    "text": "À la boulangerie, au travail ou devant l'école, les gens passent d'une langue à l'autre toute la journée, et vous aimeriez bien participer, peut-être même en luxembourgeois.",
+    "t": 25.69
+   },
+   {
+    "speaker": "Anna",
+    "text": "Beaucoup d'auditeurs connaissent ce sentiment, et il existe un institut public qui aide justement pour cela : l'Institut national des langues Luxembourg, ou INLL.",
+    "t": 34.33
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est notre sujet aujourd'hui, avec une grande question : comment apprendre le luxembourgeois quand on est adulte ?",
+    "t": 43.54
+   },
+   {
+    "speaker": "Tom",
+    "text": "Commençons par la base : quel genre d'endroit est l'INLL, et qui se trouve derrière ?",
+    "t": 49.26
+   },
+   {
+    "speaker": "Anna",
+    "text": "L'INLL est un centre public où les adultes apprennent des langues et peuvent faire certifier leurs compétences linguistiques.",
+    "t": 53.98
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il dépend du Ministère de l'Éducation nationale, de l'Enfance et de la Jeunesse.",
+    "t": 60.91
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ses objectifs sont de promouvoir le multilinguisme, d'aider les gens à trouver du travail et à prendre part à la société, et de rapprocher les personnes grâce aux langues.",
+    "t": 65.23
+   },
+   {
+    "speaker": "Tom",
+    "text": "Cela correspond très bien à ce pays : le Luxembourg a trois langues administratives, beaucoup de personnes venues de l'étranger et beaucoup de frontaliers, et l'INLL en tient compte dans sa façon d'enseigner.",
+    "t": 73.61
+   },
+   {
+    "speaker": "Anna",
+    "text": "Quelles langues peut-on apprendre là-bas ?",
+    "t": 85.04
+   },
+   {
+    "speaker": "Anna",
+    "text": "Seulement les langues du pays, ou d'autres aussi ?",
+    "t": 86.91
+   },
+   {
+    "speaker": "Tom",
+    "text": "Le choix est beaucoup plus large : plus de dix langues.",
+    "t": 89.6
+   },
+   {
+    "speaker": "Tom",
+    "text": "Bien sûr le luxembourgeois, le français et l'allemand, mais aussi l'anglais, le portugais, l'espagnol, l'italien et le néerlandais, et même le russe, l'arabe, le chinois, le japonais et le coréen.",
+    "t": 92.38
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est toute une liste.",
+    "t": 103.33
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et où ont lieu les cours ?",
+    "t": 104.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "Est-ce que tout le monde doit se rendre à Luxembourg-ville ?",
+    "t": 105.89
+   },
+   {
+    "speaker": "Tom",
+    "text": "Pas forcément, car l'INLL a trois sites.",
+    "t": 108.53
+   },
+   {
+    "speaker": "Tom",
+    "text": "Le plus grand se trouve à Luxembourg-ville, et il y en a deux autres : un à Belval, dans le sud du pays, et un à Mersch, au centre.",
+    "t": 111.41
+   },
+   {
+    "speaker": "Tom",
+    "text": "Toutes les langues ne sont pas enseignées sur tous les sites, mais le luxembourgeois, le français, l'allemand et l'anglais sont enseignés sur les trois.",
+    "t": 119.15
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et à qui s'adressent les cours : un adolescent peut-il venir avec ses parents ?",
+    "t": 127.61
+   },
+   {
+    "speaker": "Tom",
+    "text": "Non, les cours sont réservés aux adultes.",
+    "t": 131.64
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et voici une chose qui surprend beaucoup de gens : chaque cours est donné dans la langue que l'on apprend, dès la toute première leçon, même pour les vrais débutants.",
+    "t": 133.78
+   },
+   {
+    "speaker": "Anna",
+    "text": "On plonge donc directement dans la nouvelle langue.",
+    "t": 141.78
+   },
+   {
+    "speaker": "Anna",
+    "text": "Cela peut faire un peu peur au début, mais c'est aussi une bonne façon de s'y habituer vite.",
+    "t": 144.09
+   },
+   {
+    "speaker": "Anna",
+    "text": "Comment les niveaux sont-ils organisés ?",
+    "t": 148.4
+   },
+   {
+    "speaker": "Tom",
+    "text": "L'INLL suit l'échelle européenne des langues, qui va de A1 pour les débutants jusqu'à C2 pour les personnes qui maîtrisent une langue.",
+    "t": 150.44
+   },
+   {
+    "speaker": "Tom",
+    "text": "La plupart des cours durent un semestre : un semestre commence en automne, en septembre, et l'autre au printemps, en février.",
+    "t": 157.74
+   },
+   {
+    "speaker": "Anna",
+    "text": "Parlons de l'inscription, car c'est là que beaucoup de gens hésitent.",
+    "t": 164.93
+   },
+   {
+    "speaker": "Anna",
+    "text": "Comment obtenir une place dans un cours ?",
+    "t": 167.88
+   },
+   {
+    "speaker": "Tom",
+    "text": "Tout passe par le portail en ligne MyINL.",
+    "t": 169.99
+   },
+   {
+    "speaker": "Tom",
+    "text": "Vous y créez un compte, et il vous faut un niveau recommandé, car c'est ce niveau qui vous permet de vous inscrire à un cours.",
+    "t": 173.12
+   },
+   {
+    "speaker": "Tom",
+    "text": "Les vrais débutants peuvent simplement choisir eux-mêmes le premier niveau, A1.",
+    "t": 179.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et si je parle déjà un peu la langue, comment l'INLL trouve-t-il mon niveau ?",
+    "t": 184.08
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dans ce cas, vous faites d'abord un court test en ligne, puis vous prenez rendez-vous pour un entretien d'orientation avec un enseignant de l'INLL, qui vous donne votre niveau recommandé.",
+    "t": 188.74
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ces entretiens sont possibles pendant toute l'année scolaire.",
+    "t": 198.49
+   },
+   {
+    "speaker": "Tom",
+    "text": "Une fois votre niveau connu, vous choisissez votre cours, dans la limite des places disponibles, et vous payez dans le délai prévu.",
+    "t": 201.49
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et le prix d'un cours : est-ce que tout le monde paie la même chose ?",
+    "t": 208.57
+   },
+   {
+    "speaker": "Tom",
+    "text": "Le prix de chaque cours est indiqué sur MyINL, et les livres ne sont pas compris.",
+    "t": 212.06
+   },
+   {
+    "speaker": "Tom",
+    "text": "Certaines personnes paient un tarif beaucoup plus bas, par exemple les demandeurs d'emploi envoyés à un cours par l'ADEM, ou les personnes qui ont signé le contrat d'accueil et d'intégration.",
+    "t": 216.72
+   },
+   {
+    "speaker": "Tom",
+    "text": "Elles ont besoin d'un bon ou d'un certificat du service concerné.",
+    "t": 225.78
+   },
+   {
+    "speaker": "Anna",
+    "text": "Nous arrivons maintenant au cœur de notre sujet : le luxembourgeois.",
+    "t": 229.4
+   },
+   {
+    "speaker": "Anna",
+    "text": "Que trouve à l'INLL une personne qui veut l'apprendre ?",
+    "t": 232.85
+   },
+   {
+    "speaker": "Tom",
+    "text": "Il y a beaucoup de façons de l'apprendre : les cours classiques ont deux ou trois leçons par semaine, mais vous pouvez aussi apprendre en ligne par vidéo, ou combiner des leçons sur place avec un travail en ligne.",
+    "t": 235.98
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dans les cours hybrides, vous décidez même pour chaque leçon si vous venez sur place ou si vous suivez depuis chez vous.",
+    "t": 246.23
+   },
+   {
+    "speaker": "Anna",
+    "text": "Une formule est assez nouvelle, et elle s'appelle Moving Languages.",
+    "t": 252.54
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est un cours intensif de luxembourgeois ou de français qui dure huit semaines, avec trois heures de cours par jour.",
+    "t": 255.92
+   },
+   {
+    "speaker": "Anna",
+    "text": "On apprend avec le mouvement et avec les cinq sens, et uniquement dans la nouvelle langue, dès le premier jour.",
+    "t": 261.07
+   },
+   {
+    "speaker": "Tom",
+    "text": "Huit semaines, cela paraît court : qu'est-ce qu'on peut vraiment atteindre en si peu de temps ?",
+    "t": 266.69
+   },
+   {
+    "speaker": "Anna",
+    "text": "L'objectif est le niveau A2 à l'oral, pour des personnes qui commencent sans aucune connaissance.",
+    "t": 271.59
+   },
+   {
+    "speaker": "Anna",
+    "text": "Autrement dit, après deux mois, vous pouvez mener des conversations simples de la vie de tous les jours.",
+    "t": 276.32
+   },
+   {
+    "speaker": "Anna",
+    "text": "La méthode vient du Liechtenstein, et l'INLL l'a développée au Luxembourg avec le Service de la formation des adultes.",
+    "t": 280.91
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et pour les personnes qui ont peu de temps et qui préfèrent apprendre à leur rythme, y a-t-il aussi quelque chose ?",
+    "t": 287.93
+   },
+   {
+    "speaker": "Anna",
+    "text": "Oui : il existe un cours de luxembourgeois en autonomie guidée.",
+    "t": 293.46
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vous travaillez surtout seul, sur une plateforme en ligne, avec quelques séances vidéo en direct et une séance de soutien en ligne chaque semaine.",
+    "t": 297.01
+   },
+   {
+    "speaker": "Anna",
+    "text": "À la fin, vous passez un test oral sur place, à Luxembourg-ville.",
+    "t": 303.58
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et entre les leçons, l'INLL a même son propre podcast, en luxembourgeois simple pour débutants.",
+    "t": 306.82
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sur place, les apprenants trouvent aussi une médiathèque, des tandems linguistiques, et des événements où l'on se rencontre et où l'on parle dans les langues que l'on apprend.",
+    "t": 312.85
+   },
+   {
+    "speaker": "Anna",
+    "text": "Comment savoir si je progresse : y a-t-il un test à la fin d'un cours ?",
+    "t": 321.82
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dans la plupart des cours semestriels, votre travail est évalué au fil du cours, avec un test oral à la fin, et il faut réussir pour passer au niveau suivant.",
+    "t": 325.52
+   },
+   {
+    "speaker": "Tom",
+    "text": "Vous recevez ensuite un bilan de compétences qui indique votre niveau, et vous pouvez le télécharger sur MyINL, avec un certificat de participation.",
+    "t": 334.22
+   },
+   {
+    "speaker": "Anna",
+    "text": "Cela nous amène au test dont beaucoup d'auditeurs ont entendu parler : le Sproochentest.",
+    "t": 342.46
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est le test de langue luxembourgeoise pour la nationalité, et c'est l'INLL qui l'organise.",
+    "t": 347.65
+   },
+   {
+    "speaker": "Anna",
+    "text": "Beaucoup de personnes qui demandent la nationalité luxembourgeoise doivent le réussir, et c'est le seul certificat qui compte pour cette demande.",
+    "t": 353.23
+   },
+   {
+    "speaker": "Tom",
+    "text": "Comment se passe le test lui-même : y a-t-il un long texte à écrire ?",
+    "t": 359.63
+   },
+   {
+    "speaker": "Anna",
+    "text": "Non, il n'y a pas de rédaction : le test a deux parties, pendant la même demi-journée.",
+    "t": 363.81
+   },
+   {
+    "speaker": "Anna",
+    "text": "D'abord l'expression orale, au niveau A2 : pendant environ dix minutes, vous parlez avec un examinateur d'un sujet de la vie quotidienne, comme le travail, la famille ou les loisirs, et vous décrivez une image.",
+    "t": 367.99
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ensuite la compréhension orale, au niveau B1 : vous écoutez trois enregistrements, par exemple un message à la radio et une conversation, et vous répondez à des questions sur une tablette.",
+    "t": 378.95
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et comment réussit-on : les deux parties comptent-elles de la même façon ?",
+    "t": 388.48
+   },
+   {
+    "speaker": "Anna",
+    "text": "L'oral compte le plus : vous réussissez si vous obtenez au moins la moitié des points à cette partie.",
+    "t": 392.68
+   },
+   {
+    "speaker": "Anna",
+    "text": "Si votre note à l'oral est un peu plus basse, un bon résultat en compréhension peut compenser, à condition que la moyenne des deux parties atteigne la moitié des points.",
+    "t": 397.47
+   },
+   {
+    "speaker": "Tom",
+    "text": "Cela paraît juste : où le test a-t-il lieu, et comment s'inscrit-on ?",
+    "t": 405.26
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il a lieu à Luxembourg-ville et à Belval, et on s'inscrit par MyINL.",
+    "t": 409.21
+   },
+   {
+    "speaker": "Anna",
+    "text": "La demande est très forte, il vaut donc mieux réserver tôt.",
+    "t": 412.98
+   },
+   {
+    "speaker": "Anna",
+    "text": "Si vous ne venez pas sans raison valable, les frais ne sont pas remboursés.",
+    "t": 415.79
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et si vous avez un handicap, vous pouvez demander des conditions adaptées, avec un document médical.",
+    "t": 419.13
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et si cela ne marche pas la première fois, peut-on réessayer ?",
+    "t": 424.32
+   },
+   {
+    "speaker": "Anna",
+    "text": "Oui, autant de fois que nécessaire : vous pouvez vous réinscrire dès que vous avez reçu votre résultat précédent.",
+    "t": 427.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "Une fois réussi, votre certificat n'expire pas.",
+    "t": 433.14
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et sur le site, vous trouvez des exemples de test pour vous préparer à la maison.",
+    "t": 435.53
+   },
+   {
+    "speaker": "Tom",
+    "text": "Bon à savoir.",
+    "t": 439.36
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ce que l'INLL ne propose pas, ce sont les cours de citoyenneté pour la nationalité : ils sont organisés par le Service de la formation des adultes et ses partenaires.",
+    "t": 440.59
+   },
+   {
+    "speaker": "Anna",
+    "text": "En plus du Sproochentest, y a-t-il d'autres certificats de luxembourgeois que l'on peut passer ?",
+    "t": 449.62
+   },
+   {
+    "speaker": "Tom",
+    "text": "Oui, il y en a deux autres : le premier est un diplôme national de luxembourgeois langue étrangère, du niveau A2 au niveau C1, qui peut être utile au travail, et vous n'avez pas besoin d'avoir suivi un cours à l'INLL pour le passer.",
+    "t": 454.12
+   },
+   {
+    "speaker": "Tom",
+    "text": "Le second est un court test d'orthographe luxembourgeoise.",
+    "t": 466.43
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et pour les autres langues, l'INLL est un centre d'examen pour des certificats internationaux bien connus, comme le DELF et le DALF pour le français ou le certificat Goethe pour l'allemand.",
+    "t": 469.83
+   },
+   {
+    "speaker": "Anna",
+    "text": "L'INLL ne forme pas seulement les apprenants : il forme aussi des enseignants.",
+    "t": 480.42
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il y a une formation pour les personnes qui veulent enseigner le luxembourgeois aux adultes, une pour enseigner les langues à des fins professionnelles, et une pour devenir coach en communication : un collègue qui aide les autres à parler luxembourgeois dans une équipe aux nombreuses nationalités.",
+    "t": 485.04
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et un dernier conseil : si vous travaillez au Luxembourg, il existe un congé linguistique spécial pour apprendre le luxembourgeois, et notre épisode sur la formation tout au long de la vie l'explique.",
+    "t": 499.15
+   },
+   {
+    "speaker": "Tom",
+    "text": "Le site de l'institut est inll point l-u, en quatre langues, avec les questions les plus fréquentes et un formulaire de contact.",
+    "t": 509.14
+   },
+   {
+    "speaker": "Anna",
+    "text": "Avant de terminer, quels sont les points principaux à retenir de cet épisode ?",
+    "t": 517.74
+   },
+   {
+    "speaker": "Tom",
+    "text": "Premièrement, l'INLL est un institut public où les adultes peuvent apprendre plus de dix langues, dont le luxembourgeois, sur trois sites, en classe, en ligne ou à leur rythme.",
+    "t": 521.61
+   },
+   {
+    "speaker": "Tom",
+    "text": "Deuxièmement, on s'inscrit par MyINL, avec un niveau recommandé : les débutants choisissent A1, les autres passent un court test et un entretien d'orientation.",
+    "t": 532.34
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et troisièmement, le Sproochentest, le test de luxembourgeois pour la nationalité, a une partie orale et une partie d'écoute, et vous pouvez le repasser autant de fois que nécessaire.",
+    "t": 542.96
+   },
+   {
+    "speaker": "Anna",
+    "text": "Parce que chaque nouvelle langue ouvre une porte vers de nouvelles personnes.",
+    "t": 551.91
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'était notre épisode sur l'INLL, l'Institut national des langues Luxembourg.",
+    "t": 555.47
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
+    "t": 560.28
+   },
+   {
+    "speaker": "Anna",
+    "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
+    "t": 568.33
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
+    "t": 584.78
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et les activités sont gratuites.",
+    "t": 589.43
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
+    "t": 591.25
+   },
+   {
+    "speaker": "Tom",
+    "text": "Merci à tous.",
+    "t": 595.63
+   },
+   {
+    "speaker": "Tom",
+    "text": "Prenez soin de vous, et à la prochaine !",
+    "t": 596.88
+   },
+   {
+    "speaker": "Anna",
+    "text": "Merci beaucoup de nous avoir écoutés.",
+    "t": 599.17
+   }
+  ],
+  "audio_de": "podcast_inll_de.mp3",
+  "duration_de": 694.91,
+  "segments_de": [
+   {
+    "speaker": "Anna",
+    "text": "Hallo und herzlich willkommen!",
+    "t": 0.65
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es ist wirklich schön, dass Sie heute bei uns sind.",
+    "t": 2.52
+   },
+   {
+    "speaker": "Tom",
+    "text": "Hallo zusammen!",
+    "t": 5.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dieser Podcast ist Teil des Biergerpakt.",
+    "t": 6.71
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen.",
+    "t": 9.18
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.",
+    "t": 18.84
+   },
+   {
+    "speaker": "Tom",
+    "text": "Stellen Sie sich vor, Sie sind gerade nach Luxemburg gezogen.",
+    "t": 27.88
+   },
+   {
+    "speaker": "Tom",
+    "text": "In der Bäckerei, bei der Arbeit oder vor der Schule wechseln die Menschen den ganzen Tag von einer Sprache in die andere, und Sie würden gern mitreden, vielleicht sogar auf Luxemburgisch.",
+    "t": 31.06
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dieses Gefühl kennen viele Zuhörer, und es gibt ein öffentliches Institut, das genau dabei hilft: das Nationale Sprachinstitut Luxemburg, kurz INLL.",
+    "t": 41.66
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es ist heute unser Thema, mit einer großen Frage: Wie lernt man als Erwachsener Luxemburgisch?",
+    "t": 53.7
+   },
+   {
+    "speaker": "Tom",
+    "text": "Fangen wir mit den Grundlagen an: Was für eine Einrichtung ist das INLL, und wer steht dahinter?",
+    "t": 59.95
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das INLL ist ein öffentliches Zentrum, in dem Erwachsene Sprachen lernen und ihre Sprachkenntnisse zertifizieren lassen können.",
+    "t": 66.47
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es untersteht dem Ministerium für Bildung, Kinder und Jugend.",
+    "t": 75.61
+   },
+   {
+    "speaker": "Anna",
+    "text": "Seine Ziele sind, die Mehrsprachigkeit zu fördern, den Menschen zu helfen, Arbeit zu finden und an der Gesellschaft teilzuhaben, und Menschen über Sprachen zusammenzubringen.",
+    "t": 79.42
+   },
+   {
+    "speaker": "Tom",
+    "text": "Das passt sehr gut zu diesem Land: Luxemburg hat drei Verwaltungssprachen, viele Menschen aus dem Ausland und viele Grenzgänger, und das INLL berücksichtigt das in seiner Art zu unterrichten.",
+    "t": 89.68
+   },
+   {
+    "speaker": "Anna",
+    "text": "Welche Sprachen kann man dort eigentlich lernen?",
+    "t": 102.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "Nur die Sprachen des Landes, oder auch andere?",
+    "t": 104.57
+   },
+   {
+    "speaker": "Tom",
+    "text": "Die Auswahl ist viel größer: mehr als zehn Sprachen.",
+    "t": 107.56
+   },
+   {
+    "speaker": "Tom",
+    "text": "Natürlich Luxemburgisch, Französisch und Deutsch, aber auch Englisch, Portugiesisch, Spanisch, Italienisch und Niederländisch, und sogar Russisch, Arabisch, Chinesisch, Japanisch und Koreanisch.",
+    "t": 111.23
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das ist eine lange Liste.",
+    "t": 126.85
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und wo finden die Kurse statt?",
+    "t": 128.41
+   },
+   {
+    "speaker": "Anna",
+    "text": "Muss jeder nach Luxemburg-Stadt fahren?",
+    "t": 130.24
+   },
+   {
+    "speaker": "Tom",
+    "text": "Nicht unbedingt, denn das INLL hat drei Standorte.",
+    "t": 132.73
+   },
+   {
+    "speaker": "Tom",
+    "text": "Der größte ist in Luxemburg-Stadt, und es gibt zwei weitere: einen in Belval, im Süden des Landes, und einen in Mersch, in der Mitte.",
+    "t": 136.61
+   },
+   {
+    "speaker": "Tom",
+    "text": "Nicht jede Sprache wird an jedem Standort unterrichtet, aber Luxemburgisch, Französisch, Deutsch und Englisch gibt es an allen drei.",
+    "t": 145.9
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und für wen sind die Kurse gedacht: Kann ein Jugendlicher mit seinen Eltern mitkommen?",
+    "t": 153.66
+   },
+   {
+    "speaker": "Tom",
+    "text": "Nein, die Kurse sind nur für Erwachsene.",
+    "t": 158.38
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und etwas überrascht viele Menschen: Jeder Kurs wird in der Sprache gehalten, die man lernt, ab der allerersten Stunde, auch für echte Anfänger.",
+    "t": 160.98
+   },
+   {
+    "speaker": "Anna",
+    "text": "Man taucht also direkt in die neue Sprache ein.",
+    "t": 168.95
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das kann am Anfang ein wenig Angst machen, aber so gewöhnt man sich auch schnell daran.",
+    "t": 171.69
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wie sind die Niveaus aufgebaut?",
+    "t": 176.25
+   },
+   {
+    "speaker": "Tom",
+    "text": "Das INLL folgt der europäischen Skala für Sprachen, die von A1 für Anfänger bis C2 für Menschen reicht, die eine Sprache beherrschen.",
+    "t": 178.31
+   },
+   {
+    "speaker": "Tom",
+    "text": "Die meisten Kurse dauern ein Semester: Ein Semester beginnt im Herbst, im September, und das andere im Frühling, im Februar.",
+    "t": 188.26
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sprechen wir über die Anmeldung, denn da zögern viele.",
+    "t": 195.83
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wie bekomme ich einen Platz in einem Kurs?",
+    "t": 198.78
+   },
+   {
+    "speaker": "Tom",
+    "text": "Alles läuft über das Online-Portal MyINL.",
+    "t": 201.59
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dort legen Sie ein Konto an, und Sie brauchen ein empfohlenes Niveau, denn erst mit diesem Niveau können Sie sich für einen Kurs anmelden.",
+    "t": 205.15
+   },
+   {
+    "speaker": "Tom",
+    "text": "Echte Anfänger können die erste Stufe, A1, einfach selbst wählen.",
+    "t": 212.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und wenn ich die Sprache schon ein wenig spreche, wie findet das INLL mein Niveau heraus?",
+    "t": 217.33
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dann machen Sie zuerst einen kurzen Test online, und danach vereinbaren Sie ein Orientierungsgespräch mit einer Lehrkraft am INLL, die Ihnen Ihr empfohlenes Niveau gibt.",
+    "t": 223.62
+   },
+   {
+    "speaker": "Tom",
+    "text": "Diese Gespräche sind das ganze Schuljahr über möglich.",
+    "t": 234.47
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wenn Sie Ihr Niveau haben, wählen Sie Ihren Kurs, solange es freie Plätze gibt, und Sie bezahlen innerhalb der Frist.",
+    "t": 237.65
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und was kostet ein Kurs, zahlt jeder dasselbe?",
+    "t": 244.67
+   },
+   {
+    "speaker": "Tom",
+    "text": "Der Preis jedes Kurses steht auf MyINL, und Bücher sind nicht inbegriffen.",
+    "t": 247.95
+   },
+   {
+    "speaker": "Tom",
+    "text": "Manche Menschen zahlen einen viel niedrigeren Preis, zum Beispiel Arbeitsuchende, die von der ADEM in einen Kurs geschickt werden, oder Menschen, die den Aufnahme- und Integrationsvertrag unterschrieben haben.",
+    "t": 253.17
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sie brauchen dafür einen Gutschein oder eine Bescheinigung der zuständigen Stelle.",
+    "t": 264.46
+   },
+   {
+    "speaker": "Anna",
+    "text": "Jetzt kommen wir zum Kern unseres Themas: Luxemburgisch.",
+    "t": 269.07
+   },
+   {
+    "speaker": "Anna",
+    "text": "Was findet jemand, der es lernen möchte, am INLL?",
+    "t": 272.77
+   },
+   {
+    "speaker": "Tom",
+    "text": "Es gibt viele Arten, es zu lernen: Klassische Kurse haben zwei oder drei Stunden pro Woche, aber Sie können auch online per Video lernen, oder Stunden vor Ort mit Arbeit online verbinden.",
+    "t": 277.45
+   },
+   {
+    "speaker": "Tom",
+    "text": "In hybriden Kursen entscheiden Sie sogar für jede Stunde, ob Sie vor Ort sind oder von zu Hause aus teilnehmen.",
+    "t": 288.35
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ein Format ist ziemlich neu, und es heißt Moving Languages.",
+    "t": 294.76
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das ist ein Intensivkurs in Luxemburgisch oder Französisch, der acht Wochen dauert, mit drei Stunden Unterricht pro Tag.",
+    "t": 298.47
+   },
+   {
+    "speaker": "Anna",
+    "text": "Man lernt mit Bewegung und mit allen fünf Sinnen, und nur in der neuen Sprache, vom ersten Tag an.",
+    "t": 305.42
+   },
+   {
+    "speaker": "Tom",
+    "text": "Acht Wochen klingt kurz: Was kann man in dieser Zeit wirklich erreichen?",
+    "t": 311.36
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das Ziel ist das Niveau A2 im Sprechen, für Menschen, die ganz ohne Vorkenntnisse anfangen.",
+    "t": 315.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "Mit anderen Worten: Nach zwei Monaten können Sie einfache Gespräche im Alltag führen.",
+    "t": 320.92
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die Methode stammt aus Liechtenstein, und das INLL hat sie in Luxemburg zusammen mit dem Dienst für Erwachsenenbildung entwickelt.",
+    "t": 326.45
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und für Menschen, die wenig Zeit haben und lieber in ihrem eigenen Tempo lernen, gibt es da auch etwas?",
+    "t": 334.43
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ja: Es gibt einen Kurs, in dem man Luxemburgisch begleitet und selbstständig lernt.",
+    "t": 340.35
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie arbeiten vor allem allein, auf einer Online-Plattform, mit einigen Live-Videositzungen und einer wöchentlichen Online-Begleitstunde.",
+    "t": 345.19
+   },
+   {
+    "speaker": "Anna",
+    "text": "Am Ende machen Sie einen mündlichen Test vor Ort, in Luxemburg-Stadt.",
+    "t": 352.91
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und zwischen den Stunden hat das INLL sogar einen eigenen Podcast, in einfachem Luxemburgisch für Anfänger.",
+    "t": 357.19
+   },
+   {
+    "speaker": "Tom",
+    "text": "Vor Ort finden die Lernenden außerdem eine Mediathek, Sprachtandems und Veranstaltungen, bei denen man sich trifft und in den Sprachen spricht, die man lernt.",
+    "t": 364.77
+   },
+   {
+    "speaker": "Anna",
+    "text": "Woran merke ich, dass ich Fortschritte mache: Gibt es am Ende eines Kurses einen Test?",
+    "t": 374.35
+   },
+   {
+    "speaker": "Tom",
+    "text": "In den meisten Semesterkursen wird Ihre Arbeit laufend bewertet, mit einem mündlichen Test am Ende, und Sie müssen bestehen, um in die nächste Stufe zu kommen.",
+    "t": 379.8
+   },
+   {
+    "speaker": "Tom",
+    "text": "Danach bekommen Sie eine Kompetenzbescheinigung, die Ihr Niveau zeigt, und Sie können sie auf MyINL herunterladen, zusammen mit einer Teilnahmebescheinigung.",
+    "t": 388.54
+   },
+   {
+    "speaker": "Anna",
+    "text": "Damit kommen wir zu dem Test, von dem viele Zuhörer schon gehört haben: dem Sproochentest.",
+    "t": 397.82
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das ist der Luxemburgisch-Test für die Staatsangehörigkeit, und das INLL organisiert ihn.",
+    "t": 403.46
+   },
+   {
+    "speaker": "Anna",
+    "text": "Viele Menschen, die die luxemburgische Staatsangehörigkeit beantragen, müssen ihn bestehen, und er ist die einzige Bescheinigung, die für diesen Antrag zählt.",
+    "t": 409.15
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wie läuft der Test selbst ab, und muss man einen langen Text schreiben?",
+    "t": 417.77
+   },
+   {
+    "speaker": "Anna",
+    "text": "Nein, es gibt keinen Aufsatz: Der Test hat zwei Teile, am selben halben Tag.",
+    "t": 421.79
+   },
+   {
+    "speaker": "Anna",
+    "text": "Zuerst das Sprechen, auf Niveau A2: Etwa zehn Minuten lang sprechen Sie mit einem Prüfer über ein Alltagsthema, wie Arbeit, Familie oder Hobbys, und Sie beschreiben ein Bild.",
+    "t": 426.94
+   },
+   {
+    "speaker": "Anna",
+    "text": "Danach das Hörverstehen, auf Niveau B1: Sie hören drei Aufnahmen, zum Beispiel eine Radiomeldung und ein Gespräch, und Sie beantworten Fragen auf einem Tablet.",
+    "t": 438.78
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und wie besteht man: Zählen beide Teile gleich viel?",
+    "t": 449.61
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das Sprechen zählt am meisten: Sie bestehen, wenn Sie dort mindestens die Hälfte der Punkte erreichen.",
+    "t": 452.96
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wenn Ihre Note im Sprechen etwas niedriger ist, kann ein gutes Ergebnis im Hörverstehen das ausgleichen, solange der Durchschnitt beider Teile die Hälfte der Punkte erreicht.",
+    "t": 458.54
+   },
+   {
+    "speaker": "Tom",
+    "text": "Das klingt fair: Wo findet der Test statt, und wie meldet man sich an?",
+    "t": 468.12
+   },
+   {
+    "speaker": "Anna",
+    "text": "Er findet in Luxemburg-Stadt und in Belval statt, und man meldet sich über MyINL an.",
+    "t": 472.46
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die Nachfrage ist sehr groß, deshalb sollte man früh buchen.",
+    "t": 478.09
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wenn Sie ohne triftigen Grund nicht erscheinen, wird die Gebühr nicht erstattet.",
+    "t": 481.85
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und wenn Sie eine Behinderung haben, können Sie angepasste Bedingungen beantragen, mit einem ärztlichen Dokument.",
+    "t": 486.31
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und wenn es beim ersten Mal nicht klappt, kann man es noch einmal versuchen?",
+    "t": 492.57
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ja, so oft wie nötig: Sie können sich wieder anmelden, sobald Sie Ihr vorheriges Ergebnis erhalten haben.",
+    "t": 496.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wenn Sie bestanden haben, läuft Ihre Bescheinigung nicht ab.",
+    "t": 502.7
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und auf der Website finden Sie Beispieltests, um sich zu Hause vorzubereiten.",
+    "t": 506.1
+   },
+   {
+    "speaker": "Tom",
+    "text": "Gut zu wissen.",
+    "t": 510.66
+   },
+   {
+    "speaker": "Tom",
+    "text": "Was das INLL nicht anbietet, sind die Kurse zur Staatsbürgerkunde für die Staatsangehörigkeit: Diese organisiert der Dienst für Erwachsenenbildung mit seinen Partnern.",
+    "t": 511.66
+   },
+   {
+    "speaker": "Anna",
+    "text": "Gibt es neben dem Sproochentest noch andere Bescheinigungen in Luxemburgisch, die man machen kann?",
+    "t": 523.48
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ja, es gibt noch zwei: Die erste ist ein nationales Diplom für Luxemburgisch als Fremdsprache, von Niveau A2 bis C1, das bei der Arbeit nützlich sein kann, und Sie müssen dafür keinen Kurs am INLL besucht haben.",
+    "t": 528.74
+   },
+   {
+    "speaker": "Tom",
+    "text": "Die zweite ist ein kurzer Test zur luxemburgischen Rechtschreibung.",
+    "t": 542.84
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und für andere Sprachen ist das INLL ein Prüfungszentrum für bekannte internationale Zertifikate, wie das Goethe-Zertifikat für Deutsch oder die Cambridge-Prüfungen für Englisch.",
+    "t": 546.46
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das INLL bildet nicht nur Lernende aus: Es bildet auch Lehrkräfte aus.",
+    "t": 557.87
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es gibt eine Ausbildung für Menschen, die Erwachsenen Luxemburgisch unterrichten möchten, eine für den Sprachunterricht im Beruf, und eine, um Kommunikationscoach zu werden: eine Person im Betrieb, die den Kollegen hilft, in einem Team mit vielen Nationalitäten Luxemburgisch zu sprechen.",
+    "t": 563.23
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und ein letzter Tipp: Wenn Sie in Luxemburg arbeiten, gibt es einen besonderen Sprachurlaub, um Luxemburgisch zu lernen, und unsere Folge über lebenslanges Lernen erklärt ihn.",
+    "t": 579.19
+   },
+   {
+    "speaker": "Tom",
+    "text": "Die Website des Instituts ist inll Punkt l-u, in vier Sprachen, mit den häufigsten Fragen und einem Kontaktformular.",
+    "t": 589.34
+   },
+   {
+    "speaker": "Anna",
+    "text": "Bevor wir zum Schluss kommen: Was sind die wichtigsten Punkte aus dieser Folge?",
+    "t": 598.75
+   },
+   {
+    "speaker": "Tom",
+    "text": "Erstens: Das INLL ist ein öffentliches Institut, an dem Erwachsene mehr als zehn Sprachen lernen können, auch Luxemburgisch, an drei Standorten, im Kurs, online oder im eigenen Tempo.",
+    "t": 603.31
+   },
+   {
+    "speaker": "Tom",
+    "text": "Zweitens: Man meldet sich über MyINL an, mit einem empfohlenen Niveau: Anfänger wählen A1, die anderen machen einen kurzen Test und ein Orientierungsgespräch.",
+    "t": 616.88
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und drittens: Der Sproochentest, der Luxemburgisch-Test für die Staatsangehörigkeit, hat einen Sprechteil und einen Hörteil, und Sie können ihn so oft wie nötig wiederholen.",
+    "t": 628.46
+   },
+   {
+    "speaker": "Anna",
+    "text": "Denn jede neue Sprache öffnet eine Tür zu neuen Menschen.",
+    "t": 639.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das war unsere Folge über das INLL, das Nationale Sprachinstitut Luxemburg.",
+    "t": 643.35
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
+    "t": 649.39
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
+    "t": 658.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
+    "t": 676.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und die Aktivitäten sind kostenlos.",
+    "t": 682.34
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
+    "t": 684.59
+   },
+   {
+    "speaker": "Tom",
+    "text": "Danke an alle.",
+    "t": 689.48
+   },
+   {
+    "speaker": "Tom",
+    "text": "Passen Sie auf sich auf, und bis zum nächsten Mal!",
+    "t": 690.58
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vielen Dank fürs Zuhören.",
+    "t": 693.37
+   }
+  ],
+  "segments_lb": [
+   {
+    "speaker": "Anna",
+    "text": "Moien, a wëllkomm! Et ass wierklech schéin, Iech haut bei eis ze hunn.",
+    "t": 0.65
+   },
+   {
+    "speaker": "Tom",
+    "text": "Moien alleguer!",
+    "t": 4.45
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dëse Podcast ass Deel vum Biergerpakt. Dat ass e Programm vum Zesummeliewen zu Lëtzebuerg, organiséiert vum Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen. D'Iddi ass, den Awunner, an och de Grenzgänger, ze hëllefen, Lëtzebuerg z'entdecken — oder vläicht erëm z'entdecken — an nei Leit kennenzeléieren.",
+    "t": 5.58
+   },
+   {
+    "speaker": "Tom",
+    "text": "Stellt Iech vir, Dir sidd grad op Lëtzebuerg geplënnert. An der Bäckerei, op der Aarbecht oder virun der Schoul wiesselen d'Leit de ganzen Dag vun enger Sprooch an déi aner, an Dir géingt gär matschwätzen, vläicht souguer op Lëtzebuergesch.",
+    "t": 27.49
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dat Gefill kennen der vill, an et gëtt en ëffentlechen Institut, deen genee dobäi hëlleft: den Nationale Sproochinstitut vu Lëtzebuerg, kuerz INLL. Hien ass haut eist Thema, mat enger grousser Fro: Wéi léiert een als Erwuessenen Lëtzebuergesch?",
+    "t": 39.94
+   },
+   {
+    "speaker": "Tom",
+    "text": "Fänke mer mat de Grondlagen un: Wat fir eng Plaz ass den INLL, a wien ass derhannert?",
+    "t": 57.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "Den INLL ass en ëffentlechen Zentrum, wou Erwuessener Sprooche léieren an hir Sproochkenntnisser zertifiéiere loosse kënnen. E gehéiert zum Ministère fir Educatioun, Kanner a Jugend. Seng Ziler sinn, d'Méisproochegkeet ze fërderen, de Leit ze hëllefen, Aarbecht ze fannen an un der Gesellschaft deelzehuelen, a Mënschen iwwer d'Sproochen zesummenzebréngen.",
+    "t": 63.02
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dat passt ganz gutt bei dëst Land: Lëtzebuerg huet dräi administrativ Sproochen, vill Leit aus dem Ausland a vill Grenzgänger, an den INLL hëlt dat a senger Aart a Weis ze léieren a Betruecht.",
+    "t": 82.66
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wéi eng Sprooche kann een do eigentlech léieren? Nëmmen d'Sprooche vum Land, oder och anerer?",
+    "t": 95.15
+   },
+   {
+    "speaker": "Tom",
+    "text": "D'Auswiel ass vill méi grouss: méi wéi zéng Sproochen. Natierlech Lëtzebuergesch, Franséisch an Däitsch, mä och Englesch, Portugisesch, Spuenesch, Italieenesch an Hollännesch, a souguer Russesch, Arabesch, Chineesesch, Japanesch a Koreanesch.",
+    "t": 100.9
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dat ass eng laang Lëscht. A wou fannen d'Coursen statt? Muss jiddereen an d'Stad fueren?",
+    "t": 116.84
+   },
+   {
+    "speaker": "Tom",
+    "text": "Net onbedéngt, well den INLL huet dräi Sitten. De gréisste Site ass an der Stad Lëtzebuerg, an et ginn der nach zwee: een zu Belval, am Süde vum Land, an een zu Miersch, an der Mëtt. Net all Sprooch gëtt op all Site geléiert, mä Lëtzebuergesch, Franséisch, Däitsch an Englesch ginn et op allen dräi.",
+    "t": 123.46
+   },
+   {
+    "speaker": "Anna",
+    "text": "A fir wien sinn d'Coursen geduecht: Kann e Jugendlechen mat sengen Elteren matkommen?",
+    "t": 142.66
+   },
+   {
+    "speaker": "Tom",
+    "text": "Nee, d'Coursen sinn nëmme fir Erwuessener. An eppes iwwerrascht vill Leit: All Cours gëtt an der Sprooch gehalen, déi ee léiert, vun der alleréischter Stonn un, och fir richteg Ufänger.",
+    "t": 147.38
+   },
+   {
+    "speaker": "Anna",
+    "text": "Een taucht also direkt an déi nei Sprooch an. Dat kann am Ufank e bësse Angscht maachen, mä esou gewinnt een sech och séier drun. Wéi sinn d'Niveauen opgebaut?",
+    "t": 159.29
+   },
+   {
+    "speaker": "Tom",
+    "text": "Den INLL hält sech un déi europäesch Skala fir Sproochen, déi vun A1 fir Ufänger bis C2 fir Leit geet, déi eng Sprooch beherrschen. Déi meescht Coursen daueren e Semester: Ee Semester fänkt am Hierscht un, am September, an deen aneren am Fréijoer, am Februar.",
+    "t": 169.09
+   },
+   {
+    "speaker": "Anna",
+    "text": "Schwätze mer iwwer d'Umeldung, well do zécke vill Leit. Wéi kréien ech eng Plaz an engem Cours?",
+    "t": 183.46
+   },
+   {
+    "speaker": "Tom",
+    "text": "Alles leeft iwwer den Online-Portal MyINL. Do maacht Dir e Kont op, an Dir braucht e recommandéierten Niveau, well eréischt mat deem Niveau kënnt Dir Iech fir e Cours umellen. Richteg Ufänger kënnen den éischten Niveau, A1, einfach selwer wielen.",
+    "t": 189.82
+   },
+   {
+    "speaker": "Anna",
+    "text": "A wann ech d'Sprooch schonn e bëssen schwätzen, wéi fënnt den INLL mäin Niveau eraus?",
+    "t": 204.5
+   },
+   {
+    "speaker": "Tom",
+    "text": "Da maacht Dir als éischt e kuerzen Test online, an duerno maacht Dir e Rendez-vous fir en Orientéierungsgespréich mat engem Enseignant um INLL, deen Iech Ären recommandéierten Niveau gëtt. Déi Gespréicher sinn dat ganzt Schouljoer iwwer méiglech. Wann Dir Ären Niveau hutt, wielt Dir Äre Cours, soulaang et nach Plaze gëtt, an Dir bezuelt bannent der Frist.",
+    "t": 210.2
+   },
+   {
+    "speaker": "Anna",
+    "text": "A wat kascht e Cours, bezilt jiddereen datselwecht?",
+    "t": 227.74
+   },
+   {
+    "speaker": "Tom",
+    "text": "De Präis vun all Cours steet op MyINL, an d'Bicher sinn net dran. Verschidde Leit bezuelen e vill méi niddrege Präis, zum Beispill Aarbechtsiichend, déi vun der ADEM an e Cours geschéckt ginn, oder Leit, déi den Accueils- an Integratiounscontrat ënnerschriwwen hunn. Si brauchen dofir e Bong oder eng Bescheinegung vum zoustännegen Déngscht.",
+    "t": 231.74
+   },
+   {
+    "speaker": "Anna",
+    "text": "Elo komme mer zum Kär vun eisem Thema: Lëtzebuergesch. Wat fënnt een, deen et léiere wëll, um INLL?",
+    "t": 248.54
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et gëtt vill Weeër, et ze léieren: Klassesch Coursen hunn zwou oder dräi Stonnen d'Woch, mä Dir kënnt och online per Video léieren, oder Stonnen op der Plaz mat Aarbecht online verbannen. An hybride Coursen entscheet Dir souguer fir all Stonn, ob Dir op d'Plaz kommt oder vun doheem aus matmaacht.",
+    "t": 256
+   },
+   {
+    "speaker": "Anna",
+    "text": "E Format ass zimmlech nei, an et heescht Moving Languages. Dat ass en Intensivcours op Lëtzebuergesch oder op Franséisch, deen aacht Wochen dauert, mat dräi Stonnen Unterrecht den Dag. Ee léiert mat Beweegung a mat alle fënnef Sënner, an nëmmen an der neier Sprooch, vum éischten Dag un.",
+    "t": 270.62
+   },
+   {
+    "speaker": "Tom",
+    "text": "Aacht Woche kléngt kuerz: Wat kann een an där Zäit wierklech erreechen?",
+    "t": 287.08
+   },
+   {
+    "speaker": "Anna",
+    "text": "D'Zil ass den Niveau A2 am Schwätzen, fir Leit, déi ganz ouni Virkenntnisser ufänken. Mat anere Wierder: No zwee Méint kënnt Dir einfach Gespréicher am Alldag féieren. D'Method kënnt aus dem Liechtenstein, an den INLL huet se zu Lëtzebuerg zesumme mam Service fir Erwuessenebildung entwéckelt.",
+    "t": 291.33
+   },
+   {
+    "speaker": "Tom",
+    "text": "A fir Leit, déi wéineg Zäit hunn a léiwer an hirem eegene Rhythmus léieren, gëtt et do och eppes?",
+    "t": 309.39
+   },
+   {
+    "speaker": "Anna",
+    "text": "Jo: Et gëtt e Cours, an deem een Lëtzebuergesch begleet an eegestänneg léiert. Dir schafft virun allem eleng, op enger Online-Plattform, mat e puer Live-Videoséancen an enger Online-Begleedungsstonn all Woch. Um Enn maacht Dir e mëndlechen Test op der Plaz, an der Stad.",
+    "t": 315.41
+   },
+   {
+    "speaker": "Tom",
+    "text": "An tëscht de Stonnen huet den INLL souguer säin eegene Podcast, an einfachem Lëtzebuergesch fir Ufänger. Op der Plaz fannen d'Léierend och eng Mediathéik, Sproochtandemen an Evenementer, wou ee sech begéint an an de Sprooche schwätzt, déi ee léiert.",
+    "t": 331.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wéi merken ech, datt ech Fortschrëtter maachen: Gëtt et um Enn vun engem Cours en Test?",
+    "t": 345.64
+   },
+   {
+    "speaker": "Tom",
+    "text": "An de meeschte Semestercoursen gëtt Är Aarbecht lafend bewäert, mat engem mëndlechen Test um Enn, an Dir musst bestoen, fir an den nächsten Niveau ze kommen. Duerno kritt Dir e Bilan vun Äre Kompetenzen, deen Ären Niveau weist, an Dir kënnt en op MyINL eroflueden, zesumme mat enger Participatiounsbescheinegung.",
+    "t": 350.43
+   },
+   {
+    "speaker": "Anna",
+    "text": "Domat komme mer bei den Test, vun deem vill Nolauschterer schonn héieren hunn: de Sproochentest. Dat ass de Lëtzebuergesch-Test fir d'Nationalitéit, an den INLL organiséiert en. Vill Leit, déi d'lëtzebuergesch Nationalitéit ufroen, musse se packen, an et ass dat eenzegt Zertifikat, dat fir déi Ufro zielt.",
+    "t": 365.8
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wéi leeft den Test selwer of, a muss een e laangen Text schreiwen?",
+    "t": 384.77
+   },
+   {
+    "speaker": "Anna",
+    "text": "Nee, et gëtt keen Opsaz: Den Test huet zwee Deeler, um selwechten hallwen Dag. Als éischt d'Schwätzen, um Niveau A2: Ongeféier zéng Minutte laang schwätzt Dir mat engem Examinateur iwwer en Alldagsthema, wéi Aarbecht, Famill oder Hobbyen, an Dir beschreift e Bild. Duerno d'Héierverständnis, um Niveau B1: Dir héiert dräi Opnamen, zum Beispill eng Radiosmeldung an e Gespréich, an Dir beäntwert Froen op engem Tablet.",
+    "t": 388.58
+   },
+   {
+    "speaker": "Tom",
+    "text": "A wéi besteet een en: Zielen déi zwee Deeler gläich vill?",
+    "t": 415.47
+   },
+   {
+    "speaker": "Anna",
+    "text": "D'Schwätzen zielt am meeschten: Dir bestitt, wann Dir do mindestens d'Hallschent vun de Punkten erreecht. Wann Är Nott am Schwätzen e bësse méi niddreg ass, kann e gutt Resultat am Héieren dat ausgläichen, soulaang den Duerchschnëtt vu béiden Deeler d'Hallschent vun de Punkten erreecht.",
+    "t": 418.73
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dat kléngt fair: Wou fënnt den Test statt, a wéi mellt ee sech un?",
+    "t": 432.67
+   },
+   {
+    "speaker": "Anna",
+    "text": "En fënnt an der Stad an zu Belval statt, an ee mellt sech iwwer MyINL un. D'Demande ass ganz grouss, dofir sollt ee fréi reservéieren. Wann Dir ouni triftege Grond net kommt, gëtt d'Gebühr net zréckbezuelt. A wann Dir e Handicap hutt, kënnt Dir ugepasste Konditiounen ufroen, mat engem medezineschen Dokument.",
+    "t": 436.57
+   },
+   {
+    "speaker": "Tom",
+    "text": "A wann et dat éischt Mol net klappt, kann een et nach eng Kéier probéieren?",
+    "t": 455.94
+   },
+   {
+    "speaker": "Anna",
+    "text": "Jo, sou dacks wéi néideg: Dir kënnt Iech nees umellen, soubal Dir Äert lescht Resultat kritt hutt. Wann Dir bestanen hutt, leeft Äert Zertifikat net of. An um Site fannt Dir Beispilltester, fir Iech doheem ze preparéieren.",
+    "t": 458.77
+   },
+   {
+    "speaker": "Tom",
+    "text": "Gutt ze wëssen. Wat den INLL net ubitt, sinn d'Coursen iwwer d'Biergerschaft fir d'Nationalitéit: Déi organiséiert de Service fir Erwuessenebildung mat senge Partner.",
+    "t": 471.85
+   },
+   {
+    "speaker": "Anna",
+    "text": "Gëtt et nieft dem Sproochentest nach aner Zertifikater op Lëtzebuergesch, déi ee maache kann?",
+    "t": 482.38
+   },
+   {
+    "speaker": "Tom",
+    "text": "Jo, et ginn der nach zwee: Dat éischt ass en nationalen Diplom fir Lëtzebuergesch als Friemsprooch, vum Niveau A2 bis C1, deen op der Aarbecht nëtzlech ka sinn, an Dir musst dofir kee Cours um INLL besicht hunn. Dat zweet ass e kuerzen Test zur lëtzebuergescher Orthografie. A fir aner Sprooche ass den INLL en Examenszentrum fir bekannt international Zertifikater, wéi d'Cambridge-Examen fir Englesch oder de Goethe-Zertifikat fir Däitsch.",
+    "t": 487.37
+   },
+   {
+    "speaker": "Anna",
+    "text": "Den INLL bild net nëmme Léierend aus: E bild och Enseignanten aus. Et gëtt eng Formatioun fir Leit, déi Erwuessener Lëtzebuergesch léiere wëllen, eng fir de Sproochunterrecht am Beruff, an eng, fir Kommunikatiounscoach ze ginn: eng Persoun am Betrib, déi de Kolleegen hëlleft, an enger Equipe mat ville Nationalitéiten Lëtzebuergesch ze schwätzen.",
+    "t": 514.76
+   },
+   {
+    "speaker": "Tom",
+    "text": "An e leschten Tipp: Wann Dir zu Lëtzebuerg schafft, gëtt et e spezielle Sproochecongé fir Lëtzebuergesch ze léieren, an eis Episod iwwer d'Liewenslaangt Léieren erkläert en. De Site vum Institut ass inll Punkt l-u, a véier Sproochen, mat de Froen, déi am dackste gestallt ginn, an engem Kontaktformular.",
+    "t": 535.62
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ier mer ophalen: Wat sinn déi wichtegst Punkten aus dëser Episod?",
+    "t": 553.1
+   },
+   {
+    "speaker": "Tom",
+    "text": "Éischtens: Den INLL ass en ëffentlechen Institut, wou Erwuessener méi wéi zéng Sprooche léiere kënnen, och Lëtzebuergesch, op dräi Sitten, am Cours, online oder an hirem eegene Rhythmus. Zweetens: Ee mellt sech iwwer MyINL un, mat engem recommandéierten Niveau: Ufänger wielen A1, déi aner maachen e kuerzen Test an en Orientéierungsgespréich.",
+    "t": 557.55
+   },
+   {
+    "speaker": "Anna",
+    "text": "An drëttens: De Sproochentest, de Lëtzebuergesch-Test fir d'Nationalitéit, huet e Schwätzdeel an en Héierdeel, an Dir kënnt en sou dacks wéi néideg widderhuelen. Well all nei Sprooch eng Dier zu neie Leit opmécht. Dat war eis Episod iwwer den INLL, den Nationale Sproochinstitut vu Lëtzebuerg. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir aner Aktivitéite vum Biergerpakt entdecke wëllt, wéi gefouert Visitten, Online-Informatiounsversammlungen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. En ass fir all Awunner op, Lëtzebuerger an Net-Lëtzebuerger, an och fir d'Grenzgänger. An d'Aktivitéite si gratis. Dir musst just gratis um Biergerpakt matmaachen, op biergerpakt.lu.",
+    "t": 578.81
+   },
+   {
+    "speaker": "Tom",
+    "text": "Merci, alleguer. Passt op Iech op, a bis d'nächst Kéier!",
+    "t": 639.32
+   },
+   {
+    "speaker": "Anna",
+    "text": "Villmools Merci fir d'Nolauschteren.",
+    "t": 642.63
+   }
+  ]
+ },
+ {
+  "id": 59,
+  "key": "nationalite",
+  "number": "Episode 59",
+  "title": "Becoming Luxembourgish – How to Get the Nationality",
+  "description": "How do you become Luxembourgish? Discover who is Luxembourgish by law, the conditions for naturalisation, the language test and the \"Living together\" course, the simpler option procedure and its ten cases, reclaiming nationality, help with costs and time, and how the Biergerpakt can count on the way.",
+  "audio": "podcast_nationalite.mp3",
+  "duration": 613.56,
+  "topics": [
+   "What changes when you become Luxembourgish",
+   "Keeping your other nationality",
+   "Luxembourgish by law",
+   "Naturalisation and its conditions",
+   "The language test and the course",
+   "Costs, refunds and language leave",
+   "The option and its ten cases",
+   "Reclaiming nationality"
+  ],
+  "segments": [
+   {
+    "speaker": "Anna",
+    "text": "Hello, and welcome!",
+    "t": 0.65
+   },
+   {
+    "speaker": "Anna",
+    "text": "It's really nice to have you with us today.",
+    "t": 2.01
+   },
+   {
+    "speaker": "Tom",
+    "text": "Hello everyone!",
+    "t": 4.45
+   },
+   {
+    "speaker": "Anna",
+    "text": "This podcast is part of the Biergerpakt.",
+    "t": 5.58
+   },
+   {
+    "speaker": "Anna",
+    "text": "That's a programme of living together in Luxembourg, organized by the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees.",
+    "t": 8.09
+   },
+   {
+    "speaker": "Anna",
+    "text": "The idea is to help residents, and also cross-border workers, to discover Luxembourg — or maybe re-discover Luxembourg — and to meet new people.",
+    "t": 17.58
+   },
+   {
+    "speaker": "Tom",
+    "text": "Two passports in one pocket: for many people in Luxembourg, that is completely normal.",
+    "t": 27.49
+   },
+   {
+    "speaker": "Tom",
+    "text": "They have become Luxembourgish, and they have kept the nationality they had before.",
+    "t": 33.09
+   },
+   {
+    "speaker": "Anna",
+    "text": "And that brings us to today's topic: how do you get Luxembourgish nationality?",
+    "t": 37.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "Many people live here for years, work here, and see their children grow up here, so sooner or later the question comes up.",
+    "t": 42.71
+   },
+   {
+    "speaker": "Tom",
+    "text": "Let's start with the reason, then: what actually changes when you become Luxembourgish?",
+    "t": 49.69
+   },
+   {
+    "speaker": "Anna",
+    "text": "You get all the civil and political rights of a Luxembourger.",
+    "t": 54.46
+   },
+   {
+    "speaker": "Anna",
+    "text": "For example, you can vote in the national elections, which are only open to Luxembourgish citizens.",
+    "t": 57.81
+   },
+   {
+    "speaker": "Anna",
+    "text": "We explained the different elections in our episode \"I Can Vote\".",
+    "t": 64.82
+   },
+   {
+    "speaker": "Tom",
+    "text": "And you can keep your first nationality, as in my example, because Luxembourg does not ask you to give it up.",
+    "t": 68.68
+   },
+   {
+    "speaker": "Tom",
+    "text": "But your other country has its own rules, and some countries take their nationality away when you choose a new one.",
+    "t": 74.78
+   },
+   {
+    "speaker": "Anna",
+    "text": "So the official advice is clear: before you start, ask the embassy or the consulate of your country whether you can keep its nationality.",
+    "t": 80.69
+   },
+   {
+    "speaker": "Anna",
+    "text": "That way, you avoid a bad surprise.",
+    "t": 89.6
+   },
+   {
+    "speaker": "Tom",
+    "text": "That is good advice.",
+    "t": 92.29
+   },
+   {
+    "speaker": "Tom",
+    "text": "And who takes care of nationality in Luxembourg, and where do I find reliable information?",
+    "t": 93.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "The Nationality Office of the Ministry of Justice deals with the files.",
+    "t": 98.71
+   },
+   {
+    "speaker": "Anna",
+    "text": "And the best place to start is Guichet.lu, the State's information portal.",
+    "t": 102.87
+   },
+   {
+    "speaker": "Anna",
+    "text": "It explains every situation, and it even has a small chart that helps you find the path that fits you.",
+    "t": 107.27
+   },
+   {
+    "speaker": "Tom",
+    "text": "You say \"the path\", so I suppose there is more than one way to become Luxembourgish?",
+    "t": 113.62
+   },
+   {
+    "speaker": "Anna",
+    "text": "There are several: some people are Luxembourgish by law, without asking for anything.",
+    "t": 118.58
+   },
+   {
+    "speaker": "Anna",
+    "text": "Others become Luxembourgish because they decide to, and for them there are three procedures: naturalisation, the option, and reclaiming nationality.",
+    "t": 123.35
+   },
+   {
+    "speaker": "Anna",
+    "text": "Let's take them one by one.",
+    "t": 134.06
+   },
+   {
+    "speaker": "Tom",
+    "text": "I will start with nationality by law.",
+    "t": 136.07
+   },
+   {
+    "speaker": "Tom",
+    "text": "A child is Luxembourgish from birth if one parent is Luxembourgish, and a child born in Luxembourg is also Luxembourgish if one parent was born here too.",
+    "t": 138.15
+   },
+   {
+    "speaker": "Tom",
+    "text": "And when a parent becomes Luxembourgish, the children under eighteen become Luxembourgish as well.",
+    "t": 147.75
+   },
+   {
+    "speaker": "Anna",
+    "text": "And what about a child who is born in Luxembourg, but whose parents both have another nationality and were born abroad?",
+    "t": 153.69
+   },
+   {
+    "speaker": "Tom",
+    "text": "That child becomes Luxembourgish automatically at eighteen, if they have lived here legally for the five years just before their eighteenth birthday.",
+    "t": 160.48
+   },
+   {
+    "speaker": "Tom",
+    "text": "For most young people today, there is one more condition: one parent must have lived here legally for the twelve months before the birth.",
+    "t": 169.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "So the law already does a lot, and for adults who want to take the step themselves, the general path is naturalisation.",
+    "t": 178.04
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is open to every adult who has lived legally in Luxembourg for at least five years, and the last year must be without interruption.",
+    "t": 185.36
+   },
+   {
+    "speaker": "Tom",
+    "text": "Five years is not that long, but I suppose there are other conditions too?",
+    "t": 192.93
+   },
+   {
+    "speaker": "Anna",
+    "text": "There are three: you need to pass the Luxembourgish language test, and you need a certificate for a course called \"Living together in the Grand Duchy of Luxembourg\".",
+    "t": 197.51
+   },
+   {
+    "speaker": "Anna",
+    "text": "And you must be of good repute: nationality is refused, for example, after certain serious criminal convictions, or if someone gives false information.",
+    "t": 208.22
+   },
+   {
+    "speaker": "Tom",
+    "text": "Let's take the language test first, because many people are worried about it, so what does it look like?",
+    "t": 218.59
+   },
+   {
+    "speaker": "Anna",
+    "text": "It tests speaking and listening, not writing.",
+    "t": 224.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "For speaking, you talk with an examiner and describe a picture, at a basic level called A2.",
+    "t": 227.41
+   },
+   {
+    "speaker": "Anna",
+    "text": "For listening, you hear recordings, like a radio news item or an everyday conversation, and answer multiple-choice questions, at the next level, B1.",
+    "t": 233.8
+   },
+   {
+    "speaker": "Tom",
+    "text": "And a good listening result can make up for a weaker speaking result, which is reassuring.",
+    "t": 244.64
+   },
+   {
+    "speaker": "Tom",
+    "text": "You register online with the National Institute for Languages.",
+    "t": 249.81
+   },
+   {
+    "speaker": "Tom",
+    "text": "Then comes the course: it lasts twenty-four hours, and it covers the rights of citizens, the institutions of the State and the communes, and the history of Luxembourg and European integration.",
+    "t": 253.34
+   },
+   {
+    "speaker": "Anna",
+    "text": "Can you skip the course if you already know a lot about Luxembourg?",
+    "t": 265.55
+   },
+   {
+    "speaker": "Tom",
+    "text": "Yes, you can take an exam on the same topics instead.",
+    "t": 269.13
+   },
+   {
+    "speaker": "Tom",
+    "text": "Registration is free and online, for the course and for the exam.",
+    "t": 272.77
+   },
+   {
+    "speaker": "Tom",
+    "text": "And if a person's health does not allow them to learn these subjects or the language, they can ask the Minister of Justice for an exemption, with a certificate from a specialist doctor.",
+    "t": 277.66
+   },
+   {
+    "speaker": "Anna",
+    "text": "And here I see a link with our own programme.",
+    "t": 289.36
+   },
+   {
+    "speaker": "Anna",
+    "text": "The Biergerpakt has a module of at least six hours that gives an overview of Luxembourg.",
+    "t": 291.85
+   },
+   {
+    "speaker": "Anna",
+    "text": "With that certificate, you do not need to follow the history part of the course, and this is recognised automatically.",
+    "t": 297.65
+   },
+   {
+    "speaker": "Tom",
+    "text": "That is a nice extra reason to join the Biergerpakt.",
+    "t": 304.92
+   },
+   {
+    "speaker": "Tom",
+    "text": "And what about money: do people have to pay for all this?",
+    "t": 307.83
+   },
+   {
+    "speaker": "Anna",
+    "text": "The naturalisation procedure itself is free.",
+    "t": 311.3
+   },
+   {
+    "speaker": "Anna",
+    "text": "The language test has a registration fee, but you can ask the Ministry of Justice to refund it, under certain conditions, once you have handed in your nationality application.",
+    "t": 314.38
+   },
+   {
+    "speaker": "Anna",
+    "text": "Some documents, like copies from other countries, can still cost a little.",
+    "t": 324.88
+   },
+   {
+    "speaker": "Tom",
+    "text": "And for people who work, there is help with time, too.",
+    "t": 328.98
+   },
+   {
+    "speaker": "Tom",
+    "text": "Employees can ask for a special language leave to learn Luxembourgish: up to two hundred hours over a whole career, in two parts.",
+    "t": 332.55
+   },
+   {
+    "speaker": "Tom",
+    "text": "It does not count against their normal holidays, and they do not need to live in Luxembourg to use it.",
+    "t": 339.23
+   },
+   {
+    "speaker": "Anna",
+    "text": "So, imagine I have my language certificate and my course certificate.",
+    "t": 344.43
+   },
+   {
+    "speaker": "Anna",
+    "text": "What is the next step?",
+    "t": 348.81
+   },
+   {
+    "speaker": "Tom",
+    "text": "You go in person to the civil registrar of the commune where you live.",
+    "t": 350.39
+   },
+   {
+    "speaker": "Tom",
+    "text": "You bring your birth certificate, a valid passport, a signed form about your life called the biographical questionnaire, and criminal record certificates from your other countries.",
+    "t": 354.05
+   },
+   {
+    "speaker": "Tom",
+    "text": "You sign the application yourself, but you can bring someone along.",
+    "t": 363.68
+   },
+   {
+    "speaker": "Anna",
+    "text": "And what happens if a document is missing, or if it is written in a language that nobody at the commune can read?",
+    "t": 367.52
+   },
+   {
+    "speaker": "Tom",
+    "text": "The registrar asks for the missing documents, and you have three months to bring them.",
+    "t": 374.03
+   },
+   {
+    "speaker": "Tom",
+    "text": "Documents that are not in French, German, English or Luxembourgish need a translation by a sworn translator.",
+    "t": 378.55
+   },
+   {
+    "speaker": "Anna",
+    "text": "Then the file goes to the Nationality Office, which checks it, and the Minister of Justice decides.",
+    "t": 384.9
+   },
+   {
+    "speaker": "Anna",
+    "text": "The answer should come within eight months, usually by post.",
+    "t": 391.03
+   },
+   {
+    "speaker": "Anna",
+    "text": "If it is yes, you are Luxembourgish from the date of that decision.",
+    "t": 395.2
+   },
+   {
+    "speaker": "Tom",
+    "text": "Eight months, so it is worth preparing well.",
+    "t": 399.36
+   },
+   {
+    "speaker": "Tom",
+    "text": "You also mentioned the option: what is the difference with naturalisation?",
+    "t": 402.22
+   },
+   {
+    "speaker": "Anna",
+    "text": "The option is a simpler procedure for people who already have a special link with Luxembourg, and the law lists ten cases.",
+    "t": 406.44
+   },
+   {
+    "speaker": "Anna",
+    "text": "If the Minister has no objection, you are Luxembourgish four months after the Ministry receives your file.",
+    "t": 414.39
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ten cases is a lot, so let's look at the ones that concern the most people.",
+    "t": 421.01
+   },
+   {
+    "speaker": "Anna",
+    "text": "One case is for adults with a parent or grandparent who is, or was, Luxembourgish: they need no language test and no course.",
+    "t": 425.86
+   },
+   {
+    "speaker": "Anna",
+    "text": "Another case is for people married to a Luxembourger.",
+    "t": 434.2
+   },
+   {
+    "speaker": "Anna",
+    "text": "They do need the test and the course, and if they live abroad, they need three years of marriage.",
+    "t": 437.41
+   },
+   {
+    "speaker": "Tom",
+    "text": "There is also a case for people who have lived here legally for at least twenty years.",
+    "t": 442.77
+   },
+   {
+    "speaker": "Tom",
+    "text": "They do not take the language test: they follow a Luxembourgish course of twenty-four hours, and that is all.",
+    "t": 447.64
+   },
+   {
+    "speaker": "Tom",
+    "text": "And adults who went to school in Luxembourg for at least seven years need no test and no course.",
+    "t": 454.29
+   },
+   {
+    "speaker": "Anna",
+    "text": "That sounds fair, and what about people who came to Luxembourg as children or teenagers?",
+    "t": 460.19
+   },
+   {
+    "speaker": "Tom",
+    "text": "Adults who settled here before the age of eighteen have their own case, with five years of legal residence, the test and the course.",
+    "t": 465.52
+   },
+   {
+    "speaker": "Tom",
+    "text": "And children born in Luxembourg can opt for nationality from the age of twelve, together with their parents, under conditions similar to the ones at eighteen.",
+    "t": 473.53
+   },
+   {
+    "speaker": "Anna",
+    "text": "That already covers many families, so who are the remaining cases for?",
+    "t": 482.49
+   },
+   {
+    "speaker": "Tom",
+    "text": "They are for parents of a Luxembourgish child, for refugees and stateless people, for volunteer soldiers in the Luxembourg army, and for people who have completed the introductory modules of the Biergerpakt.",
+    "t": 486.83
+   },
+   {
+    "speaker": "Tom",
+    "text": "Most of them also need five years of legal residence, the test and the course.",
+    "t": 499.21
+   },
+   {
+    "speaker": "Anna",
+    "text": "So the Biergerpakt counts here too, and how does the option work in practice?",
+    "t": 503.56
+   },
+   {
+    "speaker": "Tom",
+    "text": "Just like naturalisation, you go in person to the civil registrar of your commune, and if you live abroad, you go to the City of Luxembourg.",
+    "t": 507.89
+   },
+   {
+    "speaker": "Tom",
+    "text": "And the option is free of charge as well.",
+    "t": 514.84
+   },
+   {
+    "speaker": "Anna",
+    "text": "The third procedure is reclaiming nationality.",
+    "t": 517.19
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is for adults who were Luxembourgish and lost their nationality, and for women who lost it in the past because of their marriage.",
+    "t": 520.36
+   },
+   {
+    "speaker": "Anna",
+    "text": "There was also a way for descendants of Luxembourgers from the year 1900, but its deadlines have now passed.",
+    "t": 528.23
+   },
+   {
+    "speaker": "Tom",
+    "text": "Let's bring it all together.",
+    "t": 535.09
+   },
+   {
+    "speaker": "Tom",
+    "text": "First, ask your other country whether you can keep its nationality.",
+    "t": 536.41
+   },
+   {
+    "speaker": "Tom",
+    "text": "Second, find your path on Guichet.lu: by law, naturalisation, the option or reclaiming.",
+    "t": 539.96
+   },
+   {
+    "speaker": "Tom",
+    "text": "Third, for most adults, the steps are five years here, the language test and the course, and then an application at your commune, free of charge.",
+    "t": 546.74
+   },
+   {
+    "speaker": "Anna",
+    "text": "And the Biergerpakt can help you on the way, with its modules about life in Luxembourg and its language offers.",
+    "t": 556.2
+   },
+   {
+    "speaker": "Anna",
+    "text": "That was our episode about getting Luxembourgish nationality.",
+    "t": 562.63
+   },
+   {
+    "speaker": "Anna",
+    "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
+    "t": 566.33
+   },
+   {
+    "speaker": "Anna",
+    "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
+    "t": 576.73
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
+    "t": 595.01
+   },
+   {
+    "speaker": "Anna",
+    "text": "And the activities are free of charge.",
+    "t": 601.76
+   },
+   {
+    "speaker": "Anna",
+    "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
+    "t": 603.96
+   },
+   {
+    "speaker": "Tom",
+    "text": "Thank you, everyone.",
+    "t": 608.65
+   },
+   {
+    "speaker": "Tom",
+    "text": "Take care, and see you next time!",
+    "t": 609.82
+   },
+   {
+    "speaker": "Anna",
+    "text": "Thank you so much for listening.",
+    "t": 611.96
+   }
+  ],
+  "questions": [
+   {
+    "text": "Can you keep your other nationality when you become Luxembourgish?",
+    "options": [
+     "You must always give up your other nationality first",
+     "Luxembourg does not ask you to give it up, but you should check the rules of your other country",
+     "Only citizens of the European Union may keep another nationality",
+     "You may keep it for five years, then you have to choose one"
+    ],
+    "correct": 1,
+    "explanation": "Luxembourg does not ask you to give up your other nationality. But some countries take their nationality away when you take a new one, so the official advice is to ask the embassy or consulate of your country first."
+   },
+   {
+    "text": "How long must an adult have lived legally in Luxembourg to apply for naturalisation?",
+    "options": [
+     "At least five years, and the last year without interruption",
+     "At least two years, with any interruptions allowed",
+     "At least ten years, with no interruption at all",
+     "At least twenty years, and the last five without interruption"
+    ],
+    "correct": 0,
+    "explanation": "Naturalisation is open to adults who have lived legally in Luxembourg for at least five years, the last year without interruption. They also need the language test, the \"Living together in the Grand Duchy of Luxembourg\" certificate and good repute."
+   },
+   {
+    "text": "What does the Luxembourgish language test check?",
+    "options": [
+     "Writing an essay and a long grammar exercise",
+     "Speaking and listening, not writing",
+     "Reading newspapers and writing letters at a high level",
+     "Only a written grammar test, with no speaking"
+    ],
+    "correct": 1,
+    "explanation": "The test checks speaking, at level A2 (a conversation and the description of a picture), and listening, at level B1 (recordings with multiple-choice questions). A good listening result can make up for a weaker speaking result."
+   },
+   {
+    "text": "How can the Biergerpakt help on the way to nationality?",
+    "options": [
+     "It replaces the Luxembourgish language test for every applicant",
+     "It shortens the residence needed for naturalisation to two years",
+     "It pays the fees of the foreign documents you need for your file",
+     "Its six-hour module about Luxembourg means you can skip the history part of the course"
+    ],
+    "correct": 3,
+    "explanation": "With the certificate of the Biergerpakt module of at least six hours that gives an overview of Luxembourg, you do not need to follow the history part of the \"Living together\" course; this is recognised automatically. Completing the Biergerpakt's introductory modules is also one of the option cases."
+   },
+   {
+    "text": "Where do you hand in an application for naturalisation?",
+    "options": [
+     "Online only, through MyGuichet.lu, without any visit",
+     "By post, directly to the Minister of Justice",
+     "In person, at the civil registrar of the commune where you live",
+     "At the embassy of your country of origin in Luxembourg"
+    ],
+    "correct": 2,
+    "explanation": "You go in person to the civil registrar of your commune with your documents and sign the application yourself; you may bring someone along. The Nationality Office of the Ministry of Justice then checks the file, and the Minister of Justice decides, within eight months."
+   }
+  ],
+  "categories": [
+   "civic",
+   "inclusion"
+  ],
+  "title_fr": "Devenir luxembourgeois – Comment obtenir la nationalité",
+  "description_fr": "Comment devient-on luxembourgeois ? Découvrez qui est luxembourgeois par la loi, les conditions de la naturalisation, l'examen de langue et le cours « Vivre ensemble », la procédure simplifiée de l'option et ses dix cas, le recouvrement de la nationalité, les aides pour les frais et le temps, et comment le Biergerpakt peut compter en chemin.",
+  "topics_fr": [
+   "Ce qui change quand on devient luxembourgeois",
+   "Garder son autre nationalité",
+   "Luxembourgeois par la loi",
+   "La naturalisation et ses conditions",
+   "L'examen de langue et le cours",
+   "Frais, remboursement et congé linguistique",
+   "L'option et ses dix cas",
+   "Le recouvrement de la nationalité"
+  ],
+  "questions_fr": [
+   {
+    "text": "Peut-on garder son autre nationalité quand on devient luxembourgeois ?",
+    "options": [
+     "Il faut toujours renoncer d'abord à son autre nationalité",
+     "Le Luxembourg ne demande pas d'y renoncer, mais il faut vérifier les règles de l'autre pays",
+     "Seuls les citoyens de l'Union européenne peuvent garder une autre nationalité",
+     "On peut la garder cinq ans, puis il faut en choisir une"
+    ],
+    "correct": 1,
+    "explanation": "Le Luxembourg ne demande pas de renoncer à son autre nationalité. Mais certains pays retirent leur nationalité quand on en prend une nouvelle : le conseil officiel est donc de se renseigner d'abord auprès de l'ambassade ou du consulat de son pays."
+   },
+   {
+    "text": "Depuis combien de temps un adulte doit-il vivre légalement au Luxembourg pour demander la naturalisation ?",
+    "options": [
+     "Au moins cinq ans, et la dernière année sans interruption",
+     "Au moins deux ans, avec des interruptions autorisées",
+     "Au moins dix ans, sans aucune interruption",
+     "Au moins vingt ans, et les cinq dernières années sans interruption"
+    ],
+    "correct": 0,
+    "explanation": "La naturalisation est ouverte aux adultes qui vivent légalement au Luxembourg depuis au moins cinq ans, la dernière année sans interruption. Il faut aussi l'examen de langue, le certificat « Vivre ensemble au Grand-Duché de Luxembourg » et remplir la condition d'honorabilité."
+   },
+   {
+    "text": "Que vérifie l'examen de langue luxembourgeoise ?",
+    "options": [
+     "La rédaction d'un texte et un long exercice de grammaire",
+     "L'expression orale et la compréhension orale, pas l'écrit",
+     "La lecture de journaux et l'écriture de lettres à un niveau élevé",
+     "Seulement un test écrit de grammaire, sans oral"
+    ],
+    "correct": 1,
+    "explanation": "L'examen évalue l'expression orale, au niveau A2 (une conversation et la description d'une image), et la compréhension orale, au niveau B1 (des enregistrements avec des questions à choix multiples). Un bon résultat en compréhension peut compenser un résultat plus faible à l'oral."
+   },
+   {
+    "text": "Comment le Biergerpakt peut-il aider sur le chemin de la nationalité ?",
+    "options": [
+     "Il remplace l'examen de langue luxembourgeoise pour tous les candidats",
+     "Il réduit à deux ans la résidence nécessaire pour la naturalisation",
+     "Il paie les frais des documents étrangers nécessaires au dossier",
+     "Son module de six heures sur le Luxembourg dispense de la partie histoire du cours"
+    ],
+    "correct": 3,
+    "explanation": "Avec le certificat du module du Biergerpakt d'au moins six heures qui donne un aperçu du Luxembourg, vous n'avez pas besoin de suivre la partie histoire du cours « Vivre ensemble » ; c'est reconnu automatiquement. Avoir suivi les modules d'introduction du Biergerpakt est aussi l'un des cas d'option."
+   },
+   {
+    "text": "Où dépose-t-on une demande de naturalisation ?",
+    "options": [
+     "Uniquement en ligne, sur MyGuichet.lu, sans se déplacer",
+     "Par courrier, directement au ministre de la Justice",
+     "En personne, chez l'officier de l'état civil de sa commune",
+     "À l'ambassade de son pays d'origine au Luxembourg"
+    ],
+    "correct": 2,
+    "explanation": "On se présente en personne chez l'officier de l'état civil de sa commune avec ses documents et on signe soi-même la demande ; on peut venir accompagné. Le Service de la nationalité du ministère de la Justice vérifie ensuite le dossier, et le ministre de la Justice décide, dans les huit mois."
+   }
+  ],
+  "title_de": "Luxemburger werden – Wie man die Staatsangehörigkeit bekommt",
+  "description_de": "Wie wird man Luxemburger? Erfahren Sie, wer durch das Gesetz Luxemburger ist, welche Bedingungen für die Einbürgerung gelten, wie der Sprachtest und der Kurs „Zusammenleben“ aussehen, was die vereinfachte Option mit ihren zehn Fällen ist, wie man die Staatsangehörigkeit wiedererlangt, welche Hilfe es bei Kosten und Zeit gibt und wie der Biergerpakt dabei zählen kann.",
+  "topics_de": [
+   "Was sich ändert, wenn man Luxemburger wird",
+   "Die andere Staatsangehörigkeit behalten",
+   "Luxemburger durch das Gesetz",
+   "Die Einbürgerung und ihre Bedingungen",
+   "Der Sprachtest und der Kurs",
+   "Kosten, Rückerstattung und Sprachurlaub",
+   "Die Option und ihre zehn Fälle",
+   "Die Wiedererlangung der Staatsangehörigkeit"
+  ],
+  "questions_de": [
+   {
+    "text": "Kann man seine andere Staatsangehörigkeit behalten, wenn man Luxemburger wird?",
+    "options": [
+     "Man muss die andere Staatsangehörigkeit immer zuerst aufgeben",
+     "Luxemburg verlangt nicht, sie aufzugeben, aber man sollte die Regeln des anderen Landes prüfen",
+     "Nur Bürger der Europäischen Union dürfen eine andere Staatsangehörigkeit behalten",
+     "Man darf sie fünf Jahre behalten, dann muss man sich entscheiden"
+    ],
+    "correct": 1,
+    "explanation": "Luxemburg verlangt nicht, dass man die andere Staatsangehörigkeit aufgibt. Manche Länder nehmen ihre Staatsangehörigkeit aber weg, wenn man eine neue annimmt. Der offizielle Rat ist deshalb, zuerst bei der Botschaft oder beim Konsulat des eigenen Landes nachzufragen."
+   },
+   {
+    "text": "Wie lange muss ein Erwachsener rechtmäßig in Luxemburg leben, um die Einbürgerung zu beantragen?",
+    "options": [
+     "Mindestens fünf Jahre, das letzte Jahr ohne Unterbrechung",
+     "Mindestens zwei Jahre, Unterbrechungen sind erlaubt",
+     "Mindestens zehn Jahre, ganz ohne Unterbrechung",
+     "Mindestens zwanzig Jahre, die letzten fünf ohne Unterbrechung"
+    ],
+    "correct": 0,
+    "explanation": "Die Einbürgerung steht Erwachsenen offen, die seit mindestens fünf Jahren rechtmäßig in Luxemburg leben, das letzte Jahr ohne Unterbrechung. Außerdem braucht man den Sprachtest, die Bescheinigung „Zusammenleben im Großherzogtum Luxemburg“ und einen guten Leumund."
+   },
+   {
+    "text": "Was prüft der Sprachtest Luxemburgisch?",
+    "options": [
+     "Einen Aufsatz und eine lange Grammatikübung",
+     "Das Sprechen und das Hörverstehen, nicht das Schreiben",
+     "Zeitungslesen und Briefeschreiben auf hohem Niveau",
+     "Nur einen schriftlichen Grammatiktest, ohne Sprechen"
+    ],
+    "correct": 1,
+    "explanation": "Der Test prüft das Sprechen auf Niveau A2 (ein Gespräch und die Beschreibung eines Bildes) und das Hörverstehen auf Niveau B1 (Aufnahmen mit Fragen mit mehreren Antworten). Ein gutes Ergebnis beim Hörverstehen kann ein schwächeres Ergebnis beim Sprechen ausgleichen."
+   },
+   {
+    "text": "Wie kann der Biergerpakt auf dem Weg zur Staatsangehörigkeit helfen?",
+    "options": [
+     "Er ersetzt den Sprachtest Luxemburgisch für alle Antragsteller",
+     "Er verkürzt den nötigen Aufenthalt für die Einbürgerung auf zwei Jahre",
+     "Er bezahlt die Gebühren für die ausländischen Dokumente der Akte",
+     "Mit seinem sechsstündigen Modul über Luxemburg entfällt der Geschichtsteil des Kurses"
+    ],
+    "correct": 3,
+    "explanation": "Mit der Bescheinigung des Biergerpakt-Moduls von mindestens sechs Stunden, das einen Überblick über Luxemburg gibt, müssen Sie den Geschichtsteil des Kurses „Zusammenleben“ nicht besuchen; das wird automatisch anerkannt. Wer die Einführungsmodule des Biergerpakt abgeschlossen hat, fällt außerdem unter einen der Optionsfälle."
+   },
+   {
+    "text": "Wo reicht man einen Antrag auf Einbürgerung ein?",
+    "options": [
+     "Nur online über MyGuichet.lu, ohne Termin vor Ort",
+     "Per Post direkt beim Justizminister",
+     "Persönlich beim Standesbeamten der Wohngemeinde",
+     "Bei der Botschaft des Herkunftslandes in Luxemburg"
+    ],
+    "correct": 2,
+    "explanation": "Man geht persönlich mit seinen Dokumenten zum Standesbeamten der Gemeinde und unterschreibt den Antrag selbst; man darf jemanden mitbringen. Die Abteilung für Staatsangehörigkeit im Justizministerium prüft dann die Akte, und der Justizminister entscheidet innerhalb von acht Monaten."
+   }
+  ],
+  "audio_fr": "podcast_nationalite_fr.mp3",
+  "duration_fr": 565.45,
+  "segments_fr": [
+   {
+    "speaker": "Anna",
+    "text": "Bonjour et bienvenue !",
+    "t": 0.65
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est vraiment un plaisir de vous avoir avec nous aujourd'hui.",
+    "t": 1.89
+   },
+   {
+    "speaker": "Tom",
+    "text": "Bonjour à tous !",
+    "t": 4.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ce podcast fait partie du Biergerpakt.",
+    "t": 6.04
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil.",
+    "t": 8.11
+   },
+   {
+    "speaker": "Anna",
+    "text": "L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.",
+    "t": 15.71
+   },
+   {
+    "speaker": "Tom",
+    "text": "Deux passeports dans une seule poche : pour beaucoup de gens au Luxembourg, c'est tout à fait normal.",
+    "t": 23.13
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ils sont devenus luxembourgeois, et ils ont gardé la nationalité qu'ils avaient avant.",
+    "t": 27.77
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et cela nous amène au sujet d'aujourd'hui : comment obtenir la nationalité luxembourgeoise ?",
+    "t": 32.47
+   },
+   {
+    "speaker": "Anna",
+    "text": "Beaucoup de personnes vivent ici depuis des années, travaillent ici et voient leurs enfants grandir ici, alors tôt ou tard, la question se pose.",
+    "t": 36.95
+   },
+   {
+    "speaker": "Tom",
+    "text": "Commençons donc par la raison : qu'est-ce qui change vraiment quand on devient luxembourgeois ?",
+    "t": 44.54
+   },
+   {
+    "speaker": "Anna",
+    "text": "On obtient tous les droits civils et politiques d'un Luxembourgeois.",
+    "t": 49.24
+   },
+   {
+    "speaker": "Anna",
+    "text": "Par exemple, on peut voter aux élections nationales, qui sont réservées aux citoyens luxembourgeois.",
+    "t": 52.53
+   },
+   {
+    "speaker": "Anna",
+    "text": "Nous avons expliqué les différentes élections dans notre épisode « Je peux voter ».",
+    "t": 57.63
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et on peut garder sa première nationalité, comme dans mon exemple, parce que le Luxembourg ne demande pas d'y renoncer.",
+    "t": 61.56
+   },
+   {
+    "speaker": "Tom",
+    "text": "Mais l'autre pays a ses propres règles, et certains pays retirent leur nationalité quand on en choisit une nouvelle.",
+    "t": 67.72
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le conseil officiel est donc clair : avant de commencer, demandez à l'ambassade ou au consulat de votre pays si vous pouvez garder sa nationalité.",
+    "t": 73.74
+   },
+   {
+    "speaker": "Anna",
+    "text": "Comme ça, vous évitez une mauvaise surprise.",
+    "t": 80.91
+   },
+   {
+    "speaker": "Tom",
+    "text": "C'est un bon conseil.",
+    "t": 83.07
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et qui s'occupe de la nationalité au Luxembourg, et où est-ce que je trouve des informations fiables ?",
+    "t": 84.44
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le Service de la nationalité luxembourgeoise du ministère de la Justice traite les dossiers.",
+    "t": 89.24
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et le meilleur point de départ, c'est Guichet.lu, le portail d'information de l'État.",
+    "t": 93.61
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il explique chaque situation, et il propose même un petit schéma qui aide à trouver la voie qui vous correspond.",
+    "t": 98.38
+   },
+   {
+    "speaker": "Tom",
+    "text": "Vous dites « la voie », donc je suppose qu'il existe plusieurs façons de devenir luxembourgeois ?",
+    "t": 103.57
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il y en a plusieurs : certaines personnes sont luxembourgeoises par la loi, sans rien demander.",
+    "t": 108.63
+   },
+   {
+    "speaker": "Anna",
+    "text": "D'autres deviennent luxembourgeoises parce qu'elles le décident, et pour elles, il existe trois procédures : la naturalisation, l'option et le recouvrement de la nationalité.",
+    "t": 113.07
+   },
+   {
+    "speaker": "Anna",
+    "text": "Voyons-les une par une.",
+    "t": 121.73
+   },
+   {
+    "speaker": "Tom",
+    "text": "Je commence par la nationalité par la loi.",
+    "t": 123.28
+   },
+   {
+    "speaker": "Tom",
+    "text": "Un enfant est luxembourgeois dès la naissance si l'un de ses parents est luxembourgeois, et un enfant né au Luxembourg est aussi luxembourgeois si l'un de ses parents est lui-même né ici.",
+    "t": 125.79
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et quand un parent devient luxembourgeois, ses enfants de moins de dix-huit ans deviennent luxembourgeois eux aussi.",
+    "t": 135.16
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et qu'en est-il d'un enfant né au Luxembourg, dont les deux parents ont une autre nationalité et sont nés à l'étranger ?",
+    "t": 141.12
+   },
+   {
+    "speaker": "Tom",
+    "text": "Cet enfant devient automatiquement luxembourgeois à dix-huit ans, s'il a vécu légalement ici pendant les cinq années juste avant ses dix-huit ans.",
+    "t": 147.11
+   },
+   {
+    "speaker": "Tom",
+    "text": "Pour la plupart des jeunes aujourd'hui, il y a une condition de plus : l'un des parents doit avoir vécu légalement ici pendant les douze mois avant la naissance.",
+    "t": 155.13
+   },
+   {
+    "speaker": "Anna",
+    "text": "La loi fait donc déjà beaucoup, et pour les adultes qui veulent faire la démarche eux-mêmes, la voie générale est la naturalisation.",
+    "t": 164.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "Elle est ouverte à tout adulte qui vit légalement au Luxembourg depuis au moins cinq ans, et la dernière année doit être sans interruption.",
+    "t": 170.17
+   },
+   {
+    "speaker": "Tom",
+    "text": "Cinq ans, ce n'est pas si long, mais je suppose qu'il y a d'autres conditions ?",
+    "t": 176.54
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il y en a trois : il faut réussir l'examen de langue luxembourgeoise, et il faut un certificat pour un cours qui s'appelle « Vivre ensemble au Grand-Duché de Luxembourg ».",
+    "t": 180.45
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et il faut remplir une condition d'honorabilité : la nationalité est refusée, par exemple, après certaines condamnations pénales graves, ou si quelqu'un donne de fausses informations.",
+    "t": 188.14
+   },
+   {
+    "speaker": "Tom",
+    "text": "Prenons d'abord l'examen de langue, parce que beaucoup de gens s'en inquiètent : à quoi ressemble-t-il ?",
+    "t": 197.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il évalue l'expression orale et la compréhension orale, pas l'écrit.",
+    "t": 202.82
+   },
+   {
+    "speaker": "Anna",
+    "text": "Pour l'oral, vous parlez avec un examinateur et vous décrivez une image, à un niveau de base appelé A2.",
+    "t": 206.23
+   },
+   {
+    "speaker": "Anna",
+    "text": "Pour la compréhension, vous écoutez des enregistrements, comme un journal à la radio ou une conversation de tous les jours, et vous répondez à des questions à choix multiples, au niveau suivant, B1.",
+    "t": 211.33
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et un bon résultat en compréhension peut compenser un résultat plus faible à l'oral, ce qui est rassurant.",
+    "t": 220.55
+   },
+   {
+    "speaker": "Tom",
+    "text": "On s'inscrit en ligne auprès de l'Institut national des langues.",
+    "t": 226.13
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ensuite vient le cours : il dure vingt-quatre heures, et il porte sur les droits des citoyens, les institutions de l'État et des communes, et l'histoire du Luxembourg et l'intégration européenne.",
+    "t": 229.23
+   },
+   {
+    "speaker": "Anna",
+    "text": "Est-ce qu'on peut se passer du cours si on connaît déjà bien le Luxembourg ?",
+    "t": 239.74
+   },
+   {
+    "speaker": "Tom",
+    "text": "Oui, on peut passer à la place un examen sur les mêmes sujets.",
+    "t": 243.27
+   },
+   {
+    "speaker": "Tom",
+    "text": "L'inscription est gratuite et se fait en ligne, pour le cours comme pour l'examen.",
+    "t": 246.41
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et si l'état de santé d'une personne ne lui permet pas d'apprendre ces matières ou la langue, elle peut demander une dispense au ministre de la Justice, avec un certificat d'un médecin spécialiste.",
+    "t": 250.53
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et là, je vois un lien avec notre propre programme.",
+    "t": 260.51
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le Biergerpakt propose un module d'au moins six heures qui donne un aperçu du Luxembourg.",
+    "t": 262.9
+   },
+   {
+    "speaker": "Anna",
+    "text": "Avec ce certificat, vous n'avez pas besoin de suivre la partie du cours sur l'histoire, et c'est reconnu automatiquement.",
+    "t": 267.51
+   },
+   {
+    "speaker": "Tom",
+    "text": "Voilà une bonne raison de plus de rejoindre le Biergerpakt.",
+    "t": 273.17
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et côté argent : est-ce qu'il faut payer pour tout cela ?",
+    "t": 276.41
+   },
+   {
+    "speaker": "Anna",
+    "text": "La procédure de naturalisation elle-même est gratuite.",
+    "t": 279.42
+   },
+   {
+    "speaker": "Anna",
+    "text": "L'examen de langue a des frais d'inscription, mais vous pouvez en demander le remboursement au ministère de la Justice, sous certaines conditions, une fois que vous avez déposé votre demande de nationalité.",
+    "t": 282.23
+   },
+   {
+    "speaker": "Anna",
+    "text": "Certains documents, comme des copies venant d'autres pays, peuvent quand même coûter un peu.",
+    "t": 291.53
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et pour les personnes qui travaillent, il y a aussi une aide pour le temps.",
+    "t": 295.72
+   },
+   {
+    "speaker": "Tom",
+    "text": "Les salariés peuvent demander un congé linguistique pour apprendre le luxembourgeois : jusqu'à deux cents heures sur toute une carrière, en deux parties.",
+    "t": 299.35
+   },
+   {
+    "speaker": "Tom",
+    "text": "Il ne compte pas sur les congés normaux, et il n'est pas nécessaire d'habiter au Luxembourg pour en profiter.",
+    "t": 307.3
+   },
+   {
+    "speaker": "Anna",
+    "text": "Alors, imaginons que j'ai mon certificat de langue et mon certificat de cours.",
+    "t": 312.7
+   },
+   {
+    "speaker": "Anna",
+    "text": "Quelle est l'étape suivante ?",
+    "t": 316.28
+   },
+   {
+    "speaker": "Tom",
+    "text": "Vous vous présentez en personne chez l'officier de l'état civil de la commune où vous habitez.",
+    "t": 317.89
+   },
+   {
+    "speaker": "Tom",
+    "text": "Vous apportez votre acte de naissance, un passeport valable, un formulaire signé sur votre parcours de vie, appelé la notice biographique, et des extraits de casier judiciaire de vos autres pays.",
+    "t": 322.21
+   },
+   {
+    "speaker": "Tom",
+    "text": "Vous signez la demande vous-même, mais vous pouvez venir accompagné.",
+    "t": 332.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et que se passe-t-il si un document manque, ou s'il est écrit dans une langue que personne à la commune ne sait lire ?",
+    "t": 336.21
+   },
+   {
+    "speaker": "Tom",
+    "text": "L'officier de l'état civil demande les documents qui manquent, et vous avez trois mois pour les apporter.",
+    "t": 341.56
+   },
+   {
+    "speaker": "Tom",
+    "text": "Les documents qui ne sont pas en français, en allemand, en anglais ou en luxembourgeois doivent être traduits par un traducteur assermenté.",
+    "t": 346.7
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ensuite, le dossier part au Service de la nationalité, qui le vérifie, et le ministre de la Justice décide.",
+    "t": 354.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "La réponse doit arriver dans les huit mois, en général par courrier.",
+    "t": 359.99
+   },
+   {
+    "speaker": "Anna",
+    "text": "Si c'est oui, vous êtes luxembourgeois à partir de la date de cette décision.",
+    "t": 363.08
+   },
+   {
+    "speaker": "Tom",
+    "text": "Huit mois, donc cela vaut la peine de bien se préparer.",
+    "t": 367.01
+   },
+   {
+    "speaker": "Tom",
+    "text": "Vous avez aussi parlé de l'option : quelle est la différence avec la naturalisation ?",
+    "t": 369.91
+   },
+   {
+    "speaker": "Anna",
+    "text": "L'option est une procédure simplifiée pour les personnes qui ont déjà un lien particulier avec le Luxembourg, et la loi prévoit dix cas.",
+    "t": 374.4
+   },
+   {
+    "speaker": "Anna",
+    "text": "Si le ministre ne s'y oppose pas, vous êtes luxembourgeois quatre mois après que le ministère a reçu votre dossier.",
+    "t": 380.42
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dix cas, c'est beaucoup, alors regardons ceux qui concernent le plus de monde.",
+    "t": 385.71
+   },
+   {
+    "speaker": "Anna",
+    "text": "Un des cas concerne les adultes dont un parent ou un grand-parent est, ou était, luxembourgeois : ils n'ont besoin ni de l'examen de langue, ni du cours.",
+    "t": 389.8
+   },
+   {
+    "speaker": "Anna",
+    "text": "Un autre cas concerne les personnes mariées à un Luxembourgeois.",
+    "t": 397.34
+   },
+   {
+    "speaker": "Anna",
+    "text": "Elles ont besoin de l'examen et du cours, et si elles vivent à l'étranger, il faut trois ans de mariage.",
+    "t": 400.17
+   },
+   {
+    "speaker": "Tom",
+    "text": "Il y a aussi un cas pour les personnes qui vivent légalement ici depuis au moins vingt ans.",
+    "t": 404.98
+   },
+   {
+    "speaker": "Tom",
+    "text": "Elles ne passent pas l'examen de langue : elles suivent un cours de luxembourgeois de vingt-quatre heures, et c'est tout.",
+    "t": 409.48
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et les adultes qui ont été à l'école au Luxembourg pendant au moins sept ans n'ont besoin ni de l'examen, ni du cours.",
+    "t": 415.33
+   },
+   {
+    "speaker": "Anna",
+    "text": "Cela paraît juste, et qu'en est-il des personnes arrivées au Luxembourg quand elles étaient enfants ou adolescentes ?",
+    "t": 421.67
+   },
+   {
+    "speaker": "Tom",
+    "text": "Les adultes qui se sont installés ici avant l'âge de dix-huit ans ont leur propre cas, avec cinq ans de résidence légale, l'examen et le cours.",
+    "t": 426.81
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et les enfants nés au Luxembourg peuvent opter pour la nationalité à partir de douze ans, avec leurs parents, à des conditions semblables à celles de dix-huit ans.",
+    "t": 435.01
+   },
+   {
+    "speaker": "Anna",
+    "text": "Cela couvre déjà beaucoup de familles, alors à qui sont destinés les autres cas ?",
+    "t": 443.33
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ils sont destinés aux parents d'un enfant luxembourgeois, aux réfugiés et aux apatrides, aux soldats volontaires de l'armée luxembourgeoise, et aux personnes qui ont suivi les modules d'introduction du Biergerpakt.",
+    "t": 447.15
+   },
+   {
+    "speaker": "Tom",
+    "text": "La plupart d'entre eux demandent aussi cinq ans de résidence légale, l'examen et le cours.",
+    "t": 457.95
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le Biergerpakt compte donc ici aussi, et comment se passe l'option en pratique ?",
+    "t": 462.85
+   },
+   {
+    "speaker": "Tom",
+    "text": "Comme pour la naturalisation, vous vous présentez en personne chez l'officier de l'état civil de votre commune, et si vous vivez à l'étranger, vous allez à la Ville de Luxembourg.",
+    "t": 466.98
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et l'option est elle aussi gratuite.",
+    "t": 476.14
+   },
+   {
+    "speaker": "Anna",
+    "text": "La troisième procédure est le recouvrement de la nationalité.",
+    "t": 478.24
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il s'adresse aux adultes qui étaient luxembourgeois et ont perdu leur nationalité, et aux femmes qui l'ont perdue autrefois à cause de leur mariage.",
+    "t": 481.2
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il existait aussi une voie pour les descendants de Luxembourgeois de l'année 1900, mais ses délais sont maintenant passés.",
+    "t": 488.27
+   },
+   {
+    "speaker": "Tom",
+    "text": "Faisons le point.",
+    "t": 493.66
+   },
+   {
+    "speaker": "Tom",
+    "text": "Premièrement, demandez à votre autre pays si vous pouvez garder sa nationalité.",
+    "t": 494.77
+   },
+   {
+    "speaker": "Tom",
+    "text": "Deuxièmement, trouvez votre voie sur Guichet.lu : par la loi, par la naturalisation, par l'option ou par le recouvrement.",
+    "t": 499.1
+   },
+   {
+    "speaker": "Tom",
+    "text": "Troisièmement, pour la plupart des adultes, les étapes sont cinq ans ici, l'examen de langue et le cours, puis une demande à votre commune, gratuitement.",
+    "t": 507.16
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et le Biergerpakt peut vous aider sur ce chemin, avec ses modules sur la vie au Luxembourg et ses offres pour apprendre les langues.",
+    "t": 515.95
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'était notre épisode sur l'obtention de la nationalité luxembourgeoise.",
+    "t": 521.92
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
+    "t": 525.33
+   },
+   {
+    "speaker": "Anna",
+    "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
+    "t": 532.84
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
+    "t": 549.29
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et les activités sont gratuites.",
+    "t": 553.94
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
+    "t": 555.76
+   },
+   {
+    "speaker": "Tom",
+    "text": "Merci à tous.",
+    "t": 560.14
+   },
+   {
+    "speaker": "Tom",
+    "text": "Prenez soin de vous, et à la prochaine !",
+    "t": 561.39
+   },
+   {
+    "speaker": "Anna",
+    "text": "Merci beaucoup de nous avoir écoutés.",
+    "t": 563.68
+   }
+  ],
+  "audio_de": "podcast_nationalite_de.mp3",
+  "duration_de": 664.24,
+  "segments_de": [
+   {
+    "speaker": "Anna",
+    "text": "Hallo und herzlich willkommen!",
+    "t": 0.65
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es ist wirklich schön, dass Sie heute bei uns sind.",
+    "t": 2.52
+   },
+   {
+    "speaker": "Tom",
+    "text": "Hallo zusammen!",
+    "t": 5.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dieser Podcast ist Teil des Biergerpakt.",
+    "t": 6.71
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen.",
+    "t": 9.18
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.",
+    "t": 18.84
+   },
+   {
+    "speaker": "Tom",
+    "text": "Zwei Pässe in einer Tasche: Für viele Menschen in Luxemburg ist das ganz normal.",
+    "t": 27.88
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sie sind Luxemburger geworden und haben die Staatsangehörigkeit behalten, die sie vorher hatten.",
+    "t": 33.16
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und damit sind wir beim Thema von heute: Wie bekommt man die luxemburgische Staatsangehörigkeit?",
+    "t": 38.26
+   },
+   {
+    "speaker": "Anna",
+    "text": "Viele Menschen leben seit Jahren hier, arbeiten hier und sehen ihre Kinder hier aufwachsen, also stellt sich die Frage früher oder später.",
+    "t": 44.21
+   },
+   {
+    "speaker": "Tom",
+    "text": "Fangen wir also mit dem Grund an: Was ändert sich eigentlich, wenn man Luxemburger wird?",
+    "t": 52.21
+   },
+   {
+    "speaker": "Anna",
+    "text": "Man bekommt alle bürgerlichen und politischen Rechte eines Luxemburgers.",
+    "t": 57.1
+   },
+   {
+    "speaker": "Anna",
+    "text": "Zum Beispiel kann man bei den Nationalwahlen wählen, die nur für luxemburgische Staatsbürger offen sind.",
+    "t": 60.97
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die verschiedenen Wahlen haben wir in unserer Folge „Ich kann wählen“ erklärt.",
+    "t": 66.58
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und man kann seine erste Staatsangehörigkeit behalten, wie in meinem Beispiel, denn Luxemburg verlangt nicht, dass man sie aufgibt.",
+    "t": 71.26
+   },
+   {
+    "speaker": "Tom",
+    "text": "Aber das andere Land hat seine eigenen Regeln, und manche Länder nehmen einem ihre Staatsangehörigkeit weg, wenn man eine neue wählt.",
+    "t": 78.46
+   },
+   {
+    "speaker": "Anna",
+    "text": "Der offizielle Rat ist deshalb klar: Fragen Sie, bevor Sie anfangen, bei der Botschaft oder beim Konsulat Ihres Landes nach, ob Sie dessen Staatsangehörigkeit behalten können.",
+    "t": 86.04
+   },
+   {
+    "speaker": "Anna",
+    "text": "So vermeiden Sie eine böse Überraschung.",
+    "t": 96.37
+   },
+   {
+    "speaker": "Tom",
+    "text": "Das ist ein guter Rat.",
+    "t": 98.98
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und wer kümmert sich in Luxemburg um die Staatsangehörigkeit, und wo finde ich verlässliche Informationen?",
+    "t": 100.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die Abteilung für die luxemburgische Staatsangehörigkeit im Justizministerium bearbeitet die Akten.",
+    "t": 106.37
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und der beste Ausgangspunkt ist Guichet.lu, das Informationsportal des Staates.",
+    "t": 112.23
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es erklärt jede Situation und hat sogar ein kleines Schema, das hilft, den passenden Weg zu finden.",
+    "t": 117.86
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sie sagen „den Weg“, also gibt es wohl mehr als eine Möglichkeit, Luxemburger zu werden?",
+    "t": 123.43
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es gibt mehrere: Manche Menschen sind durch das Gesetz Luxemburger, ohne etwas zu beantragen.",
+    "t": 128.81
+   },
+   {
+    "speaker": "Anna",
+    "text": "Andere werden Luxemburger, weil sie es so entscheiden, und für sie gibt es drei Verfahren: die Einbürgerung, die Option und die Wiedererlangung der Staatsangehörigkeit.",
+    "t": 134.34
+   },
+   {
+    "speaker": "Anna",
+    "text": "Schauen wir sie uns nacheinander an.",
+    "t": 144.73
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ich fange mit der Staatsangehörigkeit durch das Gesetz an.",
+    "t": 147.02
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ein Kind ist ab der Geburt Luxemburger, wenn ein Elternteil Luxemburger ist, und ein Kind, das in Luxemburg geboren ist, ist auch Luxemburger, wenn ein Elternteil ebenfalls hier geboren ist.",
+    "t": 150.39
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und wenn ein Elternteil Luxemburger wird, werden die Kinder unter achtzehn Jahren auch Luxemburger.",
+    "t": 162.01
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und was ist mit einem Kind, das in Luxemburg geboren ist, dessen Eltern aber beide eine andere Staatsangehörigkeit haben und im Ausland geboren sind?",
+    "t": 167.71
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dieses Kind wird mit achtzehn Jahren automatisch Luxemburger, wenn es in den fünf Jahren direkt vor dem achtzehnten Geburtstag rechtmäßig hier gelebt hat.",
+    "t": 177.26
+   },
+   {
+    "speaker": "Tom",
+    "text": "Für die meisten jungen Menschen gibt es heute noch eine Bedingung: Ein Elternteil muss in den zwölf Monaten vor der Geburt rechtmäßig hier gelebt haben.",
+    "t": 186.37
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das Gesetz regelt also schon viel, und für Erwachsene, die den Schritt selbst gehen wollen, ist der allgemeine Weg die Einbürgerung.",
+    "t": 195.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie steht allen Erwachsenen offen, die seit mindestens fünf Jahren rechtmäßig in Luxemburg leben, und das letzte Jahr muss ohne Unterbrechung sein.",
+    "t": 202.44
+   },
+   {
+    "speaker": "Tom",
+    "text": "Fünf Jahre sind nicht so lang, aber es gibt bestimmt noch andere Bedingungen?",
+    "t": 211.07
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es gibt drei: Man muss den Sprachtest Luxemburgisch bestehen, und man braucht eine Bescheinigung für einen Kurs mit dem Namen „Zusammenleben im Großherzogtum Luxemburg“.",
+    "t": 215.4
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und man muss einen guten Leumund haben: Die Staatsangehörigkeit wird zum Beispiel nach bestimmten schweren Verurteilungen verweigert, oder wenn jemand falsche Angaben macht.",
+    "t": 226.19
+   },
+   {
+    "speaker": "Tom",
+    "text": "Nehmen wir zuerst den Sprachtest, denn viele Menschen machen sich Sorgen deswegen: Wie sieht er aus?",
+    "t": 236.07
+   },
+   {
+    "speaker": "Anna",
+    "text": "Er prüft das Sprechen und das Hörverstehen, nicht das Schreiben.",
+    "t": 241.95
+   },
+   {
+    "speaker": "Anna",
+    "text": "Beim Sprechen unterhalten Sie sich mit einem Prüfer und beschreiben ein Bild, auf einem Grundniveau, das A2 heißt.",
+    "t": 245.54
+   },
+   {
+    "speaker": "Anna",
+    "text": "Beim Hörverstehen hören Sie Aufnahmen, zum Beispiel eine Nachricht im Radio oder ein Alltagsgespräch, und beantworten Fragen mit mehreren Antworten, auf dem nächsten Niveau, B1.",
+    "t": 251.82
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und ein gutes Ergebnis beim Hörverstehen kann ein schwächeres Ergebnis beim Sprechen ausgleichen, das beruhigt.",
+    "t": 263.61
+   },
+   {
+    "speaker": "Tom",
+    "text": "Man meldet sich online beim Nationalen Spracheninstitut an.",
+    "t": 270.11
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dann kommt der Kurs: Er dauert vierundzwanzig Stunden und behandelt die Rechte der Bürger, die Institutionen des Staates und der Gemeinden sowie die Geschichte Luxemburgs und die europäische Einigung.",
+    "t": 273.57
+   },
+   {
+    "speaker": "Anna",
+    "text": "Kann man auf den Kurs verzichten, wenn man schon viel über Luxemburg weiß?",
+    "t": 285.84
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ja, man kann stattdessen eine Prüfung zu denselben Themen ablegen.",
+    "t": 290
+   },
+   {
+    "speaker": "Tom",
+    "text": "Die Anmeldung ist kostenlos und online, für den Kurs wie für die Prüfung.",
+    "t": 294.11
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und wenn es der Gesundheitszustand einer Person nicht erlaubt, diese Fächer oder die Sprache zu lernen, kann sie beim Justizminister eine Befreiung beantragen, mit einer Bescheinigung von einem Facharzt.",
+    "t": 298.77
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und hier sehe ich eine Verbindung zu unserem eigenen Programm.",
+    "t": 309.96
+   },
+   {
+    "speaker": "Anna",
+    "text": "Der Biergerpakt bietet ein Modul von mindestens sechs Stunden an, das einen Überblick über Luxemburg gibt.",
+    "t": 313.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "Mit dieser Bescheinigung müssen Sie den Geschichtsteil des Kurses nicht besuchen, und das wird automatisch anerkannt.",
+    "t": 319.2
+   },
+   {
+    "speaker": "Tom",
+    "text": "Das ist ein schöner zusätzlicher Grund, beim Biergerpakt mitzumachen.",
+    "t": 325.53
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und wie ist es mit dem Geld: Muss man für all das bezahlen?",
+    "t": 329.46
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das Einbürgerungsverfahren selbst ist kostenlos.",
+    "t": 333.02
+   },
+   {
+    "speaker": "Anna",
+    "text": "Für den Sprachtest gibt es eine Anmeldegebühr, aber Sie können beim Justizministerium unter bestimmten Bedingungen die Rückerstattung beantragen, sobald Sie Ihren Antrag auf die Staatsangehörigkeit eingereicht haben.",
+    "t": 335.87
+   },
+   {
+    "speaker": "Anna",
+    "text": "Manche Dokumente, wie Kopien aus anderen Ländern, können trotzdem ein wenig kosten.",
+    "t": 347.45
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und für Menschen, die arbeiten, gibt es auch Hilfe bei der Zeit.",
+    "t": 352.27
+   },
+   {
+    "speaker": "Tom",
+    "text": "Arbeitnehmer können einen Sprachurlaub beantragen, um Luxemburgisch zu lernen: bis zu zweihundert Stunden über das ganze Berufsleben, in zwei Teilen.",
+    "t": 355.82
+   },
+   {
+    "speaker": "Tom",
+    "text": "Er wird nicht vom normalen Urlaub abgezogen, und man muss nicht in Luxemburg wohnen, um ihn zu nutzen.",
+    "t": 365.19
+   },
+   {
+    "speaker": "Anna",
+    "text": "Stellen wir uns also vor, ich habe meine Sprachbescheinigung und meine Kursbescheinigung.",
+    "t": 370.88
+   },
+   {
+    "speaker": "Anna",
+    "text": "Was ist der nächste Schritt?",
+    "t": 375.66
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sie gehen persönlich zum Standesbeamten der Gemeinde, in der Sie wohnen.",
+    "t": 377.56
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sie bringen Ihre Geburtsurkunde mit, einen gültigen Pass, ein unterschriebenes Formular über Ihren Lebensweg, die sogenannten biografischen Angaben, und Strafregisterauszüge aus Ihren anderen Ländern.",
+    "t": 381.84
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sie unterschreiben den Antrag selbst, aber Sie dürfen jemanden mitbringen.",
+    "t": 394.81
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und was passiert, wenn ein Dokument fehlt, oder wenn es in einer Sprache geschrieben ist, die niemand in der Gemeinde lesen kann?",
+    "t": 398.69
+   },
+   {
+    "speaker": "Tom",
+    "text": "Der Standesbeamte fordert die fehlenden Dokumente an, und Sie haben drei Monate Zeit, sie zu bringen.",
+    "t": 405.61
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dokumente, die nicht auf Französisch, Deutsch, Englisch oder Luxemburgisch sind, müssen von einem vereidigten Übersetzer übersetzt werden.",
+    "t": 411.58
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dann geht die Akte an die Abteilung für Staatsangehörigkeit, die sie prüft, und der Justizminister entscheidet.",
+    "t": 419.84
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die Antwort soll innerhalb von acht Monaten kommen, meistens per Post.",
+    "t": 425.81
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wenn sie Ja lautet, sind Sie ab dem Datum dieser Entscheidung Luxemburger.",
+    "t": 429.87
+   },
+   {
+    "speaker": "Tom",
+    "text": "Acht Monate, es lohnt sich also, sich gut vorzubereiten.",
+    "t": 434.1
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sie haben auch die Option erwähnt: Was ist der Unterschied zur Einbürgerung?",
+    "t": 437.82
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die Option ist ein vereinfachtes Verfahren für Menschen, die schon eine besondere Verbindung zu Luxemburg haben, und das Gesetz sieht zehn Fälle vor.",
+    "t": 441.97
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wenn der Minister nichts einwendet, sind Sie vier Monate nach dem Eingang Ihrer Akte im Ministerium Luxemburger.",
+    "t": 449.86
+   },
+   {
+    "speaker": "Tom",
+    "text": "Zehn Fälle sind viel, also schauen wir uns die an, die die meisten Menschen betreffen.",
+    "t": 455.75
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ein Fall ist für Erwachsene mit einem Elternteil oder Großelternteil, der Luxemburger ist oder war: Sie brauchen weder den Sprachtest noch den Kurs.",
+    "t": 460.22
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ein anderer Fall ist für Menschen, die mit einem Luxemburger verheiratet sind.",
+    "t": 469.24
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie brauchen den Test und den Kurs, und wenn sie im Ausland leben, drei Jahre Ehe.",
+    "t": 473.14
+   },
+   {
+    "speaker": "Tom",
+    "text": "Es gibt auch einen Fall für Menschen, die seit mindestens zwanzig Jahren rechtmäßig hier leben.",
+    "t": 478.17
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sie machen keinen Sprachtest: Sie besuchen einen Luxemburgischkurs von vierundzwanzig Stunden, und das ist alles.",
+    "t": 483.49
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und Erwachsene, die mindestens sieben Jahre in Luxemburg zur Schule gegangen sind, brauchen weder den Test noch den Kurs.",
+    "t": 491.08
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das klingt fair, und was ist mit Menschen, die als Kinder oder Jugendliche nach Luxemburg gekommen sind?",
+    "t": 497.56
+   },
+   {
+    "speaker": "Tom",
+    "text": "Erwachsene, die sich vor dem achtzehnten Lebensjahr hier niedergelassen haben, haben ihren eigenen Fall, mit fünf Jahren rechtmäßigem Aufenthalt, dem Test und dem Kurs.",
+    "t": 503.39
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und Kinder, die in Luxemburg geboren sind, können ab zwölf Jahren zusammen mit ihren Eltern für die Staatsangehörigkeit optieren, unter ähnlichen Bedingungen wie mit achtzehn.",
+    "t": 513.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das betrifft schon viele Familien, aber für wen sind die übrigen Fälle gedacht?",
+    "t": 523.19
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sie sind für Eltern eines luxemburgischen Kindes, für Flüchtlinge und Staatenlose, für freiwillige Soldaten der luxemburgischen Armee, und für Menschen, die die Einführungsmodule des Biergerpakt abgeschlossen haben.",
+    "t": 527.76
+   },
+   {
+    "speaker": "Tom",
+    "text": "Die meisten davon verlangen auch fünf Jahre rechtmäßigen Aufenthalt, den Test und den Kurs.",
+    "t": 540.23
+   },
+   {
+    "speaker": "Anna",
+    "text": "Der Biergerpakt zählt also auch hier, und wie läuft die Option in der Praxis ab?",
+    "t": 545.67
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wie bei der Einbürgerung gehen Sie persönlich zum Standesbeamten Ihrer Gemeinde, und wenn Sie im Ausland leben, gehen Sie zur Stadt Luxemburg.",
+    "t": 550.44
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und auch die Option ist kostenlos.",
+    "t": 558.35
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das dritte Verfahren ist die Wiedererlangung der Staatsangehörigkeit.",
+    "t": 560.44
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie ist für Erwachsene, die Luxemburger waren und ihre Staatsangehörigkeit verloren haben, und für Frauen, die sie früher wegen ihrer Heirat verloren haben.",
+    "t": 564.17
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es gab auch einen Weg für Nachkommen von Luxemburgern aus dem Jahr 1900, aber die Fristen dafür sind inzwischen abgelaufen.",
+    "t": 572.88
+   },
+   {
+    "speaker": "Tom",
+    "text": "Fassen wir zusammen.",
+    "t": 579.9
+   },
+   {
+    "speaker": "Tom",
+    "text": "Erstens: Fragen Sie Ihr anderes Land, ob Sie dessen Staatsangehörigkeit behalten können.",
+    "t": 581.08
+   },
+   {
+    "speaker": "Tom",
+    "text": "Zweitens: Finden Sie Ihren Weg auf Guichet.lu, durch das Gesetz, die Einbürgerung, die Option oder die Wiedererlangung.",
+    "t": 586.33
+   },
+   {
+    "speaker": "Tom",
+    "text": "Drittens: Für die meisten Erwachsenen sind die Schritte fünf Jahre hier, der Sprachtest und der Kurs, und dann ein Antrag bei Ihrer Gemeinde, kostenlos.",
+    "t": 595.1
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und der Biergerpakt kann Sie auf diesem Weg begleiten, mit seinen Modulen über das Leben in Luxemburg und seinen Angeboten zum Sprachenlernen.",
+    "t": 605.95
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das war unsere Folge über den Erwerb der luxemburgischen Staatsangehörigkeit.",
+    "t": 614.03
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
+    "t": 618.67
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
+    "t": 627.65
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
+    "t": 645.98
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und die Aktivitäten sind kostenlos.",
+    "t": 651.68
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
+    "t": 653.93
+   },
+   {
+    "speaker": "Tom",
+    "text": "Danke an alle.",
+    "t": 658.82
+   },
+   {
+    "speaker": "Tom",
+    "text": "Passen Sie auf sich auf, und bis zum nächsten Mal!",
+    "t": 659.92
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vielen Dank fürs Zuhören.",
+    "t": 662.71
+   }
+  ],
+  "segments_lb": [
+   {
+    "speaker": "Anna",
+    "text": "Moien, a wëllkomm! Et ass wierklech schéin, Iech haut bei eis ze hunn.",
+    "t": 0.65
+   },
+   {
+    "speaker": "Tom",
+    "text": "Moien alleguer!",
+    "t": 4.45
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dëse Podcast ass Deel vum Biergerpakt. Dat ass e Programm vum Zesummeliewen zu Lëtzebuerg, organiséiert vum Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen. D'Iddi ass, den Awunner, an och de Grenzgänger, ze hëllefen, Lëtzebuerg z'entdecken — oder vläicht erëm z'entdecken — an nei Leit kennenzeléieren.",
+    "t": 5.58
+   },
+   {
+    "speaker": "Tom",
+    "text": "Zwee Päss an enger Täsch: Fir vill Leit zu Lëtzebuerg ass dat ganz normal. Si si Lëtzebuerger ginn, an hu d'Nationalitéit behalen, déi se virdru haten.",
+    "t": 27.49
+   },
+   {
+    "speaker": "Anna",
+    "text": "An domat si mir beim Thema vun haut: Wéi kritt een d'lëtzebuergesch Nationalitéit? Vill Leit liewen zënter Joren hei, schaffen hei a gesinn hir Kanner hei grouss ginn, also stellt sech d'Fro iergendwann.",
+    "t": 37.64
+   },
+   {
+    "speaker": "Tom",
+    "text": "Fänke mir also mam Grond un: Wat ännert sech eigentlech, wann ee Lëtzebuerger gëtt?",
+    "t": 49.69
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ee kritt all d'biergerlech a politesch Rechter vun engem Lëtzebuerger. Zum Beispill kann ee bei den Nationalwale wielen, déi nëmme fir lëtzebuergesch Bierger op sinn. Déi verschidde Walen hu mir an eiser Episod „Ech ka wielen“ erkläert.",
+    "t": 54.46
+   },
+   {
+    "speaker": "Tom",
+    "text": "An ee kann seng éischt Nationalitéit behalen, wéi a mengem Beispill, well Lëtzebuerg net verlaangt, datt een se opgëtt. Mee dat anert Land huet seng eege Reegelen, an e puer Länner huelen engem hir Nationalitéit ewech, wann ee sech eng nei eraussicht.",
+    "t": 68.68
+   },
+   {
+    "speaker": "Anna",
+    "text": "Den offiziellen Rot ass dofir kloer: Frot, ier Dir ufänkt, bei der Ambassade oder beim Konsulat vun Ärem Land no, ob Dir seng Nationalitéit behale kënnt. Sou vermeit Dir eng béis Iwwerraschung.",
+    "t": 80.69
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dat ass e gudde Rot. A wien këmmert sech zu Lëtzebuerg ëm d'Nationalitéit, a wou fannen ech zouverlässeg Informatiounen?",
+    "t": 92.29
+   },
+   {
+    "speaker": "Anna",
+    "text": "De Service vun der lëtzebuergescher Nationalitéit am Justizministère behandelt d'Dossieren. An de beschte Startpunkt ass Guichet.lu, den Informatiounsportal vum Staat. Hien erkläert all Situatioun, an et gëtt souguer e klengt Schema, dat hëlleft, de Wee ze fannen, deen zu engem passt.",
+    "t": 98.71
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dir sot „de Wee“, also gëtt et bestëmmt méi wéi eng Méiglechkeet, Lëtzebuerger ze ginn?",
+    "t": 113.62
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et gëtt der e puer: Verschidde Leit si Lëtzebuerger duerch d'Gesetz, ouni eppes ze froen. Anerer gi Lëtzebuerger, well se sech dofir entscheeden, a fir si gëtt et dräi Prozeduren: d'Naturalisatioun, d'Optioun an d'Erëmerlaangen vun der Nationalitéit. Kucke mir se eng no der anerer.",
+    "t": 118.58
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ech fänke mat der Nationalitéit duerch d'Gesetz un. E Kand ass vu Gebuert un Lëtzebuerger, wann ee vun den Elteren Lëtzebuerger ass, an e Kand, dat zu Lëtzebuerg gebuer ass, ass och Lëtzebuerger, wann ee vun den Elteren och hei gebuer ass. A wann en Elterendeel Lëtzebuerger gëtt, ginn d'Kanner ënner uechtzéng Joer och Lëtzebuerger.",
+    "t": 136.07
+   },
+   {
+    "speaker": "Anna",
+    "text": "A wéi ass et mat engem Kand, dat zu Lëtzebuerg gebuer ass, mee deem seng Elteren allebéid eng aner Nationalitéit hunn an am Ausland gebuer sinn?",
+    "t": 153.69
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dat Kand gëtt mat uechtzéng Joer automatesch Lëtzebuerger, wann et an de fënnef Joer direkt virum uechtzéngte Gebuertsdag legal hei gelieft huet. Fir déi meescht jonk Leit haut gëtt et nach eng Konditioun: Een Elterendeel muss an den zwielef Méint virun der Gebuert legal hei gelieft hunn.",
+    "t": 160.48
+   },
+   {
+    "speaker": "Anna",
+    "text": "D'Gesetz mécht also schonn eng ganz Partie, a fir Erwuessener, déi de Schrëtt selwer maache wëllen, ass den allgemenge Wee d'Naturalisatioun. Si ass op fir all Erwuessenen, deen zënter op d'mannst fënnef Joer legal zu Lëtzebuerg lieft, an dat lescht Joer muss ouni Ënnerbriechung sinn.",
+    "t": 178.04
+   },
+   {
+    "speaker": "Tom",
+    "text": "Fënnef Joer ass net sou laang, mee et gëtt bestëmmt nach aner Konditiounen?",
+    "t": 192.93
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et gëtt der dräi: Ee muss de Sproochentest Lëtzebuergesch packen, an ee brauch en Zertifikat fir e Cours mam Numm „Zesummeliewen am Groussherzogtum Lëtzebuerg“. An ee muss en onbescholtene Leimond hunn: D'Nationalitéit gëtt zum Beispill no bestëmmte schwéiere Strofen refuséiert, oder wann een falsch Informatioune gëtt.",
+    "t": 197.51
+   },
+   {
+    "speaker": "Tom",
+    "text": "Huele mir als éischt de Sproochentest, well vill Leit sech dowéinst Suerge maachen: Wéi gesäit en aus?",
+    "t": 218.59
+   },
+   {
+    "speaker": "Anna",
+    "text": "En test d'Schwätzen an d'Héierverständnis, net d'Schreiwen. Beim Schwätzen ënnerhalt Dir Iech mat engem Examinateur a beschreift e Bild, op engem Basisniveau, deen A2 heescht. Beim Héierverständnis lauschtert Dir Opnamen, zum Beispill eng Noriicht am Radio oder e Gespréich aus dem Alldag, an äntwert op Froe mat méi Äntwerten, um nächsten Niveau, B1.",
+    "t": 224.64
+   },
+   {
+    "speaker": "Tom",
+    "text": "An e gutt Resultat beim Héierverständnis kann e méi schwaacht Resultat beim Schwätzen ausgläichen, dat beroueegt. Ee mellt sech online beim Nationalen Institut fir d'Sproochen un. Duerno kënnt de Cours: E dauert véierananzwanzeg Stonnen a geet iwwer d'Rechter vun de Bierger, d'Institutioune vum Staat an de Gemengen, an d'Geschicht vu Lëtzebuerg an déi europäesch Integratioun.",
+    "t": 244.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "Kann ee sech de Cours spueren, wann ee scho vill iwwer Lëtzebuerg weess?",
+    "t": 265.55
+   },
+   {
+    "speaker": "Tom",
+    "text": "Jo, ee kann amplaz en Examen iwwer déiselwecht Themen maachen. D'Umeldung ass gratis an online, fir de Cours wéi fir den Examen. A wann de Gesondheetszoustand vun enger Persoun et net erlaabt, dës Fächer oder d'Sprooch ze léieren, ka si beim Justizminister eng Dispens froen, mat engem Certificat vun engem Facharzt.",
+    "t": 269.13
+   },
+   {
+    "speaker": "Anna",
+    "text": "An hei gesinn ech e Lien mat eisem eegene Programm. De Biergerpakt bitt e Modul vun op d'mannst sechs Stonnen, deen en Iwwerbléck iwwer Lëtzebuerg gëtt. Mat deem Zertifikat musst Dir den Deel vum Cours iwwer d'Geschicht net matmaachen, an dat gëtt automatesch unerkannt.",
+    "t": 289.36
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dat ass e schéine Grond méi, beim Biergerpakt matzemaachen. A wéi ass et mat de Suen: Muss ee fir dat alles bezuelen?",
+    "t": 304.92
+   },
+   {
+    "speaker": "Anna",
+    "text": "D'Prozedur vun der Naturalisatioun selwer ass gratis. Fir de Sproochentest gëtt et eng Umeldungsgebühr, mee Dir kënnt se ënner bestëmmte Konditiounen beim Justizministère zeréckfroen, soubal Dir Är Demande fir d'Nationalitéit agereecht hutt. Verschidden Dokumenter, wéi Kopien aus anere Länner, kënnen trotzdeem e bësse kaschten.",
+    "t": 311.3
+   },
+   {
+    "speaker": "Tom",
+    "text": "A fir Leit, déi schaffen, gëtt et och Hëllef mat der Zäit. Salariéen kënnen e Sproochecongé froen, fir Lëtzebuergesch ze léieren: bis zu zweehonnert Stonnen iwwer déi ganz Carrière, an zwee Deeler. E gëtt net vum normale Congé ofgezunn, an ee muss net zu Lëtzebuerg wunnen, fir en ze notzen.",
+    "t": 328.98
+   },
+   {
+    "speaker": "Anna",
+    "text": "Stelle mir eis also vir, ech hunn mäi Sproochenzertifikat a mäi Courszertifikat. Wat ass dee nächste Schrëtt?",
+    "t": 344.43
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dir gitt perséinlech bei den Zivilstandsbeamte vun der Gemeng, wou Dir wunnt. Dir bréngt Äre Gebuertsakt mat, e gültege Pass, e ënnerschriwwene Formulaire iwwer Äre Liewenswee, déi sougenannt Notice biographique, an Extraite vum Strofregëster aus Ären anere Länner. Dir ënnerschreift d'Demande selwer, mee Dir dierft een matbréngen.",
+    "t": 350.39
+   },
+   {
+    "speaker": "Anna",
+    "text": "A wat geschitt, wann en Dokument feelt, oder wann et an enger Sprooch geschriwwen ass, déi keen op der Gemeng liese kann?",
+    "t": 367.52
+   },
+   {
+    "speaker": "Tom",
+    "text": "Den Zivilstandsbeamte freet no den Dokumenter, déi feelen, an Dir hutt dräi Méint Zäit, fir se ze bréngen. Dokumenter, déi net op Franséisch, Däitsch, Englesch oder Lëtzebuergesch sinn, musse vun engem vereedegten Iwwersetzer iwwersat ginn.",
+    "t": 374.03
+   },
+   {
+    "speaker": "Anna",
+    "text": "Duerno geet den Dossier un de Service vun der Nationalitéit, deen en iwwerpréift, an de Justizminister entscheet. D'Äntwert soll bannent aacht Méint kommen, meeschtens mat der Post. Wann et Jo ass, sidd Dir vum Datum vun där Decisioun un Lëtzebuerger.",
+    "t": 384.9
+   },
+   {
+    "speaker": "Tom",
+    "text": "Aacht Méint, et lount sech also, sech gutt virzebereeden. Dir hutt och d'Optioun ernimmt: Wat ass den Ënnerscheed zur Naturalisatioun?",
+    "t": 399.36
+   },
+   {
+    "speaker": "Anna",
+    "text": "D'Optioun ass eng vereinfacht Prozedur fir Leit, déi schonn eng besonnesch Verbindung mat Lëtzebuerg hunn, an d'Gesetz gesäit zéng Fäll vir. Wann de Minister näischt dogéint huet, sidd Dir véier Méint nodeems de Ministère Ären Dossier kritt huet, Lëtzebuerger.",
+    "t": 406.44
+   },
+   {
+    "speaker": "Tom",
+    "text": "Zéng Fäll si vill, also kucke mir eis déi un, déi déi meescht Leit betreffen.",
+    "t": 421.01
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ee Fall ass fir Erwuessener mat engem Elterendeel oder Grousselterendeel, deen Lëtzebuerger ass oder war: Si brauchen nach de Sproochentest nach de Cours. En anere Fall ass fir Leit, déi mat engem Lëtzebuerger bestuet sinn. Si brauchen den Test an de Cours, a wa se am Ausland liewen, dräi Joer Bestietnes.",
+    "t": 425.86
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et gëtt och e Fall fir Leit, déi zënter op d'mannst zwanzeg Joer legal hei liewen. Si maachen keen Sproochentest: Si besichen e Lëtzebuergeschcours vu véierananzwanzeg Stonnen, an dat ass alles. An Erwuessener, déi op d'mannst siwe Joer zu Lëtzebuerg an d'Schoul gaange sinn, brauchen nach den Test nach de Cours.",
+    "t": 442.77
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dat kléngt fair, a wéi ass et mat Leit, déi als Kanner oder Jugendlecher op Lëtzebuerg komm sinn?",
+    "t": 460.19
+   },
+   {
+    "speaker": "Tom",
+    "text": "Erwuessener, déi sech virum uechtzéngte Joer hei néiergelooss hunn, hunn hiren eegene Fall, mat fënnef Joer legalem Openthalt, dem Test an dem Cours. A Kanner, déi zu Lëtzebuerg gebuer sinn, kënnen ab zwielef Joer zesumme mat hiren Elteren fir d'Nationalitéit optéieren, ënner ähnleche Konditioune wéi mat uechtzéng.",
+    "t": 465.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dat betrëfft schonn eng ganz Rëtsch Famillen, mee fir wien sinn déi aner Fäll geduecht?",
+    "t": 482.49
+   },
+   {
+    "speaker": "Tom",
+    "text": "Si si fir Elteren vun engem lëtzebuergesche Kand, fir Flüchtlingen a Staatelos, fir fräiwëlleg Zaldote vun der lëtzebuergescher Arméi, a fir Leit, déi d'Aféierungsmodüller vum Biergerpakt ofgeschloss hunn. Déi meescht dovu verlaangen och fënnef Joer legalen Openthalt, den Test an de Cours.",
+    "t": 486.83
+   },
+   {
+    "speaker": "Anna",
+    "text": "De Biergerpakt zielt also och hei, a wéi leeft d'Optioun an der Praxis of?",
+    "t": 503.56
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wéi bei der Naturalisatioun gitt Dir perséinlech bei den Zivilstandsbeamte vun Ärer Gemeng, a wann Dir am Ausland lieft, gitt Dir bei d'Stad Lëtzebuerg. An och d'Optioun ass gratis.",
+    "t": 507.89
+   },
+   {
+    "speaker": "Anna",
+    "text": "Déi drëtt Prozedur ass d'Erëmerlaangen vun der Nationalitéit. Et ass fir Erwuessener, déi Lëtzebuerger waren an hir Nationalitéit verluer hunn, a fir Fraen, déi se fréier wéinst hirem Bestietnes verluer hunn. Et gouf och e Wee fir Nokomme vu Lëtzebuerger aus dem Joer 1900, mee d'Delaie dofir si mëttlerweil ofgelaf.",
+    "t": 517.19
+   },
+   {
+    "speaker": "Tom",
+    "text": "Loosse mir zesummefaassen. Éischtens: Frot Äert anert Land, ob Dir seng Nationalitéit behale kënnt. Zweetens: Fannt Äre Wee op Guichet.lu, duerch d'Gesetz, d'Naturalisatioun, d'Optioun oder d'Erëmerlaangen. Drëttens: Fir déi meescht Erwuessener sinn d'Schrëtt fënnef Joer hei, de Sproochentest an de Cours, an dann eng Demande op Ärer Gemeng, gratis.",
+    "t": 535.09
+   },
+   {
+    "speaker": "Anna",
+    "text": "An de Biergerpakt ka Iech op deem Wee begleeden, mat senge Moduler iwwer d'Liewen zu Lëtzebuerg a sengen Offeren fir Sproochen ze léieren. Dat war eis Episod iwwer d'lëtzebuergesch Nationalitéit. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir aner Aktivitéite vum Biergerpakt entdecke wëllt, wéi gefouert Visitten, Online-Informatiounsversammlungen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. En ass fir all Awunner op, Lëtzebuerger an Net-Lëtzebuerger, an och fir d'Grenzgänger. An d'Aktivitéite si gratis. Dir musst just gratis um Biergerpakt matmaachen, op biergerpakt.lu.",
+    "t": 556.2
+   },
+   {
+    "speaker": "Tom",
+    "text": "Merci, alleguer. Passt op Iech op, a bis d'nächst Kéier!",
+    "t": 608.65
+   },
+   {
+    "speaker": "Anna",
+    "text": "Villmools Merci fir d'Nolauschteren.",
+    "t": 611.96
    }
   ]
  }

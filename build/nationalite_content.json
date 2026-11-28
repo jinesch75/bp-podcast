@@ -1,0 +1,215 @@
+{
+ "en": {
+  "title": "Becoming Luxembourgish – How to Get the Nationality",
+  "description": "How do you become Luxembourgish? Discover who is Luxembourgish by law, the conditions for naturalisation, the language test and the \"Living together\" course, the simpler option procedure and its ten cases, reclaiming nationality, help with costs and time, and how the Biergerpakt can count on the way.",
+  "topics": [
+   "What changes when you become Luxembourgish",
+   "Keeping your other nationality",
+   "Luxembourgish by law",
+   "Naturalisation and its conditions",
+   "The language test and the course",
+   "Costs, refunds and language leave",
+   "The option and its ten cases",
+   "Reclaiming nationality"
+  ],
+  "questions": [
+   {
+    "text": "Can you keep your other nationality when you become Luxembourgish?",
+    "options": [
+     "You must always give up your other nationality first",
+     "Luxembourg does not ask you to give it up, but you should check the rules of your other country",
+     "Only citizens of the European Union may keep another nationality",
+     "You may keep it for five years, then you have to choose one"
+    ],
+    "correct": 1,
+    "explanation": "Luxembourg does not ask you to give up your other nationality. But some countries take their nationality away when you take a new one, so the official advice is to ask the embassy or consulate of your country first."
+   },
+   {
+    "text": "How long must an adult have lived legally in Luxembourg to apply for naturalisation?",
+    "options": [
+     "At least two years, with any interruptions allowed",
+     "At least ten years, with no interruption at all",
+     "At least five years, and the last year without interruption",
+     "At least twenty years, and the last five without interruption"
+    ],
+    "correct": 2,
+    "explanation": "Naturalisation is open to adults who have lived legally in Luxembourg for at least five years, the last year without interruption. They also need the language test, the \"Living together in the Grand Duchy of Luxembourg\" certificate and good repute."
+   },
+   {
+    "text": "What does the Luxembourgish language test check?",
+    "options": [
+     "Speaking and listening, not writing",
+     "Writing an essay and a long grammar exercise",
+     "Reading newspapers and writing letters at a high level",
+     "Only a written grammar test, with no speaking"
+    ],
+    "correct": 0,
+    "explanation": "The test checks speaking, at level A2 (a conversation and the description of a picture), and listening, at level B1 (recordings with multiple-choice questions). A good listening result can make up for a weaker speaking result."
+   },
+   {
+    "text": "How can the Biergerpakt help on the way to nationality?",
+    "options": [
+     "It replaces the Luxembourgish language test for every applicant",
+     "It shortens the residence needed for naturalisation to two years",
+     "It pays the fees of the foreign documents you need for your file",
+     "Its six-hour module about Luxembourg means you can skip the history part of the course"
+    ],
+    "correct": 3,
+    "explanation": "With the certificate of the Biergerpakt module of at least six hours that gives an overview of Luxembourg, you do not need to follow the history part of the \"Living together\" course; this is recognised automatically. Completing the Biergerpakt's introductory modules is also one of the option cases."
+   },
+   {
+    "text": "Where do you hand in an application for naturalisation?",
+    "options": [
+     "Online only, through MyGuichet.lu, without any visit",
+     "In person, at the civil registrar of the commune where you live",
+     "By post, directly to the Minister of Justice",
+     "At the embassy of your country of origin in Luxembourg"
+    ],
+    "correct": 1,
+    "explanation": "You go in person to the civil registrar of your commune with your documents and sign the application yourself; you may bring someone along. The Nationality Office of the Ministry of Justice then checks the file, and the Minister of Justice decides, within eight months."
+   }
+  ]
+ },
+ "fr": {
+  "title": "Devenir luxembourgeois – Comment obtenir la nationalité",
+  "description": "Comment devient-on luxembourgeois ? Découvrez qui est luxembourgeois par la loi, les conditions de la naturalisation, l'examen de langue et le cours « Vivre ensemble », la procédure simplifiée de l'option et ses dix cas, le recouvrement de la nationalité, les aides pour les frais et le temps, et comment le Biergerpakt peut compter en chemin.",
+  "topics": [
+   "Ce qui change quand on devient luxembourgeois",
+   "Garder son autre nationalité",
+   "Luxembourgeois par la loi",
+   "La naturalisation et ses conditions",
+   "L'examen de langue et le cours",
+   "Frais, remboursement et congé linguistique",
+   "L'option et ses dix cas",
+   "Le recouvrement de la nationalité"
+  ],
+  "questions": [
+   {
+    "text": "Peut-on garder son autre nationalité quand on devient luxembourgeois ?",
+    "options": [
+     "Il faut toujours renoncer d'abord à son autre nationalité",
+     "Le Luxembourg ne demande pas d'y renoncer, mais il faut vérifier les règles de l'autre pays",
+     "Seuls les citoyens de l'Union européenne peuvent garder une autre nationalité",
+     "On peut la garder cinq ans, puis il faut en choisir une"
+    ],
+    "correct": 1,
+    "explanation": "Le Luxembourg ne demande pas de renoncer à son autre nationalité. Mais certains pays retirent leur nationalité quand on en prend une nouvelle : le conseil officiel est donc de se renseigner d'abord auprès de l'ambassade ou du consulat de son pays."
+   },
+   {
+    "text": "Depuis combien de temps un adulte doit-il vivre légalement au Luxembourg pour demander la naturalisation ?",
+    "options": [
+     "Au moins deux ans, avec des interruptions autorisées",
+     "Au moins dix ans, sans aucune interruption",
+     "Au moins cinq ans, et la dernière année sans interruption",
+     "Au moins vingt ans, et les cinq dernières années sans interruption"
+    ],
+    "correct": 2,
+    "explanation": "La naturalisation est ouverte aux adultes qui vivent légalement au Luxembourg depuis au moins cinq ans, la dernière année sans interruption. Il faut aussi l'examen de langue, le certificat « Vivre ensemble au Grand-Duché de Luxembourg » et remplir la condition d'honorabilité."
+   },
+   {
+    "text": "Que vérifie l'examen de langue luxembourgeoise ?",
+    "options": [
+     "L'expression orale et la compréhension orale, pas l'écrit",
+     "La rédaction d'un texte et un long exercice de grammaire",
+     "La lecture de journaux et l'écriture de lettres à un niveau élevé",
+     "Seulement un test écrit de grammaire, sans oral"
+    ],
+    "correct": 0,
+    "explanation": "L'examen évalue l'expression orale, au niveau A2 (une conversation et la description d'une image), et la compréhension orale, au niveau B1 (des enregistrements avec des questions à choix multiples). Un bon résultat en compréhension peut compenser un résultat plus faible à l'oral."
+   },
+   {
+    "text": "Comment le Biergerpakt peut-il aider sur le chemin de la nationalité ?",
+    "options": [
+     "Il remplace l'examen de langue luxembourgeoise pour tous les candidats",
+     "Il réduit à deux ans la résidence nécessaire pour la naturalisation",
+     "Il paie les frais des documents étrangers nécessaires au dossier",
+     "Son module de six heures sur le Luxembourg dispense de la partie histoire du cours"
+    ],
+    "correct": 3,
+    "explanation": "Avec le certificat du module du Biergerpakt d'au moins six heures qui donne un aperçu du Luxembourg, vous n'avez pas besoin de suivre la partie histoire du cours « Vivre ensemble » ; c'est reconnu automatiquement. Avoir suivi les modules d'introduction du Biergerpakt est aussi l'un des cas d'option."
+   },
+   {
+    "text": "Où dépose-t-on une demande de naturalisation ?",
+    "options": [
+     "Uniquement en ligne, sur MyGuichet.lu, sans se déplacer",
+     "En personne, chez l'officier de l'état civil de sa commune",
+     "Par courrier, directement au ministre de la Justice",
+     "À l'ambassade de son pays d'origine au Luxembourg"
+    ],
+    "correct": 1,
+    "explanation": "On se présente en personne chez l'officier de l'état civil de sa commune avec ses documents et on signe soi-même la demande ; on peut venir accompagné. Le Service de la nationalité du ministère de la Justice vérifie ensuite le dossier, et le ministre de la Justice décide, dans les huit mois."
+   }
+  ]
+ },
+ "de": {
+  "title": "Luxemburger werden – Wie man die Staatsangehörigkeit bekommt",
+  "description": "Wie wird man Luxemburger? Erfahren Sie, wer durch das Gesetz Luxemburger ist, welche Bedingungen für die Einbürgerung gelten, wie der Sprachtest und der Kurs „Zusammenleben“ aussehen, was die vereinfachte Option mit ihren zehn Fällen ist, wie man die Staatsangehörigkeit wiedererlangt, welche Hilfe es bei Kosten und Zeit gibt und wie der Biergerpakt dabei zählen kann.",
+  "topics": [
+   "Was sich ändert, wenn man Luxemburger wird",
+   "Die andere Staatsangehörigkeit behalten",
+   "Luxemburger durch das Gesetz",
+   "Die Einbürgerung und ihre Bedingungen",
+   "Der Sprachtest und der Kurs",
+   "Kosten, Rückerstattung und Sprachurlaub",
+   "Die Option und ihre zehn Fälle",
+   "Die Wiedererlangung der Staatsangehörigkeit"
+  ],
+  "questions": [
+   {
+    "text": "Kann man seine andere Staatsangehörigkeit behalten, wenn man Luxemburger wird?",
+    "options": [
+     "Man muss die andere Staatsangehörigkeit immer zuerst aufgeben",
+     "Luxemburg verlangt nicht, sie aufzugeben, aber man sollte die Regeln des anderen Landes prüfen",
+     "Nur Bürger der Europäischen Union dürfen eine andere Staatsangehörigkeit behalten",
+     "Man darf sie fünf Jahre behalten, dann muss man sich entscheiden"
+    ],
+    "correct": 1,
+    "explanation": "Luxemburg verlangt nicht, dass man die andere Staatsangehörigkeit aufgibt. Manche Länder nehmen ihre Staatsangehörigkeit aber weg, wenn man eine neue annimmt. Der offizielle Rat ist deshalb, zuerst bei der Botschaft oder beim Konsulat des eigenen Landes nachzufragen."
+   },
+   {
+    "text": "Wie lange muss ein Erwachsener rechtmäßig in Luxemburg leben, um die Einbürgerung zu beantragen?",
+    "options": [
+     "Mindestens zwei Jahre, Unterbrechungen sind erlaubt",
+     "Mindestens zehn Jahre, ganz ohne Unterbrechung",
+     "Mindestens fünf Jahre, das letzte Jahr ohne Unterbrechung",
+     "Mindestens zwanzig Jahre, die letzten fünf ohne Unterbrechung"
+    ],
+    "correct": 2,
+    "explanation": "Die Einbürgerung steht Erwachsenen offen, die seit mindestens fünf Jahren rechtmäßig in Luxemburg leben, das letzte Jahr ohne Unterbrechung. Außerdem braucht man den Sprachtest, die Bescheinigung „Zusammenleben im Großherzogtum Luxemburg“ und einen guten Leumund."
+   },
+   {
+    "text": "Was prüft der Sprachtest Luxemburgisch?",
+    "options": [
+     "Das Sprechen und das Hörverstehen, nicht das Schreiben",
+     "Einen Aufsatz und eine lange Grammatikübung",
+     "Zeitungslesen und Briefeschreiben auf hohem Niveau",
+     "Nur einen schriftlichen Grammatiktest, ohne Sprechen"
+    ],
+    "correct": 0,
+    "explanation": "Der Test prüft das Sprechen auf Niveau A2 (ein Gespräch und die Beschreibung eines Bildes) und das Hörverstehen auf Niveau B1 (Aufnahmen mit Fragen mit mehreren Antworten). Ein gutes Ergebnis beim Hörverstehen kann ein schwächeres Ergebnis beim Sprechen ausgleichen."
+   },
+   {
+    "text": "Wie kann der Biergerpakt auf dem Weg zur Staatsangehörigkeit helfen?",
+    "options": [
+     "Er ersetzt den Sprachtest Luxemburgisch für alle Antragsteller",
+     "Er verkürzt den nötigen Aufenthalt für die Einbürgerung auf zwei Jahre",
+     "Er bezahlt die Gebühren für die ausländischen Dokumente der Akte",
+     "Mit seinem sechsstündigen Modul über Luxemburg entfällt der Geschichtsteil des Kurses"
+    ],
+    "correct": 3,
+    "explanation": "Mit der Bescheinigung des Biergerpakt-Moduls von mindestens sechs Stunden, das einen Überblick über Luxemburg gibt, müssen Sie den Geschichtsteil des Kurses „Zusammenleben“ nicht besuchen; das wird automatisch anerkannt. Wer die Einführungsmodule des Biergerpakt abgeschlossen hat, fällt außerdem unter einen der Optionsfälle."
+   },
+   {
+    "text": "Wo reicht man einen Antrag auf Einbürgerung ein?",
+    "options": [
+     "Nur online über MyGuichet.lu, ohne Termin vor Ort",
+     "Persönlich beim Standesbeamten der Wohngemeinde",
+     "Per Post direkt beim Justizminister",
+     "Bei der Botschaft des Herkunftslandes in Luxemburg"
+    ],
+    "correct": 1,
+    "explanation": "Man geht persönlich mit seinen Dokumenten zum Standesbeamten der Gemeinde und unterschreibt den Antrag selbst; man darf jemanden mitbringen. Die Abteilung für Staatsangehörigkeit im Justizministerium prüft dann die Akte, und der Justizminister entscheidet innerhalb von acht Monaten."
+   }
+  ]
+ }
+}
